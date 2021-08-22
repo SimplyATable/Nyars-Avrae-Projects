@@ -1,0 +1,3002 @@
+[
+  {
+    "desc": "7001 Target's bones combust if exposed to direct sunlight "
+  },
+  {
+    "desc": "7002 Target's bones fuse into a single, inflexible mass "
+  },
+  {
+    "desc": "7003 Target's bones turn to ice "
+  },
+  {
+    "desc": "7004 Target's bones turn to muscle  59"
+  },
+  {
+    "desc": "7005 Target's boots are discovered to be living organisms "
+  },
+  {
+    "desc": "7006 Target's boots can never sink underwater while he wears them "
+  },
+  {
+    "desc": "7007 Target's boots fuse to the ground where he's now standing "
+  },
+  {
+    "desc": "7008 Target's boots turn to glass "
+  },
+  {
+    "desc": "7009 Target's Charisma is raised to 25 for 1d6 rounds "
+  },
+  {
+    "desc": "7010 Target's closest ally attacks him for 1d10 rounds "
+  },
+  {
+    "desc": "7011 Target's closest ally is permanently invisible to him "
+  },
+  {
+    "desc": "7012 Target's closest ally turns out to be his clone "
+  },
+  {
+    "desc": "7013 Target's closest ally will betray him in his hour of need "
+  },
+  {
+    "desc": "7014 Target's clothes always appear to be filthy "
+  },
+  {
+    "desc": "7015 Target's clothes always resemble the clothes he's now wearing "
+  },
+  {
+    "desc": "7016 Target's clothes and gear are affected by Reverse Gravity "
+  },
+  {
+    "desc": "7017 Target's clothes and gear are highly flammable "
+  },
+  {
+    "desc": "7018 Target's clothes and gear are insulated against electricity "
+  },
+  {
+    "desc": "7019 Target's clothes appear 10d10 centuries out of date "
+  },
+  {
+    "desc": "7020 Target's clothes appear to be made of ice "
+  },
+  {
+    "desc": "7021 Target's clothes are 90% transparent while in mixed company "
+  },
+  {
+    "desc": "7022 Target's clothes are as delicate as cobweb "
+  },
+  {
+    "desc": "7023 Target's clothes are as rigid as boiled leather "
+  },
+  {
+    "desc": "7024 Target's clothes are as susceptible to rust as iron "
+  },
+  {
+    "desc": "7025 Target's clothes are chilled nearly to absolute zero "
+  },
+  {
+    "desc": "7026 Target's clothes are consumed by fire, but he is unharmed "
+  },
+  {
+    "desc": "7027 Target's clothes are devoured by vermin over the next 4d6 rounds "
+  },
+  {
+    "desc": "7028 Target's clothes are extraordinarily elastic "
+  },
+  {
+    "desc": "7029 Target's clothes are seized by the local authorities "
+  },
+  {
+    "desc": "7030 Target's clothes are soaked with a fetid and viscous slime "
+  },
+  {
+    "desc": "7031 Target's clothes are soaked with a powerful acid "
+  },
+  {
+    "desc": "7032 Target's clothes are soaked with beer "
+  },
+  {
+    "desc": "7033 Target's clothes are soaked with butterscotch pudding "
+  },
+  {
+    "desc": "7034 Target's clothes are soaked with deer musk "
+  },
+  {
+    "desc": "7035 Target's clothes are soaked with icy water once every 1d12 hours "
+  },
+  {
+    "desc": "7036 Target's clothes are soaked with strong perfume "
+  },
+  {
+    "desc": "7037 Target's clothes are stuffed full of snow "
+  },
+  {
+    "desc": "7038 Target's clothes attract wasps, hornets, and bees "
+  },
+  {
+    "desc": "7039 Target's clothes billow with foul smoke when he uses a magic item "
+  },
+  {
+    "desc": "7040 Target's clothes billow with foul smoke when he wields a weapon "
+  },
+  {
+    "desc": "7041 Target's clothes billow with foul smoke when he's underground "
+  },
+  {
+    "desc": "7042 Target's clothes billow with scalding steam "
+  },
+  {
+    "desc": "7043 Target's clothes can't be moved more than 10 yards from this spot "
+  },
+  {
+    "desc": "7044 Target's clothes can't be pierced by wooden weapons "
+  },
+  {
+    "desc": "7045 Target's clothes clatter like a suit of armor while he walks "
+  },
+  {
+    "desc": "7046 Target's clothes combust if worn while crossing moving water "
+  },
+  {
+    "desc": "7047 Target's clothes defy community standards of decency "
+  },
+  {
+    "desc": "7048 Target's clothes double in size in each of the next 1d8 rounds "
+  },
+  {
+    "desc": "7049 Target's clothes double in weight in each of the next 1d8 rounds "
+  },
+  {
+    "desc": "7050 Target's clothes exactly match the caster's clothes "
+  },
+  {
+    "desc": "7051 Target's clothes exude fragrant smoke for 1d4 weeks "
+  },
+  {
+    "desc": "7052 Target's clothes glow in the dark "
+  },
+  {
+    "desc": "7053 Target's clothes have been buried for weeks in a midden "
+  },
+  {
+    "desc": "7054 Target's clothes heat to 500° "
+  },
+  {
+    "desc": "7055 Target's clothes ignite each time he uses a magic item "
+  },
+  {
+    "desc": "7056 Target's clothes inflate to the size of a house "
+  },
+  {
+    "desc": "7057 Target's clothes make him appear to suffer from leprosy "
+  },
+  {
+    "desc": "7058 Target's clothes mock him with whispers that only he can hear "
+  },
+  {
+    "desc": "7059 Target's clothes protect him against extremes of natural weather "
+  },
+  {
+    "desc": "7060 Target's clothes shrink by one percent per round "
+  },
+  {
+    "desc": "7061 Target's clothes smolder from now until dawn, but he is unharmed "
+  },
+  {
+    "desc": "7062 Target's clothes teleport 1d10 yards "
+  },
+  {
+    "desc": "7063 Target's clothes totally unravel over the next 3d10 rounds "
+  },
+  {
+    "desc": "7064 Target's clothes turn invisible each time he uses a magic item "
+  },
+  {
+    "desc": "7065 Target's clothes writhe like a living creature for 24 hours "
+  },
+  {
+    "desc": "7066 Target's corpse will never decay by natural processes "
+  },
+  {
+    "desc": "7067 Target's current hit point total is his maximum hit point total "
+  },
+  {
+    "desc": "7068 Target's deadliest foe appears in the area, armed to the teeth "
+  },
+  {
+    "desc": "7069 Target's deadliest foe will rescue him in his hour of need "
+  },
+  {
+    "desc": "7070 Target's death is expected to yield vast riches for his slayer "
+  },
+  {
+    "desc": "7071 Target's death is one of the final precursors to the apocalypse "
+  },
+  {
+    "desc": "7072 Target's death will awaken a nightmarish, slumbering deity "
+  },
+  {
+    "desc": "7073 Target's death will be horrible enough to inspire legends "
+  },
+  {
+    "desc": "7074 Target's death will bring swift retaliation from the authorities "
+  },
+  {
+    "desc": "7075 Target's death will herald the coming of an age of horrors "
+  },
+  {
+    "desc": "7076 Target's death will inflict a plague upon the surrounding area "
+  },
+  {
+    "desc": "7077 Target's death will lead to mass rioting "
+  },
+  {
+    "desc": "7078 Target's death will reveal him to be a horrific, demonic entity "
+  },
+  {
+    "desc": "7079 Target's ears are indestructible "
+  },
+  {
+    "desc": "7080 Target's ears are prehensile "
+  },
+  {
+    "desc": "7081 Target's ears are the size of dinner plates "
+  },
+  {
+    "desc": "7082 Target's ears explode if removed "
+  },
+  {
+    "desc": "7083 Target's ears melt like wax "
+  },
+  {
+    "desc": "7084 Target's ears migrate about his head as the days wear on "
+  },
+  {
+    "desc": "7085 Target's ears migrate to his shoulders "
+  },
+  {
+    "desc": "7086 Target's ears shrivel and fall off over the next 1d8 days "
+  },
+  {
+    "desc": "7087 Target's ears turn slowly counter-clockwise "
+  },
+  {
+    "desc": "7088 Target's ears, nose, and lips are invisible for 1d4 days "
+  },
+  {
+    "desc": "7089 Target's ears, nose, and lips double in size "
+  },
+  {
+    "desc": "7090 Target's ears, nose, and lips fall off "
+  },
+  {
+    "desc": "7091 Target's ears, nose, and lips turn bright blue "
+  },
+  {
+    "desc": "7092 Target's entire family is arrested by royal decree "
+  },
+  {
+    "desc": "7093 Target's explodes if any attempt is made at resurrection "
+  },
+  {
+    "desc": "7094 Target's expression is permanently locked into a manic smile "
+  },
+  {
+    "desc": "7095 Target's eyes appear to be bundles of writhing worms "
+  },
+  {
+    "desc": "7096 Target's eyes appear to be tiny fireballs "
+  },
+  {
+    "desc": "7097 Target's eyes automatically filter out harmfully bright light "
+  },
+  {
+    "desc": "7098 Target's eyes bulge from the top of his head like a frog's eyes "
+  },
+  {
+    "desc": "7099 Target's eyes bulge to the size of hen's eggs "
+  },
+  {
+    "desc": "7100 Target's eyes burst, blinding him, but they grow back in 1d4 days "
+  },
+  {
+    "desc": "7101 Target's eyes can move independently, like a chameleon's "
+  },
+  {
+    "desc": "7102 Target's eyes each have 1d4 irises and pupils "
+  },
+  {
+    "desc": "7103 Target's eyes glow with malevolent fire when he faces true north "
+  },
+  {
+    "desc": "7104 Target's eyes merge into a single eye somewhere on his face "
+  },
+  {
+    "desc": "7105 Target's eyes migrate to just above his ears "
+  },
+  {
+    "desc": "7106 Target's eyes see normally but appear lifeless like a doll's eyes "
+  },
+  {
+    "desc": "7107 Target's eyes steam and hiss like quenching metal "
+  },
+  {
+    "desc": "7108 Target's face appears to have been roughly chiseled out of coal "
+  },
+  {
+    "desc": "7109 Target's face appears to have been welded to his skull "
+  },
+  {
+    "desc": "7110 Target's face begins to look more and more bat-like "
+  },
+  {
+    "desc": "7111 Target's face can't be harmed by acid "
+  },
+  {
+    "desc": "7112 Target's face glows pale green when he tells a lie "
+  },
+  {
+    "desc": "7113 Target's face is badly sunburned in a checkerboard pattern "
+  },
+  {
+    "desc": "7114 Target's face is flattened to his skull "
+  },
+  {
+    "desc": "7115 Target's face is scarred as by acid or flame "
+  },
+  {
+    "desc": "7116 Target's face is scarred as though horribly slashed years ago "
+  },
+  {
+    "desc": "7117 Target's face is tattooed with cryptic runes and sigils "
+  },
+  {
+    "desc": "7118 Target's face looks as though he's been pounded with hammers "
+  },
+  {
+    "desc": "7119 Target's face looks as though something exploded in his nose "
+  },
+  {
+    "desc": "7120 Target's face looks like badly melted wax "
+  },
+  {
+    "desc": "7121 Target's face migrates to the top of his head "
+  },
+  {
+    "desc": "7122 Target's family disowns him and places a bounty on his head "
+  },
+  {
+    "desc": "7123 Target's family includes at least one demonic abomination "
+  },
+  {
+    "desc": "7124 Target's family relocates to a distant land without telling him "
+  },
+  {
+    "desc": "7125 Target's feet appear to be made of clay "
+  },
+  {
+    "desc": "7126 Target's feet are fused to the ground beneath him "
+  },
+  {
+    "desc": "7127 Target's feet are henceforth clear like glass "
+  },
+  {
+    "desc": "7128 Target's feet are now prehensile, but his hands are not "
+  },
+  {
+    "desc": "7129 Target's feet can rotate 360° at the ankle without harming him "
+  },
+  {
+    "desc": "7130 Target's feet can't come within one yard of each other "
+  },
+  {
+    "desc": "7131 Target's feet explode if he ventures more than one mile from here "
+  },
+  {
+    "desc": "7132 Target's feet shriek incessantly while he wears shoes or boots "
+  },
+  {
+    "desc": "7133 Target's fingernails are hard as steel and susceptible to rust "
+  },
+  {
+    "desc": "7134 Target's fingernails begin to grow 1d4 inches per round  60"
+  },
+  {
+    "desc": "7135 Target's fingernails glow like burning coals "
+  },
+  {
+    "desc": "7136 Target's fingernails pulse with an unholy glow under moonlight "
+  },
+  {
+    "desc": "7137 Target's fingernails react to water like pure sodium "
+  },
+  {
+    "desc": "7138 Target's fingers and thumbs are intertwined like tangled rope "
+  },
+  {
+    "desc": "7139 Target's fingers and thumbs connect directly to his wrists "
+  },
+  {
+    "desc": "7140 Target's fingers and thumbs shuffle positions "
+  },
+  {
+    "desc": "7141 Target's fingers merge into a single digit like a mitten "
+  },
+  {
+    "desc": "7142 Target's fists are attracted to each other like strong magnets "
+  },
+  {
+    "desc": "7143 Target's fists are each as large as his head "
+  },
+  {
+    "desc": "7144 Target's fists can't come within five feet of the ground "
+  },
+  {
+    "desc": "7145 Target's fists retract into his forearms when not in use "
+  },
+  {
+    "desc": "7146 Target's flesh is utterly transparent to artificial light "
+  },
+  {
+    "desc": "7147 Target's footfalls strike sparks on the ground "
+  },
+  {
+    "desc": "7148 Target's footprints are perfectly rectangular "
+  },
+  {
+    "desc": "7149 Target's footprints completely vanish after 1d10 rounds "
+  },
+  {
+    "desc": "7150 Target's footprints look like arrows pointing which way he went "
+  },
+  {
+    "desc": "7151 Target's footprints look like he's executing complex dance steps "
+  },
+  {
+    "desc": "7152 Target's forearms are invisible "
+  },
+  {
+    "desc": "7153 Target's hair can't be cut by non-magical metal "
+  },
+  {
+    "desc": "7154 Target's hair falls out and is replaced by lush feathers "
+  },
+  {
+    "desc": "7155 Target's hair falls out and is replaced by thick grass "
+  },
+  {
+    "desc": "7156 Target's hair falls out and tiny spikes sprout all over his head "
+  },
+  {
+    "desc": "7157 Target's hair floats as though underwater "
+  },
+  {
+    "desc": "7158 Target's hair grows 1d12 inches each time he's struck by magic "
+  },
+  {
+    "desc": "7159 Target's hair is severely tangled in the nearest tree or bush "
+  },
+  {
+    "desc": "7160 Target's hair is styled into a tall bouffant "
+  },
+  {
+    "desc": "7161 Target's hair moves from his head to somewhere else on his body "
+  },
+  {
+    "desc": "7162 Target's hair noticeably changes color every six hours "
+  },
+  {
+    "desc": "7163 Target's hands and feet are abnormally spongy "
+  },
+  {
+    "desc": "7164 Target's hands and feet are scarred with arcane symbols "
+  },
+  {
+    "desc": "7165 Target's hands and feet are tightly wrapped in adhesive cloth "
+  },
+  {
+    "desc": "7166 Target's hands and feet can never be rendered magically invisible "
+  },
+  {
+    "desc": "7167 Target's hands and feet give off unsettling vapors "
+  },
+  {
+    "desc": "7168 Target's hands and feet reform into perfect cubes "
+  },
+  {
+    "desc": "7169 Target's hands and feet shuffle their locations "
+  },
+  {
+    "desc": "7170 Target's hands and feet turn to pig's hooves for 1d4 days "
+  },
+  {
+    "desc": "7171 Target's hands applaud despite his wishes for 3d10 rounds "
+  },
+  {
+    "desc": "7172 Target's hands are bound in adamantite shackles "
+  },
+  {
+    "desc": "7173 Target's hands are encased in thick blobs of candle wax "
+  },
+  {
+    "desc": "7174 Target's hands are invisible while he wields a weapon "
+  },
+  {
+    "desc": "7175 Target's hands are magically slicked with butter for 1d4 hours "
+  },
+  {
+    "desc": "7176 Target's hands are nailed to the nearest tree "
+  },
+  {
+    "desc": "7177 Target's hands are shaped like those of a bat, minus the wings "
+  },
+  {
+    "desc": "7178 Target's hands are utterly paralyzed until he's struck by magic "
+  },
+  {
+    "desc": "7179 Target's hands attempt to strangle him for 3d10 rounds "
+  },
+  {
+    "desc": "7180 Target's hands become ethereal while he wields a weapon "
+  },
+  {
+    "desc": "7181 Target's hands can never be severed from his arms "
+  },
+  {
+    "desc": "7182 Target's hands can't be burned by acid, fire, or electricity "
+  },
+  {
+    "desc": "7183 Target's hands can't be burned by magical fire "
+  },
+  {
+    "desc": "7184 Target's hands can't be cut by any blade forged by a mortal "
+  },
+  {
+    "desc": "7185 Target's hands can't be cut by non-magical blades "
+  },
+  {
+    "desc": "7186 Target's hands can't come within 18 inches of his mouth "
+  },
+  {
+    "desc": "7187 Target's hands change color each hour "
+  },
+  {
+    "desc": "7188 Target's hands combust if he tries to wear gloves "
+  },
+  {
+    "desc": "7189 Target's hands combust if they come into contact with each other "
+  },
+  {
+    "desc": "7190 Target's hands flap like birds' wings for 1d10 rounds "
+  },
+  {
+    "desc": "7191 Target's hands freeze to the next wooden object he touches "
+  },
+  {
+    "desc": "7192 Target's hands fuse to the next metal object he handles "
+  },
+  {
+    "desc": "7193 Target's hands fuse together behind his back "
+  },
+  {
+    "desc": "7194 Target's hands itch slightly when he touches a magic item "
+  },
+  {
+    "desc": "7195 Target's hands look black and necrotic after handling magic items "
+  },
+  {
+    "desc": "7196 Target's hands melt like wax if exposed to magical fire "
+  },
+  {
+    "desc": "7197 Target's hands rotate 180° at the wrists "
+  },
+  {
+    "desc": "7198 Target's hands shrink by 50% "
+  },
+  {
+    "desc": "7199 Target's hands steam vigorously when he's struck by magic "
+  },
+  {
+    "desc": "7200 Target's hands try to grab his ankles while he's walking "
+  },
+  {
+    "desc": "7201 Target's hands turn to metal but otherwise function normally "
+  },
+  {
+    "desc": "7202 Target's hands vanish while he sleeps but return before he wakes "
+  },
+  {
+    "desc": "7203 Target's hat animates and attempts to eat his head "
+  },
+  {
+    "desc": "7204 Target's hat bleeds profusely until sunset tomorrow "
+  },
+  {
+    "desc": "7205 Target's hat is replaced by a spittoon or chamber pot "
+  },
+  {
+    "desc": "7206 Target's hat is replaced by half of a hollowed-out coconut "
+  },
+  {
+    "desc": "7207 Target's head always appear to face true north "
+  },
+  {
+    "desc": "7208 Target's head appears as a photo-negative "
+  },
+  {
+    "desc": "7209 Target's head appears to age at a rate of one year per day "
+  },
+  {
+    "desc": "7210 Target's head appears to be a naked brain "
+  },
+  {
+    "desc": "7211 Target's head appears to be made of delicate porcelain "
+  },
+  {
+    "desc": "7212 Target's head appears to be made of fire "
+  },
+  {
+    "desc": "7213 Target's head appears to be made of ice "
+  },
+  {
+    "desc": "7214 Target's head appears to be made of pure gold "
+  },
+  {
+    "desc": "7215 Target's head appears to be made of sand "
+  },
+  {
+    "desc": "7216 Target's head appears to be made of the finest crystal "
+  },
+  {
+    "desc": "7217 Target's head appears to be made of wood "
+  },
+  {
+    "desc": "7218 Target's head appears to be severely cracked like an egg "
+  },
+  {
+    "desc": "7219 Target's head blazes with illusory fire for 1d4 months "
+  },
+  {
+    "desc": "7220 Target's head can survive away from his body for 3d8 hours "
+  },
+  {
+    "desc": "7221 Target's head can't be harmed by magical electricity "
+  },
+  {
+    "desc": "7222 Target's head considers itself separate from his body "
+  },
+  {
+    "desc": "7223 Target's head deflates like a balloon while he sleeps "
+  },
+  {
+    "desc": "7224 Target's head explodes but regrows over the next 1d10 rounds "
+  },
+  {
+    "desc": "7225 Target's head explodes if he's decapitated "
+  },
+  {
+    "desc": "7226 Target's head glows like a jack-o-lantern "
+  },
+  {
+    "desc": "7227 Target's head goes on a murderous rampage if he's decapitated "
+  },
+  {
+    "desc": "7228 Target's head has a chunk missing as though hacked by an axe "
+  },
+  {
+    "desc": "7229 Target's head has a large hole through it like a doughnut "
+  },
+  {
+    "desc": "7230 Target's head has an arrow running harmlessly through it "
+  },
+  {
+    "desc": "7231 Target's head increases in size by a factor of 1d4+1 "
+  },
+  {
+    "desc": "7232 Target's head is artificial "
+  },
+  {
+    "desc": "7233 Target's head is claimed as a sacred relic by orcs or goblins "
+  },
+  {
+    "desc": "7234 Target's head is clear like glass for 1d4 weeks "
+  },
+  {
+    "desc": "7235 Target's head is covered in coarse and ugly scales "
+  },
+  {
+    "desc": "7236 Target's head is covered with numerous disc-shaped scars "
+  },
+  {
+    "desc": "7237 Target's head is encased in a durable, transparent globe "
+  },
+  {
+    "desc": "7238 Target's head is enclosed in an indestructible helmet "
+  },
+  {
+    "desc": "7239 Target's head is enwrapped in delicate gold filigree "
+  },
+  {
+    "desc": "7240 Target's head is flattened on top like a pounded wooden stake "
+  },
+  {
+    "desc": "7241 Target's head is immune to extremes of pressure "
+  },
+  {
+    "desc": "7242 Target's head is impervious to magical fire "
+  },
+  {
+    "desc": "7243 Target's head is impervious to missile weapons "
+  },
+  {
+    "desc": "7244 Target's head is impervious to non-magical bludgeons "
+  },
+  {
+    "desc": "7245 Target's head is impervious to polymorph magic "
+  },
+  {
+    "desc": "7246 Target's head is invisible from the chin to the ears "
+  },
+  {
+    "desc": "7247 Target's head is of no particular physiological importance "
+  },
+  {
+    "desc": "7248 Target's head is prehensile "
+  },
+  {
+    "desc": "7249 Target's head is protected as though he's wearing a steel helmet "
+  },
+  {
+    "desc": "7250 Target's head is scarred as though split down the middle "
+  },
+  {
+    "desc": "7251 Target's head is shaped like a light bulb "
+  },
+  {
+    "desc": "7252 Target's head is Slowed for 1d4 hours "
+  },
+  {
+    "desc": "7253 Target's head is stuck in a huge conch shell "
+  },
+  {
+    "desc": "7254 Target's head is vestigial "
+  },
+  {
+    "desc": "7255 Target's head no longer ages "
+  },
+  {
+    "desc": "7256 Target's head seems on the verge of bursting "
+  },
+  {
+    "desc": "7257 Target's head shrinks to the size of his closed fist "
+  },
+  {
+    "desc": "7258 Target's head spins rapidly at the neck for 2d10 rounds "
+  },
+  {
+    "desc": "7259 Target's head splits in half, revealing his real head inside "
+  },
+  {
+    "desc": "7260 Target's head strongly resembles a foot "
+  },
+  {
+    "desc": "7261 Target's head throbs visibly when he's angry "
+  },
+  {
+    "desc": "7262 Target's head vanishes and his face appears on his chest "
+  },
+  {
+    "desc": "7263 Target's head was stolen from a necromancer's workshop "
+  },
+  {
+    "desc": "7264 Target's head will be claimed by warring factions after he dies  61"
+  },
+  {
+    "desc": "7265 Target's heart is safe in a silver urn buried in the forest "
+  },
+  {
+    "desc": "7266 Target's heart turns to solid gold, potentially killing him "
+  },
+  {
+    "desc": "7267 Target's highest attribute score drops to 3 for 2d12 hours "
+  },
+  {
+    "desc": "7268 Target's highest attribute score is halved for 1d4 days "
+  },
+  {
+    "desc": "7269 Target's highest attribute score is re-rolled daily "
+  },
+  {
+    "desc": "7270 Target's hindquarters resemble those of a donkey "
+  },
+  {
+    "desc": "7271 Target's hit points are doubled for the next 24 hours "
+  },
+  {
+    "desc": "7272 Target's huge likeness appears on the side of a nearby mountain "
+  },
+  {
+    "desc": "7273 Target's image appears on every flag and banner within 10 miles "
+  },
+  {
+    "desc": "7274 Target's internal organs have been culled from various animals "
+  },
+  {
+    "desc": "7275 Target's internal organs murmur and chant inside him "
+  },
+  {
+    "desc": "7276 Target's internal organs shuffle positions "
+  },
+  {
+    "desc": "7277 Target's internal organs turn into infernal oranges "
+  },
+  {
+    "desc": "7278 Target's intestines are more intelligent than he is "
+  },
+  {
+    "desc": "7279 Target's intestines are replaced by a length of noisy chain "
+  },
+  {
+    "desc": "7280 Target's jawbone becomes that of an ass "
+  },
+  {
+    "desc": "7281 Target's knees and elbows become ball-joints like his shoulders "
+  },
+  {
+    "desc": "7282 Target's knees and elbows can't straighten to more than 120° "
+  },
+  {
+    "desc": "7283 Target's knees and elbows creak like rusty metal "
+  },
+  {
+    "desc": "7284 Target's knees and elbows vanish "
+  },
+  {
+    "desc": "7285 Target's large intestine explodes "
+  },
+  {
+    "desc": "7286 Target's left arm has Strength 18/00 "
+  },
+  {
+    "desc": "7287 Target's left arm is fused into a nearby boulder "
+  },
+  {
+    "desc": "7288 Target's left arm is permanently invisible "
+  },
+  {
+    "desc": "7289 Target's left arm moves to his right shoulder "
+  },
+  {
+    "desc": "7290 Target's left foot appears to be that of a large duck "
+  },
+  {
+    "desc": "7291 Target's left foot can never again tolerate a shoe or boot "
+  },
+  {
+    "desc": "7292 Target's left foot henceforth appears to be badly mangled "
+  },
+  {
+    "desc": "7293 Target's left foot is wholly invulnerable to all harm "
+  },
+  {
+    "desc": "7294 Target's left foot sinks six inches into the ground at each step "
+  },
+  {
+    "desc": "7295 Target's left foot sprouts a pair of thumbs "
+  },
+  {
+    "desc": "7296 Target's left foot takes root "
+  },
+  {
+    "desc": "7297 Target's legs are covered in bark "
+  },
+  {
+    "desc": "7298 Target's legs are fireproof "
+  },
+  {
+    "desc": "7299 Target's legs are invisible in direct sunlight "
+  },
+  {
+    "desc": "7300 Target's legs are shaped like springs and twang when he walks "
+  },
+  {
+    "desc": "7301 Target's legs can't be cut by non-magical weapons "
+  },
+  {
+    "desc": "7302 Target's legs exactly resemble his arms "
+  },
+  {
+    "desc": "7303 Target's legs exchange positions "
+  },
+  {
+    "desc": "7304 Target's legs fuse together, and his arms fuse to his sides "
+  },
+  {
+    "desc": "7305 Target's legs shrink by 1d10 x 10% for 1d12 hours "
+  },
+  {
+    "desc": "7306 Target's level is halved "
+  },
+  {
+    "desc": "7307 Target's limbs change proportion to match those of an infant "
+  },
+  {
+    "desc": "7308 Target's limbs shrink to the size of an infant's limbs "
+  },
+  {
+    "desc": "7309 Target's lips are sewn shut with fine gold wire "
+  },
+  {
+    "desc": "7310 Target's lips move constantly as though he's singing to himself "
+  },
+  {
+    "desc": "7311 Target's lips vanish "
+  },
+  {
+    "desc": "7312 Target's loses 1d10 levels but regains one per day "
+  },
+  {
+    "desc": "7313 Target's maximum natural lifespan doubles "
+  },
+  {
+    "desc": "7314 Target's maximum natural lifespan increases by 1d100 years "
+  },
+  {
+    "desc": "7315 Target's maximum natural lifespan is 1d10 years more than his age "
+  },
+  {
+    "desc": "7316 Target's maximum natural lifespan is reduced by 50% "
+  },
+  {
+    "desc": "7317 Target's memories of the last 1d12 hours are full of butterflies "
+  },
+  {
+    "desc": "7318 Target's memories of the last 1d12 hours are vivid but incorrect "
+  },
+  {
+    "desc": "7319 Target's most valuable possession animates and attacks him "
+  },
+  {
+    "desc": "7320 Target's most valuable possession becomes brittle as glass "
+  },
+  {
+    "desc": "7321 Target's most valuable possession bursts into flame "
+  },
+  {
+    "desc": "7322 Target's most valuable possession can't be affected by magic "
+  },
+  {
+    "desc": "7323 Target's most valuable possession doubles in size "
+  },
+  {
+    "desc": "7324 Target's most valuable possession flies toward him at great speed "
+  },
+  {
+    "desc": "7325 Target's most valuable possession is affected by reverse gravity "
+  },
+  {
+    "desc": "7326 Target's most valuable possession is an illusion "
+  },
+  {
+    "desc": "7327 Target's most valuable possession is coveted by all who see it "
+  },
+  {
+    "desc": "7328 Target's most valuable possession is encased in glass "
+  },
+  {
+    "desc": "7329 Target's most valuable possession is indestructible "
+  },
+  {
+    "desc": "7330 Target's most valuable possession is sold for 1d100 gold pieces "
+  },
+  {
+    "desc": "7331 Target's most valuable possession is stolen by the king "
+  },
+  {
+    "desc": "7332 Target's most valuable possession now belongs to someone else "
+  },
+  {
+    "desc": "7333 Target's most valuable possession turns permanently invisible "
+  },
+  {
+    "desc": "7334 Target's most valuable possession turns to lead "
+  },
+  {
+    "desc": "7335 Target's mouth and each nostril is plugged by a cork "
+  },
+  {
+    "desc": "7336 Target's mouth and one of his eyes exchange places "
+  },
+  {
+    "desc": "7337 Target's mouth appears to be full of angry hornets "
+  },
+  {
+    "desc": "7338 Target's mouth can speak with a mind of its own "
+  },
+  {
+    "desc": "7339 Target's mouth can't be opened while he's wearing a hat "
+  },
+  {
+    "desc": "7340 Target's mouth glows as though he's eating fireflies "
+  },
+  {
+    "desc": "7341 Target's mouth glows like a forge "
+  },
+  {
+    "desc": "7342 Target's mouth is full of moths "
+  },
+  {
+    "desc": "7343 Target's mouth is now located on the back of his head "
+  },
+  {
+    "desc": "7344 Target's mouth is packed completely full of leaves "
+  },
+  {
+    "desc": "7345 Target's mouth is replaced by a duck's bill "
+  },
+  {
+    "desc": "7346 Target's mouth is replaced by a hideous scolex "
+  },
+  {
+    "desc": "7347 Target's mouth is replaced by a toucan's beak "
+  },
+  {
+    "desc": "7348 Target's mouth opens to a span of 4d4 inches "
+  },
+  {
+    "desc": "7349 Target's mouth vanishes for 1d6 hours "
+  },
+  {
+    "desc": "7350 Target's neck and head shift 1d4+4 inches to the left "
+  },
+  {
+    "desc": "7351 Target's neck attempts to devour his head "
+  },
+  {
+    "desc": "7352 Target's neck can extend an additional 1d4 feet at will "
+  },
+  {
+    "desc": "7353 Target's neck can retract into his torso like a turtle's "
+  },
+  {
+    "desc": "7354 Target's neck can't be broken "
+  },
+  {
+    "desc": "7355 Target's neck doubles in length "
+  },
+  {
+    "desc": "7356 Target's neck flares like a lizard's frill when he's angry "
+  },
+  {
+    "desc": "7357 Target's neck has a frill like a triceratops "
+  },
+  {
+    "desc": "7358 Target's neck is as thin as a spear-shaft "
+  },
+  {
+    "desc": "7359 Target's neck is encircled by a tight steel collar "
+  },
+  {
+    "desc": "7360 Target's neck is impervious to blades "
+  },
+  {
+    "desc": "7361 Target's neck is scarred and twisted as if he survived a hanging "
+  },
+  {
+    "desc": "7362 Target's next 1d10 attacks affect him as well "
+  },
+  {
+    "desc": "7363 Target's next 1d10 attacks don't take effect for 1d10 rounds "
+  },
+  {
+    "desc": "7364 Target's next 1d10 attacks have a damage bonus of 1d6 hit points "
+  },
+  {
+    "desc": "7365 Target's next 1d10 attacks inflict only illusionary damage "
+  },
+  {
+    "desc": "7366 Target's next attack inflicts damage that only a Wish can heal "
+  },
+  {
+    "desc": "7367 Target's next missile attack automatically strikes him instead "
+  },
+  {
+    "desc": "7368 Target's next missile attack causes whoever is hit to combust "
+  },
+  {
+    "desc": "7369 Target's next missile attack equally injures an extra 1d6 people "
+  },
+  {
+    "desc": "7370 Target's next missile attack Heals its victim to full hit points "
+  },
+  {
+    "desc": "7371 Target's next missile attack inflicts 1d10 times normal damage "
+  },
+  {
+    "desc": "7372 Target's next missile attack strikes a nearby tree and ignites it "
+  },
+  {
+    "desc": "7373 Target's next missile attack teleports whoever it hits 1d4 miles "
+  },
+  {
+    "desc": "7374 Target's next missile attack turns its victim invisible "
+  },
+  {
+    "desc": "7375 Target's nose looks like a small, clenched fist "
+  },
+  {
+    "desc": "7376 Target's nose turns into a wolf's snout under the full moon "
+  },
+  {
+    "desc": "7377 Target's nose turns to flint "
+  },
+  {
+    "desc": "7378 Target's nostrils are each as large as his mouth "
+  },
+  {
+    "desc": "7379 Target's nostrils glow with an unholy radiance "
+  },
+  {
+    "desc": "7380 Target's nostrils migrate to the top of his head "
+  },
+  {
+    "desc": "7381 Target's own corpse appears from the future as a powerful undead "
+  },
+  {
+    "desc": "7382 Target's physical age is now 1d100 "
+  },
+  {
+    "desc": "7383 Target's pockets and mouth are full of sand "
+  },
+  {
+    "desc": "7384 Target's possessions are hidden beneath a nearby boulder "
+  },
+  {
+    "desc": "7385 Target's possessions are possessed by a powerful demon "
+  },
+  {
+    "desc": "7386 Target's possessions turn to solid aluminum "
+  },
+  {
+    "desc": "7387 Target's possessions, if enchanted, acquire hostile intelligence "
+  },
+  {
+    "desc": "7388 Target's possessions, if enchanted, swap their enchantments "
+  },
+  {
+    "desc": "7389 Target's presence causes birds to fall silent "
+  },
+  {
+    "desc": "7390 Target's presence causes birds to sing ominous songs "
+  },
+  {
+    "desc": "7391 Target's presence causes insects to exhibit strange behaviors "
+  },
+  {
+    "desc": "7392 Target's presence causes magical metal to appear badly tarnished "
+  },
+  {
+    "desc": "7393 Target's presence causes metal to yield disturbing reflections "
+  },
+  {
+    "desc": "7394 Target's presence causes priests and clerics to blaspheme openly  62"
+  },
+  {
+    "desc": "7395 Target's presence causes Summoned creatures to be Slowed "
+  },
+  {
+    "desc": "7396 Target's presence causes undead to appear to smolder gently "
+  },
+  {
+    "desc": "7397 Target's presence is 20% likely to make Summoned creatures vanish "
+  },
+  {
+    "desc": "7398 Target's presence makes cooked meat taste blood-raw "
+  },
+  {
+    "desc": "7399 Target's presence makes fires burn in a festive blue-green hue "
+  },
+  {
+    "desc": "7400 Target's presence makes foliage appear sickly and blighted "
+  },
+  {
+    "desc": "7401 Target's presence makes hoofed animals nervous "
+  },
+  {
+    "desc": "7402 Target's presence makes impassable trails seem passable "
+  },
+  {
+    "desc": "7403 Target's presence makes merchants hostile to bargaining "
+  },
+  {
+    "desc": "7404 Target's presence makes mind-reading impossible "
+  },
+  {
+    "desc": "7405 Target's presence makes missile weapons leave rainbow trails "
+  },
+  {
+    "desc": "7406 Target's presence makes secret doors twice as easy to find "
+  },
+  {
+    "desc": "7407 Target's presence makes secret doors twice as hard to find "
+  },
+  {
+    "desc": "7408 Target's presence makes smoke assume disturbing, ghostly shapes "
+  },
+  {
+    "desc": "7409 Target's presence renders clockwork devices temporarily inert "
+  },
+  {
+    "desc": "7410 Target's presence renders magical weapons temporarily invisible "
+  },
+  {
+    "desc": "7411 Target's presence renders maps temporarily illegible "
+  },
+  {
+    "desc": "7412 Target's principal weapon sprouts 10d10 roses "
+  },
+  {
+    "desc": "7413 Target's scent causes hallucinations in animals used to track him "
+  },
+  {
+    "desc": "7414 Target's shadow appears to flicker like a shadowy flame "
+  },
+  {
+    "desc": "7415 Target's shadow can travel up to 1d4 miles away from him "
+  },
+  {
+    "desc": "7416 Target's shadow races around him in a tight circle "
+  },
+  {
+    "desc": "7417 Target's shadow rises up and tries to strangle him "
+  },
+  {
+    "desc": "7418 Target's skin acquires 1d100 blasphemous tattoos "
+  },
+  {
+    "desc": "7419 Target's skin ages 10X as fast as the rest of his body "
+  },
+  {
+    "desc": "7420 Target's skin appears permanently stained with blood "
+  },
+  {
+    "desc": "7421 Target's skin appears slightly inflated after each battle "
+  },
+  {
+    "desc": "7422 Target's skin appears to be the texture of pumice "
+  },
+  {
+    "desc": "7423 Target's skin appears to be the texture of sandstone "
+  },
+  {
+    "desc": "7424 Target's skin appears to have been gnawed by countless rodents "
+  },
+  {
+    "desc": "7425 Target's skin appears to have been roughly stitched together "
+  },
+  {
+    "desc": "7426 Target's skin appears to have been torn off and reattached "
+  },
+  {
+    "desc": "7427 Target's skin appears to have been turned inside-out "
+  },
+  {
+    "desc": "7428 Target's skin appears uniformly smooth and waxy "
+  },
+  {
+    "desc": "7429 Target's skin appears weathered like an ancient statue "
+  },
+  {
+    "desc": "7430 Target's skin attracts scavengers as if it were carrion "
+  },
+  {
+    "desc": "7431 Target's skin can't be burned, but fire still causes him pain "
+  },
+  {
+    "desc": "7432 Target's skin can't be cut "
+  },
+  {
+    "desc": "7433 Target's skin can't be cut by magical weapons under moonlight "
+  },
+  {
+    "desc": "7434 Target's skin can't be cut, and his mouth and nose seal shut "
+  },
+  {
+    "desc": "7435 Target's skin can't be pierced by carved wood "
+  },
+  {
+    "desc": "7436 Target's skin can't be pierced by stone weapons "
+  },
+  {
+    "desc": "7437 Target's skin can't be pierced by teeth or claws "
+  },
+  {
+    "desc": "7438 Target's skin cracks painfully like a dried-up riverbed "
+  },
+  {
+    "desc": "7439 Target's skin develops an intricate patchwork of scars "
+  },
+  {
+    "desc": "7440 Target's skin displays a series of concentric rings like a target "
+  },
+  {
+    "desc": "7441 Target's skin displays cryptic and constantly-changing runes "
+  },
+  {
+    "desc": "7442 Target's skin doubles in size "
+  },
+  {
+    "desc": "7443 Target's skin erupts into countless weeping boils "
+  },
+  {
+    "desc": "7444 Target's skin erupts with 3d10 acrid fungal outgrowths "
+  },
+  {
+    "desc": "7445 Target's skin freezes to his weapon each time he wields it "
+  },
+  {
+    "desc": "7446 Target's skin gives him a natural AC of 3, but only while naked "
+  },
+  {
+    "desc": "7447 Target's skin glistens as though soaked with lamp oil "
+  },
+  {
+    "desc": "7448 Target's skin glows cherry red during melee "
+  },
+  {
+    "desc": "7449 Target's skin glows pale green in moonlight "
+  },
+  {
+    "desc": "7450 Target's skin has the texture of rough bark "
+  },
+  {
+    "desc": "7451 Target's skin is 10% likely to be fireproof during any given day "
+  },
+  {
+    "desc": "7452 Target's skin is a widely coveted delicacy "
+  },
+  {
+    "desc": "7453 Target's skin is actually an intricate pattern of tiny tiles "
+  },
+  {
+    "desc": "7454 Target's skin is as combustible as paper "
+  },
+  {
+    "desc": "7455 Target's skin is as hard as bronze "
+  },
+  {
+    "desc": "7456 Target's skin is as white as snow until the next vernal equinox "
+  },
+  {
+    "desc": "7457 Target's skin is charred and blackened, but he is unharmed "
+  },
+  {
+    "desc": "7458 Target's skin is covered in scales like a fish "
+  },
+  {
+    "desc": "7459 Target's skin is flayed from his limbs, but it regrows by dawn "
+  },
+  {
+    "desc": "7460 Target's skin is forever the color of the next stone he touches "
+  },
+  {
+    "desc": "7461 Target's skin is invisible by firelight "
+  },
+  {
+    "desc": "7462 Target's skin is invisible in the presence of undead "
+  },
+  {
+    "desc": "7463 Target's skin is invisible while he's standing in water "
+  },
+  {
+    "desc": "7464 Target's skin is magically delicious "
+  },
+  {
+    "desc": "7465 Target's skin is mildly magnetic while wet "
+  },
+  {
+    "desc": "7466 Target's skin is patterned like a checkerboard "
+  },
+  {
+    "desc": "7467 Target's skin is patterned like a Holstein "
+  },
+  {
+    "desc": "7468 Target's skin is patterned like modern camouflage gear "
+  },
+  {
+    "desc": "7469 Target's skin is permanently and disturbingly moist "
+  },
+  {
+    "desc": "7470 Target's skin is permanently crisscrossed with fine lines "
+  },
+  {
+    "desc": "7471 Target's skin is repeatedly tattooed with caster's name "
+  },
+  {
+    "desc": "7472 Target's skin is repeatedly tattooed with his own name "
+  },
+  {
+    "desc": "7473 Target's skin is repeatedly tattooed with slurs against the king "
+  },
+  {
+    "desc": "7474 Target's skin is rumored to produce the world's finest leather "
+  },
+  {
+    "desc": "7475 Target's skin reeks of mold and mildew "
+  },
+  {
+    "desc": "7476 Target's skin reflects torchlight perfectly, but not sunlight "
+  },
+  {
+    "desc": "7477 Target's skin ripples in the wind like a cloth sheet "
+  },
+  {
+    "desc": "7478 Target's skin rotates 180° "
+  },
+  {
+    "desc": "7479 Target's skin shimmers like mother-of-pearl from now on "
+  },
+  {
+    "desc": "7480 Target's skin sizzles harmlessly on contact with water "
+  },
+  {
+    "desc": "7481 Target's skin smolders during combat "
+  },
+  {
+    "desc": "7482 Target's skin turns as black as pitch while in sunlight "
+  },
+  {
+    "desc": "7483 Target's skin will melt if he gets too close to a campfire "
+  },
+  {
+    "desc": "7484 Target's skin writhes and pulses while he's eating "
+  },
+  {
+    "desc": "7485 Target's skull is inscribed with a mysterious rune of power "
+  },
+  {
+    "desc": "7486 Target's skull sprouts numerous knobby projections "
+  },
+  {
+    "desc": "7487 Target's speech is intelligible to anyone, regardless of language "
+  },
+  {
+    "desc": "7488 Target's speech is reversed while his weapon is drawn "
+  },
+  {
+    "desc": "7489 Target's speech seems unaccountably rude and aggressive "
+  },
+  {
+    "desc": "7490 Target's speech sounds like the buzzing of innumerable bees "
+  },
+  {
+    "desc": "7491 Target's spine bends 90° halfway along its length "
+  },
+  {
+    "desc": "7492 Target's spine can twist 360° without harming him "
+  },
+  {
+    "desc": "7493 Target's spine doubles in length "
+  },
+  {
+    "desc": "7494 Target's spine is fused into a single bone for 1d8 hours "
+  },
+  {
+    "desc": "7495 Target's spine is indestructible "
+  },
+  {
+    "desc": "7496 Target's spine is reconfigured like a quadruped's "
+  },
+  {
+    "desc": "7497 Target's spine juts from his flesh along his entire back "
+  },
+  {
+    "desc": "7498 Target's spine sprouts needle-sharp projections "
+  },
+  {
+    "desc": "7499 Target's spine twists like a corkscrew "
+  },
+  {
+    "desc": "7500 Target's sternum sprouts 2d4 inch-long spikes "
+  },
+  {
+    "desc": "7501 Target's sternum turns to glass "
+  },
+  {
+    "desc": "7502 Target's sternum turns to steel "
+  },
+  {
+    "desc": "7503 Target's sternum vanishes "
+  },
+  {
+    "desc": "7504 Target's sweat is brightly phosphorescent by firelight "
+  },
+  {
+    "desc": "7505 Target's teeth and tongue fall out when he next opens his mouth "
+  },
+  {
+    "desc": "7506 Target's teeth and tongue turn invisible "
+  },
+  {
+    "desc": "7507 Target's teeth are etched with cryptic runes "
+  },
+  {
+    "desc": "7508 Target's teeth are perfectly reflective of natural light "
+  },
+  {
+    "desc": "7509 Target's teeth are so beautiful that they're painful to look at "
+  },
+  {
+    "desc": "7510 Target's teeth can never be rendered invisible "
+  },
+  {
+    "desc": "7511 Target's teeth glow brightly while his mouth is open "
+  },
+  {
+    "desc": "7512 Target's teeth glow like coals in a forge "
+  },
+  {
+    "desc": "7513 Target's teeth glow like torches when he's struck by magic "
+  },
+  {
+    "desc": "7514 Target's teeth resonate in his jaw when he uses a magic item "
+  },
+  {
+    "desc": "7515 Target's teeth shoot from his mouth like bullets "
+  },
+  {
+    "desc": "7516 Target's teeth teleport into the mouth of someone nearby "
+  },
+  {
+    "desc": "7517 Target's teeth turn as black as coal "
+  },
+  {
+    "desc": "7518 Target's teeth turn to diamonds 1d4 hours after being extracted "
+  },
+  {
+    "desc": "7519 Target's teeth turn to soap "
+  },
+  {
+    "desc": "7520 Target's teeth turn to steel "
+  },
+  {
+    "desc": "7521 Target's teeth were cut from diamonds by a Gnome master lapidary "
+  },
+  {
+    "desc": "7522 Target's toes are each as large as his big toe "
+  },
+  {
+    "desc": "7523 Target's toes become gangrenous "
+  },
+  {
+    "desc": "7524 Target's toes constantly exude a fragrant steam  63"
+  },
+  {
+    "desc": "7525 Target's toes each grow 1d12 inches, rolling for each separately "
+  },
+  {
+    "desc": "7526 Target's torso and arms are encased in tight-fitting steel plate "
+  },
+  {
+    "desc": "7527 Target's torso and arms are invisible for 1d4 months "
+  },
+  {
+    "desc": "7528 Target's torso does not age and will not decay upon death "
+  },
+  {
+    "desc": "7529 Target's torso inspires fear and dread in all who touch it "
+  },
+  {
+    "desc": "7530 Target's torso is artificial "
+  },
+  {
+    "desc": "7531 Target's torso is hollow and can store up to 2d4 cubic feet "
+  },
+  {
+    "desc": "7532 Target's torso is pierced by 4d10 long needles "
+  },
+  {
+    "desc": "7533 Target's torso is reproduced as a marble sculpture nearby "
+  },
+  {
+    "desc": "7534 Target's torso is sought by wizards for its alchemical properties "
+  },
+  {
+    "desc": "7535 Target's torso regenerates his limbs and head as needed "
+  },
+  {
+    "desc": "7536 Target's torso shines like a beacon for 1d4 days "
+  },
+  {
+    "desc": "7537 Target's torso shines like a beacon when he uses a magic item "
+  },
+  {
+    "desc": "7538 Target's torso shrinks by 50% "
+  },
+  {
+    "desc": "7539 Target's torso sprouts a face with malign intelligence and power "
+  },
+  {
+    "desc": "7540 Target's torso teleports 1d4 feet to the left "
+  },
+  {
+    "desc": "7541 Target's torso unzips and dumps out all of his organs "
+  },
+  {
+    "desc": "7542 Target's vertebrae are replaced by titanium replicas "
+  },
+  {
+    "desc": "7543 Target's vision is unimpaired by non-magical rain "
+  },
+  {
+    "desc": "7544 Target's voice causes metal to resonate lightly "
+  },
+  {
+    "desc": "7545 Target's voice crackles with static until sunrise tomorrow "
+  },
+  {
+    "desc": "7546 Target's voice induces fear in herbivores "
+  },
+  {
+    "desc": "7547 Target's voice inspires confidence in others of his species "
+  },
+  {
+    "desc": "7548 Target's voice inspires dread in anyone of the opposite sex "
+  },
+  {
+    "desc": "7549 Target's voice is inaudible to others of his species "
+  },
+  {
+    "desc": "7550 Target's voice is nearly unintelligible when he wields his weapon "
+  },
+  {
+    "desc": "7551 Target's voice issues from his navel "
+  },
+  {
+    "desc": "7552 Target's voice issues from his weapon for the next few weeks "
+  },
+  {
+    "desc": "7553 Target's voice issues from the nearest wooden object "
+  },
+  {
+    "desc": "7554 Target's voice issues from this spot for 2d10 days "
+  },
+  {
+    "desc": "7555 Target's voice seems to issue from whomever he's addressing "
+  },
+  {
+    "desc": "7556 Target's voice sounds as though he's shouting from a distance "
+  },
+  {
+    "desc": "7557 Target's voice sounds like a muted trumpet "
+  },
+  {
+    "desc": "7558 Target's voice sounds like someone of the opposite sex "
+  },
+  {
+    "desc": "7559 Target's voice sounds like the barking of feral dogs "
+  },
+  {
+    "desc": "7560 Target's voice sounds like the braying of donkeys "
+  },
+  {
+    "desc": "7561 Target's voice sounds like the chirping of crickets for 3d8 hours "
+  },
+  {
+    "desc": "7562 Target's voice sounds like the honking of geese "
+  },
+  {
+    "desc": "7563 Target's voice sounds oddly artificial and disturbing "
+  },
+  {
+    "desc": "7564 Target's waterskin is filled with his own blood "
+  },
+  {
+    "desc": "7565 Target's waterskin is filled with hot pepper sauce "
+  },
+  {
+    "desc": "7566 Target's waterskin is filled with liquid soap "
+  },
+  {
+    "desc": "7567 Target's waterskin is filled with mercury "
+  },
+  {
+    "desc": "7568 Target's waterskin is filled with molten gold "
+  },
+  {
+    "desc": "7569 Target's waterskin is filled with water from the River Styx "
+  },
+  {
+    "desc": "7570 Target's weapon adheres to the next creature whose blood it draws "
+  },
+  {
+    "desc": "7571 Target's weapon adheres to the next person to touch it "
+  },
+  {
+    "desc": "7572 Target's weapon appears to be an umbrella while not in use "
+  },
+  {
+    "desc": "7573 Target's weapon appears to be made of cheese for 1d6 days "
+  },
+  {
+    "desc": "7574 Target's weapon appears to be made of diamond "
+  },
+  {
+    "desc": "7575 Target's weapon appears to be made of ice "
+  },
+  {
+    "desc": "7576 Target's weapon appears to be made of solid water "
+  },
+  {
+    "desc": "7577 Target's weapon appears to be of much higher quality than it is "
+  },
+  {
+    "desc": "7578 Target's weapon appears to be very hot to anyone else wielding it "
+  },
+  {
+    "desc": "7579 Target's weapon appears to be worth 50X its real value "
+  },
+  {
+    "desc": "7580 Target's weapon attacks him the next time he's wounded in battle "
+  },
+  {
+    "desc": "7581 Target's weapon attracts the attention of the authorities "
+  },
+  {
+    "desc": "7582 Target's weapon attracts undead while it's drawn "
+  },
+  {
+    "desc": "7583 Target's weapon blazes with illusionary flame while it's drawn "
+  },
+  {
+    "desc": "7584 Target's weapon burns anyone who wields it, other than the target "
+  },
+  {
+    "desc": "7585 Target's weapon burns like an oil-soaked wick but isn't consumed "
+  },
+  {
+    "desc": "7586 Target's weapon burns target's hand the next time he wields it "
+  },
+  {
+    "desc": "7587 Target's weapon can be disassembled into 1d20 tiny pieces "
+  },
+  {
+    "desc": "7588 Target's weapon can freeze 10 cubic feet of water, once per week "
+  },
+  {
+    "desc": "7589 Target's weapon can hurl 2d6 magic missiles, then it disappears "
+  },
+  {
+    "desc": "7590 Target's weapon can inflict no damage for 1d10 rounds "
+  },
+  {
+    "desc": "7591 Target's weapon can injure anyone now within 1d10 feet of it "
+  },
+  {
+    "desc": "7592 Target's weapon can injure but not kill anyone "
+  },
+  {
+    "desc": "7593 Target's weapon can return polymorphed beings to their true forms "
+  },
+  {
+    "desc": "7594 Target's weapon can spray enough octopus ink to blind one foe "
+  },
+  {
+    "desc": "7595 Target's weapon can't be altered by any non-magical means "
+  },
+  {
+    "desc": "7596 Target's weapon can't be harmed by magical fire "
+  },
+  {
+    "desc": "7597 Target's weapon can't be teleported "
+  },
+  {
+    "desc": "7598 Target's weapon can't be wielded unless the wielder is naked "
+  },
+  {
+    "desc": "7599 Target's weapon can't cut flesh for 1d12 hours "
+  },
+  {
+    "desc": "7600 Target's weapon can't harm non-humanoid mammals "
+  },
+  {
+    "desc": "7601 Target's weapon can't harm undead "
+  },
+  {
+    "desc": "7602 Target's weapon can't injure anyone of his sex "
+  },
+  {
+    "desc": "7603 Target's weapon can't injure anyone of the opposite sex "
+  },
+  {
+    "desc": "7604 Target's weapon can't pass through doorways "
+  },
+  {
+    "desc": "7605 Target's weapon causes fire to be invisible while it's drawn "
+  },
+  {
+    "desc": "7606 Target's weapon causes him to issue ridiculous threats "
+  },
+  {
+    "desc": "7607 Target's weapon causes its wielder to be Slowed during melee "
+  },
+  {
+    "desc": "7608 Target's weapon clangs like a bell when used in melee "
+  },
+  {
+    "desc": "7609 Target's weapon coils about his arm for 1d4 rounds "
+  },
+  {
+    "desc": "7610 Target's weapon delivers an electrical shock with every strike "
+  },
+  {
+    "desc": "7611 Target's weapon develops an intense and obvious dislike of him "
+  },
+  {
+    "desc": "7612 Target's weapon dims light in a 10-yard radius while it's drawn "
+  },
+  {
+    "desc": "7613 Target's weapon disintegrates if ever it wounds him "
+  },
+  {
+    "desc": "7614 Target's weapon disintegrates if it's hit by magic "
+  },
+  {
+    "desc": "7615 Target's weapon disrupts infravision within a 100 yard radius "
+  },
+  {
+    "desc": "7616 Target's weapon dissolves its wielder's clothes during battle "
+  },
+  {
+    "desc": "7617 Target's weapon doubles in weight after each failed strike "
+  },
+  {
+    "desc": "7618 Target's weapon doubles in weight each time it draws blood "
+  },
+  {
+    "desc": "7619 Target's weapon draws lightning bolts down from the sky "
+  },
+  {
+    "desc": "7620 Target's weapon drips with blood until it next draws blood "
+  },
+  {
+    "desc": "7621 Target's weapon drips with molasses during battle "
+  },
+  {
+    "desc": "7622 Target's weapon enables him to breathe underwater for 3d8 rounds "
+  },
+  {
+    "desc": "7623 Target's weapon explodes if ever it inflicts maximum damage "
+  },
+  {
+    "desc": "7624 Target's weapon floats on water as readily as wood "
+  },
+  {
+    "desc": "7625 Target's weapon giggles menacingly upon contact with blood "
+  },
+  {
+    "desc": "7626 Target's weapon glows as bright as the sun, but only to him "
+  },
+  {
+    "desc": "7627 Target's weapon glows blue except in the presence of orcs "
+  },
+  {
+    "desc": "7628 Target's weapon glows blue in his presence "
+  },
+  {
+    "desc": "7629 Target's weapon glows blue in the presence of orcs or birds "
+  },
+  {
+    "desc": "7630 Target's weapon glows blue in the presence of swords "
+  },
+  {
+    "desc": "7631 Target's weapon glows blue whenever he tries to remain hidden "
+  },
+  {
+    "desc": "7632 Target's weapon glows brightly when his blood has been spilled "
+  },
+  {
+    "desc": "7633 Target's weapon glows like a firefly when wielded underground "
+  },
+  {
+    "desc": "7634 Target's weapon glows red hot during battle but doesn't harm him "
+  },
+  {
+    "desc": "7635 Target's weapon grows to 10x its normal size "
+  },
+  {
+    "desc": "7636 Target's weapon has a +10 ToHit and Damage bonus for 1d4 rounds "
+  },
+  {
+    "desc": "7637 Target's weapon has a +4 bonus when used against him "
+  },
+  {
+    "desc": "7638 Target's weapon has a +4 bonus when used against his allies "
+  },
+  {
+    "desc": "7639 Target's weapon has a +4 bonus when used against the caster "
+  },
+  {
+    "desc": "7640 Target's weapon has a +4 bonus while he's standing in water "
+  },
+  {
+    "desc": "7641 Target's weapon has a -4 ToHit penalty while in direct sunlight "
+  },
+  {
+    "desc": "7642 Target's weapon has a constant sheath of frost "
+  },
+  {
+    "desc": "7643 Target's weapon has been broken and reforged many times "
+  },
+  {
+    "desc": "7644 Target's weapon has been prophesied to kill the king "
+  },
+  {
+    "desc": "7645 Target's weapon has never been tempered or hardened "
+  },
+  {
+    "desc": "7646 Target's weapon heats to 1,000° the next time it draws blood "
+  },
+  {
+    "desc": "7647 Target's weapon hisses during battle like quenched steel "
+  },
+  {
+    "desc": "7648 Target's weapon hums audibly during battle "
+  },
+  {
+    "desc": "7649 Target's weapon induces a fear of magic in anyone wounded by it "
+  },
+  {
+    "desc": "7650 Target's weapon induces pessimism in his allies during melee "
+  },
+  {
+    "desc": "7651 Target's weapon induces racial hatred in Dwarves and Elves "
+  },
+  {
+    "desc": "7652 Target's weapon induces vertigo in anyone wielding it "
+  },
+  {
+    "desc": "7653 Target's weapon induces vertigo in anyone wounded by it "
+  },
+  {
+    "desc": "7654 Target's weapon inflates like a balloon  64"
+  },
+  {
+    "desc": "7655 Target's weapon inspires him to embark on a murderous rampage "
+  },
+  {
+    "desc": "7656 Target's weapon instills Fear in any who've been wounded by it "
+  },
+  {
+    "desc": "7657 Target's weapon instills Fear in goblins and kobolds "
+  },
+  {
+    "desc": "7658 Target's weapon instills Fear in him after each battle "
+  },
+  {
+    "desc": "7659 Target's weapon instills Fear in his allies during battle "
+  },
+  {
+    "desc": "7660 Target's weapon instills Fear in its wielder during melee "
+  },
+  {
+    "desc": "7661 Target's weapon is 5% likely to explode when it inflicts damage "
+  },
+  {
+    "desc": "7662 Target's weapon is 5% likely to kill whomever it next injures "
+  },
+  {
+    "desc": "7663 Target's weapon is 5% likely to melt when immersed in water "
+  },
+  {
+    "desc": "7664 Target's weapon is 5% likely to sever its wielder's hand "
+  },
+  {
+    "desc": "7665 Target's weapon is 5% likely to start a war when it draws blood "
+  },
+  {
+    "desc": "7666 Target's weapon is 5% likely to turn to glass in each battle "
+  },
+  {
+    "desc": "7667 Target's weapon is +4 against anyone with an intelligent weapon "
+  },
+  {
+    "desc": "7668 Target's weapon is 10% likely to inflict tetanus upon its wielder "
+  },
+  {
+    "desc": "7669 Target's weapon is 20% likely to droop like a noodle in battle "
+  },
+  {
+    "desc": "7670 Target's weapon is 20% likely to poison him when it draws blood "
+  },
+  {
+    "desc": "7671 Target's weapon is 20% likely to turn ethereal during battle "
+  },
+  {
+    "desc": "7672 Target's weapon is 20% likely to vanish each time he draws it "
+  },
+  {
+    "desc": "7673 Target's weapon is a holy relic for a decadent tribe of kobolds "
+  },
+  {
+    "desc": "7674 Target's weapon is a legendary item straight out of myth "
+  },
+  {
+    "desc": "7675 Target's weapon is a mighty but hitherto unknown artifact "
+  },
+  {
+    "desc": "7676 Target's weapon is a prized relic stolen from the Royal Armory "
+  },
+  {
+    "desc": "7677 Target's weapon is as pliant as soft clay for 1d4 rounds "
+  },
+  {
+    "desc": "7678 Target's weapon is as supple as silk for 1d4 turns "
+  },
+  {
+    "desc": "7679 Target's weapon is bent into a torc around his neck "
+  },
+  {
+    "desc": "7680 Target's weapon is bent into the shape of a paperclip "
+  },
+  {
+    "desc": "7681 Target's weapon is chained by its hilt to a collar about his neck "
+  },
+  {
+    "desc": "7682 Target's weapon is chained by its hilt to the nearest boulder "
+  },
+  {
+    "desc": "7683 Target's weapon is clear like glass but is all but unbreakable "
+  },
+  {
+    "desc": "7684 Target's weapon is cloned "
+  },
+  {
+    "desc": "7685 Target's weapon is edible, but only to him "
+  },
+  {
+    "desc": "7686 Target's weapon is embarrassed to be seen with him "
+  },
+  {
+    "desc": "7687 Target's weapon is etched with his likeness "
+  },
+  {
+    "desc": "7688 Target's weapon is guilty of numerous capital crimes "
+  },
+  {
+    "desc": "7689 Target's weapon is highly elastic along its long axis until dawn "
+  },
+  {
+    "desc": "7690 Target's weapon is immune to rust and the passage of time "
+  },
+  {
+    "desc": "7691 Target's weapon is intensely coveted by demonic hordes "
+  },
+  {
+    "desc": "7692 Target's weapon is intensely coveted by pacifistic monks "
+  },
+  {
+    "desc": "7693 Target's weapon is invisible to everyone else during battle "
+  },
+  {
+    "desc": "7694 Target's weapon is invisible to him in daylight "
+  },
+  {
+    "desc": "7695 Target's weapon is invisible to him until it draws his blood "
+  },
+  {
+    "desc": "7696 Target's weapon is nearly indestructible but dissolves in water "
+  },
+  {
+    "desc": "7697 Target's weapon is part of a set sought by a wealthy collector "
+  },
+  {
+    "desc": "7698 Target's weapon is perfectly balanced for a non-magical +2 ToHit "
+  },
+  {
+    "desc": "7699 Target's weapon is permanently -2 ToHit "
+  },
+  {
+    "desc": "7700 Target's weapon is refurbished to better-than-new condition "
+  },
+  {
+    "desc": "7701 Target's weapon is replaced by a vastly inferior replica "
+  },
+  {
+    "desc": "7702 Target's weapon is replaced by an indestructible replica "
+  },
+  {
+    "desc": "7703 Target's weapon is riddled with holes but functions normally "
+  },
+  {
+    "desc": "7704 Target's weapon is sheathed in a scab-like shell "
+  },
+  {
+    "desc": "7705 Target's weapon is sheathed in a shell of chocolate "
+  },
+  {
+    "desc": "7706 Target's weapon is sheathed in a soft wool tube "
+  },
+  {
+    "desc": "7707 Target's weapon is stuck high in the branches of a nearby tree "
+  },
+  {
+    "desc": "7708 Target's weapon is suddenly 10d100 years older "
+  },
+  {
+    "desc": "7709 Target's weapon is thrown 1d1000 years into the past "
+  },
+  {
+    "desc": "7710 Target's weapon is tied to both of the target's hands "
+  },
+  {
+    "desc": "7711 Target's weapon is translucent like smoked glass "
+  },
+  {
+    "desc": "7712 Target's weapon is twisted like a corkscrew "
+  },
+  {
+    "desc": "7713 Target's weapon is vulnerable to magical fire while he wields it "
+  },
+  {
+    "desc": "7714 Target's weapon is weightless when not in use "
+  },
+  {
+    "desc": "7715 Target's weapon kills him outright if used against him "
+  },
+  {
+    "desc": "7716 Target's weapon makes him 1d20 years older while it's drawn "
+  },
+  {
+    "desc": "7717 Target's weapon makes him appear somehow less imposing "
+  },
+  {
+    "desc": "7718 Target's weapon makes him highly susceptible illusion magic "
+  },
+  {
+    "desc": "7719 Target's weapon melts if ever it's immersed in sea water "
+  },
+  {
+    "desc": "7720 Target's weapon melts like a candle "
+  },
+  {
+    "desc": "7721 Target's weapon must be fed one mouse or rat per day, or it dies "
+  },
+  {
+    "desc": "7722 Target's weapon passes through armor unimpeded "
+  },
+  {
+    "desc": "7723 Target's weapon passes through flesh unimpeded "
+  },
+  {
+    "desc": "7724 Target's weapon practically reeks of malevolent hatred "
+  },
+  {
+    "desc": "7725 Target's weapon puts forth huge plumes of smoke while it's drawn "
+  },
+  {
+    "desc": "7726 Target's weapon renders him mute for 1d8 hours after each battle "
+  },
+  {
+    "desc": "7727 Target's weapon repels his allies while it's drawn "
+  },
+  {
+    "desc": "7728 Target's weapon repels non-magical vermin "
+  },
+  {
+    "desc": "7729 Target's weapon repels normal flame to a distance of one foot "
+  },
+  {
+    "desc": "7730 Target's weapon repels oxygen while it's drawn "
+  },
+  {
+    "desc": "7731 Target's weapon ridicules him in front of his allies "
+  },
+  {
+    "desc": "7732 Target's weapon rings like a bell to mark the hours "
+  },
+  {
+    "desc": "7733 Target's weapon shatters the next time he's burned by fire "
+  },
+  {
+    "desc": "7734 Target's weapon shatters the next time it strikes metal "
+  },
+  {
+    "desc": "7735 Target's weapon shrieks until sunset tomorrow "
+  },
+  {
+    "desc": "7736 Target's weapon shrinks by 75% upon contact with blood "
+  },
+  {
+    "desc": "7737 Target's weapon shrinks to 10% of its normal size "
+  },
+  {
+    "desc": "7738 Target's weapon spins rapidly around its axis for 10d10 rounds "
+  },
+  {
+    "desc": "7739 Target's weapon sprouts 1d100 teeth along its length "
+  },
+  {
+    "desc": "7740 Target's weapon sprouts leaves "
+  },
+  {
+    "desc": "7741 Target's weapon starts bleeding profusely "
+  },
+  {
+    "desc": "7742 Target's weapon teleports exactly 1d10 yards due north "
+  },
+  {
+    "desc": "7743 Target's weapon teleports to the caster's home "
+  },
+  {
+    "desc": "7744 Target's weapon teleports to the target, 1d4 weeks in the future "
+  },
+  {
+    "desc": "7745 Target's weapon thinks that he's its mother "
+  },
+  {
+    "desc": "7746 Target's weapon turns ethereal in the presence of other weapons "
+  },
+  {
+    "desc": "7747 Target's weapon turns inside-out "
+  },
+  {
+    "desc": "7748 Target's weapon turns into a rattan simulation "
+  },
+  {
+    "desc": "7749 Target's weapon turns into a replica of the caster's weapon "
+  },
+  {
+    "desc": "7750 Target's weapon turns into a shield for 1d4 days "
+  },
+  {
+    "desc": "7751 Target's weapon turns into a small glass replica when not in use "
+  },
+  {
+    "desc": "7752 Target's weapon turns into a two-by-four eight feet in length "
+  },
+  {
+    "desc": "7753 Target's weapon turns into an umbrella under each full moon "
+  },
+  {
+    "desc": "7754 Target's weapon turns to lightweight plastic "
+  },
+  {
+    "desc": "7755 Target's weapon turns to sodium during the next rainstorm "
+  },
+  {
+    "desc": "7756 Target's weapon urges him to leap from the nearest bridge "
+  },
+  {
+    "desc": "7757 Target's weapon vanishes until he dies "
+  },
+  {
+    "desc": "7758 Target's weapon vanishes when he dies "
+  },
+  {
+    "desc": "7759 Target's weapon was forged by his descendent years in the future "
+  },
+  {
+    "desc": "7760 Target's weapon was forged by someone who has never existed "
+  },
+  {
+    "desc": "7761 Target's weapon was forged from the bones of a slain god "
+  },
+  {
+    "desc": "7762 Target's weapon was forged in a volcano by demonic weaponsmiths "
+  },
+  {
+    "desc": "7763 Target's weapon was forged on the western slope of Heaven "
+  },
+  {
+    "desc": "7764 Target's weapon was lost in a tragic shipwreck decades ago "
+  },
+  {
+    "desc": "7765 Target's weapon was shrinks him by 5% each time it draws blood "
+  },
+  {
+    "desc": "7766 Target's weapon was stolen from the gods, and they want it back "
+  },
+  {
+    "desc": "7767 Target's weapon weighs as much as he does "
+  },
+  {
+    "desc": "7768 Target's weapon whispers terrible secrets to any who wield it "
+  },
+  {
+    "desc": "7769 Target's weapon will be instrumental in the world's destruction "
+  },
+  {
+    "desc": "7770 Target's weapon will be irretrievably lost by this time tomorrow "
+  },
+  {
+    "desc": "7771 Target's weapons and gear teleport 10d10 yards into the air "
+  },
+  {
+    "desc": "7772 Target's weight quadruples while he's swimming or wading "
+  },
+  {
+    "desc": "7773 Target's weight temporarily doubles with each step upon a bridge "
+  },
+  {
+    "desc": "7774 Teleportation is impossible within 10 yards of target "
+  },
+  {
+    "desc": "7775 The bones of target's hand and feet turn to high-grade steel "
+  },
+  {
+    "desc": "7776 The buzzing of bees fills the air whenever target draws a weapon "
+  },
+  {
+    "desc": "7777 The flesh of target's face pulses as though full of maggots "
+  },
+  {
+    "desc": "7778 The ground beneath target's feet briefly acts as a trampoline "
+  },
+  {
+    "desc": "7779 The ground beneath target's feet briefly shines like the sun "
+  },
+  {
+    "desc": "7780 The ground beneath target's feet collapses into a cave below "
+  },
+  {
+    "desc": "7781 The ground beneath target's feet contains an unquiet spirit "
+  },
+  {
+    "desc": "7782 The ground now at target's feet acquires sentience "
+  },
+  {
+    "desc": "7783 The ground now at target's feet appears in the caster's home "
+  },
+  {
+    "desc": "7784 The ground now at target's feet breaks off and drifts out to sea  65"
+  },
+  {
+    "desc": "7785 The ground now at target's feet collapses into a cavern below "
+  },
+  {
+    "desc": "7786 The ground now at target's feet conceals a sacred cairn "
+  },
+  {
+    "desc": "7787 The ground now at target's feet explodes for 10d10 hit points "
+  },
+  {
+    "desc": "7788 The ground now at target's feet exudes noxious and fetid vapors "
+  },
+  {
+    "desc": "7789 The ground now at target's feet heats to 10 x 1d100 degrees "
+  },
+  {
+    "desc": "7790 The ground now at target's feet hides the gate to a buried city "
+  },
+  {
+    "desc": "7791 The ground now at target's feet hurls him 1d4 miles away "
+  },
+  {
+    "desc": "7792 The ground now at target's feet is a blanket over a deep pit "
+  },
+  {
+    "desc": "7793 The ground now at target's feet is a portal to some nether plane "
+  },
+  {
+    "desc": "7794 The ground now at target's feet is an illusion "
+  },
+  {
+    "desc": "7795 The ground now at target's feet is charred black as by a bonfire "
+  },
+  {
+    "desc": "7796 The ground now at target's feet is dangerously slick with ice "
+  },
+  {
+    "desc": "7797 The ground now at target's feet is edible "
+  },
+  {
+    "desc": "7798 The ground now at target's feet is forever barren of vegetation "
+  },
+  {
+    "desc": "7799 The ground now at target's feet is fused into glass "
+  },
+  {
+    "desc": "7800 The ground now at target's feet is intensely magnetic "
+  },
+  {
+    "desc": "7801 The ground now at target's feet is invisible to him "
+  },
+  {
+    "desc": "7802 The ground now at target's feet is obviously artificial "
+  },
+  {
+    "desc": "7803 The ground now at target's feet is powerfully toxic to him "
+  },
+  {
+    "desc": "7804 The ground now at target's feet is soaked with blood "
+  },
+  {
+    "desc": "7805 The ground now at target's feet is strewn with shards of metal "
+  },
+  {
+    "desc": "7806 The ground now at target's feet is strongly adhesive "
+  },
+  {
+    "desc": "7807 The ground now at target's feet is the back of a huge turtle "
+  },
+  {
+    "desc": "7808 The ground now at target's feet is the top of a buried column "
+  },
+  {
+    "desc": "7809 The ground now at target's feet is yanked from under him "
+  },
+  {
+    "desc": "7810 The ground now at target's feet rises 10d10 yards into the air "
+  },
+  {
+    "desc": "7811 The ground now at target's feet seems to move like a ship's deck "
+  },
+  {
+    "desc": "7812 The ground now at target's feet shines as bright as the sun "
+  },
+  {
+    "desc": "7813 The ground now at target's feet sinks 1d10 yards into the ground "
+  },
+  {
+    "desc": "7814 The ground now at target's feet starts to digest him "
+  },
+  {
+    "desc": "7815 The ground now at target's feet suppresses magic within 10 yards "
+  },
+  {
+    "desc": "7816 The ground now at target's feet turns to cement and hardens "
+  },
+  {
+    "desc": "7817 The ground now at target's feet turns to cobblestone "
+  },
+  {
+    "desc": "7818 The ground now at target's feet turns to molten glass "
+  },
+  {
+    "desc": "7819 The ground now at target's feet turns to quicksand "
+  },
+  {
+    "desc": "7820 The ground now at target's feet turns to warm butter "
+  },
+  {
+    "desc": "7821 The ground now at target's feet whispers horrific threats to him "
+  },
+  {
+    "desc": "7822 The left half of target's skeleton rebels against the right "
+  },
+  {
+    "desc": "7823 The left half of target's skeleton vanishes "
+  },
+  {
+    "desc": "7824 The right half of target's head vanishes, but he is unharmed "
+  },
+  {
+    "desc": "7825 The scent of the target's blood induces Fear in others "
+  },
+  {
+    "desc": "7826 The scent of the target's blood induces paranoid delusions "
+  },
+  {
+    "desc": "7827 The scent of the target's blood induces profound calm in horses "
+  },
+  {
+    "desc": "7828 The scent of the target's blood inspires savage bloodlust "
+  },
+  {
+    "desc": "7829 The sight of the target's weapon affects undead like sunlight "
+  },
+  {
+    "desc": "7830 The sight of the target's weapon induces intense covetousness "
+  },
+  {
+    "desc": "7831 The target is blamed for the worst thing that has ever happened "
+  },
+  {
+    "desc": "7832 The target takes credit for all sorts of diplomatic successes "
+  },
+  {
+    "desc": "7833 The top few inches of target's head vanish, but he is unharmed "
+  },
+  {
+    "desc": "7834 Thousands of nails are embedded harmlessly in target's flesh "
+  },
+  {
+    "desc": "7835 Thousands of snails rain down harmlessly upon the target "
+  },
+  {
+    "desc": "7836 To the target, all liquids taste like acrid poison "
+  },
+  {
+    "desc": "7837 To the target, all liquids taste like his own blood "
+  },
+  {
+    "desc": "7838 To the target, all liquids taste like strong vinegar "
+  },
+  {
+    "desc": "7839 To the target, all liquids taste like the sweetest nectar "
+  },
+  {
+    "desc": "7840 To the target, everyone appears to be a hideously decayed corpse "
+  },
+  {
+    "desc": "7841 To the target, everyone appears to be an artificial approximation "
+  },
+  {
+    "desc": "7842 To the target, everyone appears to be plated in gold "
+  },
+  {
+    "desc": "7843 To the target, the previous 1d4 rounds were only a dream "
+  },
+  {
+    "desc": "7844 Undead are attracted to the target as though he can help them "
+  },
+  {
+    "desc": "7845 Undead are invisible to the target "
+  },
+  {
+    "desc": "7846 Undead can't speak in the target's presence "
+  },
+  {
+    "desc": "7847 Undead declare a coordinated war against the target "
+  },
+  {
+    "desc": "7848 Undead ignore target and can't be harmed by him "
+  },
+  {
+    "desc": "7849 Undead recognize the target as one of their own "
+  },
+  {
+    "desc": "7850 Undead that attack the target are 40% likely to be Turned "
+  },
+  {
+    "desc": "7851 Undead will not relent until the target is also undead "
+  },
+  {
+    "desc": "7852 Until dawn, target resembles the person who last wounded him "
+  },
+  {
+    "desc": "7853 Until sunset tonight, all within one mile want to kill the target "
+  },
+  {
+    "desc": "7854 Vines bind the target tightly to a nearby tree "
+  },
+  {
+    "desc": "7855 Vines sprout from any open wounds the target now has "
+  },
+  {
+    "desc": "7856 Vines sprout from the ground at target's feet and attack him "
+  },
+  {
+    "desc": "7857 Vines sprout from the target's weapon and bind his limbs "
+  },
+  {
+    "desc": "7858 Viscous slime drips from the target's mouth from now on "
+  },
+  {
+    "desc": "7859 Water always feels 50° colder to the target "
+  },
+  {
+    "desc": "7860 Water boils on contact with the target's flesh "
+  },
+  {
+    "desc": "7861 Water gives no benefit to target if imbibed while indoors "
+  },
+  {
+    "desc": "7862 Water has no weight when carried by the target "
+  },
+  {
+    "desc": "7863 Water induces amnesia in target if ingested between dawn and noon "
+  },
+  {
+    "desc": "7864 Water is a deadly poison to target for 2d12 hours "
+  },
+  {
+    "desc": "7865 Water is invisible while within 10 feet of the target "
+  },
+  {
+    "desc": "7866 Water is toxic to target if ingested between noon and dusk "
+  },
+  {
+    "desc": "7867 Water spews from target's ears during battle "
+  },
+  {
+    "desc": "7868 Waterfowl attack the target on sight "
+  },
+  {
+    "desc": "7869 Waterfowl swear eternal loyalty to the target "
+  },
+  {
+    "desc": "7870 Weapons are invisible to the target while he wields them "
+  },
+  {
+    "desc": "7871 Whatever is now in target's hand heats to 500° "
+  },
+  {
+    "desc": "7872 Whatever is now in target's hand is embossed with his name "
+  },
+  {
+    "desc": "7873 Whatever is now in target's hand is replaced by a sunflower "
+  },
+  {
+    "desc": "7874 Whatever is now in target's hand is worth 10X its normal value "
+  },
+  {
+    "desc": "7875 Whatever is now in target's hand now belongs to the caster "
+  },
+  {
+    "desc": "7876 Whatever is now in target's hand turns to gold "
+  },
+  {
+    "desc": "7877 Whatever is now in target's hand vanishes for 1d6 days "
+  },
+  {
+    "desc": "7878 Whatever is now in target's hand weighs more than he does "
+  },
+  {
+    "desc": "7879 Whatever target does, he claims some bizarre, fantastical motive "
+  },
+  {
+    "desc": "7880 Whatever target does, he claims to be fulfilling his deity's will "
+  },
+  {
+    "desc": "7881 Whatever target is wearing is stuck to him like glue "
+  },
+  {
+    "desc": "7882 When caster dies, target begins aging 1d10 years per round "
+  },
+  {
+    "desc": "7883 When injured, target is 5% likely to fly into a berserker rage "
+  },
+  {
+    "desc": "7884 When injured, target is 10% likely to attack his nearest ally "
+  },
+  {
+    "desc": "7885 When injured, target must Save or go blind until the next round "
+  },
+  {
+    "desc": "7886 When injured, target weeps like a baby for 1d10 rounds "
+  },
+  {
+    "desc": "7887 When target dies, all within one mile are struck blind until dawn "
+  },
+  {
+    "desc": "7888 When target dies, countless abhorrent deeds are attributed to him "
+  },
+  {
+    "desc": "7889 When target dies, everyone who knew him forgets all about him "
+  },
+  {
+    "desc": "7890 When target dies, he is posthumously crowned king "
+  },
+  {
+    "desc": "7891 When target dies, he is rumored never to have existed "
+  },
+  {
+    "desc": "7892 When target dies, he's immediately resurrected 10d100 miles away "
+  },
+  {
+    "desc": "7893 When target dies, his corpse animates and races to this spot "
+  },
+  {
+    "desc": "7894 When target dies, his corpse attacks the nearest person "
+  },
+  {
+    "desc": "7895 When target dies, his corpse burns with green flame until sunset "
+  },
+  {
+    "desc": "7896 When target dies, his corpse grows by a factor of 2d10 "
+  },
+  {
+    "desc": "7897 When target dies, his corpse immediately turns to granite "
+  },
+  {
+    "desc": "7898 When target dies, his corpse metamorphoses into something awful "
+  },
+  {
+    "desc": "7899 When target dies, his corpse runs wild through the nearest town "
+  },
+  {
+    "desc": "7900 When target dies, his corpse teleports into the caster's home "
+  },
+  {
+    "desc": "7901 When target dies, his killer is hailed as a national hero "
+  },
+  {
+    "desc": "7902 When target dies, his killer is named his executor "
+  },
+  {
+    "desc": "7903 When target dies, his skeleton animates as a free willed undead "
+  },
+  {
+    "desc": "7904 When target dies, his soul commandeers the nearest undead body "
+  },
+  {
+    "desc": "7905 When target dies, his soul is trapped in his weapon "
+  },
+  {
+    "desc": "7906 When target draws a weapon, a nearby tree drops its leaves "
+  },
+  {
+    "desc": "7907 When target draws a weapon, he can't put it down until sunset "
+  },
+  {
+    "desc": "7908 When target draws a weapon, he feels that he'll die in 1d6 rounds "
+  },
+  {
+    "desc": "7909 When target draws a weapon, he must declare his name and title "
+  },
+  {
+    "desc": "7910 When target draws a weapon, he must draw blood within 1d6 rounds "
+  },
+  {
+    "desc": "7911 When target draws a weapon, he must pass a DEX check or drop it "
+  },
+  {
+    "desc": "7912 When target draws a weapon, he must Save or lose 1d4-1 hit points "
+  },
+  {
+    "desc": "7913 When target draws a weapon, he's randomly teleported 1d20 yards "
+  },
+  {
+    "desc": "7914 When target draws a weapon, he's stricken with intense fear  66"
+  },
+  {
+    "desc": "7915 When target draws a weapon, he's stunned for 1d4 rounds "
+  },
+  {
+    "desc": "7916 When target draws a weapon, his allies all shout his name "
+  },
+  {
+    "desc": "7917 When target draws a weapon, his weapon arm glows like a firefly "
+  },
+  {
+    "desc": "7918 When target draws a weapon, it costs him 1d4 gold pieces "
+  },
+  {
+    "desc": "7919 When target draws a weapon, it turns invisible for 1d4 rounds "
+  },
+  {
+    "desc": "7920 When target draws a weapon, me must Save or become wildly drunk "
+  },
+  {
+    "desc": "7921 When target draws a weapon, someone nearby declares him a coward "
+  },
+  {
+    "desc": "7922 When target draws a weapon, someone nearby laughs at him "
+  },
+  {
+    "desc": "7923 When target draws a weapon, the scent of eggs fills the air "
+  },
+  {
+    "desc": "7924 When target is next struck by magic, he becomes chaotic evil "
+  },
+  {
+    "desc": "7925 When target is next struck by magic, he becomes powerfully drunk "
+  },
+  {
+    "desc": "7926 When target is next struck by magic, he hates that spell's caster "
+  },
+  {
+    "desc": "7927 When target is next struck by magic, he teleports 1d6 miles "
+  },
+  {
+    "desc": "7928 When target next sleeps, a small tree sprouts from his chest "
+  },
+  {
+    "desc": "7929 When target next sleeps, everyone nearby dreams of killing him "
+  },
+  {
+    "desc": "7930 When target next sleeps, he sleeps for 2d20 days and nights "
+  },
+  {
+    "desc": "7931 When target next spills blood, any coins he's holding are doubled "
+  },
+  {
+    "desc": "7932 When target next spills blood, he finds 1d1000 gold pieces "
+  },
+  {
+    "desc": "7933 When target next spills blood, he is excommunicated and condemned "
+  },
+  {
+    "desc": "7934 When target next spills blood, he loses 1d10 hit points "
+  },
+  {
+    "desc": "7935 When target next spills blood, he loses any wealth he's carrying "
+  },
+  {
+    "desc": "7936 When target next spills blood, he regains 1d10 hit points "
+  },
+  {
+    "desc": "7937 When target next spills blood, he suffers cannibalistic urges "
+  },
+  {
+    "desc": "7938 When target next spills blood, he suffers dreadful hallucinations "
+  },
+  {
+    "desc": "7939 When target next spills blood, he takes a vow of pacifism "
+  },
+  {
+    "desc": "7940 When target next spills blood, he thinks he'll die by nightfall "
+  },
+  {
+    "desc": "7941 When target next spills blood, he vanishes for 1d4 days "
+  },
+  {
+    "desc": "7942 When target next spills blood, he's thrown 4d8 yards into the air "
+  },
+  {
+    "desc": "7943 When target next spills blood, his allies attack him "
+  },
+  {
+    "desc": "7944 When target next spills blood, his clothes are soaked in it "
+  },
+  {
+    "desc": "7945 When target next spills blood, his clothes burst into flame "
+  },
+  {
+    "desc": "7946 When target next spills blood, his feet take root in the ground "
+  },
+  {
+    "desc": "7947 When target next spills blood, his allies think he's dying "
+  },
+  {
+    "desc": "7948 When target next spills blood, his skin and hair become blood-red "
+  },
+  {
+    "desc": "7949 When target next spills blood, his Strength is halved until dawn "
+  },
+  {
+    "desc": "7950 When target next spills blood, his victim grows obsessed with him "
+  },
+  {
+    "desc": "7951 When target next spills blood, his waterskin fills with blood "
+  },
+  {
+    "desc": "7952 When target next spills blood, his weapon attacks him "
+  },
+  {
+    "desc": "7953 When target next spills blood, his weapon steams and hisses "
+  },
+  {
+    "desc": "7954 When target next spills blood, his weapon vanishes for 1d4 days "
+  },
+  {
+    "desc": "7955 When target next uses rope, he ties an insoluble knot "
+  },
+  {
+    "desc": "7956 When target next uses rope, he's attacked by undead skeletons "
+  },
+  {
+    "desc": "7957 When target next uses rope, it attacks him as if it were a snake "
+  },
+  {
+    "desc": "7958 When target next uses rope, it hauls him high into the air "
+  },
+  {
+    "desc": "7959 When target next uses rope, it shocks him like electrical wire "
+  },
+  {
+    "desc": "7960 When target next uses rope, it winds around him and combusts "
+  },
+  {
+    "desc": "7961 When target rolls a natural 20 ToHit, he wounds himself instead "
+  },
+  {
+    "desc": "7962 When target rolls a natural 20 ToHit, his weapon explodes "
+  },
+  {
+    "desc": "7963 When target says his name, he adds a wildly effusive honorific "
+  },
+  {
+    "desc": "7964 When target says his name, he can't tell a lie for one hour "
+  },
+  {
+    "desc": "7965 When target says his name, his age doubles "
+  },
+  {
+    "desc": "7966 When target says his name, his clothes are soaked with brine "
+  },
+  {
+    "desc": "7967 When target says his name, his clothes become amazingly clean "
+  },
+  {
+    "desc": "7968 When target says his name, mocking laughter echoes in the sky "
+  },
+  {
+    "desc": "7969 When target says his name, someone nearby adopts his name "
+  },
+  {
+    "desc": "7970 When target says his name, someone nearby forgets his own name "
+  },
+  {
+    "desc": "7971 When target says his name, someone nearby weeps openly "
+  },
+  {
+    "desc": "7972 When target sees or is hit by magic, he giggles for 1d10 rounds "
+  },
+  {
+    "desc": "7973 When target sees or is hit by magic, his head becomes invisible "
+  },
+  {
+    "desc": "7974 When target sneezes, 1d4 nearby trees are rendered invisible "
+  },
+  {
+    "desc": "7975 When target sneezes, bits of hot gravel spray from his nostrils "
+  },
+  {
+    "desc": "7976 When target uses magic, he thinks he's spinning rapidly "
+  },
+  {
+    "desc": "7977 While outdoors, target feels uncomfortable walking upright "
+  },
+  {
+    "desc": "7978 While outdoors, target perceives everything to be shrouded in fog "
+  },
+  {
+    "desc": "7979 While target sleeps, he dreams that he's in hell "
+  },
+  {
+    "desc": "7980 While target sleeps, he dreams that he's undergoing surgery "
+  },
+  {
+    "desc": "7981 While target sleeps, he is invisible and inaudible to his allies "
+  },
+  {
+    "desc": "7982 While target sleeps, he sees and hears through the caster "
+  },
+  {
+    "desc": "7983 While target sleeps, he's 40% likely to regain 1d10 hit points "
+  },
+  {
+    "desc": "7984 While target sleeps, he's absolutely invulnerable to harm "
+  },
+  {
+    "desc": "7985 While target sleeps, he's bound by countless spider webs "
+  },
+  {
+    "desc": "7986 While target sleeps, his body races away in a random direction "
+  },
+  {
+    "desc": "7987 While target sleeps, his clothes deteriorate to filthy rags "
+  },
+  {
+    "desc": "7988 While target sleeps, someone writes obscene limericks on his skin "
+  },
+  {
+    "desc": "7989 While target stands still, he rotates slowly counter-clockwise "
+  },
+  {
+    "desc": "7990 While target stands still, pigeons treat him just like a statue "
+  },
+  {
+    "desc": "7991 Yesterday, target ate 1d10 pounds of baked beans "
+  },
+  {
+    "desc": "7992 Yesterday, target had dark premonitions of this exact moment "
+  },
+  {
+    "desc": "7993 Yesterday, target ingested some powerful but slow-acting poison "
+  },
+  {
+    "desc": "7994 Yesterday, target learned that he and caster are closely related "
+  },
+  {
+    "desc": "7995 Yesterday, target learned that he had 36 hours left to live "
+  },
+  {
+    "desc": "7996 Yesterday, target stole a magic ruby from a dragon "
+  },
+  {
+    "desc": "7997 Yesterday, target took a sacred vow that he just now violated "
+  },
+  {
+    "desc": "7998 Yesterday, target was sentenced to be executed at dawn tomorrow "
+  },
+  {
+    "desc": "7999 Yesterday, target's feet were burned to a crisp "
+  },
+  {
+    "desc": "8000 Yesterday, target's head was removed and shoddily reattached "
+  }
+]

@@ -1,0 +1,3002 @@
+[
+  {
+    "desc": "4001 1d8 of target's fingers reappear elsewhere on his body "
+  },
+  {
+    "desc": "4002 A handful of small glass marbles tumble from the target's nose "
+  },
+  {
+    "desc": "4003 A heavy chain runs the entire length of target's alimentary canal "
+  },
+  {
+    "desc": "4004 A nearby but invisible heckler pummels the target with tomatoes "
+  },
+  {
+    "desc": "4005 A nearby tree animates and swears allegiance to the target "
+  },
+  {
+    "desc": "4006 A nearby tree becomes ravenously carnivorous and attacks target "
+  },
+  {
+    "desc": "4007 A nearby tree bends down and hurls the target like a catapult "
+  },
+  {
+    "desc": "4008 A nearby tree sprays its bark at the target, briefly blinding him "
+  },
+  {
+    "desc": "4009 A second, identical skeleton appears in the target's body "
+  },
+  {
+    "desc": "4010 A small fire blazes harmlessly in the target's mouth "
+  },
+  {
+    "desc": "4011 A tall picket fence encircles the target "
+  },
+  {
+    "desc": "4012 A tentacle slithers from a nearby cave to grasp the target "
+  },
+  {
+    "desc": "4013 A vital organ is ripped from target's body for 1d100 damage "
+  },
+  {
+    "desc": "4014 All of target's belongings are compressed into a tiny cube nearby  36"
+  },
+  {
+    "desc": "4015 All of target's belongings are seized by the local magistrate "
+  },
+  {
+    "desc": "4016 All of target's belongings are transported beyond the horizon "
+  },
+  {
+    "desc": "4017 All of target's belongings were stolen by a vengeful wizard "
+  },
+  {
+    "desc": "4018 All of target's belongings were stolen from a vengeful wizard "
+  },
+  {
+    "desc": "4019 All that the target has ever done was really done by someone else "
+  },
+  {
+    "desc": "4020 All voices sound alike to the target for 5d6 days "
+  },
+  {
+    "desc": "4021 All within 100 yards with a missile weapon fire it at the target "
+  },
+  {
+    "desc": "4022 Ambient temperature always feels 50° colder to target "
+  },
+  {
+    "desc": "4023 Ambient temperature rises 10° when target is angry "
+  },
+  {
+    "desc": "4024 An earthen duplicate of the target rises up and attacks him "
+  },
+  {
+    "desc": "4025 An earthen duplicate of the target wants to take his place "
+  },
+  {
+    "desc": "4026 An evergreen sprouts from target's chest while he sleeps tonight "
+  },
+  {
+    "desc": "4027 An item carried by target discharges a Chaos Burst when next used "
+  },
+  {
+    "desc": "4028 An item carried by target explodes for 3d10 hit points of damage "
+  },
+  {
+    "desc": "4029 An item carried by target is widely sought for its healing powers "
+  },
+  {
+    "desc": "4030 An item carried by target releases narcotic vapors when next used "
+  },
+  {
+    "desc": "4031 Any attack on target appears not to injure him, even if it does "
+  },
+  {
+    "desc": "4032 Any blade hitting target for maximum damage acquires intelligence "
+  },
+  {
+    "desc": "4033 Any blade hitting target for maximum damage acquires intelligence "
+  },
+  {
+    "desc": "4034 Any blade hitting target for maximum damage also injects a poison "
+  },
+  {
+    "desc": "4035 Any blade hitting target for maximum damage disappears forever "
+  },
+  {
+    "desc": "4036 Any blade hitting target for maximum damage gains a +1 bonus "
+  },
+  {
+    "desc": "4037 Any blade hitting target for maximum damage gets stuck in him "
+  },
+  {
+    "desc": "4038 Any blade hitting target for maximum damage is briefly weightless "
+  },
+  {
+    "desc": "4039 Any blade hitting target for maximum damage must Save or shatter "
+  },
+  {
+    "desc": "4040 Any blade hitting target for maximum damage rapidly corrodes "
+  },
+  {
+    "desc": "4041 Any blade hitting target for maximum damage turns clear as glass "
+  },
+  {
+    "desc": "4042 Any blade hitting target for maximum damage turns to gold "
+  },
+  {
+    "desc": "4043 Any blade hitting target for maximum damage vanishes until sunset "
+  },
+  {
+    "desc": "4044 Any bludgeon that hits the target is 10% likely to shatter "
+  },
+  {
+    "desc": "4045 Any bludgeon that hits the target is thereafter +4 ToHit him "
+  },
+  {
+    "desc": "4046 Any bludgeon that hits the target sprays water like a fountain "
+  },
+  {
+    "desc": "4047 Any bludgeon that hits the target turns to sponge as it does so "
+  },
+  {
+    "desc": "4048 Any clothing or armor now worn by target ages 100 years per round "
+  },
+  {
+    "desc": "4049 Any clothing or armor now worn by target is fireproof until dawn "
+  },
+  {
+    "desc": "4050 Any clothing or armor now worn by target is soaked with tree sap "
+  },
+  {
+    "desc": "4051 Any clothing or armor now worn by target shrinks by 30% "
+  },
+  {
+    "desc": "4052 Any coins that target is now carrying double in value "
+  },
+  {
+    "desc": "4053 Any coins that target is now carrying shrink by 50% "
+  },
+  {
+    "desc": "4054 Any coins that target is now carrying turn to cheese "
+  },
+  {
+    "desc": "4055 Any coins that target is now carrying weigh 100 pounds each "
+  },
+  {
+    "desc": "4056 Any fire damage suffered by target equally affects someone nearby "
+  },
+  {
+    "desc": "4057 Any fire damage suffered by target inflicts 2X normal damage "
+  },
+  {
+    "desc": "4058 Any fire damage suffered by target is delayed for 3d4 rounds "
+  },
+  {
+    "desc": "4059 Any fire damage suffered by target leaves cryptic scars "
+  },
+  {
+    "desc": "4060 Any gems now carried by target are cursed against him "
+  },
+  {
+    "desc": "4061 Any gold now carried by target belongs to a dragon "
+  },
+  {
+    "desc": "4062 Any gold now carried by target combusts like tinder "
+  },
+  {
+    "desc": "4063 Any jewelry that target is wearing heats to 500° "
+  },
+  {
+    "desc": "4064 Any magic items carried by the target glow like embers until dawn "
+  },
+  {
+    "desc": "4065 Any metal now in target's possession becomes intensely magnetic "
+  },
+  {
+    "desc": "4066 Any metal now in target's possession heats to its melting point "
+  },
+  {
+    "desc": "4067 Any metal now in target's possession is as fragile as glass "
+  },
+  {
+    "desc": "4068 Any metal now in target's possession is highly flammable "
+  },
+  {
+    "desc": "4069 Any metal now in target's possession is transparent like glass "
+  },
+  {
+    "desc": "4070 Any metal now in target's possession is water soluble until dawn "
+  },
+  {
+    "desc": "4071 Any metal now in target's possession turns to lead "
+  },
+  {
+    "desc": "4072 Any metal now in target's possession turns to mercury "
+  },
+  {
+    "desc": "4073 Any metal target is now carrying reverts to raw ore "
+  },
+  {
+    "desc": "4074 Any metal weapons that wound the target are dulled for 1d4 rounds "
+  },
+  {
+    "desc": "4075 Any metal weapons that wound the target are hurled 1d8 yards away "
+  },
+  {
+    "desc": "4076 Any metal weapons that wound the target vanish for 1d4 rounds "
+  },
+  {
+    "desc": "4077 Any missile weapon hitting the target inflicts triple damage "
+  },
+  {
+    "desc": "4078 Any missile weapon hitting the target instantly combusts "
+  },
+  {
+    "desc": "4079 Any missile weapon hitting the target is 10% likely to take root "
+  },
+  {
+    "desc": "4080 Any missile weapon hitting the target suddenly triples in weight "
+  },
+  {
+    "desc": "4081 Any missile weapons now carried by target are badly warped "
+  },
+  {
+    "desc": "4082 Any missile weapons now carried by target have 10X normal range "
+  },
+  {
+    "desc": "4083 Any missile weapons now carried by target have a +1 ToHit bonus "
+  },
+  {
+    "desc": "4084 Any missile weapons now carried by target have his name on them "
+  },
+  {
+    "desc": "4085 Any missiles fired at target are affected by Reverse Gravity "
+  },
+  {
+    "desc": "4086 Any missiles fired at target are blown off course by high winds "
+  },
+  {
+    "desc": "4087 Any missiles fired at target instantly sprout wings and fly away "
+  },
+  {
+    "desc": "4088 Any missiles fired at target leave colorful trails in the air "
+  },
+  {
+    "desc": "4089 Any missiles fired at target sound like thunder when they hit "
+  },
+  {
+    "desc": "4090 Any missiles fired at target turn invisible if they hit him "
+  },
+  {
+    "desc": "4091 Any missiles fired near target orbit him like satellites "
+  },
+  {
+    "desc": "4092 Any missiles fired near target shriek as they fly through the air "
+  },
+  {
+    "desc": "4093 Any nearby undead attack the target exclusively for 1d10 rounds "
+  },
+  {
+    "desc": "4094 Any nearby undead defend the target to the best of their ability "
+  },
+  {
+    "desc": "4095 Any nearby undead howl wildly and race toward the target "
+  },
+  {
+    "desc": "4096 Any nearby undead now look disturbingly like the target "
+  },
+  {
+    "desc": "4097 Any nearby undead obey the target for 1d8 rounds "
+  },
+  {
+    "desc": "4098 Any open wounds the target now has are welded closed like metal "
+  },
+  {
+    "desc": "4099 Any packs, pouches, or bags carried by target are full of blood "
+  },
+  {
+    "desc": "4100 Any packs, pouches, or bags carried by target are interconnected "
+  },
+  {
+    "desc": "4101 Any packs, pouches, or bags carried by target double in volume "
+  },
+  {
+    "desc": "4102 Any packs, pouches, or bags carried by target dump their contents "
+  },
+  {
+    "desc": "4103 Any paper, parchment, etc. now carried by target combusts "
+  },
+  {
+    "desc": "4104 Any paper, parchment, etc. now carried by target is fireproof "
+  },
+  {
+    "desc": "4105 Any paper, parchment, etc. now carried by target is rain-soaked "
+  },
+  {
+    "desc": "4106 Any paper, parchment, etc. now carried by target turns to steel "
+  },
+  {
+    "desc": "4107 Any part of target not covered by clothing appears to be skeletal "
+  },
+  {
+    "desc": "4108 Any part of target not covered by clothing is badly sunburned "
+  },
+  {
+    "desc": "4109 Any part of target not covered by clothing is forever invisible "
+  },
+  {
+    "desc": "4110 Any part of target not covered by clothing turns bright orange "
+  },
+  {
+    "desc": "4111 Any part of target now covered by clothing is covered in blisters "
+  },
+  {
+    "desc": "4112 Any part of target now covered by clothing is fireproof "
+  },
+  {
+    "desc": "4113 Any part of target now covered by clothing is forever invisible "
+  },
+  {
+    "desc": "4114 Any part of target now covered by clothing is hideously scarred "
+  },
+  {
+    "desc": "4115 Any spells cast in target's presence seem to originate from him "
+  },
+  {
+    "desc": "4116 Any successful attack on target is 2% likely to kill him "
+  },
+  {
+    "desc": "4117 Any successful attack on target is 10% likely to fail outright "
+  },
+  {
+    "desc": "4118 Any successful attack on target will leave hideous scars "
+  },
+  {
+    "desc": "4119 Any undead now within 10 yards of target attack him until slain "
+  },
+  {
+    "desc": "4120 Any undead now within 10 yards of target combust "
+  },
+  {
+    "desc": "4121 Any undead now within 10 yards of target gain an extra hit die "
+  },
+  {
+    "desc": "4122 Any undead now within 10 yards of target vanish or are destroyed "
+  },
+  {
+    "desc": "4123 Any water elemental touching or touched by target freezes solid "
+  },
+  {
+    "desc": "4124 Any water elemental touching or touched by target heats to 200° "
+  },
+  {
+    "desc": "4125 Any water elemental touching or touched by target is set ablaze "
+  },
+  {
+    "desc": "4126 Any water elemental touching or touched by target splits in two "
+  },
+  {
+    "desc": "4127 Any water now in contact with target's body freezes solid "
+  },
+  {
+    "desc": "4128 Any water now in contact with target's body is poisonous to him "
+  },
+  {
+    "desc": "4129 Any water now in contact with target's body turns to glue "
+  },
+  {
+    "desc": "4130 Any water now in contact with target's body turns to lamp oil "
+  },
+  {
+    "desc": "4131 Any water now in contact with target's body turns to mud "
+  },
+  {
+    "desc": "4132 Any water now in contact with target's body turns to stone "
+  },
+  {
+    "desc": "4133 Any wooden weapons that wound the target are invisible until dawn "
+  },
+  {
+    "desc": "4134 Any wooden weapons that wound the target become heavy as lead "
+  },
+  {
+    "desc": "4135 Any wooden weapons that wound the target burst into flame "
+  },
+  {
+    "desc": "4136 Any wooden weapons that wound the target must Save or shatter "
+  },
+  {
+    "desc": "4137 Any wooden weapons that wound the target turn to steel until dawn "
+  },
+  {
+    "desc": "4138 Any wooden weapons that wound the target vanish until he's dead "
+  },
+  {
+    "desc": "4139 Anyone cutting target with a blade ages 1d10 years until sunset "
+  },
+  {
+    "desc": "4140 Anyone cutting target with a blade briefly turns orange "
+  },
+  {
+    "desc": "4141 Anyone cutting target with a blade can't sleep for 1d4 days "
+  },
+  {
+    "desc": "4142 Anyone cutting target with a blade can't speak to him until dawn "
+  },
+  {
+    "desc": "4143 Anyone cutting target with a blade feels heartwarming glee "
+  },
+  {
+    "desc": "4144 Anyone cutting target with a blade feels incredible hunger  37"
+  },
+  {
+    "desc": "4145 Anyone cutting target with a blade feels momentarily dizzy "
+  },
+  {
+    "desc": "4146 Anyone cutting target with a blade feels overwhelming dread "
+  },
+  {
+    "desc": "4147 Anyone cutting target with a blade feels the same amount of pain "
+  },
+  {
+    "desc": "4148 Anyone cutting target with a blade feels unsettling dÈj‡ vu "
+  },
+  {
+    "desc": "4149 Anyone cutting target with a blade gets an electric shock "
+  },
+  {
+    "desc": "4150 Anyone cutting target with a blade has awful dreams for one week "
+  },
+  {
+    "desc": "4151 Anyone cutting target with a blade immediately apologizes for it "
+  },
+  {
+    "desc": "4152 Anyone cutting target with a blade is briefly blinded "
+  },
+  {
+    "desc": "4153 Anyone cutting target with a blade is briefly invisible "
+  },
+  {
+    "desc": "4154 Anyone cutting target with a blade is briefly rendered mute "
+  },
+  {
+    "desc": "4155 Anyone cutting target with a blade is paralyzed for 1d4 rounds "
+  },
+  {
+    "desc": "4156 Anyone cutting target with a blade is soaked with goat's milk "
+  },
+  {
+    "desc": "4157 Anyone cutting target with a blade is soaked with his own blood "
+  },
+  {
+    "desc": "4158 Anyone cutting target with a blade loses one hit point "
+  },
+  {
+    "desc": "4159 Anyone cutting target with a blade suffers visions of damnation "
+  },
+  {
+    "desc": "4160 Anyone cutting target with a blade teleports 1d6 feet "
+  },
+  {
+    "desc": "4161 Anyone cutting target with a blade thinks he's an ally "
+  },
+  {
+    "desc": "4162 Anyone cutting target with a blade thinks the target is immortal "
+  },
+  {
+    "desc": "4163 Anyone cutting target with a blade vanishes for 1d4 rounds "
+  },
+  {
+    "desc": "4164 Anyone looking into the target's ear has visions of debauchery "
+  },
+  {
+    "desc": "4165 Anyone looking into the target's ear has visions of his own death "
+  },
+  {
+    "desc": "4166 Anyone looking into the target's ear has visions of the hereafter "
+  },
+  {
+    "desc": "4167 Anyone looking into the target's ear suffers intense vertigo "
+  },
+  {
+    "desc": "4168 Anyone nearby when target is wounded applauds for 1d4 rounds "
+  },
+  {
+    "desc": "4169 Anyone nearby when target is wounded must Save or begin weeping "
+  },
+  {
+    "desc": "4170 Anyone nearby when target is wounded must Save or flee in panic "
+  },
+  {
+    "desc": "4171 Anyone nearby when target is wounded must Save or pass out "
+  },
+  {
+    "desc": "4172 Anyone nearby wielding a wooden weapon hits the target with it "
+  },
+  {
+    "desc": "4173 Anyone nearby wielding a wooden weapon is invisible to the target "
+  },
+  {
+    "desc": "4174 Anyone nearby wielding a wooden weapon offers it to the target "
+  },
+  {
+    "desc": "4175 Anyone nearby wielding a wooden weapon throws it at the target "
+  },
+  {
+    "desc": "4176 Anyone nearby with a drawn blade attacks target for 1d4 rounds "
+  },
+  {
+    "desc": "4177 Anyone nearby with a drawn blade can't use it against the target "
+  },
+  {
+    "desc": "4178 Anyone nearby with a drawn blade races away from the target "
+  },
+  {
+    "desc": "4179 Anyone nearby with a drawn blade shouts the target's name "
+  },
+  {
+    "desc": "4180 Anyone slain by target's weapon can never be resurrected "
+  },
+  {
+    "desc": "4181 Anyone touching the target in the next turn adopts his name "
+  },
+  {
+    "desc": "4182 Anyone touching the target in the next turn is briefly paralyzed "
+  },
+  {
+    "desc": "4183 Anyone touching the target in the next turn loses 1d10 hit points "
+  },
+  {
+    "desc": "4184 Anyone touching the target in the next turn suffers severe burns "
+  },
+  {
+    "desc": "4185 Anyone who wounds the target is 5% likely to kill him outright "
+  },
+  {
+    "desc": "4186 Anyone who wounds the target must Save or age 1d10 years "
+  },
+  {
+    "desc": "4187 Anyone who wounds the target must Save or be equally wounded "
+  },
+  {
+    "desc": "4188 Anyone who wounds the target must Save or disarm themselves "
+  },
+  {
+    "desc": "4189 Anyone who wounds the target must Save or fall unconscious "
+  },
+  {
+    "desc": "4190 Anyone who wounds the target must Save or sink into the ground "
+  },
+  {
+    "desc": "4191 Anyone who wounds the target must Save or teleport 1d4 miles "
+  },
+  {
+    "desc": "4192 Anyone who wounds the target must Save or temporarily shrink 25% "
+  },
+  {
+    "desc": "4193 Armor is always invisible while worn by the target "
+  },
+  {
+    "desc": "4194 As target is wounded more severely, he's less likely to sense it "
+  },
+  {
+    "desc": "4195 At any crossroads, target feels utterly lost "
+  },
+  {
+    "desc": "4196 At any crossroads, target is inclined to turn back "
+  },
+  {
+    "desc": "4197 At any crossroads, target is inclined to turn left "
+  },
+  {
+    "desc": "4198 At any crossroads, target is stricken with indecision "
+  },
+  {
+    "desc": "4199 At dawn tomorrow, all record and memory of target is lost "
+  },
+  {
+    "desc": "4200 At dawn tomorrow, demonic hordes mount a quest against the target "
+  },
+  {
+    "desc": "4201 At dawn tomorrow, target is abducted by an undead horde "
+  },
+  {
+    "desc": "4202 At dawn tomorrow, target must Save or age 1d1000 years "
+  },
+  {
+    "desc": "4203 At each sunset, target is 20% likely to age 1d20 years instantly "
+  },
+  {
+    "desc": "4204 At some point in every battle, target wholly disarms himself "
+  },
+  {
+    "desc": "4205 Beacon-bright light shines from target's palms during combat "
+  },
+  {
+    "desc": "4206 Beacon-bright light shines from the soles of the target's feet "
+  },
+  {
+    "desc": "4207 Beacon-bright light shines from the target's principal weapon "
+  },
+  {
+    "desc": "4208 Beacon-bright light shines from the top of the target's head "
+  },
+  {
+    "desc": "4209 Bits of gristle tumble from the target's mouth while he speaks "
+  },
+  {
+    "desc": "4210 Bits of hardened resin tumble constantly from target's ears "
+  },
+  {
+    "desc": "4211 Blades are magically blunted while the target wields them "
+  },
+  {
+    "desc": "4212 Blades are unbreakable while the target wields them "
+  },
+  {
+    "desc": "4213 Blades seem cumbersome and awkward while the target wields them "
+  },
+  {
+    "desc": "4214 Blades seem to have basic intelligence while target wields them "
+  },
+  {
+    "desc": "4215 Both of target's arms are now on the same side of his body "
+  },
+  {
+    "desc": "4216 Both of target's arms jut from the same shoulder "
+  },
+  {
+    "desc": "4217 Bright flames consume the target's clothing for 1d10 rounds "
+  },
+  {
+    "desc": "4218 Bright flames dance harmlessly over target's body for 1d10 rounds "
+  },
+  {
+    "desc": "4219 Bright flames ripple harmlessly along target's limbs for 1d4 days "
+  },
+  {
+    "desc": "4220 Bright flames surround the target harmlessly for 2d10 rounds "
+  },
+  {
+    "desc": "4221 Colored streamers shoot from target's ears for 2d6 rounds "
+  },
+  {
+    "desc": "4222 Colored streamers shoot from target's nostrils "
+  },
+  {
+    "desc": "4223 Colorful smoke spews from target's every orifice for 2d10 rounds "
+  },
+  {
+    "desc": "4224 Condensation endlessly forms upon and drips from target "
+  },
+  {
+    "desc": "4225 Countless glass shards slash at the target for 1d6 rounds "
+  },
+  {
+    "desc": "4226 Countless glass shards whirl around the target for 1d6 rounds "
+  },
+  {
+    "desc": "4227 Countless tiny moths flutter about the target's head "
+  },
+  {
+    "desc": "4228 Countless tiny, colorful orbs swirl harmlessly around the target "
+  },
+  {
+    "desc": "4229 Creatures Summoned in target's presence are abominations "
+  },
+  {
+    "desc": "4230 Creatures Summoned in target's presence are clear like glass "
+  },
+  {
+    "desc": "4231 Creatures Summoned in target's presence are immune to fire "
+  },
+  {
+    "desc": "4232 Creatures Summoned in target's presence are old and decrepit "
+  },
+  {
+    "desc": "4233 Creatures Summoned in target's presence beg him for mercy "
+  },
+  {
+    "desc": "4234 Creatures Summoned in target's presence have only 1 hit point "
+  },
+  {
+    "desc": "4235 Creatures Summoned in target's presence obey him unswervingly "
+  },
+  {
+    "desc": "4236 Creatures Summoned in target's presence refuse to attack him "
+  },
+  {
+    "desc": "4237 Creatures Summoned in target's presence seem to be made of stone "
+  },
+  {
+    "desc": "4238 Creatures Summoned in target's presence strongly resemble him "
+  },
+  {
+    "desc": "4239 Creatures Summoned in target's presence worship him as a god "
+  },
+  {
+    "desc": "4240 Dew and condensation inspire fear in the target "
+  },
+  {
+    "desc": "4241 Dozens of tiny glass slivers fall harmlessly from target's mouth "
+  },
+  {
+    "desc": "4242 During any combat round, target is 3% likely to die outright "
+  },
+  {
+    "desc": "4243 During any combat round, target is 5% likely to flee in panic "
+  },
+  {
+    "desc": "4244 During any combat round, target is 10% likely to be invisible "
+  },
+  {
+    "desc": "4245 During any combat round, target is 50% likely to be very drunk "
+  },
+  {
+    "desc": "4246 During battle, target experiences distracting hallucinations "
+  },
+  {
+    "desc": "4247 During battle, target hears overpoweringly loud calliope music "
+  },
+  {
+    "desc": "4248 During battle, target perceives thick, acrid smoke all around him "
+  },
+  {
+    "desc": "4249 During battle, target quacks like an enormous duck "
+  },
+  {
+    "desc": "4250 During battle, target repeatedly chants a naughty limerick "
+  },
+  {
+    "desc": "4251 During battle, target's allies are invisible to him "
+  },
+  {
+    "desc": "4252 During battle, target's allies can't speak to him "
+  },
+  {
+    "desc": "4253 During battle, target's allies don't recognize him "
+  },
+  {
+    "desc": "4254 During battle, target's clothes and gear are invisible "
+  },
+  {
+    "desc": "4255 During battle, target's clothes appear to burst into flame "
+  },
+  {
+    "desc": "4256 During battle, target's clothes billow with foul smoke "
+  },
+  {
+    "desc": "4257 During battle, target's clothes moan like ghosts "
+  },
+  {
+    "desc": "4258 During battle, target's ears flap like a bird's wings "
+  },
+  {
+    "desc": "4259 During battle, target's flesh, hair, and gear turn white as snow "
+  },
+  {
+    "desc": "4260 During battle, target's hands appear to be shrouded in flame "
+  },
+  {
+    "desc": "4261 During battle, target's head is henceforth invisible "
+  },
+  {
+    "desc": "4262 During battle, target's heartbeat is audible to all nearby "
+  },
+  {
+    "desc": "4263 Each day, target can become an illusion for 1d4 rounds "
+  },
+  {
+    "desc": "4264 Each day, target can command 1d4 non-magical bears "
+  },
+  {
+    "desc": "4265 Each day, target can see through the caster's eyes for 1d4 turns "
+  },
+  {
+    "desc": "4266 Each day, target can turn his skin invisible for up to one hour "
+  },
+  {
+    "desc": "4267 Each day, target can turn into a horse for up to 1d4 hours "
+  },
+  {
+    "desc": "4268 Each day, target can walk on water up to 100 yards "
+  },
+  {
+    "desc": "4269 Each day, target is 10% likely to lose one finger or toe "
+  },
+  {
+    "desc": "4270 Each day, target is immune to one electrical attack "
+  },
+  {
+    "desc": "4271 Each day, target is struck by lightning but is basically unharmed "
+  },
+  {
+    "desc": "4272 Each day, target must eat at least one medium-sized candle "
+  },
+  {
+    "desc": "4273 Each day, target must eat at least one sheet of parchment "
+  },
+  {
+    "desc": "4274 Each day, target's body varies from 10% to 80% transparency  38"
+  },
+  {
+    "desc": "4275 Each day, target's skin is a different vibrant color "
+  },
+  {
+    "desc": "4276 Each of target's feet acquires argumentative intelligence "
+  },
+  {
+    "desc": "4277 Each of target's feet is chained to his neck "
+  },
+  {
+    "desc": "4278 Each of target's feet tries to race away in a different direction "
+  },
+  {
+    "desc": "4279 Each of target's feet weighs as much as the rest of his body "
+  },
+  {
+    "desc": "4280 Each of target's hands fuses to the opposite elbow "
+  },
+  {
+    "desc": "4281 Each time target is injured, a gold coin appears in his mouth "
+  },
+  {
+    "desc": "4282 Each time target is injured, he must Save or fall unconscious "
+  },
+  {
+    "desc": "4283 Each time target is injured, he must Save or go blind "
+  },
+  {
+    "desc": "4284 Each time target is injured, howls like a wolf "
+  },
+  {
+    "desc": "4285 Each time target opens his mouth, a small toad leaps out of it "
+  },
+  {
+    "desc": "4286 Each time target opens his mouth, another tooth turns invisible "
+  },
+  {
+    "desc": "4287 Each time target opens his mouth, he hears eerie music nearby "
+  },
+  {
+    "desc": "4288 Each time target opens his mouth, nearby birds fall silent "
+  },
+  {
+    "desc": "4289 Electricity crackles in target's clothing when he's angry "
+  },
+  {
+    "desc": "4290 Electricity crackles in target's skin as he makes an attack "
+  },
+  {
+    "desc": "4291 Electricity crackles in the air around the target for 1d4 days "
+  },
+  {
+    "desc": "4292 Electricity crackles in the ground wherever the target steps "
+  },
+  {
+    "desc": "4293 Electricity crackles in the target's hair for 1d8 hours "
+  },
+  {
+    "desc": "4294 Electricity crackles in the target's hair when he uses magic "
+  },
+  {
+    "desc": "4295 Electricity crackles through the target's body for 1d8 rounds "
+  },
+  {
+    "desc": "4296 Electricity crackles visibly along target's weapon during combat "
+  },
+  {
+    "desc": "4297 Every few rounds a spider crawls from target's mouth "
+  },
+  {
+    "desc": "4298 Every other day, the target is 20% likely to shrink by 10% "
+  },
+  {
+    "desc": "4299 Every other day, the target is 30% likely to be mute "
+  },
+  {
+    "desc": "4300 Every other day, the target is 5d10 years older than his true age "
+  },
+  {
+    "desc": "4301 Every other day, the target radiates strongly of alteration magic "
+  },
+  {
+    "desc": "4302 Every rat in the kingdom follows the target for 2d6 days "
+  },
+  {
+    "desc": "4303 Every spell cast nearby in the next 1d6 rounds strikes the target "
+  },
+  {
+    "desc": "4304 Every spell cast nearby is immediately obvious to the target "
+  },
+  {
+    "desc": "4305 Everyone knows that the target has no real martial prowess "
+  },
+  {
+    "desc": "4306 Everyone knows that the target is a powerful demon in disguise "
+  },
+  {
+    "desc": "4307 Everyone knows that the target's head is completely hollow "
+  },
+  {
+    "desc": "4308 Everyone knows that the target's skeleton is made of gold "
+  },
+  {
+    "desc": "4309 Everyone now within 10 yards of target attacks him for 1d4 rounds "
+  },
+  {
+    "desc": "4310 Everyone now within 10 yards of target ignores him for 1d4 hours "
+  },
+  {
+    "desc": "4311 Everyone now within 10 yards of target is disarmed "
+  },
+  {
+    "desc": "4312 Everyone now within 10 yards of target is invisible to him "
+  },
+  {
+    "desc": "4313 Everyone now within 10 yards of target is knocked down "
+  },
+  {
+    "desc": "4314 Everyone now within 10 yards of target is stricken bald "
+  },
+  {
+    "desc": "4315 Everyone now within 10 yards of target must Save or pass out "
+  },
+  {
+    "desc": "4316 Everyone now within 10 yards of target shouts his name "
+  },
+  {
+    "desc": "4317 Everyone who knows the target's name fears him for 3d10 rounds "
+  },
+  {
+    "desc": "4318 Everyone who knows the target's name forgets what he looks like "
+  },
+  {
+    "desc": "4319 Everyone who knows the target's name owes him 1d4 gold pieces "
+  },
+  {
+    "desc": "4320 Everyone who knows the target's name thinks his name is Twinkles "
+  },
+  {
+    "desc": "4321 Everyone whom target owes money demands repayment in full, now "
+  },
+  {
+    "desc": "4322 Everyone within 100 yards adopts the target's name "
+  },
+  {
+    "desc": "4323 Everyone within 100 yards feels intense hatred toward the target "
+  },
+  {
+    "desc": "4324 Everyone within 100 yards gives a gold piece to the target "
+  },
+  {
+    "desc": "4325 Everyone within 100 yards is invisible to the target until sunset "
+  },
+  {
+    "desc": "4326 Everyone within 100 yards races toward the target at top speed "
+  },
+  {
+    "desc": "4327 Everyone within 100 yards teleports 10d10 yards away from target "
+  },
+  {
+    "desc": "4328 Everyone within 100 yards teleports to the target's home "
+  },
+  {
+    "desc": "4329 Everyone within 100 yards thinks the target is about to explode "
+  },
+  {
+    "desc": "4330 Everyone within 100 yards thinks the target is undead "
+  },
+  {
+    "desc": "4331 Everything now worn or carried by target becomes sickly green "
+  },
+  {
+    "desc": "4332 Everything now worn or carried by target is strewn about the area "
+  },
+  {
+    "desc": "4333 Everything that target is now carrying is imperfectly duplicated "
+  },
+  {
+    "desc": "4334 Exertion makes target exhale black smoke like a steam engine "
+  },
+  {
+    "desc": "4335 Fire is intensely beautiful and attractive to the target "
+  },
+  {
+    "desc": "4336 Fire is invisible to the target "
+  },
+  {
+    "desc": "4337 Foliage grows wildly beneath the target's feet, entangling him "
+  },
+  {
+    "desc": "4338 For 1d10 rounds, magic doesn't work within 100 yards of target "
+  },
+  {
+    "desc": "4339 For 1d10 rounds, ordinary wood smoke is highly toxic to target "
+  },
+  {
+    "desc": "4340 For 1d10 rounds, target can't be affected by any magic items "
+  },
+  {
+    "desc": "4341 For 1d4 days, target can't speak to anyone now within 10 yards "
+  },
+  {
+    "desc": "4342 For 1d4 days, target can't speak to anyone who knows his name "
+  },
+  {
+    "desc": "4343 For one week, target can't be healed by any magical means "
+  },
+  {
+    "desc": "4344 For one week, target can't be injured by members of his species "
+  },
+  {
+    "desc": "4345 Glowing coals appear to be moving within the target's skin "
+  },
+  {
+    "desc": "4346 Half of target's body begins aging backwards, one year per day "
+  },
+  {
+    "desc": "4347 Half of target's body is affected by Reverse Gravity "
+  },
+  {
+    "desc": "4348 Half of target's body is badly burned, the other half frostbitten "
+  },
+  {
+    "desc": "4349 Half of target's body is indestructible for 2d4 days "
+  },
+  {
+    "desc": "4350 Half of target's body is infected with lycanthropy "
+  },
+  {
+    "desc": "4351 Half of target's body polymorphs into some kind of animal "
+  },
+  {
+    "desc": "4352 Half of target's body resembles half of the caster's body "
+  },
+  {
+    "desc": "4353 Half of target's body shrinks by 25% "
+  },
+  {
+    "desc": "4354 Half of target's body suffers from advanced leprosy "
+  },
+  {
+    "desc": "4355 Half of target's body turns invisible while in direct sunlight "
+  },
+  {
+    "desc": "4356 Half of target's fingers are permanently invisible "
+  },
+  {
+    "desc": "4357 Half of target's head appears to be made of crystal "
+  },
+  {
+    "desc": "4358 Half of target's head appears to be made of metal "
+  },
+  {
+    "desc": "4359 Half of target's head appears to be stripped of flesh "
+  },
+  {
+    "desc": "4360 Half of target's head explodes, killing him messily "
+  },
+  {
+    "desc": "4361 Half of target's head is covered in fine gold scales "
+  },
+  {
+    "desc": "4362 Half of target's head is covered in fragrant blue moss "
+  },
+  {
+    "desc": "4363 Half of target's head vanishes, but he's basically unharmed "
+  },
+  {
+    "desc": "4364 Half of target's limbs become donkey's limbs "
+  },
+  {
+    "desc": "4365 Hundreds of blood-red worms course from the target's nostrils "
+  },
+  {
+    "desc": "4366 Hundreds of small ice chips tumble from target's ears "
+  },
+  {
+    "desc": "4367 Hundreds of wasps swarm the target whenever he draws a weapon "
+  },
+  {
+    "desc": "4368 If an ally kills target today, he'll resurrect at dawn tomorrow "
+  },
+  {
+    "desc": "4369 If an ally kills target today, target explodes as a 50HD fireball "
+  },
+  {
+    "desc": "4370 If an arrow hits the target in the next 1d3 rounds, he explodes "
+  },
+  {
+    "desc": "4371 If an arrow hits the target in the next round, he doubles in size "
+  },
+  {
+    "desc": "4372 If an arrow hits the target in the next round, he turns to glass "
+  },
+  {
+    "desc": "4373 If an arrow hits the target in the next round, he's fully healed "
+  },
+  {
+    "desc": "4374 If next attack on target causes maximum damage, he dies "
+  },
+  {
+    "desc": "4375 If next attack on target causes maximum damage, his attacker dies "
+  },
+  {
+    "desc": "4376 If next attack on target causes maximum damage, the moon vanishes "
+  },
+  {
+    "desc": "4377 If next attack on target causes maximum damage, winter begins now "
+  },
+  {
+    "desc": "4378 If reduced to exactly zero hit points, target becomes an undead "
+  },
+  {
+    "desc": "4379 If reduced to exactly zero hit points, target combusts violently "
+  },
+  {
+    "desc": "4380 If reduced to exactly zero hit points, target is fully healed "
+  },
+  {
+    "desc": "4381 If reduced to exactly zero hit points, target melts like butter "
+  },
+  {
+    "desc": "4382 If reduced to exactly zero hit points, target shatters like glass "
+  },
+  {
+    "desc": "4383 If reduced to exactly zero hit points, target shrinks by 75% "
+  },
+  {
+    "desc": "4384 If reduced to exactly zero hit points, target turns invisible "
+  },
+  {
+    "desc": "4385 If reduced to exactly zero hit points, target turns to steam "
+  },
+  {
+    "desc": "4386 If reduced to five or fewer hit points, target attacks himself "
+  },
+  {
+    "desc": "4387 If reduced to five or fewer hit points, target goes berserk "
+  },
+  {
+    "desc": "4388 If reduced to one hit point, target becomes a lich "
+  },
+  {
+    "desc": "4389 If reduced to one hit point, target is Healed but loses one level "
+  },
+  {
+    "desc": "4390 If struck by Dispel Magic, target ceases to exist for 1d10 rounds "
+  },
+  {
+    "desc": "4391 If struck by Dispel Magic, target is rendered squeaky clean "
+  },
+  {
+    "desc": "4392 If struck by Dispel Magic, target loses 1d100 hit points "
+  },
+  {
+    "desc": "4393 If struck by Dispel Magic, target's skeleton disintegrates "
+  },
+  {
+    "desc": "4394 If target attempts to teleport, his nervous system stays behind "
+  },
+  {
+    "desc": "4395 If target disembowels himself, he's 10% likely to become a god "
+  },
+  {
+    "desc": "4396 If target draws a weapon, he can't sheathe it again for 4d6 hours "
+  },
+  {
+    "desc": "4397 If target draws a weapon, he can't sheathe it until he's wounded "
+  },
+  {
+    "desc": "4398 If target draws a weapon, he can't use it for 1d4 rounds "
+  },
+  {
+    "desc": "4399 If target draws a weapon, it's 5% likely to shatter outright "
+  },
+  {
+    "desc": "4400 If target eats raw meat, he bleeds from the ears for 4d4 rounds "
+  },
+  {
+    "desc": "4401 If target eats raw meat, he has visions of a possible future "
+  },
+  {
+    "desc": "4402 If target eats raw meat, he has visions of his own death "
+  },
+  {
+    "desc": "4403 If target eats raw meat, he succumbs to voracious bloodlust "
+  },
+  {
+    "desc": "4404 If target eats raw meat, he's thrown into the nearest river  39"
+  },
+  {
+    "desc": "4405 If target eats raw meat, it increases in volume by a factor of 10 "
+  },
+  {
+    "desc": "4406 If target eats raw meat, it turns to hot ashes in his stomach "
+  },
+  {
+    "desc": "4407 If target has a shield, it becomes fused to his arm "
+  },
+  {
+    "desc": "4408 If target has a shield, it claps shut on his arm like a clamshell "
+  },
+  {
+    "desc": "4409 If target has a shield, it now weighs 500 pounds "
+  },
+  {
+    "desc": "4410 If target has a shield, it vanishes, taking his arm with it "
+  },
+  {
+    "desc": "4411 If target has any charged magic items, they discharge on him "
+  },
+  {
+    "desc": "4412 If target has any charged magic items, they turn to wood "
+  },
+  {
+    "desc": "4413 If target has any charged magic items, they're fully recharged "
+  },
+  {
+    "desc": "4414 If target has any charged magic items, they're inert until dawn "
+  },
+  {
+    "desc": "4415 If target has any leather, he sprouts horns like a bull "
+  },
+  {
+    "desc": "4416 If target has any leather, he's soaked with lamp oil "
+  },
+  {
+    "desc": "4417 If target has any leather, it rots over 1d10 rounds "
+  },
+  {
+    "desc": "4418 If target has any leather, the cows that yielded it seek revenge "
+  },
+  {
+    "desc": "4419 If target has slain anyone recently, he goes insane until dawn "
+  },
+  {
+    "desc": "4420 If target has slain anyone recently, he's attacked by vultures "
+  },
+  {
+    "desc": "4421 If target is aware of any poison nearby, he begins shrieking "
+  },
+  {
+    "desc": "4422 If target is aware of any poison nearby, he thinks it's delicious "
+  },
+  {
+    "desc": "4423 If target is aware of any poison nearby, he tries to ingest it "
+  },
+  {
+    "desc": "4424 If target is aware of any poison nearby, he's immune to it "
+  },
+  {
+    "desc": "4425 If target is beheaded, a spectacular lightshow ensues "
+  },
+  {
+    "desc": "4426 If target is beheaded, a winged horse springs from his neck-stump "
+  },
+  {
+    "desc": "4427 If target is beheaded, anyone nearby is stricken blind for 1 turn "
+  },
+  {
+    "desc": "4428 If target is beheaded, he grows a new head facing backwards "
+  },
+  {
+    "desc": "4429 If target is beheaded, he grows a new head just like the caster's "
+  },
+  {
+    "desc": "4430 If target is beheaded, he's 10% likely to possess his slayer "
+  },
+  {
+    "desc": "4431 If target is beheaded, he's 40% likely to grow a new head "
+  },
+  {
+    "desc": "4432 If target is beheaded, his blood turns to very strong acid "
+  },
+  {
+    "desc": "4433 If target is beheaded, his body combusts and races to the horizon "
+  },
+  {
+    "desc": "4434 If target is beheaded, his body defends his slayer for 2d10 turns "
+  },
+  {
+    "desc": "4435 If target is beheaded, his body deflates like a balloon "
+  },
+  {
+    "desc": "4436 If target is beheaded, his body seeks political office "
+  },
+  {
+    "desc": "4437 If target is beheaded, his body still lives a long and happy life "
+  },
+  {
+    "desc": "4438 If target is beheaded, his body tries to behead his slayer "
+  },
+  {
+    "desc": "4439 If target is beheaded, his head becomes undead "
+  },
+  {
+    "desc": "4440 If target is beheaded, his head bounces away like a rubber ball "
+  },
+  {
+    "desc": "4441 If target is beheaded, his head explodes as a 10HD fireball "
+  },
+  {
+    "desc": "4442 If target is beheaded, his head floats away like a balloon "
+  },
+  {
+    "desc": "4443 If target is beheaded, his head rolls to the highest mountaintop "
+  },
+  {
+    "desc": "4444 If target is beheaded, his head speaks prophecy for 1d4 rounds "
+  },
+  {
+    "desc": "4445 If target is beheaded, his head turns to solid gold "
+  },
+  {
+    "desc": "4446 If target is beheaded, his slayer disgorges 1d6 gallons of blood "
+  },
+  {
+    "desc": "4447 If target is beheaded, his slayer is Stunned for 1d4 hours "
+  },
+  {
+    "desc": "4448 If target is beheaded, his slayer must Save vs Will or go insane "
+  },
+  {
+    "desc": "4449 If target is beheaded, his slayer receives 10d1000 gold pieces "
+  },
+  {
+    "desc": "4450 If target is beheaded, his slayer then tries to behead himself "
+  },
+  {
+    "desc": "4451 If target is beheaded, lightning bolts discharge from his neck "
+  },
+  {
+    "desc": "4452 If target is beheaded, no one now nearby can ever be resurrected "
+  },
+  {
+    "desc": "4453 If target is beheaded, two identical heads sprout from his neck "
+  },
+  {
+    "desc": "4454 If target is carrying a magical weapon, he loses 1d8 hit points "
+  },
+  {
+    "desc": "4455 If target is carrying a magical weapon, he regains 1d8 hit points "
+  },
+  {
+    "desc": "4456 If target is carrying a magical weapon, it is burned to slag "
+  },
+  {
+    "desc": "4457 If target is carrying a magical weapon, it mimics his personality "
+  },
+  {
+    "desc": "4458 If target is carrying a pouch, he tries to climb into it "
+  },
+  {
+    "desc": "4459 If target is carrying a pouch, it becomes a small Bag of Holding "
+  },
+  {
+    "desc": "4460 If target is carrying a pouch, it contains 1d100 gold pieces "
+  },
+  {
+    "desc": "4461 If target is carrying a pouch, it inflates like a hot air balloon "
+  },
+  {
+    "desc": "4462 If target is carrying any food, he turns into a werewolf "
+  },
+  {
+    "desc": "4463 If target is carrying any gold, he can hurl one 10HD fireball "
+  },
+  {
+    "desc": "4464 If target is carrying any gold, he changes alignment until sunset "
+  },
+  {
+    "desc": "4465 If target is carrying any gold, he's struck by lightning "
+  },
+  {
+    "desc": "4466 If target is carrying any water, it becomes toxic to him "
+  },
+  {
+    "desc": "4467 If target is carrying any wood, he attempts to devour it "
+  },
+  {
+    "desc": "4468 If target is carrying any wood, it explodes into fiery splinters "
+  },
+  {
+    "desc": "4469 If target is carrying any wood, it smolders until sunset "
+  },
+  {
+    "desc": "4470 If target is carrying any wood, it turns to sawdust "
+  },
+  {
+    "desc": "4471 If target is carrying rope, he ties himself to a nearby tree "
+  },
+  {
+    "desc": "4472 If target is carrying rope, he winds it tightly about his neck "
+  },
+  {
+    "desc": "4473 If target is carrying rope, it can't be cut by non-magical means "
+  },
+  {
+    "desc": "4474 If target is carrying rope, it threads itself through his flesh "
+  },
+  {
+    "desc": "4475 If target is currently injured he begins aging one year per round "
+  },
+  {
+    "desc": "4476 If target is cut by a metal weapon, he loses 2d10 gold pieces "
+  },
+  {
+    "desc": "4477 If target is cut by a metal weapon, he won't heal naturally "
+  },
+  {
+    "desc": "4478 If target is cut by a metal weapon, his limbs turn invisible "
+  },
+  {
+    "desc": "4479 If target is cut by a metal weapon, it sizzles violently "
+  },
+  {
+    "desc": "4480 If target is cut by a metal weapon, that injury quickly rusts "
+  },
+  {
+    "desc": "4481 If target is cut by a metal weapon, that weapon quickly rusts "
+  },
+  {
+    "desc": "4482 If target is now bleeding, fire can't harm him for 2d4 days "
+  },
+  {
+    "desc": "4483 If target is now bleeding, he begins to drown as though submerged "
+  },
+  {
+    "desc": "4484 If target is now bleeding, he's hereafter susceptible to rust "
+  },
+  {
+    "desc": "4485 If target is now bleeding, his weapon is +4 for 2d4 hours "
+  },
+  {
+    "desc": "4486 If target is now bleeding, the ground at his feet heats to 500° "
+  },
+  {
+    "desc": "4487 If target is now carrying any food, he contracts advanced leprosy "
+  },
+  {
+    "desc": "4488 If target is now carrying any food, he loses 1d100 hit points "
+  },
+  {
+    "desc": "4489 If target is now carrying any food, he teleports 2d10 miles "
+  },
+  {
+    "desc": "4490 If target is now standing, he can't sit or lie down for 8d6 hours "
+  },
+  {
+    "desc": "4491 If target is now standing, he levitates helplessly for 2d8 rounds "
+  },
+  {
+    "desc": "4492 If target is now standing, he's now standing on tall stilts "
+  },
+  {
+    "desc": "4493 If target is now standing, his legs double in length "
+  },
+  {
+    "desc": "4494 If target is now wet, he suffers sudden heat exhaustion "
+  },
+  {
+    "desc": "4495 If target is slain by a blade, he can never be resurrected "
+  },
+  {
+    "desc": "4496 If target is slain by fire, he explodes as a 20HD fireball "
+  },
+  {
+    "desc": "4497 If target is slain by fire, he resurrects in 1d4 days "
+  },
+  {
+    "desc": "4498 If target is slain by fire, his ashes are scattered over the sea "
+  },
+  {
+    "desc": "4499 If target is slain by fire, the nearest forest is also set ablaze "
+  },
+  {
+    "desc": "4500 If target is slain in the next 24 hours, he becomes a god "
+  },
+  {
+    "desc": "4501 If target is slain in the next 24 hours, he can't be resurrected "
+  },
+  {
+    "desc": "4502 If target is slain in the next 24 hours, he resurrects at sunrise "
+  },
+  {
+    "desc": "4503 If target is slain in the next 24 hours, winter begins at once "
+  },
+  {
+    "desc": "4504 If target is slain, a spring bubbles up from beneath his corpse "
+  },
+  {
+    "desc": "4505 If target is slain, a virulent plague breaks out in a nearby city "
+  },
+  {
+    "desc": "4506 If target is slain, all trees within 10 miles vanish "
+  },
+  {
+    "desc": "4507 If target is slain, all within 10 miles are overcome by grief "
+  },
+  {
+    "desc": "4508 If target is slain, he becomes an undead servant for his slayer "
+  },
+  {
+    "desc": "4509 If target is slain, he forever haunts the dreams of his slayer "
+  },
+  {
+    "desc": "4510 If target is slain, his allies all attack his slayer "
+  },
+  {
+    "desc": "4511 If target is slain, his allies quickly forget him and move on "
+  },
+  {
+    "desc": "4512 If target is slain, his corpse completely decays in 1d4 rounds "
+  },
+  {
+    "desc": "4513 If target is slain, his corpse embraces his slayer and combusts "
+  },
+  {
+    "desc": "4514 If target is slain, his corpse turns to wax within 1d10 rounds "
+  },
+  {
+    "desc": "4515 If target is slain, his slayer must Save or die along with him "
+  },
+  {
+    "desc": "4516 If target is slain, his soul can't leave his body "
+  },
+  {
+    "desc": "4517 If target is slain, his soul is sent to the wrong plane "
+  },
+  {
+    "desc": "4518 If target is slain, the caster is under a Geas to resurrect him "
+  },
+  {
+    "desc": "4519 If target is slain, the caster must inform his next of kin "
+  },
+  {
+    "desc": "4520 If target is wearing animal hide, he becomes an animal until dawn "
+  },
+  {
+    "desc": "4521 If target is wearing animal hide, he hides like an animal "
+  },
+  {
+    "desc": "4522 If target is wearing animal hide, he thinks that he's that animal "
+  },
+  {
+    "desc": "4523 If target is wearing animal hide, he tries to eat it "
+  },
+  {
+    "desc": "4524 If target is wearing animal hide, it animates and attacks him "
+  },
+  {
+    "desc": "4525 If target is wearing any rings, he has a spiritual revelation "
+  },
+  {
+    "desc": "4526 If target is wearing any rings, he's immune to magic until sunset "
+  },
+  {
+    "desc": "4527 If target is wearing any rings, his hands retract into his wrists "
+  },
+  {
+    "desc": "4528 If target is wearing any rings, they ignite on his fingers "
+  },
+  {
+    "desc": "4529 If target is wearing armor, he is unable to remove it "
+  },
+  {
+    "desc": "4530 If target is wearing armor, he teleports into the nearest town "
+  },
+  {
+    "desc": "4531 If target is wearing armor, he thinks it's part of his body "
+  },
+  {
+    "desc": "4532 If target is wearing armor, he's attacked by 1d4 alligators "
+  },
+  {
+    "desc": "4533 If target is wearing armor, he's blinded until he removes it "
+  },
+  {
+    "desc": "4534 If target is wearing armor, he's hurled into the nearest river  40"
+  },
+  {
+    "desc": "4535 If target is wearing armor, he's soaked with lamp oil "
+  },
+  {
+    "desc": "4536 If target is wearing armor, he's struck by lightning "
+  },
+  {
+    "desc": "4537 If target is wearing armor, it clatters noisily in the dark "
+  },
+  {
+    "desc": "4538 If target is wearing armor, it constricts painfully about him "
+  },
+  {
+    "desc": "4539 If target is wearing armor, it has a +2 AC bonus until sunrise "
+  },
+  {
+    "desc": "4540 If target is wearing armor, it heats to 500° "
+  },
+  {
+    "desc": "4541 If target is wearing armor, it rattles violently for 1d10 hours "
+  },
+  {
+    "desc": "4542 If target is wearing armor, it teleports 2d6 yards "
+  },
+  {
+    "desc": "4543 If target is wearing armor, it turns invisible "
+  },
+  {
+    "desc": "4544 If target is wearing armor, it vanishes for 1d10 rounds "
+  },
+  {
+    "desc": "4545 If target is wearing armor, it's as supple as silk until sunset "
+  },
+  {
+    "desc": "4546 If target is wearing armor, it's restored to brand-new condition "
+  },
+  {
+    "desc": "4547 If target is wearing armor, rain falls heavily for 1d10 days "
+  },
+  {
+    "desc": "4548 If target is wearing armor, the ground beneath him gives way "
+  },
+  {
+    "desc": "4549 If target is wearing shoes, his feet become chicken's feet "
+  },
+  {
+    "desc": "4550 If target is wielding a weapon, he suffers severe frostbite "
+  },
+  {
+    "desc": "4551 If target kills an ally within one turn, he'll be fully Healed "
+  },
+  {
+    "desc": "4552 If target kills anyone in the next hour, he vanishes for 2d4 days "
+  },
+  {
+    "desc": "4553 If target lights a fire, he feels an urge to put his hands in it "
+  },
+  {
+    "desc": "4554 If target lights a fire, he is overwhelmingly afraid of it "
+  },
+  {
+    "desc": "4555 If target lights a fire, he perceives omens in its burning embers "
+  },
+  {
+    "desc": "4556 If target lights a fire, his clothing ignites "
+  },
+  {
+    "desc": "4557 If target loses a finger, he deliberately cuts off another one "
+  },
+  {
+    "desc": "4558 If target loses a finger, that hand shrivels and dies "
+  },
+  {
+    "desc": "4559 If target moves more than 10 yards from this spot, he dies "
+  },
+  {
+    "desc": "4560 If target now has fewer than 1d100 hit points, he's fully Healed "
+  },
+  {
+    "desc": "4561 If target now has more than 20 hit points, he loses 1d100 "
+  },
+  {
+    "desc": "4562 If target sees an open pit, he tries to bury himself in it "
+  },
+  {
+    "desc": "4563 If target sees an open pit, he's attacked by something in it "
+  },
+  {
+    "desc": "4564 If target sits or lies down, he can't stand again for 8d6 hours "
+  },
+  {
+    "desc": "4565 If target sits or lies down, he teleports 1d100 yards "
+  },
+  {
+    "desc": "4566 If target sits or lies down, he's attacked by glowing beetles "
+  },
+  {
+    "desc": "4567 If target sits or lies down, he's covered by a light frost "
+  },
+  {
+    "desc": "4568 If target sleeps more than eight hours, he's struck by lightning "
+  },
+  {
+    "desc": "4569 If target teleports, he arrives holding two buckets of paint "
+  },
+  {
+    "desc": "4570 If target teleports, his skeleton teleports to this spot "
+  },
+  {
+    "desc": "4571 If target uses a doorway in the next hour, he turns to stone "
+  },
+  {
+    "desc": "4572 If target wields an axe, he thinks he's the archetypal Dwarf "
+  },
+  {
+    "desc": "4573 If target wields an axe, he tries to decapitate himself with it "
+  },
+  {
+    "desc": "4574 If target wields an axe, he's attacked by the nearest tree "
+  },
+  {
+    "desc": "4575 If target worships a deity, he claims to speak for the deity "
+  },
+  {
+    "desc": "4576 If target worships a deity, he forsakes that deity for another "
+  },
+  {
+    "desc": "4577 If target worships a deity, he thinks he's that deity's avatar "
+  },
+  {
+    "desc": "4578 If target worships a deity, he thinks the deity is talking to him "
+  },
+  {
+    "desc": "4579 If target's hands touch, they adhere to each other until dawn "
+  },
+  {
+    "desc": "4580 If target's weapon is metal, his hand turns to similar metal "
+  },
+  {
+    "desc": "4581 If target's weapon is metal, it turns to glass for 1d4 rounds "
+  },
+  {
+    "desc": "4582 If target's weapon is metal, it turns to wood and vice versa "
+  },
+  {
+    "desc": "4583 If target's weapon is metal, it's now indestructible "
+  },
+  {
+    "desc": "4584 Innumerable bats flutter around the target each day at twilight "
+  },
+  {
+    "desc": "4585 Insects constantly swarm around the target from now on "
+  },
+  {
+    "desc": "4586 Magic items are unreliable for the target for 2d4-1 days "
+  },
+  {
+    "desc": "4587 Magic items function at 50% power when target uses them "
+  },
+  {
+    "desc": "4588 Meat turns to gravel as it moves through target's digestive tract "
+  },
+  {
+    "desc": "4589 Melancholy chants issue from the target's weapon during battle "
+  },
+  {
+    "desc": "4590 Metal weapons are immune to magic while target wields them "
+  },
+  {
+    "desc": "4591 Metal weapons are invisible to target while he wields them "
+  },
+  {
+    "desc": "4592 Metal weapons chime pleasantly when they strike the caster "
+  },
+  {
+    "desc": "4593 Metal weapons do not conduct electricity while target wields them "
+  },
+  {
+    "desc": "4594 Metal weapons seem 10X heavier to target while he wields them "
+  },
+  {
+    "desc": "4595 Metal weapons seem to hum with power when target wields them "
+  },
+  {
+    "desc": "4596 Metal weapons seem weightless to target during combat "
+  },
+  {
+    "desc": "4597 Metal weapons strike sparks against target's body like flint "
+  },
+  {
+    "desc": "4598 Music causes the target to weep tears of blood "
+  },
+  {
+    "desc": "4599 Music inspires savage bloodlust in the target "
+  },
+  {
+    "desc": "4600 Nearest horse adopts the target's personality "
+  },
+  {
+    "desc": "4601 Nearest horse brutally attacks the target until one is dead "
+  },
+  {
+    "desc": "4602 Nearest pine tree crushes the target's home, wherever it is "
+  },
+  {
+    "desc": "4603 Nearest pine tree pelts the target with jagged pine cones "
+  },
+  {
+    "desc": "4604 Nearest pine tree sounds like the target when the wind blows "
+  },
+  {
+    "desc": "4605 Nearest pine tree sprays the target with boiling, caustic sap "
+  },
+  {
+    "desc": "4606 Nearest zombie appears in the area under the target's command "
+  },
+  {
+    "desc": "4607 Nearest zombie attacks the target until one is destroyed "
+  },
+  {
+    "desc": "4608 Nearest zombie follows the target everywhere "
+  },
+  {
+    "desc": "4609 Nearest zombie steals something precious to target, then flees "
+  },
+  {
+    "desc": "4610 Next 1d10 attacks upon target have a +4 bonus to damage "
+  },
+  {
+    "desc": "4611 Next 1d10 attacks upon target heal rather than inflict damage "
+  },
+  {
+    "desc": "4612 Next 1d10 attacks upon target inflict burning damage like fire "
+  },
+  {
+    "desc": "4613 Next 1d10 attacks upon target inflict only illusionary damage "
+  },
+  {
+    "desc": "4614 Next 1d10 attacks upon target inflict only minimum damage "
+  },
+  {
+    "desc": "4615 Next 1d10 attacks upon target leave him breathless and exhausted "
+  },
+  {
+    "desc": "4616 Next 1d10 attacks upon target leave him soaked with brine "
+  },
+  {
+    "desc": "4617 Next 1d10 attacks upon target wound a nearby tree instead "
+  },
+  {
+    "desc": "4618 Next 1d4 creatures slain by target combust immediately "
+  },
+  {
+    "desc": "4619 Next 1d4 creatures slain by target immediately rise as undead "
+  },
+  {
+    "desc": "4620 Next 1d4 creatures slain by target turn invisible upon death "
+  },
+  {
+    "desc": "4621 Next 1d4 creatures slain by target very rapidly decompose "
+  },
+  {
+    "desc": "4622 Next 1d4 hours seem like a dream to the target "
+  },
+  {
+    "desc": "4623 Next 1d4 rounds seem to last a full day to the target "
+  },
+  {
+    "desc": "4624 Next 2d4 spells cast at target are invisible in effect "
+  },
+  {
+    "desc": "4625 Next 2d4 spells cast at target function as the current spell "
+  },
+  {
+    "desc": "4626 Next 2d4 spells cast at target function at 2X normal power "
+  },
+  {
+    "desc": "4627 Next 2d4 spells cast at target strike random targets nearby "
+  },
+  {
+    "desc": "4628 Next horse touched by target becomes ravenously carnivorous "
+  },
+  {
+    "desc": "4629 Next horse touched by target can never again be ridden by mortals "
+  },
+  {
+    "desc": "4630 Next horse touched by target shrinks by 75% "
+  },
+  {
+    "desc": "4631 Next horse touched by target turns into a small dinosaur "
+  },
+  {
+    "desc": "4632 Next magic item handled by target appears as supple as clay "
+  },
+  {
+    "desc": "4633 Next magic item handled by target can again never be used by him "
+  },
+  {
+    "desc": "4634 Next magic item handled by target can't be used by anyone else "
+  },
+  {
+    "desc": "4635 Next magic item handled by target drains 1d10 hit points from him "
+  },
+  {
+    "desc": "4636 Next magic item handled by target expresses deep hatred for him "
+  },
+  {
+    "desc": "4637 Next magic item handled by target expresses deep love for him "
+  },
+  {
+    "desc": "4638 Next magic item handled by target is etched with his fingerprints "
+  },
+  {
+    "desc": "4639 Next magic item handled by target is invisible while he uses it "
+  },
+  {
+    "desc": "4640 Next magic item handled by target leaves colorful trails of light "
+  },
+  {
+    "desc": "4641 Next magic item handled by target leaves weird scars on his hands "
+  },
+  {
+    "desc": "4642 Next magic item handled by target makes him think he's drowning "
+  },
+  {
+    "desc": "4643 Next magic item handled by target makes his hands go numb "
+  },
+  {
+    "desc": "4644 Next magic item handled by target restores 1d10 hit points "
+  },
+  {
+    "desc": "4645 Next magic item handled by target seems to him to be 1,000° "
+  },
+  {
+    "desc": "4646 Next magic item handled by target seems to him to be 10X heavier "
+  },
+  {
+    "desc": "4647 Next magic item handled by target shines like a beacon to undead "
+  },
+  {
+    "desc": "4648 Next magic item handled by target smells like manure for 3d8 days "
+  },
+  {
+    "desc": "4649 Next magic item handled by target tries to control his mind "
+  },
+  {
+    "desc": "4650 Next magic item handled by target works at 2X normal power "
+  },
+  {
+    "desc": "4651 Next magic item handled by target works contrary to his wishes "
+  },
+  {
+    "desc": "4652 Next person to wound the target absorbs half of the damage "
+  },
+  {
+    "desc": "4653 Next person to wound the target can harm no one else until sunset "
+  },
+  {
+    "desc": "4654 Next person to wound the target hallucinates wildly for one turn "
+  },
+  {
+    "desc": "4655 Next person to wound the target inflicts maximum damage "
+  },
+  {
+    "desc": "4656 Next person to wound the target is attacked by vermin "
+  },
+  {
+    "desc": "4657 Next person to wound the target is immediately chained to him "
+  },
+  {
+    "desc": "4658 Next person to wound the target is paralyzed for 1d10 rounds "
+  },
+  {
+    "desc": "4659 Next person to wound the target is splattered with fish guts "
+  },
+  {
+    "desc": "4660 Next person to wound the target is stricken blind until sunset "
+  },
+  {
+    "desc": "4661 Next person to wound the target is swarmed by aggressive bees "
+  },
+  {
+    "desc": "4662 Next person to wound the target is thrown into the nearest well "
+  },
+  {
+    "desc": "4663 Next person to wound the target is worshipped by vermin "
+  },
+  {
+    "desc": "4664 Next person to wound the target must Save or fall unconscious  41"
+  },
+  {
+    "desc": "4665 Next person to wound the target races to the nearest graveyard "
+  },
+  {
+    "desc": "4666 Next person to wound the target resembles him for 1d20 hours "
+  },
+  {
+    "desc": "4667 Next person to wound the target sees fires blazing all around him "
+  },
+  {
+    "desc": "4668 Next person to wound the target suffers 2X the damage inflicted "
+  },
+  {
+    "desc": "4669 Next person to wound the target suffers equal damage "
+  },
+  {
+    "desc": "4670 Next person to wound the target suffers overpowering vertigo "
+  },
+  {
+    "desc": "4671 Next person to wound the target suffers the damage instead "
+  },
+  {
+    "desc": "4672 Next person to wound the target teleports 1d4 miles away "
+  },
+  {
+    "desc": "4673 Next person to wound the target teleports 4d8 yards straight up "
+  },
+  {
+    "desc": "4674 Next person to wound the target then attacks the caster "
+  },
+  {
+    "desc": "4675 Next person to wound the target then flees to the nearest forest "
+  },
+  {
+    "desc": "4676 Next person to wound the target thinks he'll die before nightfall "
+  },
+  {
+    "desc": "4677 Next person to wound the target thinks he's drowning for one turn "
+  },
+  {
+    "desc": "4678 Next person to wound the target thinks that he's slain the target "
+  },
+  {
+    "desc": "4679 Next person to wound the target totally disarms himself "
+  },
+  {
+    "desc": "4680 Next person to wound the target will soon be abducted by undead "
+  },
+  {
+    "desc": "4681 Next person wounded by target must Save or age 1d6 years "
+  },
+  {
+    "desc": "4682 Next person wounded by target must Save or be attacked by vermin "
+  },
+  {
+    "desc": "4683 Next person wounded by target must Save or be Charmed by him "
+  },
+  {
+    "desc": "4684 Next person wounded by target must Save or be poisoned "
+  },
+  {
+    "desc": "4685 Next person wounded by target must Save or be stricken mute "
+  },
+  {
+    "desc": "4686 Next person wounded by target must Save or contract leprosy "
+  },
+  {
+    "desc": "4687 Next person wounded by target must Save or drop to one hit point "
+  },
+  {
+    "desc": "4688 Next person wounded by target must Save or flee panic-stricken "
+  },
+  {
+    "desc": "4689 Next person wounded by target must Save or shrink by 5d10% "
+  },
+  {
+    "desc": "4690 Next person wounded by target must Save or teleport 1d4 miles "
+  },
+  {
+    "desc": "4691 Next puddle stepped in by target absolves him of sin "
+  },
+  {
+    "desc": "4692 Next puddle stepped in by target causes him to hallucinate "
+  },
+  {
+    "desc": "4693 Next puddle stepped in by target changes his alignment until dawn "
+  },
+  {
+    "desc": "4694 Next puddle stepped in by target contains a small sea monster "
+  },
+  {
+    "desc": "4695 Next puddle stepped in by target drenches him from head to toe "
+  },
+  {
+    "desc": "4696 Next puddle stepped in by target explodes as a 6HD fireball "
+  },
+  {
+    "desc": "4697 Next puddle stepped in by target hardens like cement "
+  },
+  {
+    "desc": "4698 Next puddle stepped in by target inspires him to megalomania "
+  },
+  {
+    "desc": "4699 Next puddle stepped in by target is a 16HD water elemental "
+  },
+  {
+    "desc": "4700 Next puddle stepped in by target is highly concentrated acid "
+  },
+  {
+    "desc": "4701 Next puddle stepped in by target sends him to Elemental Water "
+  },
+  {
+    "desc": "4702 Next puddle stepped in by target teleports him to a nearby lake "
+  },
+  {
+    "desc": "4703 Next puddle stepped in by target throws him 3d10 yards in the air "
+  },
+  {
+    "desc": "4704 Next puddle stepped in by target turns to glass "
+  },
+  {
+    "desc": "4705 Next time target touches a tree, he must Save or turn to wood "
+  },
+  {
+    "desc": "4706 Next time target touches a tree, he's attacked by 1d100 squirrels "
+  },
+  {
+    "desc": "4707 Next time target touches a tree, he's buried in a heap of sawdust "
+  },
+  {
+    "desc": "4708 Next time target touches a tree, he's overgrown with stiff bark "
+  },
+  {
+    "desc": "4709 Next weapon to wound target absorbs water like a sponge "
+  },
+  {
+    "desc": "4710 Next weapon to wound target afflicts its wielder with narcolepsy "
+  },
+  {
+    "desc": "4711 Next weapon to wound target appears as porous as a sponge "
+  },
+  {
+    "desc": "4712 Next weapon to wound target appears to be made of diamond "
+  },
+  {
+    "desc": "4713 Next weapon to wound target becomes as black as coal forever "
+  },
+  {
+    "desc": "4714 Next weapon to wound target begins aging 1d100 years per round "
+  },
+  {
+    "desc": "4715 Next weapon to wound target burns like magnesium for 1d10 rounds "
+  },
+  {
+    "desc": "4716 Next weapon to wound target can never wound him again thereafter "
+  },
+  {
+    "desc": "4717 Next weapon to wound target can't harm him for 1d8 days "
+  },
+  {
+    "desc": "4718 Next weapon to wound target disintegrates if it wounds him again "
+  },
+  {
+    "desc": "4719 Next weapon to wound target embeds itself in a nearby tree "
+  },
+  {
+    "desc": "4720 Next weapon to wound target exudes acrid steam for 1d4 weeks "
+  },
+  {
+    "desc": "4721 Next weapon to wound target heals him if it wounds him again "
+  },
+  {
+    "desc": "4722 Next weapon to wound target heals its wielder by an equal amount "
+  },
+  {
+    "desc": "4723 Next weapon to wound target identifies him as its rightful owner "
+  },
+  {
+    "desc": "4724 Next weapon to wound target inflicts 10X the rolled damage "
+  },
+  {
+    "desc": "4725 Next weapon to wound target is 5% likely to change his sex "
+  },
+  {
+    "desc": "4726 Next weapon to wound target is +1 until he's wounded again "
+  },
+  {
+    "desc": "4727 Next weapon to wound target is 10% likely to change his alignment "
+  },
+  {
+    "desc": "4728 Next weapon to wound target is 10% likely to destroy his soul "
+  },
+  {
+    "desc": "4729 Next weapon to wound target is 60% likely to shatter "
+  },
+  {
+    "desc": "4730 Next weapon to wound target is believed to be a mighty artifact "
+  },
+  {
+    "desc": "4731 Next weapon to wound target is crushed into a small cube "
+  },
+  {
+    "desc": "4732 Next weapon to wound target is engraved with his name "
+  },
+  {
+    "desc": "4733 Next weapon to wound target is forever after -1 ToHit "
+  },
+  {
+    "desc": "4734 Next weapon to wound target is frozen in a large block of ice "
+  },
+  {
+    "desc": "4735 Next weapon to wound target is intensely magnetic "
+  },
+  {
+    "desc": "4736 Next weapon to wound target is invisible to him forever after "
+  },
+  {
+    "desc": "4737 Next weapon to wound target is jealously sought by collectors "
+  },
+  {
+    "desc": "4738 Next weapon to wound target is older than the entire universe "
+  },
+  {
+    "desc": "4739 Next weapon to wound target is pinned beneath a nearby boulder "
+  },
+  {
+    "desc": "4740 Next weapon to wound target is replaced by a nearly exact replica "
+  },
+  {
+    "desc": "4741 Next weapon to wound target is soon confiscated by demons "
+  },
+  {
+    "desc": "4742 Next weapon to wound target is thereafter +1 to hit him "
+  },
+  {
+    "desc": "4743 Next weapon to wound target is thereafter +4 ToHit him "
+  },
+  {
+    "desc": "4744 Next weapon to wound target is thereafter indestructible "
+  },
+  {
+    "desc": "4745 Next weapon to wound target is thereafter terribly afraid of him "
+  },
+  {
+    "desc": "4746 Next weapon to wound target leaps 1d100 rounds into the future "
+  },
+  {
+    "desc": "4747 Next weapon to wound target likewise wounds his attacker "
+  },
+  {
+    "desc": "4748 Next weapon to wound target makes him suffer apocalyptic visions "
+  },
+  {
+    "desc": "4749 Next weapon to wound target must Save or melt like a candle "
+  },
+  {
+    "desc": "4750 Next weapon to wound target must Save or shrink by 5d10 + 45% "
+  },
+  {
+    "desc": "4751 Next weapon to wound target penalizes its wielder's AC by 5 "
+  },
+  {
+    "desc": "4752 Next weapon to wound target turns out to be a mighty artifact "
+  },
+  {
+    "desc": "4753 Next weapon to wound target turns to stone "
+  },
+  {
+    "desc": "4754 Next weapon to wound target vanishes for 1d10 rounds "
+  },
+  {
+    "desc": "4755 Next weapon to wound target was forged from his own bones "
+  },
+  {
+    "desc": "4756 Next weapon to wound target was forged on a distant world "
+  },
+  {
+    "desc": "4757 No one speaks to target for 2d4-1 days "
+  },
+  {
+    "desc": "4758 No one speaks to target until he spills his own blood "
+  },
+  {
+    "desc": "4759 Non-magical animals react to the target as if he were a salt lick "
+  },
+  {
+    "desc": "4760 Non-magical animals react to the target as if he were food "
+  },
+  {
+    "desc": "4761 Non-magical animals react to the target as if he were one of them "
+  },
+  {
+    "desc": "4762 Non-magical animals react to the target as if he were undead "
+  },
+  {
+    "desc": "4763 Normal voices seem deafeningly loud to the target "
+  },
+  {
+    "desc": "4764 Normal voices seem ghostly and haunting to the target "
+  },
+  {
+    "desc": "4765 Normal voices seem to echo imperiously to the target "
+  },
+  {
+    "desc": "4766 Normal voices seem to resonate in the target's bones "
+  },
+  {
+    "desc": "4767 On target's back is a button that, if pushed, lights up his head "
+  },
+  {
+    "desc": "4768 On target's back is a button that, if pushed, makes him giggle "
+  },
+  {
+    "desc": "4769 On target's back is a button that, if pushed, makes him glow blue "
+  },
+  {
+    "desc": "4770 On target's back is a button that, if pushed, makes him sweat "
+  },
+  {
+    "desc": "4771 Once per day, target can make a sound like a cannon "
+  },
+  {
+    "desc": "4772 Once per day, target can turn all wheels nearby invisible "
+  },
+  {
+    "desc": "4773 One of target's allies thinks that target is an avatar of his god "
+  },
+  {
+    "desc": "4774 One of target's arms becomes as supple as rope during combat "
+  },
+  {
+    "desc": "4775 One of target's arms can bend in 1d4 additional places "
+  },
+  {
+    "desc": "4776 One of target's arms is as durable as steel, but only when wet "
+  },
+  {
+    "desc": "4777 One of target's arms is bent like a corkscrew "
+  },
+  {
+    "desc": "4778 One of target's arms is bent like a shepherd's crook "
+  },
+  {
+    "desc": "4779 One of target's arms is replaced by a duplicate of his head "
+  },
+  {
+    "desc": "4780 One of target's arms is stripped to the bone but works normally "
+  },
+  {
+    "desc": "4781 One of target's arms loses all bone but functions like a tentacle "
+  },
+  {
+    "desc": "4782 One of target's arms turns into a small replica of his leg "
+  },
+  {
+    "desc": "4783 One of target's arms turns to a lion's foreleg "
+  },
+  {
+    "desc": "4784 One of target's eyes migrates to the back of his head "
+  },
+  {
+    "desc": "4785 One of target's feet is fused into an anvil "
+  },
+  {
+    "desc": "4786 One of target's feet rotates 180° at the ankle "
+  },
+  {
+    "desc": "4787 One of target's hands appears to have been flattened by a hammer "
+  },
+  {
+    "desc": "4788 One of target's hands becomes hideously contorted and deformed "
+  },
+  {
+    "desc": "4789 One of target's hands can pass through solid steel "
+  },
+  {
+    "desc": "4790 One of target's hands can pass through stone "
+  },
+  {
+    "desc": "4791 One of target's hands can't be cut by non-magical metal "
+  },
+  {
+    "desc": "4792 One of target's hands dissolves in water like a sand castle "
+  },
+  {
+    "desc": "4793 One of target's hands figures prominently in the apocalypse "
+  },
+  {
+    "desc": "4794 One of target's hands glows brightly in the presence of magic  42"
+  },
+  {
+    "desc": "4795 One of target's hands is fireproof, but he never knows which one "
+  },
+  {
+    "desc": "4796 One of target's hands is fireproof; the other hand vanishes "
+  },
+  {
+    "desc": "4797 One of target's hands is immune to bludgeoning weapons "
+  },
+  {
+    "desc": "4798 One of target's hands is impervious to beam-based magic spells "
+  },
+  {
+    "desc": "4799 One of target's hands is impervious to magical cold "
+  },
+  {
+    "desc": "4800 One of target's hands is invisible to undead "
+  },
+  {
+    "desc": "4801 One of target's hands is shaped like an orangutan's hand "
+  },
+  {
+    "desc": "4802 One of target's hands migrates to the top of his head "
+  },
+  {
+    "desc": "4803 One of target's hands oozes a viscous liquid like sap "
+  },
+  {
+    "desc": "4804 One of target's hands shines like a beacon if clenched in a fist "
+  },
+  {
+    "desc": "4805 One of target's hands turns into a hoof "
+  },
+  {
+    "desc": "4806 One of target's hands turns into a perfect cube of granite "
+  },
+  {
+    "desc": "4807 One of target's hands turns into a replica of a rabbit's head "
+  },
+  {
+    "desc": "4808 One of target's hands turns into sponge "
+  },
+  {
+    "desc": "4809 One of target's hands, when clenched, looks like a small head "
+  },
+  {
+    "desc": "4810 One of target's legs and one of his arms become as clear as glass "
+  },
+  {
+    "desc": "4811 One of target's legs and one of his arms seem to be made of wood "
+  },
+  {
+    "desc": "4812 One of target's legs and one of his arms shrink by 50% "
+  },
+  {
+    "desc": "4813 One of target's legs and one of his arms turn invisible "
+  },
+  {
+    "desc": "4814 One of target's limbs acquires intelligence hostile to him "
+  },
+  {
+    "desc": "4815 One of target's limbs always seems to be soaked with milk "
+  },
+  {
+    "desc": "4816 One of target's limbs appears to be made of diamond "
+  },
+  {
+    "desc": "4817 One of target's limbs becomes wildly disobedient during combat "
+  },
+  {
+    "desc": "4818 One of target's limbs can appear identical to his other limbs "
+  },
+  {
+    "desc": "4819 One of target's limbs can be Dispelled as an illusion "
+  },
+  {
+    "desc": "4820 One of target's limbs can never be rendered invisible "
+  },
+  {
+    "desc": "4821 One of target's limbs can't be armored in combat "
+  },
+  {
+    "desc": "4822 One of target's limbs develops an intense hatred for the others "
+  },
+  {
+    "desc": "4823 One of target's limbs falls off and tries to escape "
+  },
+  {
+    "desc": "4824 One of target's limbs glows bright blue in the dark "
+  },
+  {
+    "desc": "4825 One of target's limbs is affected as by the spell Slow "
+  },
+  {
+    "desc": "4826 One of target's limbs is as hard as steel during combat "
+  },
+  {
+    "desc": "4827 One of target's limbs is clearly artificial "
+  },
+  {
+    "desc": "4828 One of target's limbs is controlled by caster for 1d10 rounds "
+  },
+  {
+    "desc": "4829 One of target's limbs is covered in feathers "
+  },
+  {
+    "desc": "4830 One of target's limbs is entirely indestructible "
+  },
+  {
+    "desc": "4831 One of target's limbs is impervious to blades during combat "
+  },
+  {
+    "desc": "4832 One of target's limbs is impervious to polymorph magic "
+  },
+  {
+    "desc": "4833 One of target's limbs is made of porcelain but functions normally "
+  },
+  {
+    "desc": "4834 One of target's limbs is paralyzed for 1d6 days "
+  },
+  {
+    "desc": "4835 One of target's limbs is replaced by a hideous tentacle "
+  },
+  {
+    "desc": "4836 One of target's limbs is responsible for genocide "
+  },
+  {
+    "desc": "4837 One of target's limbs is wanted for murder "
+  },
+  {
+    "desc": "4838 One of target's limbs now juts from the center of his back "
+  },
+  {
+    "desc": "4839 One of target's limbs regenerates in 1d4 rounds if severed "
+  },
+  {
+    "desc": "4840 One of target's limbs retracts into his torso when not in use "
+  },
+  {
+    "desc": "4841 One of target's limbs seems to belong to a different species "
+  },
+  {
+    "desc": "4842 One of target's limbs shrinks by 1d4% per day "
+  },
+  {
+    "desc": "4843 One of target's limbs suffers intense pain if he uses magic "
+  },
+  {
+    "desc": "4844 One of target's limbs turns as green as grass "
+  },
+  {
+    "desc": "4845 One of target's limbs turns to a tree limb "
+  },
+  {
+    "desc": "4846 One of target's limbs turns to solid gold "
+  },
+  {
+    "desc": "4847 One or more of target's allies is plotting to kill him "
+  },
+  {
+    "desc": "4848 One or more of target's allies thinks that target is a traitor "
+  },
+  {
+    "desc": "4849 Ordinary water has a powerful emetic effect upon the target "
+  },
+  {
+    "desc": "4850 Ordinary water induces aggressive incontinence in the target "
+  },
+  {
+    "desc": "4851 Ordinary water is as intoxicating to target as distilled spirits "
+  },
+  {
+    "desc": "4852 Ordinary water is incredibly impressive to the target "
+  },
+  {
+    "desc": "4853 People often mistake the target for a hated enemy "
+  },
+  {
+    "desc": "4854 People often mistake the target for a statue of the caster "
+  },
+  {
+    "desc": "4855 People often mistake the target for an undead monstrosity "
+  },
+  {
+    "desc": "4856 People often mistake the target for someone who gives a damn "
+  },
+  {
+    "desc": "4857 People who meet target for the first time accuse him of drowning "
+  },
+  {
+    "desc": "4858 People who meet target for the first time accuse him of treason "
+  },
+  {
+    "desc": "4859 People who meet target for the first time are intimidated by him "
+  },
+  {
+    "desc": "4860 People who meet target for the first time are intimidating to him "
+  },
+  {
+    "desc": "4861 People who meet target for the first time become violently ill "
+  },
+  {
+    "desc": "4862 People who meet target for the first time feel insulted by him "
+  },
+  {
+    "desc": "4863 People who meet target for the first time ignore him if he speaks "
+  },
+  {
+    "desc": "4864 People who meet target for the first time laugh at him derisively "
+  },
+  {
+    "desc": "4865 People who meet target for the first time lose 1d4 gold pieces "
+  },
+  {
+    "desc": "4866 People who meet target for the first time mistake him for royalty "
+  },
+  {
+    "desc": "4867 People who meet target for the first time mock his fashion sense "
+  },
+  {
+    "desc": "4868 People who meet target for the first time point at him and laugh "
+  },
+  {
+    "desc": "4869 People who meet target for the first time promptly forget him "
+  },
+  {
+    "desc": "4870 People who meet target for the first time refuse to speak to him "
+  },
+  {
+    "desc": "4871 People who meet target for the first time tend to trust him "
+  },
+  {
+    "desc": "4872 People who meet target for the first time think he's a corpse "
+  },
+  {
+    "desc": "4873 People who meet target for the first time think he's a murderer "
+  },
+  {
+    "desc": "4874 People who meet target for the first time think he's a thief "
+  },
+  {
+    "desc": "4875 People who meet target for the first time think he's mocking them "
+  },
+  {
+    "desc": "4876 People who meet target for the first time think he's on fire "
+  },
+  {
+    "desc": "4877 People who meet target for the first time think he's stupid "
+  },
+  {
+    "desc": "4878 People who meet target for the first time think that he's a demon "
+  },
+  {
+    "desc": "4879 People who meet target for the first time think that he's hideous "
+  },
+  {
+    "desc": "4880 People who meet target for the first time threaten to kill him "
+  },
+  {
+    "desc": "4881 Phosphorescent beetles teem over target's skin for 2d12 hours "
+  },
+  {
+    "desc": "4882 Printed text appears hopelessly garbled while target is nearby "
+  },
+  {
+    "desc": "4883 Rope hisses like a snake while target uses it "
+  },
+  {
+    "desc": "4884 Rope tends to become hopelessly tangled when target uses it "
+  },
+  {
+    "desc": "4885 Seltzer water sprays from the target's nose for 1d10 rounds "
+  },
+  {
+    "desc": "4886 Shimmering lights play over the target's skin during combat "
+  },
+  {
+    "desc": "4887 Smoke issues from the ground near the target when he's angry "
+  },
+  {
+    "desc": "4888 Smoke makes the target think that he's being suffocated "
+  },
+  {
+    "desc": "4889 Smoke pours from target's eyes when he uses or is struck by magic "
+  },
+  {
+    "desc": "4890 Smoke pours from target's skin as though his bones are ablaze "
+  },
+  {
+    "desc": "4891 Some common non-magical species adopts the target as its enemy "
+  },
+  {
+    "desc": "4892 Some common non-magical species is forever invisible to target "
+  },
+  {
+    "desc": "4893 Some distant creature has been hired to assassinate the target "
+  },
+  {
+    "desc": "4894 Something from the bottom of a nearby lake attacks the target "
+  },
+  {
+    "desc": "4895 Sparks fly from target's ears as from a grindstone "
+  },
+  {
+    "desc": "4896 Sparks fly from target's eyes when he draws a weapon "
+  },
+  {
+    "desc": "4897 Sparks fly from target's fingertips when he's angry "
+  },
+  {
+    "desc": "4898 Sparks fly from target's nostrils as he speaks "
+  },
+  {
+    "desc": "4899 Spectral voices echo everything that the target says "
+  },
+  {
+    "desc": "4900 Suddenly 1d4 people appear and attack the target "
+  },
+  {
+    "desc": "4901 Suddenly 1d4 people appear and offer trinkets to the target "
+  },
+  {
+    "desc": "4902 Suddenly 1d4 people appear and try to lasso the target "
+  },
+  {
+    "desc": "4903 Suddenly 1d4 people appear and worship the target "
+  },
+  {
+    "desc": "4904 Suddenly 1d4 people nearby resemble the target "
+  },
+  {
+    "desc": "4905 Suddenly 1d4 people nearby wish to assassinate the target "
+  },
+  {
+    "desc": "4906 Sulfurous mud oozes from target's clothes for 1d8 hours "
+  },
+  {
+    "desc": "4907 Summoned creatures are at +2 ToHit the target "
+  },
+  {
+    "desc": "4908 Summoned creatures are Hasted in the target's presence "
+  },
+  {
+    "desc": "4909 Summoned creatures are invisible to the target "
+  },
+  {
+    "desc": "4910 Summoned creatures are Slowed in the target's presence "
+  },
+  {
+    "desc": "4911 Summoned creatures can make no sound in the target's presence "
+  },
+  {
+    "desc": "4912 Summoned creatures covet the target's possessions "
+  },
+  {
+    "desc": "4913 Summoned creatures ignore and are unaffected by the target "
+  },
+  {
+    "desc": "4914 Summoned creatures ignore the target unless he attacks them "
+  },
+  {
+    "desc": "4915 Summoned creatures ignore the target unless he has a weapon drawn "
+  },
+  {
+    "desc": "4916 Swords can't come within ten feet of the target for 1d4 rounds "
+  },
+  {
+    "desc": "4917 Swords in target's presence drip with his blood "
+  },
+  {
+    "desc": "4918 Swords pass harmlessly through the target's body for 1d4 turns "
+  },
+  {
+    "desc": "4919 Target acquires a new language and refuses to speak any other "
+  },
+  {
+    "desc": "4920 Target acquires an exact copy of the caster's spellbook "
+  },
+  {
+    "desc": "4921 Target acquires scars to match any wounds he inflicts on others "
+  },
+  {
+    "desc": "4922 Target acts as though he doesn't really exist "
+  },
+  {
+    "desc": "4923 Target acts as though he's the only person who really exists "
+  },
+  {
+    "desc": "4924 Target acts as though his fingers are readily replaceable  43"
+  },
+  {
+    "desc": "4925 Target acts as though his head and body are two separate beings "
+  },
+  {
+    "desc": "4926 Target acts generally like a jerk toward his friends and allies "
+  },
+  {
+    "desc": "4927 Target acts like a child for 10d10 rounds "
+  },
+  {
+    "desc": "4928 Target acts like a horse for 1d4 turns "
+  },
+  {
+    "desc": "4929 Target adds 1d4 to each attribute score for 2d12 hours "
+  },
+  {
+    "desc": "4930 Target affects an air of ostentatious wealth even if he's poor "
+  },
+  {
+    "desc": "4931 Target ages 1d10 years per day for the next 1d4 weeks "
+  },
+  {
+    "desc": "4932 Target ages 1d1000 years; if he lives, he's not subject to aging "
+  },
+  {
+    "desc": "4933 Target ages 1d4 years each time he says his name "
+  },
+  {
+    "desc": "4934 Target ages 1d4 years each time he's cut by a claw or fang "
+  },
+  {
+    "desc": "4935 Target ages 1d4 years each time he's cut by a metal blade "
+  },
+  {
+    "desc": "4936 Target ages 1d4 years each time his weapon injures someone "
+  },
+  {
+    "desc": "4937 Target ages at 2X normal rate unless he has a coin in his mouth "
+  },
+  {
+    "desc": "4938 Target ages at 2X normal rate while not in direct sunlight "
+  },
+  {
+    "desc": "4939 Target ages one year for each hit point of fire damage he suffers "
+  },
+  {
+    "desc": "4940 Target ages one year per round spent in the caster's presence "
+  },
+  {
+    "desc": "4941 Target ages plus or minus 1d10 years each hour "
+  },
+  {
+    "desc": "4942 Target always attacks the foe he's least likely to defeat "
+  },
+  {
+    "desc": "4943 Target always fails to consider the consequences "
+  },
+  {
+    "desc": "4944 Target always knows the location of the nearest giraffe "
+  },
+  {
+    "desc": "4945 Target and his possessions are stripped of any enchantments "
+  },
+  {
+    "desc": "4946 Target and nearest zombie are chained together nearby "
+  },
+  {
+    "desc": "4947 Target and nearest zombie are often mistaken for each other "
+  },
+  {
+    "desc": "4948 Target and nearest zombie exchange bodies "
+  },
+  {
+    "desc": "4949 Target and nearest zombie form an unholy alliance "
+  },
+  {
+    "desc": "4950 Target and the nearest horse exchange bodies "
+  },
+  {
+    "desc": "4951 Target and the nearest horse exchange clothing "
+  },
+  {
+    "desc": "4952 Target and the next person he attacks are invisible to each other "
+  },
+  {
+    "desc": "4953 Target and the next person he attacks are soaked with icy brine "
+  },
+  {
+    "desc": "4954 Target and the next person he attacks both shrink by 5d10% "
+  },
+  {
+    "desc": "4955 Target and the next person he attacks each lose 2d8 hit points "
+  },
+  {
+    "desc": "4956 Target and the next person he attacks fall unconscious until dawn "
+  },
+  {
+    "desc": "4957 Target and the next person he attacks freeze solid "
+  },
+  {
+    "desc": "4958 Target and the next person he attacks teleport 1d4 miles away "
+  },
+  {
+    "desc": "4959 Target and the next person he attacks vanish for 10d10 rounds "
+  },
+  {
+    "desc": "4960 Target appears to be 1d100 years older than he really is "
+  },
+  {
+    "desc": "4961 Target appears to be 1d20 inches taller than he really is "
+  },
+  {
+    "desc": "4962 Target appears to be a hideous corpse until dawn tomorrow "
+  },
+  {
+    "desc": "4963 Target appears to be far more menacing than he really is "
+  },
+  {
+    "desc": "4964 Target appears to be in the middle of a terrible rainstorm "
+  },
+  {
+    "desc": "4965 Target appears to be made of chocolate until dawn tomorrow "
+  },
+  {
+    "desc": "4966 Target appears to be soaked in his own blood until dawn tomorrow "
+  },
+  {
+    "desc": "4967 Target appears to be wearing a cloak of shimmering fire "
+  },
+  {
+    "desc": "4968 Target appears to have been assembled out of bamboo "
+  },
+  {
+    "desc": "4969 Target appears to have been burned beyond recognition "
+  },
+  {
+    "desc": "4970 Target appears to have been turned inside-out and then restored "
+  },
+  {
+    "desc": "4971 Target asserts that a great catastrophe is about to occur "
+  },
+  {
+    "desc": "4972 Target asserts that a nearby ally is really an illusion "
+  },
+  {
+    "desc": "4973 Target asserts that a nearby ally is trying to Charm him "
+  },
+  {
+    "desc": "4974 Target asserts that a vast conspiracy is out to get him "
+  },
+  {
+    "desc": "4975 Target asserts that all contracts are null and void "
+  },
+  {
+    "desc": "4976 Target asserts that all gold within 10 miles is counterfeit "
+  },
+  {
+    "desc": "4977 Target asserts that anyone who bleeds in his presence is a coward "
+  },
+  {
+    "desc": "4978 Target asserts that anyone who drinks his blood will live forever "
+  },
+  {
+    "desc": "4979 Target asserts that dangerous organisms live within his flesh "
+  },
+  {
+    "desc": "4980 Target asserts that death no longer has any power over him "
+  },
+  {
+    "desc": "4981 Target asserts that fire-based magic has no effect upon him "
+  },
+  {
+    "desc": "4982 Target asserts that he and the caster have been allies for years "
+  },
+  {
+    "desc": "4983 Target asserts that he can command undead "
+  },
+  {
+    "desc": "4984 Target asserts that he can cure disease and cast out demons "
+  },
+  {
+    "desc": "4985 Target asserts that he can divine the future, for the right price "
+  },
+  {
+    "desc": "4986 Target asserts that he can identify poisons by tasting them "
+  },
+  {
+    "desc": "4987 Target asserts that he can issue divine edicts "
+  },
+  {
+    "desc": "4988 Target asserts that he can place powerful curses on people "
+  },
+  {
+    "desc": "4989 Target asserts that he can produce pearls if he eats sand "
+  },
+  {
+    "desc": "4990 Target asserts that he can summon Earth Elementals by eating dirt "
+  },
+  {
+    "desc": "4991 Target asserts that he can summon ghosts and phantoms at will "
+  },
+  {
+    "desc": "4992 Target asserts that he can take the shape of a doppelganger "
+  },
+  {
+    "desc": "4993 Target asserts that he can talk to Air Elementals at will "
+  },
+  {
+    "desc": "4994 Target asserts that he can throw lightning bolts at will "
+  },
+  {
+    "desc": "4995 Target asserts that he can travel between planes at will "
+  },
+  {
+    "desc": "4996 Target asserts that he can travel freely through time "
+  },
+  {
+    "desc": "4997 Target asserts that he can turn diamonds into coal by eating them "
+  },
+  {
+    "desc": "4998 Target asserts that he died 1d4 rounds ago "
+  },
+  {
+    "desc": "4999 Target asserts that he died 1d4 years ago "
+  },
+  {
+    "desc": "5000 Target asserts that he has a key that unlocks his skull "
+  }
+]

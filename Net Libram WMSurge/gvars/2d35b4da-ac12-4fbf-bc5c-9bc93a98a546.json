@@ -1,0 +1,3002 @@
+[
+  {
+    "desc": "6001 Target is chained into the highest branches of a tall tree nearby "
+  },
+  {
+    "desc": "6002 Target is coated in a delicious honey glaze like a ham "
+  },
+  {
+    "desc": "6003 Target is coated in boiling pitch and takes damage accordingly "
+  },
+  {
+    "desc": "6004 Target is completely enclosed by a layer of living flesh "
+  },
+  {
+    "desc": "6005 Target is constricted as though squeezed by an invisible python "
+  },
+  {
+    "desc": "6006 Target is covered by a suit of field plate armor, made of glass "
+  },
+  {
+    "desc": "6007 Target is covered by a thick shawl of fetid vulture feathers "
+  },
+  {
+    "desc": "6008 Target is covered by coarse and musky wool like a yak "
+  },
+  {
+    "desc": "6009 Target is covered by dozens of slugs and snails "
+  },
+  {
+    "desc": "6010 Target is covered by thick, ugly scales for an AC bonus of 1 "
+  },
+  {
+    "desc": "6011 Target is discovered to be a remotely operated machine "
+  },
+  {
+    "desc": "6012 Target is discovered to be an agent of the king "
+  },
+  {
+    "desc": "6013 Target is discovered to be the real heir to the throne "
+  },
+  {
+    "desc": "6014 Target is discovered to be the true owner of caster's home "
+  },
+  {
+    "desc": "6015 Target is discovered to engage in decadent cannibalistic rituals "
+  },
+  {
+    "desc": "6016 Target is dragged along the ground into the nearest open grave "
+  },
+  {
+    "desc": "6017 Target is dragged halfway to the shore of the nearest river "
+  },
+  {
+    "desc": "6018 Target is draped in a gossamer shawl impervious to fire "
+  },
+  {
+    "desc": "6019 Target is draped in filthy funerary dressing "
+  },
+  {
+    "desc": "6020 Target is draped in foul-smelling seaweed "
+  },
+  {
+    "desc": "6021 Target is draped in threads that can only be cut under moonlight "
+  },
+  {
+    "desc": "6022 Target is dreadfully afraid of the spell's target point "
+  },
+  {
+    "desc": "6023 Target is dreadfully homesick for some place he's never been "
+  },
+  {
+    "desc": "6024 Target is dressed like a court jester "
+  },
+  {
+    "desc": "6025 Target is dressed like a crazed anchorite "
+  },
+  {
+    "desc": "6026 Target is dressed like a pig at a luau "
+  },
+  {
+    "desc": "6027 Target is dressed like one of the royal family "
+  },
+  {
+    "desc": "6028 Target is driven halfway through the nearest tree "
+  },
+  {
+    "desc": "6029 Target is driven like a thumbtack into the ground up to his neck "
+  },
+  {
+    "desc": "6030 Target is encased in a glass box quickly filling with water "
+  },
+  {
+    "desc": "6031 Target is encased in a large, hollow sphere of ice "
+  },
+  {
+    "desc": "6032 Target is encased in a marble sarcophagus "
+  },
+  {
+    "desc": "6033 Target is encased in a sealed wicker basket "
+  },
+  {
+    "desc": "6034 Target is encased in a skin-tight plaster cast "
+  },
+  {
+    "desc": "6035 Target is encased in an airtight steel capsule "
+  },
+  {
+    "desc": "6036 Target is encircled by a chest-high wall of packed snow "
+  },
+  {
+    "desc": "6037 Target is encircled by a waist-high, electrified iron fence "
+  },
+  {
+    "desc": "6038 Target is encircled by a zone of intense cold "
+  },
+  {
+    "desc": "6039 Target is encircled by a zone of pure vacuum "
+  },
+  {
+    "desc": "6040 Target is encircled by an electrified fence "
+  },
+  {
+    "desc": "6041 Target is encircled by an illusory wall of chattering skulls "
+  },
+  {
+    "desc": "6042 Target is encircled by tall icicles, each as thick as his leg "
+  },
+  {
+    "desc": "6043 Target is enclosed for one hour in an impenetrable 10-foot sphere "
+  },
+  {
+    "desc": "6044 Target is enclosed in a shrinking steel cage "
+  },
+  {
+    "desc": "6045 Target is enraged beyond all rational control "
+  },
+  {
+    "desc": "6046 Target is ensconced in velvet "
+  },
+  {
+    "desc": "6047 Target is ensnared by some distant spellcaster's Summoning spell "
+  },
+  {
+    "desc": "6048 Target is especially receptive to Commands for the next 24 hours "
+  },
+  {
+    "desc": "6049 Target is fearless as long as he wears the shoes he's wearing now "
+  },
+  {
+    "desc": "6050 Target is forever immune to all non-magical disease "
+  },
+  {
+    "desc": "6051 Target is forever immune to heatstroke "
+  },
+  {
+    "desc": "6052 Target is forever immune to hypothermia "
+  },
+  {
+    "desc": "6053 Target is forever immune to lycanthropy "
+  },
+  {
+    "desc": "6054 Target is found to be a persecuted victim needing caster's help "
+  },
+  {
+    "desc": "6055 Target is fully healed if he's slain while standing in snow "
+  },
+  {
+    "desc": "6056 Target is harassed by skeletal crows "
+  },
+  {
+    "desc": "6057 Target is haunted by the endless screams of damned souls "
+  },
+  {
+    "desc": "6058 Target is healed of all damage, but his clothes and gear vanish "
+  },
+  {
+    "desc": "6059 Target is held personally responsible for some distant atrocity "
+  },
+  {
+    "desc": "6060 Target is held personally responsible for the decay of society "
+  },
+  {
+    "desc": "6061 Target is highly magical and dies if Dispel Magic is cast on him "
+  },
+  {
+    "desc": "6062 Target is highly magical and is quickly recognized by magic users "
+  },
+  {
+    "desc": "6063 Target is holding an anvil and can't put it down for 2d8 rounds "
+  },
+  {
+    "desc": "6064 Target is holding an egg in each hand and must not break them! "
+  },
+  {
+    "desc": "6065 Target is hopelessly lost for 2d10 rounds "
+  },
+  {
+    "desc": "6066 Target is horribly afraid of cooked or salted meat "
+  },
+  {
+    "desc": "6067 Target is horribly scarred, as though shredded and reassembled "
+  },
+  {
+    "desc": "6068 Target is horrified by the sight of female magic users "
+  },
+  {
+    "desc": "6069 Target is horrified by the sound of clattering bones "
+  },
+  {
+    "desc": "6070 Target is identified as the leader of some bizarre cult "
+  },
+  {
+    "desc": "6071 Target is immortal and unaging until he next speaks "
+  },
+  {
+    "desc": "6072 Target is immortal, but he's sentenced to lifelong imprisonment "
+  },
+  {
+    "desc": "6073 Target is immortal, but his arms and legs vanish forever "
+  },
+  {
+    "desc": "6074 Target is immune to air-based magic for 1d4 days "
+  },
+  {
+    "desc": "6075 Target is immune to all attacks by non-magical birds "
+  },
+  {
+    "desc": "6076 Target is immune to all injury until he next speaks "
+  },
+  {
+    "desc": "6077 Target is immune to all swords now within one mile "
+  },
+  {
+    "desc": "6078 Target is immune to any wounds inflicted by humans for 4d6 hours "
+  },
+  {
+    "desc": "6079 Target is immune to area-effect magic for 1d4 days "
+  },
+  {
+    "desc": "6080 Target is immune to beneficial magic for 2d4 days "
+  },
+  {
+    "desc": "6081 Target is immune to charm-based spells or attacks for 1d4 weeks "
+  },
+  {
+    "desc": "6082 Target is immune to Charms and Enchantments for 1d4 weeks "
+  },
+  {
+    "desc": "6083 Target is immune to electrical attacks while carrying metal "
+  },
+  {
+    "desc": "6084 Target is immune to his allies' magic "
+  },
+  {
+    "desc": "6085 Target is immune to his allies' magic for 10d10 rounds "
+  },
+  {
+    "desc": "6086 Target is immune to his own magic and attacks for 1d4 hours "
+  },
+  {
+    "desc": "6087 Target is immune to hostile magic for 1d4 days "
+  },
+  {
+    "desc": "6088 Target is immune to illusions until dawn tomorrow "
+  },
+  {
+    "desc": "6089 Target is immune to injuries inflicted by wood in daylight "
+  },
+  {
+    "desc": "6090 Target is immune to inorganic poisons for 1d4 months "
+  },
+  {
+    "desc": "6091 Target is immune to light-based magic until sunset tomorrow "
+  },
+  {
+    "desc": "6092 Target is immune to lightning "
+  },
+  {
+    "desc": "6093 Target is immune to magical cold while naked "
+  },
+  {
+    "desc": "6094 Target is immune to magical diseases for one week  52"
+  },
+  {
+    "desc": "6095 Target is immune to magical fire while naked "
+  },
+  {
+    "desc": "6096 Target is immune to magical healing "
+  },
+  {
+    "desc": "6097 Target is immune to missile weapons for 6d8 hours "
+  },
+  {
+    "desc": "6098 Target is immune to necromantic magic until he uses a magic item "
+  },
+  {
+    "desc": "6099 Target is immune to non-magical diseases "
+  },
+  {
+    "desc": "6100 Target is immune to non-magical extremes of weather "
+  },
+  {
+    "desc": "6101 Target is immune to normal fire while wearing these clothes "
+  },
+  {
+    "desc": "6102 Target is immune to piercing weapons, such as stilettos, etc. "
+  },
+  {
+    "desc": "6103 Target is immune to poisons, but meat is highly toxic to him "
+  },
+  {
+    "desc": "6104 Target is immune to polymorph magic "
+  },
+  {
+    "desc": "6105 Target is immune to smoke inhalation for the rest of his life "
+  },
+  {
+    "desc": "6106 Target is immune to the burning effects of acid for 2d4 days "
+  },
+  {
+    "desc": "6107 Target is immune to the caster's magic for 10d10 rounds "
+  },
+  {
+    "desc": "6108 Target is immune to the crushing pressure of very deep water "
+  },
+  {
+    "desc": "6109 Target is immune to the next 1d10 attacks against him "
+  },
+  {
+    "desc": "6110 Target is immune to the next magical disease he encounters "
+  },
+  {
+    "desc": "6111 Target is implicated in numerous treasonous scandals "
+  },
+  {
+    "desc": "6112 Target is in the middle of a typhoon, but no one else is "
+  },
+  {
+    "desc": "6113 Target is infected with plague "
+  },
+  {
+    "desc": "6114 Target is instantly consumed by vermin if he dies within 24 hours "
+  },
+  {
+    "desc": "6115 Target is intensely drunk for 1d4 rounds after every combat "
+  },
+  {
+    "desc": "6116 Target is invisible to lycanthropes while he's bleeding "
+  },
+  {
+    "desc": "6117 Target is invisible to lycanthropes while they're indoors "
+  },
+  {
+    "desc": "6118 Target is invisible while carrying 1d4 burning torches "
+  },
+  {
+    "desc": "6119 Target is invisible while completely submerged "
+  },
+  {
+    "desc": "6120 Target is invisible while he has an apple in each hand "
+  },
+  {
+    "desc": "6121 Target is invisible while shouting "
+  },
+  {
+    "desc": "6122 Target is invulnerable and invisible until he speaks or moves "
+  },
+  {
+    "desc": "6123 Target is invulnerable to 80% of normal weapons "
+  },
+  {
+    "desc": "6124 Target is invulnerable to any weapon that has already wounded him "
+  },
+  {
+    "desc": "6125 Target is invulnerable to normal weapons and can't wield them "
+  },
+  {
+    "desc": "6126 Target is invulnerable to normal weapons for 1d6 turns "
+  },
+  {
+    "desc": "6127 Target is invulnerable to normal weapons until he inflicts damage "
+  },
+  {
+    "desc": "6128 Target is invulnerable to normal weapons until he wields one "
+  },
+  {
+    "desc": "6129 Target is invulnerable to weapon that he himself forged "
+  },
+  {
+    "desc": "6130 Target is kidnapped to be used as a sacrifice by a religious cult "
+  },
+  {
+    "desc": "6131 Target is kidnapped to be used as in medical experiments "
+  },
+  {
+    "desc": "6132 Target is killed outright if he ever triggers a Chaos Burst "
+  },
+  {
+    "desc": "6133 Target is killed outright if he kills any member of his species "
+  },
+  {
+    "desc": "6134 Target is killed outright if he wounds himself with a sword "
+  },
+  {
+    "desc": "6135 Target is killed outright if struck by a blood relative "
+  },
+  {
+    "desc": "6136 Target is limned by golden light until dawn tomorrow "
+  },
+  {
+    "desc": "6137 Target is liquefied and emerges from a nearby lake fully healed "
+  },
+  {
+    "desc": "6138 Target is liquefied but reforms at full hit points in 1d20 rounds "
+  },
+  {
+    "desc": "6139 Target is liquefied but reforms in a slightly warped shape "
+  },
+  {
+    "desc": "6140 Target is liquefied but returns fully healed during the next rain "
+  },
+  {
+    "desc": "6141 Target is lost in the shuffle "
+  },
+  {
+    "desc": "6142 Target is mesmerized by the sight of lighted candles "
+  },
+  {
+    "desc": "6143 Target is mesmerized by the sound of clinking metal "
+  },
+  {
+    "desc": "6144 Target is nearly paralyzed with terror under the full moon "
+  },
+  {
+    "desc": "6145 Target is now standing 8d10 yards behind the spell's target point "
+  },
+  {
+    "desc": "6146 Target is now standing atop the tallest mountain within 100 miles "
+  },
+  {
+    "desc": "6147 Target is numb to all physical sensation for 3d8 rounds "
+  },
+  {
+    "desc": "6148 Target is obsessed with ridding himself of all skin and hair "
+  },
+  {
+    "desc": "6149 Target is obsessed with ridding himself of all worldly property "
+  },
+  {
+    "desc": "6150 Target is obsessed with ridding himself of his allies "
+  },
+  {
+    "desc": "6151 Target is obsessed with ridding himself of his shadow "
+  },
+  {
+    "desc": "6152 Target is obsessively covetous of some item that he can now see "
+  },
+  {
+    "desc": "6153 Target is obsessively jealous of someone now standing nearby "
+  },
+  {
+    "desc": "6154 Target is obsessively protective of someone now standing nearby "
+  },
+  {
+    "desc": "6155 Target is obsessively protective someone he's never met "
+  },
+  {
+    "desc": "6156 Target is overwhelmingly drunk for 1d4 rounds, then totally sober "
+  },
+  {
+    "desc": "6157 Target is paralyzed by dread when he witnesses magical effects "
+  },
+  {
+    "desc": "6158 Target is pelted by hundreds of acorns "
+  },
+  {
+    "desc": "6159 Target is pelted by snowballs for 1d6 rounds "
+  },
+  {
+    "desc": "6160 Target is pelted by tiny, red hot coals for 1d4 rounds "
+  },
+  {
+    "desc": "6161 Target is pelted like a mink, otter, or beaver "
+  },
+  {
+    "desc": "6162 Target is permanently bloodstained "
+  },
+  {
+    "desc": "6163 Target is permanently invisible to caster but can't attack him "
+  },
+  {
+    "desc": "6164 Target is permanently invisible to himself between dusk and dawn "
+  },
+  {
+    "desc": "6165 Target is permanently rendered 1d100% transparent "
+  },
+  {
+    "desc": "6166 Target is physically exhausted "
+  },
+  {
+    "desc": "6167 Target is poisoned if he touches a book in the next 1d4 days "
+  },
+  {
+    "desc": "6168 Target is pursued by predatory moneylenders "
+  },
+  {
+    "desc": "6169 Target is pursued by ravenous wolves "
+  },
+  {
+    "desc": "6170 Target is pursued by rogue shadows that resemble his own "
+  },
+  {
+    "desc": "6171 Target is pushed through the planet and out to the opposite side "
+  },
+  {
+    "desc": "6172 Target is quarantined by the local Minister of Health "
+  },
+  {
+    "desc": "6173 Target is real but can be disbelieved as if he were an illusion "
+  },
+  {
+    "desc": "6174 Target is real but can be Dispelled as if he were an illusion "
+  },
+  {
+    "desc": "6175 Target is recognized as an escaped slave wherever he goes "
+  },
+  {
+    "desc": "6176 Target is reluctant to engage in combat between sunrise and noon "
+  },
+  {
+    "desc": "6177 Target is reluctant to speak between noon and sunset "
+  },
+  {
+    "desc": "6178 Target is reluctant to wield any weapon with inorganic components "
+  },
+  {
+    "desc": "6179 Target is rendered deaf and blind for 2d10 rounds "
+  },
+  {
+    "desc": "6180 Target is rendered inert for 1d10 turns "
+  },
+  {
+    "desc": "6181 Target is rendered like a cow in an abattoir "
+  },
+  {
+    "desc": "6182 Target is rendered mute for 1d100 rounds "
+  },
+  {
+    "desc": "6183 Target is scarred as though he were pressed against a hot screen "
+  },
+  {
+    "desc": "6184 Target is scarred as though his digestive tract has been removed "
+  },
+  {
+    "desc": "6185 Target is sheathed in a large, living sponge "
+  },
+  {
+    "desc": "6186 Target is sheathed in a plant like a huge pea pod "
+  },
+  {
+    "desc": "6187 Target is sheathed in blood-soaked strips of leather "
+  },
+  {
+    "desc": "6188 Target is sheathed in wax "
+  },
+  {
+    "desc": "6189 Target is shoved to the ground in each of the next 1d10 rounds "
+  },
+  {
+    "desc": "6190 Target is showered by sawdust for 1d10 rounds "
+  },
+  {
+    "desc": "6191 Target is showered by shaved ice for the next 1d10 rounds "
+  },
+  {
+    "desc": "6192 Target is shunned by all other members of his species "
+  },
+  {
+    "desc": "6193 Target is shunned by all that is holy "
+  },
+  {
+    "desc": "6194 Target is shunned by anyone carrying a magic item "
+  },
+  {
+    "desc": "6195 Target is shunned by anyone nearby who is now wounded "
+  },
+  {
+    "desc": "6196 Target is shunned by polite society "
+  },
+  {
+    "desc": "6197 Target is smeared in a coordinated campaign of personal attacks "
+  },
+  {
+    "desc": "6198 Target is smeared in a fluid that suppresses his natural scent "
+  },
+  {
+    "desc": "6199 Target is smeared in lard "
+  },
+  {
+    "desc": "6200 Target is smeared in some kind of fireproof jelly "
+  },
+  {
+    "desc": "6201 Target is so badly disfigured that people flee from him in horror "
+  },
+  {
+    "desc": "6202 Target is sought for arrest because he stole a loaf of bread "
+  },
+  {
+    "desc": "6203 Target is standing knee-deep in a basket full of cobras "
+  },
+  {
+    "desc": "6204 Target is standing knee-deep in a bucket full of manure "
+  },
+  {
+    "desc": "6205 Target is stricken completely hairless "
+  },
+  {
+    "desc": "6206 Target is stricken deaf, blind, and mute for 1d6 rounds "
+  },
+  {
+    "desc": "6207 Target is stricken from any documents that mention him by name "
+  },
+  {
+    "desc": "6208 Target is stricken mute under every full moon "
+  },
+  {
+    "desc": "6209 Target is stricken mute while horses are nearby "
+  },
+  {
+    "desc": "6210 Target is stricken mute while under any magical effect "
+  },
+  {
+    "desc": "6211 Target is struck by lightning for 1d100 hit points of damage "
+  },
+  {
+    "desc": "6212 Target is struck by lightning the next time an ally is wounded "
+  },
+  {
+    "desc": "6213 Target is struck by lightning the next time he draws a weapon "
+  },
+  {
+    "desc": "6214 Target is struck by lightning the next time he enters water "
+  },
+  {
+    "desc": "6215 Target is struck by lightning the next time he speaks "
+  },
+  {
+    "desc": "6216 Target is struck by lightning the next time he uses a magic item "
+  },
+  {
+    "desc": "6217 Target is struck by lightning unless he's currently atop a horse "
+  },
+  {
+    "desc": "6218 Target is stung by a bee as large as an ox "
+  },
+  {
+    "desc": "6219 Target is stung by a bee every time he makes a successful attack "
+  },
+  {
+    "desc": "6220 Target is suddenly acutely aware of any injuries he now has "
+  },
+  {
+    "desc": "6221 Target is suddenly attacked by ruffians "
+  },
+  {
+    "desc": "6222 Target is suddenly holding 1d4 anvils "
+  },
+  {
+    "desc": "6223 Target is suddenly holding a box full of his own bones "
+  },
+  {
+    "desc": "6224 Target is suddenly holding a pair of alligator suitcases  53"
+  },
+  {
+    "desc": "6225 Target is suddenly holding a pair of magic rings "
+  },
+  {
+    "desc": "6226 Target is suddenly holding an enormous bouquet of roses "
+  },
+  {
+    "desc": "6227 Target is suddenly holding the king's severed head "
+  },
+  {
+    "desc": "6228 Target is suddenly holding the nearest corpse in his arms "
+  },
+  {
+    "desc": "6229 Target is suddenly lying in a four-poster canopy bed "
+  },
+  {
+    "desc": "6230 Target is suddenly lying in his own bed "
+  },
+  {
+    "desc": "6231 Target is suddenly lying on a funeral pyre "
+  },
+  {
+    "desc": "6232 Target is suddenly married to 1d8 additional spouses "
+  },
+  {
+    "desc": "6233 Target is suddenly morbidly obese "
+  },
+  {
+    "desc": "6234 Target is suddenly naked except for a fig leaf "
+  },
+  {
+    "desc": "6235 Target is suddenly on the verge of an important breakthrough "
+  },
+  {
+    "desc": "6236 Target is suddenly on the verge of going berserk "
+  },
+  {
+    "desc": "6237 Target is suddenly on the verge of utter dehydration "
+  },
+  {
+    "desc": "6238 Target is suddenly on the verge of utter exhaustion "
+  },
+  {
+    "desc": "6239 Target is suddenly on the verge of utter panic "
+  },
+  {
+    "desc": "6240 Target is suddenly on the verge of utter starvation "
+  },
+  {
+    "desc": "6241 Target is suddenly packaged in a large cardboard box "
+  },
+  {
+    "desc": "6242 Target is suddenly recognized as everyone's long-lost brother "
+  },
+  {
+    "desc": "6243 Target is suddenly sitting at the base of a nearby waterfall "
+  },
+  {
+    "desc": "6244 Target is suddenly sitting atop someone else's horse "
+  },
+  {
+    "desc": "6245 Target is suddenly sitting atop the tallest waterfall in the land "
+  },
+  {
+    "desc": "6246 Target is suddenly sitting in a bucket full of ice water "
+  },
+  {
+    "desc": "6247 Target is suddenly sitting in a large wooden crate "
+  },
+  {
+    "desc": "6248 Target is suddenly sitting in the bucket of the nearest catapult "
+  },
+  {
+    "desc": "6249 Target is suddenly sitting in the queen's boudoir "
+  },
+  {
+    "desc": "6250 Target is suddenly sitting on an anthill, smeared with honey "
+  },
+  {
+    "desc": "6251 Target is suddenly sitting on the corpse of a fallen ally "
+  },
+  {
+    "desc": "6252 Target is suddenly standing atop a heap of shattered masonry "
+  },
+  {
+    "desc": "6253 Target is suddenly standing atop a rickety and very tall fence "
+  },
+  {
+    "desc": "6254 Target is suddenly standing atop a tall ladder "
+  },
+  {
+    "desc": "6255 Target is suddenly standing atop the nearest corpse "
+  },
+  {
+    "desc": "6256 Target is suddenly standing atop the nearest lookout tower "
+  },
+  {
+    "desc": "6257 Target is suddenly standing atop the nearest sand dune "
+  },
+  {
+    "desc": "6258 Target is suddenly standing in a fetid swamp miles from here "
+  },
+  {
+    "desc": "6259 Target is suddenly standing in the nearest boat "
+  },
+  {
+    "desc": "6260 Target is suddenly standing in the nearest locked treasure vault "
+  },
+  {
+    "desc": "6261 Target is suddenly standing knee-deep in the nearest ocean "
+  },
+  {
+    "desc": "6262 Target is suddenly standing next to his most powerful enemy "
+  },
+  {
+    "desc": "6263 Target is suddenly standing on a trapdoor over a very deep pit "
+  },
+  {
+    "desc": "6264 Target is suddenly standing on the shoulders of a nearby ally "
+  },
+  {
+    "desc": "6265 Target is suddenly standing outside his own front door "
+  },
+  {
+    "desc": "6266 Target is suddenly standing under the nearest bridge "
+  },
+  {
+    "desc": "6267 Target is suddenly standing upon what appears to be his own grave "
+  },
+  {
+    "desc": "6268 Target is suddenly standing wherever he awoke this morning "
+  },
+  {
+    "desc": "6269 Target is suddenly suffering from overpowering agoraphobia "
+  },
+  {
+    "desc": "6270 Target is suddenly wearing a cast-iron straightjacket "
+  },
+  {
+    "desc": "6271 Target is suddenly wearing a provocative leather ensemble "
+  },
+  {
+    "desc": "6272 Target is suddenly wearing a skin-tight suit of chain mail "
+  },
+  {
+    "desc": "6273 Target is suddenly wearing an anachronistic bathing costume "
+  },
+  {
+    "desc": "6274 Target is suddenly wearing an ornate saddle of very high quality "
+  },
+  {
+    "desc": "6275 Target is suddenly wearing fireproof clothing "
+  },
+  {
+    "desc": "6276 Target is suddenly wearing whatever the king wore yesterday "
+  },
+  {
+    "desc": "6277 Target is surrounded by pandering sycophants "
+  },
+  {
+    "desc": "6278 Target is surrounded by rabid wolves "
+  },
+  {
+    "desc": "6279 Target is surrounded by servitors who want to assassinate him "
+  },
+  {
+    "desc": "6280 Target is surrounded by vermin and small pests "
+  },
+  {
+    "desc": "6281 Target is susceptible to rust while carrying gold "
+  },
+  {
+    "desc": "6282 Target is suspected of having trafficked with demons in a church "
+  },
+  {
+    "desc": "6283 Target is suspected of having wrought a plague upon this nation "
+  },
+  {
+    "desc": "6284 Target is suspected of holding the secret of all existence "
+  },
+  {
+    "desc": "6285 Target is suspected of plotting to exterminate his entire species "
+  },
+  {
+    "desc": "6286 Target is suspended above the tallest tree nearby "
+  },
+  {
+    "desc": "6287 Target is suspended over a flaming pit until sunset "
+  },
+  {
+    "desc": "6288 Target is swarmed by countless flies, but they don't bother him "
+  },
+  {
+    "desc": "6289 Target is swarmed by undead whenever he uses a magic item "
+  },
+  {
+    "desc": "6290 Target is swept 3d100 yards by a wave of molasses "
+  },
+  {
+    "desc": "6291 Target is the most unrepentant coward in the entire world "
+  },
+  {
+    "desc": "6292 Target is the subject of a distant being's use of the Wish spell "
+  },
+  {
+    "desc": "6293 Target is thought to be a malefic figure as foretold by prophecy "
+  },
+  {
+    "desc": "6294 Target is thrown 1d4 rounds into the past "
+  },
+  {
+    "desc": "6295 Target is thrown 8d6 hours into the future "
+  },
+  {
+    "desc": "6296 Target is thrown 8d6 yards into the air "
+  },
+  {
+    "desc": "6297 Target is thrown down the nearest flight of stairs "
+  },
+  {
+    "desc": "6298 Target is thrown into a coma for 1d6 days "
+  },
+  {
+    "desc": "6299 Target is thrown into the nearest briar patch "
+  },
+  {
+    "desc": "6300 Target is tied between two trees like a hammock "
+  },
+  {
+    "desc": "6301 Target is tied to the ground with rope made of his own hair "
+  },
+  {
+    "desc": "6302 Target is tightly bound by strips of adhesive cloth "
+  },
+  {
+    "desc": "6303 Target is tightly chained to the nearest tree "
+  },
+  {
+    "desc": "6304 Target is tightly swaddled in a coarse wool blanket "
+  },
+  {
+    "desc": "6305 Target is tightly wrapped in blood-soaked bandages "
+  },
+  {
+    "desc": "6306 Target is tightly wrapped in strips of raw and greasy bacon "
+  },
+  {
+    "desc": "6307 Target is tormented by countless demonic voices "
+  },
+  {
+    "desc": "6308 Target is tormented by false but realistic echoes of a past life "
+  },
+  {
+    "desc": "6309 Target is tormented by illusory ants crawling all over him "
+  },
+  {
+    "desc": "6310 Target is tormented by invisible barbs that catch in his flesh "
+  },
+  {
+    "desc": "6311 Target is tormented by shrill and discordant music "
+  },
+  {
+    "desc": "6312 Target is tormented by the awareness of his mortality "
+  },
+  {
+    "desc": "6313 Target is tormented by visions of his own damnation "
+  },
+  {
+    "desc": "6314 Target is tormented by visions of his own descent into madness "
+  },
+  {
+    "desc": "6315 Target is tormented by visions of the damned "
+  },
+  {
+    "desc": "6316 Target is tormented by visions of the torture of his allies "
+  },
+  {
+    "desc": "6317 Target is tormented by voices telling him to kill his allies "
+  },
+  {
+    "desc": "6318 Target is tormented by voices telling him to kill the king "
+  },
+  {
+    "desc": "6319 Target is unable to look directly at the caster "
+  },
+  {
+    "desc": "6320 Target is unaffected by natural winds "
+  },
+  {
+    "desc": "6321 Target is unexpectedly thrust into a position of political power "
+  },
+  {
+    "desc": "6322 Target is unusually clumsy for 1d4 hours after he says his name "
+  },
+  {
+    "desc": "6323 Target is utterly fearless until sunset tomorrow "
+  },
+  {
+    "desc": "6324 Target is violently allergic to some common non-magical species "
+  },
+  {
+    "desc": "6325 Target is violently compressed to the size of a grain of rice "
+  },
+  {
+    "desc": "6326 Target is violently pushed 1d10 yards, stunned for as many rounds "
+  },
+  {
+    "desc": "6327 Target is wearing a diver's mask, snorkel, and swim fins "
+  },
+  {
+    "desc": "6328 Target is wearing a formal suit made entirely of lettuce "
+  },
+  {
+    "desc": "6329 Target is wearing a formal suit made entirely of smoked meats "
+  },
+  {
+    "desc": "6330 Target is wearing a necklace of severed human ears "
+  },
+  {
+    "desc": "6331 Target is wearing nothing but strategically-placed coconut shells "
+  },
+  {
+    "desc": "6332 Target is wearing the entire skin from an orc or goblin "
+  },
+  {
+    "desc": "6333 Target is wearing the leathered skin from his own corpse "
+  },
+  {
+    "desc": "6334 Target is wholly invulnerable for 1d4 rounds "
+  },
+  {
+    "desc": "6335 Target is widely famed for his prowess with the scissors "
+  },
+  {
+    "desc": "6336 Target is widely recognized as a traitor to his race and species "
+  },
+  {
+    "desc": "6337 Target is, by his very nature, impossible "
+  },
+  {
+    "desc": "6338 Target jingles like sleigh bells while trying to move stealthily "
+  },
+  {
+    "desc": "6339 Target kills himself at sunset tonight but is resurrected at dawn "
+  },
+  {
+    "desc": "6340 Target knows a secret that damages the sanity of any who learn it "
+  },
+  {
+    "desc": "6341 Target knows an economical way to extract aluminum from bauxite "
+  },
+  {
+    "desc": "6342 Target knows but won't tell the location of an important artifact "
+  },
+  {
+    "desc": "6343 Target knows everything there is to know about the caster "
+  },
+  {
+    "desc": "6344 Target knows exactly what will happen in the next 2d6 rounds "
+  },
+  {
+    "desc": "6345 Target knows the current location of every Dwarf within 10 miles "
+  },
+  {
+    "desc": "6346 Target knows the location of every lock within one mile "
+  },
+  {
+    "desc": "6347 Target labors to conceal a humiliating secret from his allies "
+  },
+  {
+    "desc": "6348 Target lacks any concept of personal property "
+  },
+  {
+    "desc": "6349 Target laughs like a braying donkey when he injures someone "
+  },
+  {
+    "desc": "6350 Target laughs outrageously at the sight of his allies' blood "
+  },
+  {
+    "desc": "6351 Target learns that a deranged cult worships him as a god "
+  },
+  {
+    "desc": "6352 Target leaves no scent for 1d4 weeks "
+  },
+  {
+    "desc": "6353 Target leeches 2d10 hit points from the caster "
+  },
+  {
+    "desc": "6354 Target levitates 10d10 yards into the air for that many rounds  54"
+  },
+  {
+    "desc": "6355 Target levitates 1d10 feet in each of the next 1d6 rounds "
+  },
+  {
+    "desc": "6356 Target literally laughs at danger, so much so that it's annoying "
+  },
+  {
+    "desc": "6357 Target looks as though half of his body has been severely burned "
+  },
+  {
+    "desc": "6358 Target looks as though half of his body is made of pumice "
+  },
+  {
+    "desc": "6359 Target looks as though half of his body is made of wood "
+  },
+  {
+    "desc": "6360 Target looks as though he's made entirely of clay "
+  },
+  {
+    "desc": "6361 Target looks exactly like the caster for 1d4 days "
+  },
+  {
+    "desc": "6362 Target looks like a photo-negative for 1d4 days "
+  },
+  {
+    "desc": "6363 Target looks like a photo-negative while wielding a weapon "
+  },
+  {
+    "desc": "6364 Target looks vaguely demonic whenever he uses a magic item "
+  },
+  {
+    "desc": "6365 Target loses 1d100 hit points if he speaks his name before sunset "
+  },
+  {
+    "desc": "6366 Target loses 1d100 hit points unless he eats 3lbs of gold by dawn "
+  },
+  {
+    "desc": "6367 Target loses 1d100% of his mass "
+  },
+  {
+    "desc": "6368 Target loses 1d4 hit points every time he draws a weapon "
+  },
+  {
+    "desc": "6369 Target loses 1d4 levels/hit dice "
+  },
+  {
+    "desc": "6370 Target loses a point of Intelligence for each hit point he loses "
+  },
+  {
+    "desc": "6371 Target loses all but one hit point, then regains one per round "
+  },
+  {
+    "desc": "6372 Target loses all hit points gained due to high Constitution "
+  },
+  {
+    "desc": "6373 Target loses all sense of decency and restraint "
+  },
+  {
+    "desc": "6374 Target loses half of his remaining hit points "
+  },
+  {
+    "desc": "6375 Target loses one hit point each day for the next 1d100 days "
+  },
+  {
+    "desc": "6376 Target loses one hit point per hour until dawn tomorrow "
+  },
+  {
+    "desc": "6377 Target loses one hit point per person now within a 10 yard radius "
+  },
+  {
+    "desc": "6378 Target loses one hit point per round until he eats some raw meat "
+  },
+  {
+    "desc": "6379 Target loses one hit point per round until he strips naked "
+  },
+  {
+    "desc": "6380 Target loses one hit point per round until he swallows a coin "
+  },
+  {
+    "desc": "6381 Target loses one hit point per round until he's struck by magic "
+  },
+  {
+    "desc": "6382 Target loses the sense of object permanence "
+  },
+  {
+    "desc": "6383 Target makes a spirited effort to detach one of his legs "
+  },
+  {
+    "desc": "6384 Target makes a spirited effort to disarm his allies "
+  },
+  {
+    "desc": "6385 Target makes a spirited effort to eat his own foot "
+  },
+  {
+    "desc": "6386 Target makes a spirited effort to extract his own heart "
+  },
+  {
+    "desc": "6387 Target makes a spirited effort to pull out his own tongue "
+  },
+  {
+    "desc": "6388 Target makes a spirited effort to remove his lower jaw "
+  },
+  {
+    "desc": "6389 Target makes a spirited effort to scour the flesh from his hands "
+  },
+  {
+    "desc": "6390 Target makes a spirited effort to swallow his weapon "
+  },
+  {
+    "desc": "6391 Target makes a spirited effort to tear off his ears "
+  },
+  {
+    "desc": "6392 Target makes outrageous claims about his martial skill "
+  },
+  {
+    "desc": "6393 Target makes outrageous claims about his wealth and property "
+  },
+  {
+    "desc": "6394 Target mimics the actions of one of his allies for 2d6 rounds "
+  },
+  {
+    "desc": "6395 Target mimics the caster's actions for 1d10 rounds "
+  },
+  {
+    "desc": "6396 Target mistakes himself for someone else "
+  },
+  {
+    "desc": "6397 Target moos like a cow each time he draws a weapon "
+  },
+  {
+    "desc": "6398 Target must carry a blade at all times that has never drawn blood "
+  },
+  {
+    "desc": "6399 Target must carry a burning candle at all times "
+  },
+  {
+    "desc": "6400 Target must carry a fifty pound wheel of cheese until sunset "
+  },
+  {
+    "desc": "6401 Target must carry a small stone from this spot at all times "
+  },
+  {
+    "desc": "6402 Target must carry a wooden staff taller than he is at all times "
+  },
+  {
+    "desc": "6403 Target must carry at least 30 feet of rope at all times "
+  },
+  {
+    "desc": "6404 Target must carry at least 4d6 gold coins at all times "
+  },
+  {
+    "desc": "6405 Target must carry at least five pounds of wood at all times "
+  },
+  {
+    "desc": "6406 Target must carry at least one pound of feathers at all times "
+  },
+  {
+    "desc": "6407 Target must climb a tall tree during the next thunderstorm "
+  },
+  {
+    "desc": "6408 Target must disrobe before entering any cave or mine "
+  },
+  {
+    "desc": "6409 Target must douse himself with 2d6 gallons of water or combust "
+  },
+  {
+    "desc": "6410 Target must draw his weapon every time he says his name "
+  },
+  {
+    "desc": "6411 Target must drink 2d4 gallons of water before sunset "
+  },
+  {
+    "desc": "6412 Target must eat 3d6 pounds of food before dawn tomorrow "
+  },
+  {
+    "desc": "6413 Target must eat a pound of grass or leaves before dawn "
+  },
+  {
+    "desc": "6414 Target must eat a pound of ice by sunset tonight "
+  },
+  {
+    "desc": "6415 Target must give his name whenever he's asked for it "
+  },
+  {
+    "desc": "6416 Target must lie whenever he's asked his name "
+  },
+  {
+    "desc": "6417 Target must re-roll any attribute scores that are higher than 15 "
+  },
+  {
+    "desc": "6418 Target must re-roll any attribute scores that are lower than 12 "
+  },
+  {
+    "desc": "6419 Target must return to this location at least once each month "
+  },
+  {
+    "desc": "6420 Target must Save at each sunset or forget what happened that day "
+  },
+  {
+    "desc": "6421 Target must Save each morning or be ethereal until dusk "
+  },
+  {
+    "desc": "6422 Target must Save each morning or shrink by 10% "
+  },
+  {
+    "desc": "6423 Target must Save each morning, or he can't use his arms that day "
+  },
+  {
+    "desc": "6424 Target must Save each morning, or his left leg bursts into flame "
+  },
+  {
+    "desc": "6425 Target must Save each night or else sleep for 6d8+24 hours "
+  },
+  {
+    "desc": "6426 Target must Save or 1d100 of his bones explode "
+  },
+  {
+    "desc": "6427 Target must Save or 1d100 of his bones turn to glass "
+  },
+  {
+    "desc": "6428 Target must Save or 1d100 of his bones turn to steel "
+  },
+  {
+    "desc": "6429 Target must Save or be dragged to the bottom of the nearest lake "
+  },
+  {
+    "desc": "6430 Target must Save or be struck dead by a meteor "
+  },
+  {
+    "desc": "6431 Target must Save or each of his bones teleports 1d4 miles "
+  },
+  {
+    "desc": "6432 Target must Save or forfeit ownership of all of his possessions "
+  },
+  {
+    "desc": "6433 Target must Save or he beheads himself with his next attack "
+  },
+  {
+    "desc": "6434 Target must Save or he will never have existed "
+  },
+  {
+    "desc": "6435 Target must Save or his hands and weapons vanish until sunset "
+  },
+  {
+    "desc": "6436 Target must Save or his temperature rises 1° per round "
+  },
+  {
+    "desc": "6437 Target must Save or lose 1d4 from each attribute score "
+  },
+  {
+    "desc": "6438 Target must Save when he's hit by a bludgeon or shatter "
+  },
+  {
+    "desc": "6439 Target must Save when he's hit by a bludgeon or shriek in panic "
+  },
+  {
+    "desc": "6440 Target must Save when he's hit by a bludgeon or turn inside out "
+  },
+  {
+    "desc": "6441 Target must Save when he's hit by a bludgeon or turn to butter "
+  },
+  {
+    "desc": "6442 Target must say his name every time he draws a weapon "
+  },
+  {
+    "desc": "6443 Target must scale the tallest mountain within 100 miles "
+  },
+  {
+    "desc": "6444 Target must take 1d10 steps backward each time he draws a weapon "
+  },
+  {
+    "desc": "6445 Target now has 1d12 x 10% of his full hit points "
+  },
+  {
+    "desc": "6446 Target now has an odd number of limbs "
+  },
+  {
+    "desc": "6447 Target now has three legs spaced evenly around his pelvis "
+  },
+  {
+    "desc": "6448 Target obsessively cleans and polishes any magical items he owns "
+  },
+  {
+    "desc": "6449 Target obsessively pursues a man who turns into a green monster "
+  },
+  {
+    "desc": "6450 Target obsessively pursues an immortal beast with glass eyes "
+  },
+  {
+    "desc": "6451 Target obsessively pursues some crazy get-rich-quick scheme "
+  },
+  {
+    "desc": "6452 Target obsessively pursues the one-armed man who killed his wife "
+  },
+  {
+    "desc": "6453 Target offered his legs as collateral on a high-interest loan "
+  },
+  {
+    "desc": "6454 Target only needs to blink once every 4d6 hours "
+  },
+  {
+    "desc": "6455 Target only needs to eat one normal-sized meal per week "
+  },
+  {
+    "desc": "6456 Target opens a chain of big-box retail stores "
+  },
+  {
+    "desc": "6457 Target owes a big favor to a powerful and malevolent entity "
+  },
+  {
+    "desc": "6458 Target owes a big favor to someone to whom he's morally opposed "
+  },
+  {
+    "desc": "6459 Target perceives a vast army to be just beyond the nearest ridge "
+  },
+  {
+    "desc": "6460 Target perceives aggressive creditors to be hunting him endlessly "
+  },
+  {
+    "desc": "6461 Target perceives all foliage to be ablaze "
+  },
+  {
+    "desc": "6462 Target perceives constant rainfall from now on "
+  },
+  {
+    "desc": "6463 Target perceives everyone nearby to be sheathed in golden flame "
+  },
+  {
+    "desc": "6464 Target perceives everyone nearby to be sprouting peacock feathers "
+  },
+  {
+    "desc": "6465 Target perceives everyone nearby to look just like him "
+  },
+  {
+    "desc": "6466 Target perceives everything except himself to be 50% larger "
+  },
+  {
+    "desc": "6467 Target perceives everything nearby to be aligned against him "
+  },
+  {
+    "desc": "6468 Target perceives everything nearby to made of gold "
+  },
+  {
+    "desc": "6469 Target perceives everything to be blighted and drained of color "
+  },
+  {
+    "desc": "6470 Target perceives himself to be bathed in silver light "
+  },
+  {
+    "desc": "6471 Target perceives himself to be the wealthiest person in the world "
+  },
+  {
+    "desc": "6472 Target perceives hints of prophecy in any music he hears "
+  },
+  {
+    "desc": "6473 Target perceives menacing waterfowl all around him "
+  },
+  {
+    "desc": "6474 Target perceives profound secrets in everyday conversation "
+  },
+  {
+    "desc": "6475 Target perceives shocking insults in everyday conversation "
+  },
+  {
+    "desc": "6476 Target perceives weather conditions to be six months out of sync "
+  },
+  {
+    "desc": "6477 Target perceives worms to be wriggling from his every orifice "
+  },
+  {
+    "desc": "6478 Target permanently abandons his principal weapon "
+  },
+  {
+    "desc": "6479 Target permanently ages one year for each hit point he loses "
+  },
+  {
+    "desc": "6480 Target permanently gains 1d4 hit points "
+  },
+  {
+    "desc": "6481 Target permanently loses 1d10 toes "
+  },
+  {
+    "desc": "6482 Target permanently loses 1d4 hit points "
+  },
+  {
+    "desc": "6483 Target permanently loses half his current hit points "
+  },
+  {
+    "desc": "6484 Target poses and spits water like a fountain for one turn  55"
+  },
+  {
+    "desc": "6485 Target presents a long list of grievances to the caster "
+  },
+  {
+    "desc": "6486 Target pretends that he has a personal relationship with his god "
+  },
+  {
+    "desc": "6487 Target pretends that he's been Charmed by the caster "
+  },
+  {
+    "desc": "6488 Target punches his jaw repeatedly until he knocks himself out "
+  },
+  {
+    "desc": "6489 Target quickly regenerates any lost fingers or toes "
+  },
+  {
+    "desc": "6490 Target races away in a random direction and can't stop until dawn "
+  },
+  {
+    "desc": "6491 Target races headlong toward any magic user he encounters "
+  },
+  {
+    "desc": "6492 Target races to the nearest cave and hides there "
+  },
+  {
+    "desc": "6493 Target races to the nearest cave entrance "
+  },
+  {
+    "desc": "6494 Target races to the nearest library and tries to burn it down "
+  },
+  {
+    "desc": "6495 Target races to the nearest temple and messily desecrates it "
+  },
+  {
+    "desc": "6496 Target races toward his home at top speed "
+  },
+  {
+    "desc": "6497 Target races toward the caster and begs to be killed "
+  },
+  {
+    "desc": "6498 Target races toward the caster, embraces him, & vanishes with him "
+  },
+  {
+    "desc": "6499 Target races toward the nearest lake and jumps into it "
+  },
+  {
+    "desc": "6500 Target races toward the nearest monarch and attacks him "
+  },
+  {
+    "desc": "6501 Target races toward the nearest ocean and wades out 1d4 miles "
+  },
+  {
+    "desc": "6502 Target races toward the nearest open fire and jumps into it "
+  },
+  {
+    "desc": "6503 Target races toward the nearest open pit and jumps into it "
+  },
+  {
+    "desc": "6504 Target rattles like a bucket of stones while moving with stealth "
+  },
+  {
+    "desc": "6505 Target reacts violently to any representative of the king "
+  },
+  {
+    "desc": "6506 Target reacts violently to anyone bearing a scar on his face "
+  },
+  {
+    "desc": "6507 Target reacts violently to anyone bearing a tattoo "
+  },
+  {
+    "desc": "6508 Target reacts violently to anyone displaying a holy symbol "
+  },
+  {
+    "desc": "6509 Target reacts violently to anyone he sees who is now injured "
+  },
+  {
+    "desc": "6510 Target reacts violently to anyone he thinks is able to kill him "
+  },
+  {
+    "desc": "6511 Target reacts violently to anyone nearby when he awakens "
+  },
+  {
+    "desc": "6512 Target reacts violently to anyone not of his race "
+  },
+  {
+    "desc": "6513 Target reacts violently to anyone not wearing a hat "
+  },
+  {
+    "desc": "6514 Target reacts violently to anyone refusing to address him as sire "
+  },
+  {
+    "desc": "6515 Target reacts violently to anyone representing a deity "
+  },
+  {
+    "desc": "6516 Target reacts violently to anyone taller than he is "
+  },
+  {
+    "desc": "6517 Target reacts violently to anyone wearing a cloak "
+  },
+  {
+    "desc": "6518 Target reacts violently to anyone wearing a gold ring "
+  },
+  {
+    "desc": "6519 Target reacts violently to anyone wearing a hat or helmet "
+  },
+  {
+    "desc": "6520 Target reacts violently to anyone wearing leather "
+  },
+  {
+    "desc": "6521 Target reacts violently to anyone who addresses him by name "
+  },
+  {
+    "desc": "6522 Target reacts violently to anyone who addresses the caster "
+  },
+  {
+    "desc": "6523 Target reacts violently to anyone who asks his name "
+  },
+  {
+    "desc": "6524 Target reacts violently to anyone who attacks the caster "
+  },
+  {
+    "desc": "6525 Target reacts violently to anyone who carries an axe "
+  },
+  {
+    "desc": "6526 Target reacts violently to anyone who displays fear or pity "
+  },
+  {
+    "desc": "6527 Target reacts violently to anyone who displays the color red "
+  },
+  {
+    "desc": "6528 Target reacts violently to anyone who doesn't offer him money "
+  },
+  {
+    "desc": "6529 Target reacts violently to anyone who doesn't recognize him "
+  },
+  {
+    "desc": "6530 Target reacts violently to anyone who draws a weapon near him "
+  },
+  {
+    "desc": "6531 Target reacts violently to anyone who eats in front of him "
+  },
+  {
+    "desc": "6532 Target reacts violently to anyone who eats meat in his presence "
+  },
+  {
+    "desc": "6533 Target reacts violently to anyone who gives him an order "
+  },
+  {
+    "desc": "6534 Target reacts violently to anyone who has a beard "
+  },
+  {
+    "desc": "6535 Target reacts violently to anyone who has long hair "
+  },
+  {
+    "desc": "6536 Target reacts violently to anyone who has no beard "
+  },
+  {
+    "desc": "6537 Target reacts violently to anyone who lights a fire near him "
+  },
+  {
+    "desc": "6538 Target reacts violently to anyone who mentions a deity by name "
+  },
+  {
+    "desc": "6539 Target reacts violently to anyone who mentions his martial skill "
+  },
+  {
+    "desc": "6540 Target reacts violently to anyone who offers him aid in battle "
+  },
+  {
+    "desc": "6541 Target reacts violently to anyone who offers him food or water "
+  },
+  {
+    "desc": "6542 Target reacts violently to anyone who offers him hospitality "
+  },
+  {
+    "desc": "6543 Target reacts violently to anyone who offers him money "
+  },
+  {
+    "desc": "6544 Target reacts violently to anyone who questions his bravery "
+  },
+  {
+    "desc": "6545 Target reacts violently to anyone who receives magical healing "
+  },
+  {
+    "desc": "6546 Target reacts violently to anyone who refuses to give him money "
+  },
+  {
+    "desc": "6547 Target reacts violently to anyone who refuses to worship him "
+  },
+  {
+    "desc": "6548 Target reacts violently to anyone who says a magic word near him "
+  },
+  {
+    "desc": "6549 Target reacts violently to anyone who seems to have a magic item "
+  },
+  {
+    "desc": "6550 Target reacts violently to anyone who sees him get injured "
+  },
+  {
+    "desc": "6551 Target reacts violently to anyone who shows him common courtesy "
+  },
+  {
+    "desc": "6552 Target reacts violently to anyone who speaks while on horseback "
+  },
+  {
+    "desc": "6553 Target reacts violently to anyone who speaks with an accent "
+  },
+  {
+    "desc": "6554 Target reacts violently to anyone who spends money on armor "
+  },
+  {
+    "desc": "6555 Target reacts violently to anyone who suggests that he's mortal "
+  },
+  {
+    "desc": "6556 Target reacts violently to anyone who touches him "
+  },
+  {
+    "desc": "6557 Target reacts violently to anyone who uses magic "
+  },
+  {
+    "desc": "6558 Target reacts violently to anyone who wears jewelry "
+  },
+  {
+    "desc": "6559 Target reacts violently to anyone who wields a magical weapon "
+  },
+  {
+    "desc": "6560 Target reacts violently to anyone whom he perceives to be ill "
+  },
+  {
+    "desc": "6561 Target reacts violently to anyone wielding a bloodstained weapon "
+  },
+  {
+    "desc": "6562 Target reacts violently to anyone wielding a wooden bludgeon "
+  },
+  {
+    "desc": "6563 Target reacts violently to anyone with bloodstained clothes "
+  },
+  {
+    "desc": "6564 Target reacts violently to Elves who learn his name "
+  },
+  {
+    "desc": "6565 Target reacts violently to the next person to draw blood near him "
+  },
+  {
+    "desc": "6566 Target realizes that has an extra eye in the back of his head "
+  },
+  {
+    "desc": "6567 Target realizes that he murdered 1d10 people closest to him "
+  },
+  {
+    "desc": "6568 Target realizes that he's a mechanical simulacrum "
+  },
+  {
+    "desc": "6569 Target realizes that he's always been a ravenous cannibal "
+  },
+  {
+    "desc": "6570 Target realizes that he's been chewing on gravel for several days "
+  },
+  {
+    "desc": "6571 Target realizes that he's being controlled by invisible entities "
+  },
+  {
+    "desc": "6572 Target realizes that he's had an arrow in his thigh for days "
+  },
+  {
+    "desc": "6573 Target realizes that he's lost and doesn't know anyone nearby "
+  },
+  {
+    "desc": "6574 Target realizes that the back of his head is removable "
+  },
+  {
+    "desc": "6575 Target receives a massive shock the next time he touches metal "
+  },
+  {
+    "desc": "6576 Target receives a sign that he should abandon all worldly goods "
+  },
+  {
+    "desc": "6577 Target receives a sign that he should devote himself to magic "
+  },
+  {
+    "desc": "6578 Target receives a sign that he should reject all magic "
+  },
+  {
+    "desc": "6579 Target receives a sign that his murder is imminent "
+  },
+  {
+    "desc": "6580 Target reeks of carrion when he's angry "
+  },
+  {
+    "desc": "6581 Target reeks of cheap perfume between sunset and dawn "
+  },
+  {
+    "desc": "6582 Target reeks of chlorine while he speaks "
+  },
+  {
+    "desc": "6583 Target reeks of gasoline for the rest of his life "
+  },
+  {
+    "desc": "6584 Target reeks of manure while in polite company "
+  },
+  {
+    "desc": "6585 Target reflection appears in every mirror within 10 miles "
+  },
+  {
+    "desc": "6586 Target refuses any offers of first aid or magical healing "
+  },
+  {
+    "desc": "6587 Target refuses to believe that metal weapons can harm him "
+  },
+  {
+    "desc": "6588 Target refuses to believe that poisons are poisonous "
+  },
+  {
+    "desc": "6589 Target refuses to believe that the caster exists "
+  },
+  {
+    "desc": "6590 Target refuses to eat any cooked meat "
+  },
+  {
+    "desc": "6591 Target refuses to eat or sleep for 2d4-1 days "
+  },
+  {
+    "desc": "6592 Target refuses to eat until his magical sword is returned "
+  },
+  {
+    "desc": "6593 Target refuses to eat within 6d10 miles of this spot "
+  },
+  {
+    "desc": "6594 Target refuses to give medical aid to his allies "
+  },
+  {
+    "desc": "6595 Target refuses to share food or water with his allies "
+  },
+  {
+    "desc": "6596 Target refuses to speak his native tongue while outdoors "
+  },
+  {
+    "desc": "6597 Target refuses to speak to anyone at all for 1d8 days "
+  },
+  {
+    "desc": "6598 Target refuses to speak to anyone not of his race "
+  },
+  {
+    "desc": "6599 Target refuses to speak to anyone of his race "
+  },
+  {
+    "desc": "6600 Target refuses to speak to anyone who addresses him by name "
+  },
+  {
+    "desc": "6601 Target refuses to speak to anyone who is looking at him "
+  },
+  {
+    "desc": "6602 Target refuses to speak to anyone who shares his native tongue "
+  },
+  {
+    "desc": "6603 Target refuses to speak to anyone whom he knows to employ magic "
+  },
+  {
+    "desc": "6604 Target regains his full hit points in each of the next 1d8 rounds "
+  },
+  {
+    "desc": "6605 Target regenerates one hit point for each pint of blood he drinks "
+  },
+  {
+    "desc": "6606 Target regresses to infancy but quickly grows to his correct age "
+  },
+  {
+    "desc": "6607 Target re-rolls 1d4 of his attribute scores, using 2d10 "
+  },
+  {
+    "desc": "6608 Target re-rolls his hit points "
+  },
+  {
+    "desc": "6609 Target retains a perfect memory of the next 4d12 hours "
+  },
+  {
+    "desc": "6610 Target rightly believes that everyone is trying to kill him "
+  },
+  {
+    "desc": "6611 Target roars like a lion whenever he sees food "
+  },
+  {
+    "desc": "6612 Target runs 1d4 miles at top speed in a random direction "
+  },
+  {
+    "desc": "6613 Target runs completely around the nearest lake "
+  },
+  {
+    "desc": "6614 Target salivates heavily during battle  56"
+  },
+  {
+    "desc": "6615 Target screams as though in agony for 1d4 hours "
+  },
+  {
+    "desc": "6616 Target secretes 10 gallons of foul brine over the next 1d8 turns "
+  },
+  {
+    "desc": "6617 Target secretes a sticky pus from his eyes, nose, and ears "
+  },
+  {
+    "desc": "6618 Target sees anything more than 20 yards away as dull gray "
+  },
+  {
+    "desc": "6619 Target sees spectacular lightning overhead, but no one else does "
+  },
+  {
+    "desc": "6620 Target shakes violently when attempting to use magic items "
+  },
+  {
+    "desc": "6621 Target shakes violently while touching magic items "
+  },
+  {
+    "desc": "6622 Target shimmers like a desert mirage, making him -1 ToHit "
+  },
+  {
+    "desc": "6623 Target shrinks by 25% during each of the next 1d10 days "
+  },
+  {
+    "desc": "6624 Target shrinks by 8d10% when he next attacks the caster "
+  },
+  {
+    "desc": "6625 Target single-mindedly attacks the tallest person he can see "
+  },
+  {
+    "desc": "6626 Target single-mindedly tries to kill the caster until one is dead "
+  },
+  {
+    "desc": "6627 Target sinks halfway to the center of the world "
+  },
+  {
+    "desc": "6628 Target smells like 1,000 roses whenever he uses a magic item "
+  },
+  {
+    "desc": "6629 Target smells like 10 corpses whenever he uses a magic item "
+  },
+  {
+    "desc": "6630 Target smells like fungus for 1d4 hours after every battle "
+  },
+  {
+    "desc": "6631 Target smells like roses for one hour after every battle "
+  },
+  {
+    "desc": "6632 Target smells rotting flesh everywhere for 1d4 weeks "
+  },
+  {
+    "desc": "6633 Target smells strongly of blood whenever he uses a magic item "
+  },
+  {
+    "desc": "6634 Target smells strongly of cabbage until his next birthday "
+  },
+  {
+    "desc": "6635 Target smells strongly of sauerkraut for the rest of his life "
+  },
+  {
+    "desc": "6636 Target smells strongly of sour milk until next wounded in battle "
+  },
+  {
+    "desc": "6637 Target smells strongly of vanilla for 2d4 days "
+  },
+  {
+    "desc": "6638 Target sneezes and 10d10 angry wasps spew from his nose "
+  },
+  {
+    "desc": "6639 Target sneezes and blows 1d4 pounds of iron filings from his nose "
+  },
+  {
+    "desc": "6640 Target sneezes and blows all of his teeth from his mouth "
+  },
+  {
+    "desc": "6641 Target snorts like a pig before and after he says his name "
+  },
+  {
+    "desc": "6642 Target sounds as though he's shouting through a distant megaphone "
+  },
+  {
+    "desc": "6643 Target speaks only in an archaic dialect of his native language "
+  },
+  {
+    "desc": "6644 Target spends 1d4 rounds obsessing over the impact of his actions "
+  },
+  {
+    "desc": "6645 Target spends 1d4 turns trying to fell a tree with his bare hands "
+  },
+  {
+    "desc": "6646 Target spends 2d4 rounds trying to remove one of his vital organs "
+  },
+  {
+    "desc": "6647 Target spends 2d8 rounds praising the caster for his magic skills "
+  },
+  {
+    "desc": "6648 Target spends a few rounds trying to convince himself he's dead "
+  },
+  {
+    "desc": "6649 Target spends a few rounds trying to unscrew his own head "
+  },
+  {
+    "desc": "6650 Target spends all of his money to buy something totally worthless "
+  },
+  {
+    "desc": "6651 Target spins a cocoon & emerges in 1d4 days with butterfly wings "
+  },
+  {
+    "desc": "6652 Target spins like a top for 1d8 rounds "
+  },
+  {
+    "desc": "6653 Target spits out small lumps of coal after any melee "
+  },
+  {
+    "desc": "6654 Target sprays a gallon of milk from his nose "
+  },
+  {
+    "desc": "6655 Target sprays a huge gout of jet-black ink from his nose "
+  },
+  {
+    "desc": "6656 Target sprouts 1d10 additional noses all over his body "
+  },
+  {
+    "desc": "6657 Target sprouts 1d10 fingers from his cheeks "
+  },
+  {
+    "desc": "6658 Target sprouts 1d10 pairs of delicate antennae "
+  },
+  {
+    "desc": "6659 Target sprouts 1d100 additional ears on his body "
+  },
+  {
+    "desc": "6660 Target sprouts 1d6 additional noses somewhere on his body "
+  },
+  {
+    "desc": "6661 Target sprouts 3d10 tufts of coarse, ugly hair on his body "
+  },
+  {
+    "desc": "6662 Target sprouts a bunch of flexible metal tines on his face "
+  },
+  {
+    "desc": "6663 Target sprouts a clumsy elephant's trunk at the back of his head "
+  },
+  {
+    "desc": "6664 Target sprouts a collar of holly from the skin of his neck "
+  },
+  {
+    "desc": "6665 Target sprouts a horse's tail from the center of his chest "
+  },
+  {
+    "desc": "6666 Target sprouts a long, prehensile tail from his chest "
+  },
+  {
+    "desc": "6667 Target sprouts a non-functional face between his shoulder blades "
+  },
+  {
+    "desc": "6668 Target sprouts a non-functioning hand from the top of his head "
+  },
+  {
+    "desc": "6669 Target sprouts a pair of compound eyes from his cheekbones "
+  },
+  {
+    "desc": "6670 Target sprouts a pair of loathsome tentacles from his forehead "
+  },
+  {
+    "desc": "6671 Target sprouts a pair of retractable fangs in each palm "
+  },
+  {
+    "desc": "6672 Target sprouts a pig's tail from between his eyes "
+  },
+  {
+    "desc": "6673 Target sprouts a small foot from the top of his head "
+  },
+  {
+    "desc": "6674 Target sprouts a torch sconce between his shoulder blades "
+  },
+  {
+    "desc": "6675 Target sprouts a vulture's wing between his shoulder blades "
+  },
+  {
+    "desc": "6676 Target sprouts an additional foot from each knee "
+  },
+  {
+    "desc": "6677 Target sprouts an additional foot from each shoulder "
+  },
+  {
+    "desc": "6678 Target sprouts an additional forearm and hand from one elbow "
+  },
+  {
+    "desc": "6679 Target sprouts an additional hand from each shoulder "
+  },
+  {
+    "desc": "6680 Target sprouts an additional hand from one of his arms "
+  },
+  {
+    "desc": "6681 Target sprouts an additional hand from the palm of one hand "
+  },
+  {
+    "desc": "6682 Target sprouts an additional head beside the existing one "
+  },
+  {
+    "desc": "6683 Target sprouts an additional limb "
+  },
+  {
+    "desc": "6684 Target sprouts an additional mouth next to his original one "
+  },
+  {
+    "desc": "6685 Target sprouts an additional pair of eyes on his forehead "
+  },
+  {
+    "desc": "6686 Target sprouts an additional pair of nostrils on his forehead "
+  },
+  {
+    "desc": "6687 Target sprouts an additional pair of thumbs on his forehead "
+  },
+  {
+    "desc": "6688 Target sprouts an additional thumb from the back of each hand "
+  },
+  {
+    "desc": "6689 Target sprouts an iguana's tail from his chin "
+  },
+  {
+    "desc": "6690 Target sprouts an intelligent fungus atop his head "
+  },
+  {
+    "desc": "6691 Target sprouts an ox horn from his chin "
+  },
+  {
+    "desc": "6692 Target sprouts an ox horn from one side of his head "
+  },
+  {
+    "desc": "6693 Target sprouts countless leaves, each bearing a mysterious rune "
+  },
+  {
+    "desc": "6694 Target sprouts deer antlers from his shoulder blades "
+  },
+  {
+    "desc": "6695 Target sprouts enormous fangs from his lower jaw "
+  },
+  {
+    "desc": "6696 Target sprouts harmless but acrid blue mold all over his body "
+  },
+  {
+    "desc": "6697 Target sprouts retractable iron claws from his fingers "
+  },
+  {
+    "desc": "6698 Target sprouts small, flashing lights along his spine "
+  },
+  {
+    "desc": "6699 Target sprouts wool like a sheep "
+  },
+  {
+    "desc": "6700 Target stalks the caster, always at least one mile distant "
+  },
+  {
+    "desc": "6701 Target steals credit for writing a list of 7,000 random effects "
+  },
+  {
+    "desc": "6702 Target stretches into an upright 'X' for 1d10 rounds "
+  },
+  {
+    "desc": "6703 Target struggles with some trite philosophical conundrum "
+  },
+  {
+    "desc": "6704 Target suddenly has 2d10 carpenter's nails in his mouth "
+  },
+  {
+    "desc": "6705 Target suddenly has a horseshoe in his mouth "
+  },
+  {
+    "desc": "6706 Target suddenly owns a book describing how to build a spacecraft "
+  },
+  {
+    "desc": "6707 Target suddenly owns a large pouch made of his own leathered skin "
+  },
+  {
+    "desc": "6708 Target suddenly owns an exact replica of his own skeleton "
+  },
+  {
+    "desc": "6709 Target suddenly owns an exact replica of some person nearby "
+  },
+  {
+    "desc": "6710 Target suddenly owns an exact replica of the caster's skeleton "
+  },
+  {
+    "desc": "6711 Target suddenly realizes that fire can harm him "
+  },
+  {
+    "desc": "6712 Target suddenly realizes that he doesn't know how to use weapons "
+  },
+  {
+    "desc": "6713 Target suddenly realizes that he has a conjoined twin "
+  },
+  {
+    "desc": "6714 Target suddenly realizes that he's terrified of spiders "
+  },
+  {
+    "desc": "6715 Target suddenly realizes that he's undead "
+  },
+  {
+    "desc": "6716 Target suddenly realizes that magic doesn't really exist "
+  },
+  {
+    "desc": "6717 Target suddenly realizes that magical illusions can't hurt him "
+  },
+  {
+    "desc": "6718 Target suddenly realizes that the caster is only an illusion "
+  },
+  {
+    "desc": "6719 Target suddenly senses that his identity is a fictional construct "
+  },
+  {
+    "desc": "6720 Target suffers a fit of crippling paranoia for 1d4 turns "
+  },
+  {
+    "desc": "6721 Target suffers a seizure lasting 1d10 rounds "
+  },
+  {
+    "desc": "6722 Target suffers burns if he touches water hotter than 80° "
+  },
+  {
+    "desc": "6723 Target suffers double damage from injuries while he's wet "
+  },
+  {
+    "desc": "6724 Target suffers extreme hypothermia "
+  },
+  {
+    "desc": "6725 Target suffers from a disfiguring pox, but his teeth are radiant "
+  },
+  {
+    "desc": "6726 Target suffers from hysterical pregnancy "
+  },
+  {
+    "desc": "6727 Target suffers half damage from metal weapons while it's snowing "
+  },
+  {
+    "desc": "6728 Target suffers immense pain while in close proximity to fire "
+  },
+  {
+    "desc": "6729 Target suffers intense dread when he tries to use a magic item "
+  },
+  {
+    "desc": "6730 Target suffers no damage from dragons' breath for 1d4 weeks "
+  },
+  {
+    "desc": "6731 Target suffers no damage from falls of less than 1d100 feet "
+  },
+  {
+    "desc": "6732 Target suffers no damage from magical blades for 2d4 days "
+  },
+  {
+    "desc": "6733 Target suffers no damage from wounds inflicted by orcs "
+  },
+  {
+    "desc": "6734 Target suffers only half damage from acid for 1d4 days "
+  },
+  {
+    "desc": "6735 Target suffers only half damage from fire for 1d8 days "
+  },
+  {
+    "desc": "6736 Target suffers only half damage from now until midnight "
+  },
+  {
+    "desc": "6737 Target suffers only half damage from wounds received in daylight "
+  },
+  {
+    "desc": "6738 Target suffers severe burns if cut by a magical blade "
+  },
+  {
+    "desc": "6739 Target suffers severe burns the next time he removes his clothes "
+  },
+  {
+    "desc": "6740 Target suffers severe convulsions in the presence of kobolds "
+  },
+  {
+    "desc": "6741 Target suffers severe frostbite the next time he touches metal "
+  },
+  {
+    "desc": "6742 Target suffers splitting headaches after using magic items "
+  },
+  {
+    "desc": "6743 Target swallowed a tiny but powerful artifact yesterday "
+  },
+  {
+    "desc": "6744 Target swaps places with himself from 1d10+10 rounds ago  57"
+  },
+  {
+    "desc": "6745 Target swears undying loyalty to the next person to say his name "
+  },
+  {
+    "desc": "6746 Target sweats viscous and fragrant oil "
+  },
+  {
+    "desc": "6747 Target teleports 100 yards north in each of the next 1d10 rounds "
+  },
+  {
+    "desc": "6748 Target teleports 6d6 miles & back in each of the next 2d6 rounds "
+  },
+  {
+    "desc": "6749 Target teleports 8d10 miles when he next attacks the caster "
+  },
+  {
+    "desc": "6750 Target teleports into the nearest convent "
+  },
+  {
+    "desc": "6751 Target teleports into the nearest grain silo "
+  },
+  {
+    "desc": "6752 Target teleports into the nearest leper colony "
+  },
+  {
+    "desc": "6753 Target teleports into the nearest monastery "
+  },
+  {
+    "desc": "6754 Target teleports into the nearest oubliette "
+  },
+  {
+    "desc": "6755 Target teleports into the nearest unoccupied sarcophagus "
+  },
+  {
+    "desc": "6756 Target teleports one mile upon his next successful attack "
+  },
+  {
+    "desc": "6757 Target teleports to a barren, arctic wasteland for 1d4+1 hours "
+  },
+  {
+    "desc": "6758 Target teleports to a point 1d100 feet above the nearest lake "
+  },
+  {
+    "desc": "6759 Target teleports to a tiny and distant island for 1d4 days "
+  },
+  {
+    "desc": "6760 Target teleports to an impenetrable forest for 4d6 hours "
+  },
+  {
+    "desc": "6761 Target teleports to the base of the largest tree within 100 miles "
+  },
+  {
+    "desc": "6762 Target teleports to the caster's location in exactly 24 hours "
+  },
+  {
+    "desc": "6763 Target teleports to the centerpoint of the nearest lake's surface "
+  },
+  {
+    "desc": "6764 Target teleports to the exact place where he awoke this morning "
+  },
+  {
+    "desc": "6765 Target teleports to the exact place where he last ate a full meal "
+  },
+  {
+    "desc": "6766 Target teleports to the exact place where he met the caster "
+  },
+  {
+    "desc": "6767 Target teleports to the exact place where he was born "
+  },
+  {
+    "desc": "6768 Target teleports to the exact place where he'll be in 24 hours "
+  },
+  {
+    "desc": "6769 Target teleports to the exact place where the caster was born "
+  },
+  {
+    "desc": "6770 Target teleports to the location of the nearest anvil "
+  },
+  {
+    "desc": "6771 Target teleports to the place where he last paid for a meal "
+  },
+  {
+    "desc": "6772 Target teleports to the place where his blood was last spilled "
+  },
+  {
+    "desc": "6773 Target teleports to this spot at both dawn and sunset tomorrow "
+  },
+  {
+    "desc": "6774 Target teleports to this spot on the first day of each month "
+  },
+  {
+    "desc": "6775 Target teleports to this spot upon losing 50% of his hit points "
+  },
+  {
+    "desc": "6776 Target teleports to this spot when his blood is next spilled "
+  },
+  {
+    "desc": "6777 Target teleports well beyond the caster's line of sight "
+  },
+  {
+    "desc": "6778 Target tells embarrassing lies about himself at every opportunity "
+  },
+  {
+    "desc": "6779 Target thinks he'll die if he climbs a tree taller than he is "
+  },
+  {
+    "desc": "6780 Target thinks he'll die if he sees a shooting star "
+  },
+  {
+    "desc": "6781 Target thinks he'll die if he wields a magical weapon "
+  },
+  {
+    "desc": "6782 Target thinks he'll die if struck again by the caster's magic "
+  },
+  {
+    "desc": "6783 Target thinks he'll die unless the caster saves him "
+  },
+  {
+    "desc": "6784 Target thinks he's an elephant until he's next injured "
+  },
+  {
+    "desc": "6785 Target thinks that 1d100 years have passed "
+  },
+  {
+    "desc": "6786 Target thinks that a mighty artifact is hidden in a nearby lake "
+  },
+  {
+    "desc": "6787 Target thinks that he can control the caster for 1d6 rounds "
+  },
+  {
+    "desc": "6788 Target thinks that he's thoroughly soaked with lamp oil "
+  },
+  {
+    "desc": "6789 Target thinks that he's under the caster's control until sunset "
+  },
+  {
+    "desc": "6790 Target thinks that his attacks heal rather than inflict damage "
+  },
+  {
+    "desc": "6791 Target thinks that his clothing is on fire for 1d10 rounds "
+  },
+  {
+    "desc": "6792 Target thinks that his enemies are only illusions "
+  },
+  {
+    "desc": "6793 Target thinks that his left arm has turned to stone "
+  },
+  {
+    "desc": "6794 Target thinks that his skin is trying to suffocate him "
+  },
+  {
+    "desc": "6795 Target thinks that his sweat is flammable "
+  },
+  {
+    "desc": "6796 Target thinks that his weapon is intelligent and powerful "
+  },
+  {
+    "desc": "6797 Target thinks that his weapon will explode on contact with metal "
+  },
+  {
+    "desc": "6798 Target thinks that non-magical fire is a manifestation of his god "
+  },
+  {
+    "desc": "6799 Target thinks that non-magical fire is an offense against his god "
+  },
+  {
+    "desc": "6800 Target thinks that one of his limbs is as fragile as glass "
+  },
+  {
+    "desc": "6801 Target thinks that the nearest fire is an avatar of his god "
+  },
+  {
+    "desc": "6802 Target thinks that the nearest statue is his close relative "
+  },
+  {
+    "desc": "6803 Target thinks that the nearest statue was once his close friend "
+  },
+  {
+    "desc": "6804 Target throws all of his belongings into the next fire he sees "
+  },
+  {
+    "desc": "6805 Target throws his weapon into the next chasm he passes "
+  },
+  {
+    "desc": "6806 Target tries to bite off 1d10 of his fingers, one try per finger "
+  },
+  {
+    "desc": "6807 Target trips and falls over in each of the next 1d6 rounds "
+  },
+  {
+    "desc": "6808 Target trips over what he realizes is his own grave marker "
+  },
+  {
+    "desc": "6809 Target trumpets like an elephant when he draws a weapon "
+  },
+  {
+    "desc": "6810 Target trusts everyone unquestioningly, no matter how unworthy "
+  },
+  {
+    "desc": "6811 Target trusts no one who's visibly carrying a weapon "
+  },
+  {
+    "desc": "6812 Target trusts the caster absolutely and unquestioningly "
+  },
+  {
+    "desc": "6813 Target trusts the caster implicitly until the caster next speaks "
+  },
+  {
+    "desc": "6814 Target turns in a circle every time he passes through a doorway "
+  },
+  {
+    "desc": "6815 Target turns into a pumpkin at midnight tonight; reverts at dawn "
+  },
+  {
+    "desc": "6816 Target turns into a tree at each sunset but reverts at dawn "
+  },
+  {
+    "desc": "6817 Target understands 3d6 languages but can speak and write only one "
+  },
+  {
+    "desc": "6818 Target vanishes for 1d4 days, then reappears unaware of the lapse "
+  },
+  {
+    "desc": "6819 Target vanishes until 1d4 different people say his name "
+  },
+  {
+    "desc": "6820 Target vanishes until the caster dies or gains a level "
+  },
+  {
+    "desc": "6821 Target vanishes until two different people say his name "
+  },
+  {
+    "desc": "6822 Target volunteers for any task, the more dangerous, the better "
+  },
+  {
+    "desc": "6823 Target vows not to eat meat unless it comes from primates "
+  },
+  {
+    "desc": "6824 Target vows to adopt a life of asceticism and poverty "
+  },
+  {
+    "desc": "6825 Target vows to eat an entire person before the end of next month "
+  },
+  {
+    "desc": "6826 Target vows to eat only raw meat starting tomorrow "
+  },
+  {
+    "desc": "6827 Target vows to eat only rotting meat starting tomorrow "
+  },
+  {
+    "desc": "6828 Target vows to forego all magical healing for one full year "
+  },
+  {
+    "desc": "6829 Target vows to return to this exact spot once per week "
+  },
+  {
+    "desc": "6830 Target vows to slay anyone who uses magic on him "
+  },
+  {
+    "desc": "6831 Target vows to slay every necromancer he meets "
+  },
+  {
+    "desc": "6832 Target vows to smite those who take his name in vain "
+  },
+  {
+    "desc": "6833 Target vows to tithe 90% of his income "
+  },
+  {
+    "desc": "6834 Target wails inconsolably for 1d10 rounds "
+  },
+  {
+    "desc": "6835 Target wakes each day bald, but his hair regrows by noon "
+  },
+  {
+    "desc": "6836 Target wakes each day certain that he's been buried for weeks "
+  },
+  {
+    "desc": "6837 Target wakes each day certain that he's been tortured for weeks "
+  },
+  {
+    "desc": "6838 Target wakes each day certain that he's gone blind "
+  },
+  {
+    "desc": "6839 Target wakes each day certain that he's immortal "
+  },
+  {
+    "desc": "6840 Target wakes each day certain that he's spent a month in the snow "
+  },
+  {
+    "desc": "6841 Target wakes each day certain that he's still dreaming "
+  },
+  {
+    "desc": "6842 Target wakes each day certain that he's the king "
+  },
+  {
+    "desc": "6843 Target wakes each day certain that his heart has been removed "
+  },
+  {
+    "desc": "6844 Target wakes each day covered in dirt as though recently buried "
+  },
+  {
+    "desc": "6845 Target wakes each day covered in finely-powdered rust "
+  },
+  {
+    "desc": "6846 Target wakes each day with his pockets full of twigs and gravel "
+  },
+  {
+    "desc": "6847 Target wakes tomorrow certain that it's yesterday "
+  },
+  {
+    "desc": "6848 Target wakes tomorrow floating in the middle of the nearest lake "
+  },
+  {
+    "desc": "6849 Target wakes tomorrow within 1d10 yards of the caster "
+  },
+  {
+    "desc": "6850 Target was assembled from portions of corpses "
+  },
+  {
+    "desc": "6851 Target was just released after decades of solitary confinement "
+  },
+  {
+    "desc": "6852 Target was the caster in a past life "
+  },
+  {
+    "desc": "6853 Target was Wished into existence by a delusional necromancer "
+  },
+  {
+    "desc": "6854 Target wastes many hours writing a list of 10,000 random effects "
+  },
+  {
+    "desc": "6855 Target whistles like a teapot when struck by magic "
+  },
+  {
+    "desc": "6856 Target will be devoured by a dragon within 24 hours "
+  },
+  {
+    "desc": "6857 Target will befriend a dragon within 24 hours "
+  },
+  {
+    "desc": "6858 Target will betray himself at the most inopportune time "
+  },
+  {
+    "desc": "6859 Target will betray his closest ally in his time of greatest need "
+  },
+  {
+    "desc": "6860 Target will combust in 1d10 rounds unless he eats 2d10 gold coins "
+  },
+  {
+    "desc": "6861 Target will combust violently in 2d10 rounds "
+  },
+  {
+    "desc": "6862 Target will die unless he spends 100 gold pieces each day "
+  },
+  {
+    "desc": "6863 Target will either die or become a god at the next solstice "
+  },
+  {
+    "desc": "6864 Target will gouge out his eyes unless he's retrained or attacked "
+  },
+  {
+    "desc": "6865 Target will rescue his closest ally but it will cost his own life "
+  },
+  {
+    "desc": "6866 Target will soon be arrested for bearing forged letters of marque "
+  },
+  {
+    "desc": "6867 Target will soon be arrested for running an illegal orphanage "
+  },
+  {
+    "desc": "6868 Target will soon be mistaken for a mighty figure out of legend "
+  },
+  {
+    "desc": "6869 Target will spend any amount necessary to buy a handful of smoke "
+  },
+  {
+    "desc": "6870 Target wobbles and clangs like a buoy while walking in fog "
+  },
+  {
+    "desc": "6871 Target won't be able to sleep in the next 1d100 days "
+  },
+  {
+    "desc": "6872 Target wrongly believes that everyone is trying to kill him "
+  },
+  {
+    "desc": "6873 Target's AC is re-rolled on 1d10 in each of the next 2d10 rounds "
+  },
+  {
+    "desc": "6874 Target's age doubles twice  58"
+  },
+  {
+    "desc": "6875 Target's age fluctuates 5d10 years each round for 10 rounds "
+  },
+  {
+    "desc": "6876 Target's age is now 3d20, with all related bonuses and penalties "
+  },
+  {
+    "desc": "6877 Target's age is re-rolled on 10d10 each morning "
+  },
+  {
+    "desc": "6878 Target's age varies by 1d10 years each time he's wounded "
+  },
+  {
+    "desc": "6879 Target's allies all attack him for 1d4 rounds "
+  },
+  {
+    "desc": "6880 Target's allies all sound just like him "
+  },
+  {
+    "desc": "6881 Target's allies are all healed, but he's reduced to one hit point "
+  },
+  {
+    "desc": "6882 Target's allies are all standing within arm's reach of him "
+  },
+  {
+    "desc": "6883 Target's allies are condescending and patronizing to him "
+  },
+  {
+    "desc": "6884 Target's allies are immune to the target's weapons for 1d12 hours "
+  },
+  {
+    "desc": "6885 Target's allies are stricken blind until the target says his name "
+  },
+  {
+    "desc": "6886 Target's allies are teleported at least 1d4 miles away from him "
+  },
+  {
+    "desc": "6887 Target's allies arrange to sell him for a substantial profit "
+  },
+  {
+    "desc": "6888 Target's allies assembled him from artificial parts "
+  },
+  {
+    "desc": "6889 Target's allies attempt to steal and sell all of his belongings "
+  },
+  {
+    "desc": "6890 Target's allies betrayed him terribly within the last 1d4 days "
+  },
+  {
+    "desc": "6891 Target's allies can come within 10 yards of him during melee "
+  },
+  {
+    "desc": "6892 Target's allies can't communicate with him until he spills blood "
+  },
+  {
+    "desc": "6893 Target's allies can't defend him in a fight "
+  },
+  {
+    "desc": "6894 Target's allies can't digest any food that he prepares "
+  },
+  {
+    "desc": "6895 Target's allies can't distinguish the target from the caster "
+  },
+  {
+    "desc": "6896 Target's allies can't draw weapons within 10 yards of him "
+  },
+  {
+    "desc": "6897 Target's allies can't look directly at him for 1d4 days "
+  },
+  {
+    "desc": "6898 Target's allies can't see him while he's at full hit point "
+  },
+  {
+    "desc": "6899 Target's allies can't speak to him while he has a weapon drawn "
+  },
+  {
+    "desc": "6900 Target's allies conspire to sell him into slavery "
+  },
+  {
+    "desc": "6901 Target's allies conspire to sell his soul to a demon "
+  },
+  {
+    "desc": "6902 Target's allies each carry a small vial filled with his blood "
+  },
+  {
+    "desc": "6903 Target's allies each find 1d10 gold pieces "
+  },
+  {
+    "desc": "6904 Target's allies each give him 1d100 gold pieces "
+  },
+  {
+    "desc": "6905 Target's allies fear that he's about to go on a homicidal rampage "
+  },
+  {
+    "desc": "6906 Target's allies go berserk if he is slain "
+  },
+  {
+    "desc": "6907 Target's allies have never liked or respected him "
+  },
+  {
+    "desc": "6908 Target's allies look just like him for 4d6 hours "
+  },
+  {
+    "desc": "6909 Target's allies look just like him until sunset "
+  },
+  {
+    "desc": "6910 Target's allies mock and ridicule him mercilessly until sunset "
+  },
+  {
+    "desc": "6911 Target's allies speak no language he can understand for 2d8 days "
+  },
+  {
+    "desc": "6912 Target's allies spread vicious and humiliating rumors about "
+  },
+  {
+    "desc": "6913 Target's allies suspect that he belongs to a divine lineage "
+  },
+  {
+    "desc": "6914 Target's allies suspect that he's a mechanical impostor "
+  },
+  {
+    "desc": "6915 Target's allies suspect that he's hiding vast wealth from them "
+  },
+  {
+    "desc": "6916 Target's allies suspect that he's joined a violent cult "
+  },
+  {
+    "desc": "6917 Target's allies suspect that he's plotting to betray them "
+  },
+  {
+    "desc": "6918 Target's allies suspect that he's really the caster "
+  },
+  {
+    "desc": "6919 Target's allies swear a blood oath against whoever slays him "
+  },
+  {
+    "desc": "6920 Target's allies think that he can resurrect the dead "
+  },
+  {
+    "desc": "6921 Target's allies think that he fulfills an ancient prophecy "
+  },
+  {
+    "desc": "6922 Target's allies think that he has some terribly virulent disease "
+  },
+  {
+    "desc": "6923 Target's allies think that he plans to sacrifice them to his god "
+  },
+  {
+    "desc": "6924 Target's allies think that he's ablaze "
+  },
+  {
+    "desc": "6925 Target's allies think that he's at death's door "
+  },
+  {
+    "desc": "6926 Target's allies think that he's being controlled by unseen forces "
+  },
+  {
+    "desc": "6927 Target's allies think that he's damned beyond hope of redemption "
+  },
+  {
+    "desc": "6928 Target's allies think that he's dead, and they try to bury him "
+  },
+  {
+    "desc": "6929 Target's allies think that he's drowning "
+  },
+  {
+    "desc": "6930 Target's allies think that he's far more powerful than he lets on "
+  },
+  {
+    "desc": "6931 Target's allies think that he's guilty of many unspeakable crimes "
+  },
+  {
+    "desc": "6932 Target's allies think that he's ingested a powerful toxin "
+  },
+  {
+    "desc": "6933 Target's allies think that he's possessed by a powerful demon "
+  },
+  {
+    "desc": "6934 Target's allies think that he's under the caster's control "
+  },
+  {
+    "desc": "6935 Target's allies think that his name is 'Fungus' "
+  },
+  {
+    "desc": "6936 Target's allies think that his touch is poisonous to them "
+  },
+  {
+    "desc": "6937 Target's allies trust him implicitly "
+  },
+  {
+    "desc": "6938 Target's allies utterly terrify him for 1d8 hours "
+  },
+  {
+    "desc": "6939 Target's allies worship him as a god for 1d8 days "
+  },
+  {
+    "desc": "6940 Target's ankle is tightly chained to his neck "
+  },
+  {
+    "desc": "6941 Target's ankles are bound by a large and heavy padlock "
+  },
+  {
+    "desc": "6942 Target's apparent physical age fluctuates by 1d100 years daily "
+  },
+  {
+    "desc": "6943 Target's arms appear to be stricken with advanced leprosy "
+  },
+  {
+    "desc": "6944 Target's arms are as limp as rope for 4d6 rounds "
+  },
+  {
+    "desc": "6945 Target's arms are encased in straight, tight-fitting steel tubes "
+  },
+  {
+    "desc": "6946 Target's arms are henceforth as limber as snakes "
+  },
+  {
+    "desc": "6947 Target's arms are replaced by inert duplicates of his head "
+  },
+  {
+    "desc": "6948 Target's arms can't be bound by cloth, rope, or vines "
+  },
+  {
+    "desc": "6949 Target's arms can't be broken by any natural means "
+  },
+  {
+    "desc": "6950 Target's arms can't be harmed by claws or teeth "
+  },
+  {
+    "desc": "6951 Target's arms can't be harmed by non-magical weapons "
+  },
+  {
+    "desc": "6952 Target's arms flap like a hummingbird's wings for 3d6 rounds "
+  },
+  {
+    "desc": "6953 Target's arms have been repeatedly severed and reattached "
+  },
+  {
+    "desc": "6954 Target's arms reflect light like a mirror "
+  },
+  {
+    "desc": "6955 Target's arms shrink to the size of an infant's arms "
+  },
+  {
+    "desc": "6956 Target's arms spin like propellers until he's hit by magic "
+  },
+  {
+    "desc": "6957 Target's arms vanish, but he sprouts a trunk like an elephant "
+  },
+  {
+    "desc": "6958 Target's arms wheeze like hydraulics when he moves them "
+  },
+  {
+    "desc": "6959 Target's arms wriggle like angry snakes "
+  },
+  {
+    "desc": "6960 Target's attacks are 5% likely to inflict 5X normal damage "
+  },
+  {
+    "desc": "6961 Target's attacks are 5% likely to inflict equal damage upon him "
+  },
+  {
+    "desc": "6962 Target's attacks are 10% likely to inflict no damage at all "
+  },
+  {
+    "desc": "6963 Target's attacks are 10% likely to inflict only illusory damage "
+  },
+  {
+    "desc": "6964 Target's attacks are accompanied by eerie, disembodied chanting "
+  },
+  {
+    "desc": "6965 Target's attacks are accompanied by mocking, disembodied laughter "
+  },
+  {
+    "desc": "6966 Target's attacks are accompanied by the sound of breaking glass "
+  },
+  {
+    "desc": "6967 Target's attacks cause maximum damage, but he takes equal damage "
+  },
+  {
+    "desc": "6968 Target's attempts at tracking invariably lead to his own trail "
+  },
+  {
+    "desc": "6969 Target's blood burn as bright as magnesium "
+  },
+  {
+    "desc": "6970 Target's blood can eat through steel and iron like acid "
+  },
+  {
+    "desc": "6971 Target's blood hold the secret to eternal life "
+  },
+  {
+    "desc": "6972 Target's blood induces wild hallucinations in any who spill it "
+  },
+  {
+    "desc": "6973 Target's blood is highly flammable for 2d10 rounds "
+  },
+  {
+    "desc": "6974 Target's blood is invisible "
+  },
+  {
+    "desc": "6975 Target's blood is widely believed to be a panacea "
+  },
+  {
+    "desc": "6976 Target's blood smells powerfully of sulfur "
+  },
+  {
+    "desc": "6977 Target's body appears to be full of holes like Swiss cheese "
+  },
+  {
+    "desc": "6978 Target's body appears to be made entirely of cork "
+  },
+  {
+    "desc": "6979 Target's body appears to be made of porous wax "
+  },
+  {
+    "desc": "6980 Target's body can absorb twice its weight in water "
+  },
+  {
+    "desc": "6981 Target's body climbs into a tree each night as he sleeps "
+  },
+  {
+    "desc": "6982 Target's body inflates to twice its normal volume "
+  },
+  {
+    "desc": "6983 Target's body is covered with sores and blisters "
+  },
+  {
+    "desc": "6984 Target's body is infested with an enormous colony of termites "
+  },
+  {
+    "desc": "6985 Target's body is scarred as if he'd been pushed through a screen "
+  },
+  {
+    "desc": "6986 Target's body is scoured with steel wool "
+  },
+  {
+    "desc": "6987 Target's body rings like an enormous church bell 1d12 times "
+  },
+  {
+    "desc": "6988 Target's body slowly absorbs any clothing he wears "
+  },
+  {
+    "desc": "6989 Target's body, clothing, and gear are uniformly bright orange "
+  },
+  {
+    "desc": "6990 Target's bones are as brittle as chalk until sunset tomorrow "
+  },
+  {
+    "desc": "6991 Target's bones are discovered to have been stolen "
+  },
+  {
+    "desc": "6992 Target's bones are intensely magnetic "
+  },
+  {
+    "desc": "6993 Target's bones are sought by poachers "
+  },
+  {
+    "desc": "6994 Target's bones are visible through his skin while he sleeps "
+  },
+  {
+    "desc": "6995 Target's bones are visible through his skin while he's wet "
+  },
+  {
+    "desc": "6996 Target's bones are weightless "
+  },
+  {
+    "desc": "6997 Target's bones can never be rendered invisible "
+  },
+  {
+    "desc": "6998 Target's bones can't be broken by any natural physical force "
+  },
+  {
+    "desc": "6999 Target's bones chime like bells when he's struck "
+  },
+  {
+    "desc": "7000 Target's bones clatter inside his body like a bare skeleton "
+  }
+]

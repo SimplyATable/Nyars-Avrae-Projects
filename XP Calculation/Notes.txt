@@ -1,0 +1,7 @@
+-- INPUT AFTER SPLIT --
+Fighter 1 Name, Fighter 1 Level, RP, Daily, Reincarnations, Fighter 2 Name, Fighter 2 Level, RP, Daily, Reincarnations, Traps, Trap Checks, Trap Activations, Weather, Weather Rolls, Winner (1 or 2)
+["Lexi", "10", "0", "1", "0", "Naga", "7", "0", "1", "0", "1", "1", "0", "2", "0", "1"]
+
+-- INPUT AFTER NAME REMOVAL AND CONVERSION --
+F1 Level, RP, Daily, Rebirth, F2 Level, RP, Daily, Rebirth, Traps, Trap Checks, Trap Activations, Weather, Weather Rolls, Winner (1 or 2)
+[10, 0, 1, 0, 7, 0, 1, 0, 1, 1, 0, 2, 0, 1]

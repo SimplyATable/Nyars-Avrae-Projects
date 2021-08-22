@@ -1,0 +1,3002 @@
+[
+  {
+    "desc": "3001 Nearest colony of bees identifies the caster as its queen "
+  },
+  {
+    "desc": "3002 Nearest dragon has a vendetta against the caster "
+  },
+  {
+    "desc": "3003 Nearest dragon urgently desires an audience with the caster "
+  },
+  {
+    "desc": "3004 Nearest horse has been plotting against the caster for years "
+  },
+  {
+    "desc": "3005 Nearest horse is ravenously hungry for the caster's flesh "
+  },
+  {
+    "desc": "3006 Nearest statue animates and begins stalking the caster "
+  },
+  {
+    "desc": "3007 Nearest tree falls on caster but doesn't make a sound "
+  },
+  {
+    "desc": "3008 Nearest tree falls on caster, pinning him but not harming him "
+  },
+  {
+    "desc": "3009 Nearest wizard decides that the caster owes him a favor "
+  },
+  {
+    "desc": "3010 Nearest wizard thinks that the caster is plotting against him "
+  },
+  {
+    "desc": "3011 Next 1d4 attacks on caster automatically inflict maximum damage "
+  },
+  {
+    "desc": "3012 Next 1d4 attacks on caster automatically inflict minimum damage "
+  },
+  {
+    "desc": "3013 Next 1d4 attacks on caster automatically leave hideous scars "
+  },
+  {
+    "desc": "3014 Next 1d4 attacks on caster equally affect the attackers "
+  },
+  {
+    "desc": "3015 Next attack on caster causes him to hallucinate for 1d4 hours "
+  },
+  {
+    "desc": "3016 Next attack on caster has a +10 ToHit bonus "
+  },
+  {
+    "desc": "3017 Next attack on caster kills him, but he resurrects at dawn "
+  },
+  {
+    "desc": "3018 Next attack on caster literally knocks the smile off of his face "
+  },
+  {
+    "desc": "3019 Next blade to cut the caster vanishes until that wound is healed "
+  },
+  {
+    "desc": "3020 Next blade to cut the caster will never rust or go dull "
+  },
+  {
+    "desc": "3021 Next bridge that caster crosses turns to chocolate "
+  },
+  {
+    "desc": "3022 Next creature slain by caster infects him with a strange disease "
+  },
+  {
+    "desc": "3023 Next creature slain by caster is avenged by 10d10 kobolds "
+  },
+  {
+    "desc": "3024 Next creature slain by caster is consumed by flames in 1d8 rounds "
+  },
+  {
+    "desc": "3025 Next creature slain by caster is resurrected in 1d10 turns "
+  },
+  {
+    "desc": "3026 Next creature slain by caster places a Geas on him as it dies "
+  },
+  {
+    "desc": "3027 Next creature slain by caster pursues him as a vengeful undead "
+  },
+  {
+    "desc": "3028 Next door opened by caster becomes sentient and animated "
+  },
+  {
+    "desc": "3029 Next door opened by caster can never be closed again "
+  },
+  {
+    "desc": "3030 Next door opened by caster can never be opened by him again "
+  },
+  {
+    "desc": "3031 Next door opened by caster causes a pit to open beneath his feet "
+  },
+  {
+    "desc": "3032 Next door opened by caster causes all of his spells to discharge "
+  },
+  {
+    "desc": "3033 Next door opened by caster dispels any magic then affecting him "
+  },
+  {
+    "desc": "3034 Next door opened by caster explodes as a 1d10HD fireball "
+  },
+  {
+    "desc": "3035 Next door opened by caster explodes in a swarm of searing embers "
+  },
+  {
+    "desc": "3036 Next door opened by caster falls on him heavily "
+  },
+  {
+    "desc": "3037 Next door opened by caster floods the room on the opposite side "
+  },
+  {
+    "desc": "3038 Next door opened by caster gives him a useful bit of information "
+  },
+  {
+    "desc": "3039 Next door opened by caster hurls him out of the nearest window "
+  },
+  {
+    "desc": "3040 Next door opened by caster ignites the room on the opposite side "
+  },
+  {
+    "desc": "3041 Next door opened by caster is thereafter as clear as glass "
+  },
+  {
+    "desc": "3042 Next door opened by caster knocks him unconscious "
+  },
+  {
+    "desc": "3043 Next door opened by caster leads directly out of the universe "
+  },
+  {
+    "desc": "3044 Next door opened by caster leads to a confessional booth "
+  },
+  {
+    "desc": "3045 Next door opened by caster leads to a courtyard with no doors "
+  },
+  {
+    "desc": "3046 Next door opened by caster leads to a distant crypt "
+  },
+  {
+    "desc": "3047 Next door opened by caster leads to a distant mountaintop "
+  },
+  {
+    "desc": "3048 Next door opened by caster leads to a distant ship on the ocean "
+  },
+  {
+    "desc": "3049 Next door opened by caster leads to a dragon's nest "
+  },
+  {
+    "desc": "3050 Next door opened by caster leads to a dragon's treasure horde "
+  },
+  {
+    "desc": "3051 Next door opened by caster leads to a fabulous ballroom "
+  },
+  {
+    "desc": "3052 Next door opened by caster leads to a featureless desert "
+  },
+  {
+    "desc": "3053 Next door opened by caster leads to a filthy and fetid stable "
+  },
+  {
+    "desc": "3054 Next door opened by caster leads to a hidden oubliette "
+  },
+  {
+    "desc": "3055 Next door opened by caster leads to a huge monster's stomach "
+  },
+  {
+    "desc": "3056 Next door opened by caster leads to a long-forgotten vault "
+  },
+  {
+    "desc": "3057 Next door opened by caster leads to a magical armory "
+  },
+  {
+    "desc": "3058 Next door opened by caster leads to a meat locker "
+  },
+  {
+    "desc": "3059 Next door opened by caster leads to a modern bathroom "
+  },
+  {
+    "desc": "3060 Next door opened by caster leads to a mysterious control room "
+  },
+  {
+    "desc": "3061 Next door opened by caster leads to a room full of hourglasses "
+  },
+  {
+    "desc": "3062 Next door opened by caster leads to a sacrificial altar "
+  },
+  {
+    "desc": "3063 Next door opened by caster leads to a terrible misunderstanding "
+  },
+  {
+    "desc": "3064 Next door opened by caster leads to a treasury of fabulous wealth "
+  },
+  {
+    "desc": "3065 Next door opened by caster leads to a vast cornfield "
+  },
+  {
+    "desc": "3066 Next door opened by caster leads to a vast magical library "
+  },
+  {
+    "desc": "3067 Next door opened by caster leads to a vast, snow-swept plain "
+  },
+  {
+    "desc": "3068 Next door opened by caster leads to a vault deep in a coal mine "
+  },
+  {
+    "desc": "3069 Next door opened by caster leads to a warehouse full of candy "
+  },
+  {
+    "desc": "3070 Next door opened by caster leads to all manner of confusion "
+  },
+  {
+    "desc": "3071 Next door opened by caster leads to an enormous wine cellar "
+  },
+  {
+    "desc": "3072 Next door opened by caster leads to an overflowing sewer "
+  },
+  {
+    "desc": "3073 Next door opened by caster leads to another plane of existence "
+  },
+  {
+    "desc": "3074 Next door opened by caster leads to deep within a blazing forest "
+  },
+  {
+    "desc": "3075 Next door opened by caster leads to goblin barracks "
+  },
+  {
+    "desc": "3076 Next door opened by caster leads to his home "
+  },
+  {
+    "desc": "3077 Next door opened by caster leads to interstellar space "
+  },
+  {
+    "desc": "3078 Next door opened by caster leads to the basement of a brothel "
+  },
+  {
+    "desc": "3079 Next door opened by caster leads to the bottom of the sea "
+  },
+  {
+    "desc": "3080 Next door opened by caster leads to the center of a labyrinth "
+  },
+  {
+    "desc": "3081 Next door opened by caster leads to the center of the universe "
+  },
+  {
+    "desc": "3082 Next door opened by caster leads to the king's linen closet "
+  },
+  {
+    "desc": "3083 Next door opened by caster leads to the last door he opened "
+  },
+  {
+    "desc": "3084 Next door opened by caster leads to the middle of a battlefield "
+  },
+  {
+    "desc": "3085 Next door opened by caster leads to the mind of a famous actor "
+  },
+  {
+    "desc": "3086 Next door opened by caster leads to the queen's bedchamber "
+  },
+  {
+    "desc": "3087 Next door opened by caster leads to the roof of that building "
+  },
+  {
+    "desc": "3088 Next door opened by caster leads to the room that he just left "
+  },
+  {
+    "desc": "3089 Next door opened by caster leads to the royal treasury "
+  },
+  {
+    "desc": "3090 Next door opened by caster leads to the top of a distant volcano "
+  },
+  {
+    "desc": "3091 Next door opened by caster leads to this location "
+  },
+  {
+    "desc": "3092 Next door opened by caster leads to tomorrow but not back "
+  },
+  {
+    "desc": "3093 Next door opened by caster leads to war between 1d4 nations "
+  },
+  {
+    "desc": "3094 Next door opened by caster locks shut behind him "
+  },
+  {
+    "desc": "3095 Next door opened by caster opens upon a sanity-damaging vista "
+  },
+  {
+    "desc": "3096 Next door opened by caster plunges that room into total darkness "
+  },
+  {
+    "desc": "3097 Next door opened by caster releases a cloud of choking smoke "
+  },
+  {
+    "desc": "3098 Next door opened by caster restores him to full hit points "
+  },
+  {
+    "desc": "3099 Next door opened by caster reveals a caterpillar smoking a hookah "
+  },
+  {
+    "desc": "3100 Next door opened by caster reveals a scene of horrid debauchery "
+  },
+  {
+    "desc": "3101 Next door opened by caster reveals an unutterably foul monster "
+  },
+  {
+    "desc": "3102 Next door opened by caster reveals Death on the opposite side "
+  },
+  {
+    "desc": "3103 Next door opened by caster triggers a Chaos Burst "
+  },
+  {
+    "desc": "3104 Next door opened by caster turns into a vault door of heavy steel  29"
+  },
+  {
+    "desc": "3105 Next enemy to wound caster also Charms him "
+  },
+  {
+    "desc": "3106 Next enemy to wound caster begins to resemble him "
+  },
+  {
+    "desc": "3107 Next enemy to wound caster can't harm him for 1d4 days thereafter "
+  },
+  {
+    "desc": "3108 Next enemy to wound caster disarms himself and runs away "
+  },
+  {
+    "desc": "3109 Next enemy to wound caster gains one level or hit die "
+  },
+  {
+    "desc": "3110 Next enemy to wound caster heroically defends him for 1d4 turns "
+  },
+  {
+    "desc": "3111 Next enemy to wound caster is attacked by vermin "
+  },
+  {
+    "desc": "3112 Next enemy to wound caster is healed of any current damage "
+  },
+  {
+    "desc": "3113 Next enemy to wound caster is heavily smeared with bacon grease "
+  },
+  {
+    "desc": "3114 Next enemy to wound caster is himself restored to full hit points "
+  },
+  {
+    "desc": "3115 Next enemy to wound caster is teleported to caster's home "
+  },
+  {
+    "desc": "3116 Next enemy to wound caster is teleported to his own home "
+  },
+  {
+    "desc": "3117 Next enemy to wound caster is thrown 4d6 hours into the future "
+  },
+  {
+    "desc": "3118 Next enemy to wound caster sinks into the ground to his knees "
+  },
+  {
+    "desc": "3119 Next enemy to wound caster suffers an equivalent injury "
+  },
+  {
+    "desc": "3120 Next enemy to wound caster then attacks his own allies "
+  },
+  {
+    "desc": "3121 Next enemy wounded by caster becomes an ally for 1d6 rounds "
+  },
+  {
+    "desc": "3122 Next enemy wounded by caster becomes ethereal for 4d6 hours "
+  },
+  {
+    "desc": "3123 Next enemy wounded by caster becomes immune to fire "
+  },
+  {
+    "desc": "3124 Next enemy wounded by caster becomes invisible to caster "
+  },
+  {
+    "desc": "3125 Next enemy wounded by caster becomes king "
+  },
+  {
+    "desc": "3126 Next enemy wounded by caster begins to age one year per round "
+  },
+  {
+    "desc": "3127 Next enemy wounded by caster can no longer see the caster "
+  },
+  {
+    "desc": "3128 Next enemy wounded by caster contracts some magical disease "
+  },
+  {
+    "desc": "3129 Next enemy wounded by caster erupts into a cloud of angry wasps "
+  },
+  {
+    "desc": "3130 Next enemy wounded by caster is attacked by feral cats "
+  },
+  {
+    "desc": "3131 Next enemy wounded by caster is Healed "
+  },
+  {
+    "desc": "3132 Next enemy wounded by caster is immune to magic for 2d4 rounds "
+  },
+  {
+    "desc": "3133 Next enemy wounded by caster is invisible to him, and vice versa "
+  },
+  {
+    "desc": "3134 Next enemy wounded by caster is suddenly fabulously wealthy "
+  },
+  {
+    "desc": "3135 Next enemy wounded by caster loses an additional 1d100 hit points "
+  },
+  {
+    "desc": "3136 Next enemy wounded by caster must Save or change alignment "
+  },
+  {
+    "desc": "3137 Next enemy wounded by caster must Save or Disintegrate "
+  },
+  {
+    "desc": "3138 Next enemy wounded by caster teleports 1d100 miles "
+  },
+  {
+    "desc": "3139 Next enemy wounded by caster teleports to a safe location nearby "
+  },
+  {
+    "desc": "3140 Next enemy wounded by caster teleports to caster's home "
+  },
+  {
+    "desc": "3141 Next enemy wounded by caster turns into a two-headed dragon "
+  },
+  {
+    "desc": "3142 Next enemy wounded by caster turns to stone over 1d10 rounds "
+  },
+  {
+    "desc": "3143 Next enemy wounded by caster was never born "
+  },
+  {
+    "desc": "3144 Next enemy wounded by caster will resurrect 24 hours after death "
+  },
+  {
+    "desc": "3145 Next horse ridden by caster acquires lycanthropy "
+  },
+  {
+    "desc": "3146 Next horse ridden by caster develops an intense hatred of humans "
+  },
+  {
+    "desc": "3147 Next horse ridden by caster gains Intelligence equal to his own "
+  },
+  {
+    "desc": "3148 Next horse ridden by caster is blasted to ashes beneath him "
+  },
+  {
+    "desc": "3149 Next horse ridden by caster is reconfigured into humanoid shape "
+  },
+  {
+    "desc": "3150 Next horse ridden by caster runs to the nearest pit and jumps in "
+  },
+  {
+    "desc": "3151 Next horse ridden by caster sprouts another head facing backwards "
+  },
+  {
+    "desc": "3152 Next horse ridden by caster sprouts horns like a bull "
+  },
+  {
+    "desc": "3153 Next horse ridden by caster sprouts two additional pairs of legs "
+  },
+  {
+    "desc": "3154 Next horse ridden by caster turns hollow and made of wood "
+  },
+  {
+    "desc": "3155 Next horse ridden by caster turns into a cow "
+  },
+  {
+    "desc": "3156 Next lycanthrope to attack caster is cured of lycanthropy "
+  },
+  {
+    "desc": "3157 Next meal prepared by caster can't be digested by mortals "
+  },
+  {
+    "desc": "3158 Next meal prepared by caster dissolves into a stinking mush "
+  },
+  {
+    "desc": "3159 Next meal prepared by caster functions as a potion of healing "
+  },
+  {
+    "desc": "3160 Next meal prepared by caster harms the sanity of any who eat it "
+  },
+  {
+    "desc": "3161 Next meal prepared by caster has strong anesthetic properties "
+  },
+  {
+    "desc": "3162 Next meal prepared by caster induces hallucinations in Dwarves "
+  },
+  {
+    "desc": "3163 Next meal prepared by caster induces insanity for 1d4 hours "
+  },
+  {
+    "desc": "3164 Next meal prepared by caster induces megalomania in Halflings "
+  },
+  {
+    "desc": "3165 Next meal prepared by caster induces pyromania in Elves "
+  },
+  {
+    "desc": "3166 Next meal prepared by caster induces raving paranoia in humans "
+  },
+  {
+    "desc": "3167 Next meal prepared by caster induces uncontrollable debauchery "
+  },
+  {
+    "desc": "3168 Next meal prepared by caster induces xenophobia in Gnomes "
+  },
+  {
+    "desc": "3169 Next meal prepared by caster is lethally toxic to him "
+  },
+  {
+    "desc": "3170 Next meal prepared by caster is the best meal in all of history "
+  },
+  {
+    "desc": "3171 Next meal prepared by caster is unpalatable in sunlight "
+  },
+  {
+    "desc": "3172 Next meal prepared by caster shines as brightly as the sun "
+  },
+  {
+    "desc": "3173 Next meal prepared by caster tastes strongly of manure "
+  },
+  {
+    "desc": "3174 Next meal prepared by caster tastes strongly of soap "
+  },
+  {
+    "desc": "3175 Next missile shot at caster passes in one ear and out the other "
+  },
+  {
+    "desc": "3176 Next missile shot at caster turns to gold and falls to the ground "
+  },
+  {
+    "desc": "3177 Next permanent spell cast by caster fails in 1d4 rounds "
+  },
+  {
+    "desc": "3178 Next permanent spell cast by caster functions only intermittently "
+  },
+  {
+    "desc": "3179 Next person struck by caster's magic becomes hopelessly drunk "
+  },
+  {
+    "desc": "3180 Next person struck by caster's magic goes insane for 2d4-1 days "
+  },
+  {
+    "desc": "3181 Next person struck by caster's magic is stricken blind and deaf "
+  },
+  {
+    "desc": "3182 Next person to see caster's reflection attacks him immediately "
+  },
+  {
+    "desc": "3183 Next person to touch the caster acquires illusory leprosy "
+  },
+  {
+    "desc": "3184 Next person to touch the caster can't speak to him until sunset "
+  },
+  {
+    "desc": "3185 Next person to touch the caster is dressed just like him "
+  },
+  {
+    "desc": "3186 Next person to touch the caster is invisible to him for 1d4 days "
+  },
+  {
+    "desc": "3187 Next person to touch the caster is stricken permanently bald "
+  },
+  {
+    "desc": "3188 Next person to touch the caster then attacks him for one round "
+  },
+  {
+    "desc": "3189 Next person to whom caster speaks acquires a phony language "
+  },
+  {
+    "desc": "3190 Next person to whom caster speaks adopts the caster's voice "
+  },
+  {
+    "desc": "3191 Next person to whom caster speaks attacks him for 1d6 rounds "
+  },
+  {
+    "desc": "3192 Next person to whom caster speaks can Command him 1d4 times "
+  },
+  {
+    "desc": "3193 Next person to whom caster speaks demands 10d10 gold pieces "
+  },
+  {
+    "desc": "3194 Next person to whom caster speaks develops a stutter until sunset "
+  },
+  {
+    "desc": "3195 Next person to whom caster speaks disappears until sunset "
+  },
+  {
+    "desc": "3196 Next person to whom caster speaks forgets who the caster is "
+  },
+  {
+    "desc": "3197 Next person to whom caster speaks hasn't slept for 2d10 days "
+  },
+  {
+    "desc": "3198 Next person to whom caster speaks hates him for 1d4 hours "
+  },
+  {
+    "desc": "3199 Next person to whom caster speaks ignores him for 2d4 hours "
+  },
+  {
+    "desc": "3200 Next person to whom caster speaks is destined to kill him someday "
+  },
+  {
+    "desc": "3201 Next person to whom caster speaks is dressed just like him "
+  },
+  {
+    "desc": "3202 Next person to whom caster speaks is invisible to him until dawn "
+  },
+  {
+    "desc": "3203 Next person to whom caster speaks is overcome by awful boredom "
+  },
+  {
+    "desc": "3204 Next person to whom caster speaks is overcome by hunger "
+  },
+  {
+    "desc": "3205 Next person to whom caster speaks is soaked with icy brine "
+  },
+  {
+    "desc": "3206 Next person to whom caster speaks is stricken deaf for 2d4 rounds "
+  },
+  {
+    "desc": "3207 Next person to whom caster speaks is stricken mute until sunset "
+  },
+  {
+    "desc": "3208 Next person to whom caster speaks is teleported 10d10 feet "
+  },
+  {
+    "desc": "3209 Next person to whom caster speaks is unable to eat for 1d4 days "
+  },
+  {
+    "desc": "3210 Next person to whom caster speaks looks just like him until dawn "
+  },
+  {
+    "desc": "3211 Next person to whom caster speaks mocks him outrageously "
+  },
+  {
+    "desc": "3212 Next person to whom caster speaks must give him 8d8 gold pieces "
+  },
+  {
+    "desc": "3213 Next person to whom caster speaks races away at top speed "
+  },
+  {
+    "desc": "3214 Next person to whom caster speaks regains 1d4 hit points "
+  },
+  {
+    "desc": "3215 Next person to whom caster speaks shrinks by 25% for 1d4 days "
+  },
+  {
+    "desc": "3216 Next person to whom caster speaks suspects the caster of heresy "
+  },
+  {
+    "desc": "3217 Next potion imbibed by caster alerts everyone to his whereabouts "
+  },
+  {
+    "desc": "3218 Next potion imbibed by caster burns his home to the ground "
+  },
+  {
+    "desc": "3219 Next potion imbibed by caster cancels any resurrections he's had "
+  },
+  {
+    "desc": "3220 Next potion imbibed by caster causes him to be Slowed "
+  },
+  {
+    "desc": "3221 Next potion imbibed by caster causes him to spit out wood chips "
+  },
+  {
+    "desc": "3222 Next potion imbibed by caster causes him to sprout feathers "
+  },
+  {
+    "desc": "3223 Next potion imbibed by caster causes him to sprout tentacles "
+  },
+  {
+    "desc": "3224 Next potion imbibed by caster causes his clothing to disintegrate "
+  },
+  {
+    "desc": "3225 Next potion imbibed by caster causes his voice to echo ominously "
+  },
+  {
+    "desc": "3226 Next potion imbibed by caster changes his alignment for 2d8 hours "
+  },
+  {
+    "desc": "3227 Next potion imbibed by caster changes his sex for its duration "
+  },
+  {
+    "desc": "3228 Next potion imbibed by caster cures him of any current diseases "
+  },
+  {
+    "desc": "3229 Next potion imbibed by caster doubles in volume 1d20 times "
+  },
+  {
+    "desc": "3230 Next potion imbibed by caster enables him to breathe underwater "
+  },
+  {
+    "desc": "3231 Next potion imbibed by caster enlarges his hands by 50% "
+  },
+  {
+    "desc": "3232 Next potion imbibed by caster freezes him solid until sunset "
+  },
+  {
+    "desc": "3233 Next potion imbibed by caster gives him chimp-like proportions "
+  },
+  {
+    "desc": "3234 Next potion imbibed by caster glues his mouth shut  30"
+  },
+  {
+    "desc": "3235 Next potion imbibed by caster has no effect whatsoever "
+  },
+  {
+    "desc": "3236 Next potion imbibed by caster has only half its normal potency "
+  },
+  {
+    "desc": "3237 Next potion imbibed by caster has the same effect as the last one "
+  },
+  {
+    "desc": "3238 Next potion imbibed by caster hurls him 5d10 yards "
+  },
+  {
+    "desc": "3239 Next potion imbibed by caster induces a fit of spastic coughing "
+  },
+  {
+    "desc": "3240 Next potion imbibed by caster induces crazed religious fervor "
+  },
+  {
+    "desc": "3241 Next potion imbibed by caster induces intense vertigo "
+  },
+  {
+    "desc": "3242 Next potion imbibed by caster induces lycanthropy for 1d4 months "
+  },
+  {
+    "desc": "3243 Next potion imbibed by caster induces pacifism "
+  },
+  {
+    "desc": "3244 Next potion imbibed by caster induces phenomenal hallucinations "
+  },
+  {
+    "desc": "3245 Next potion imbibed by caster induces temporary homicidal rage "
+  },
+  {
+    "desc": "3246 Next potion imbibed by caster induces uncharacteristic generosity "
+  },
+  {
+    "desc": "3247 Next potion imbibed by caster inflicts an embarrassing ailment "
+  },
+  {
+    "desc": "3248 Next potion imbibed by caster is 5% likely to kill him outright "
+  },
+  {
+    "desc": "3249 Next potion imbibed by caster is 10% likely to last 1d10 years "
+  },
+  {
+    "desc": "3250 Next potion imbibed by caster is actually a living thing "
+  },
+  {
+    "desc": "3251 Next potion imbibed by caster is incredibly addictive "
+  },
+  {
+    "desc": "3252 Next potion imbibed by caster is powerfully emetic "
+  },
+  {
+    "desc": "3253 Next potion imbibed by caster is pure human blood "
+  },
+  {
+    "desc": "3254 Next potion imbibed by caster lasts only until he speaks "
+  },
+  {
+    "desc": "3255 Next potion imbibed by caster makes foliage sprout from his head "
+  },
+  {
+    "desc": "3256 Next potion imbibed by caster makes gold invisible to him "
+  },
+  {
+    "desc": "3257 Next potion imbibed by caster makes him -4 to Save vs Fortitude "
+  },
+  {
+    "desc": "3258 Next potion imbibed by caster makes him a terrific dancer "
+  },
+  {
+    "desc": "3259 Next potion imbibed by caster makes him age one year per round "
+  },
+  {
+    "desc": "3260 Next potion imbibed by caster makes him ambidextrous "
+  },
+  {
+    "desc": "3261 Next potion imbibed by caster makes him blink like a neon sign "
+  },
+  {
+    "desc": "3262 Next potion imbibed by caster makes him crave raw meat "
+  },
+  {
+    "desc": "3263 Next potion imbibed by caster makes him forget his name "
+  },
+  {
+    "desc": "3264 Next potion imbibed by caster makes him forget the past 24 hours "
+  },
+  {
+    "desc": "3265 Next potion imbibed by caster makes him hate magic for 1d4 days "
+  },
+  {
+    "desc": "3266 Next potion imbibed by caster makes him hate to answer questions "
+  },
+  {
+    "desc": "3267 Next potion imbibed by caster makes him horrifyingly ugly "
+  },
+  {
+    "desc": "3268 Next potion imbibed by caster makes him illiterate for 1d10 days "
+  },
+  {
+    "desc": "3269 Next potion imbibed by caster makes him invisible for 1d6 turns "
+  },
+  {
+    "desc": "3270 Next potion imbibed by caster makes him invisible to undead "
+  },
+  {
+    "desc": "3271 Next potion imbibed by caster makes him levitate 1d10 yards "
+  },
+  {
+    "desc": "3272 Next potion imbibed by caster makes him look 5d10 years older "
+  },
+  {
+    "desc": "3273 Next potion imbibed by caster makes him look like an infant "
+  },
+  {
+    "desc": "3274 Next potion imbibed by caster makes him lose 1d100 pounds "
+  },
+  {
+    "desc": "3275 Next potion imbibed by caster makes him overwhelmingly beautiful "
+  },
+  {
+    "desc": "3276 Next potion imbibed by caster makes him profoundly drunk "
+  },
+  {
+    "desc": "3277 Next potion imbibed by caster makes him see fire all around him "
+  },
+  {
+    "desc": "3278 Next potion imbibed by caster makes him seem far more charming "
+  },
+  {
+    "desc": "3279 Next potion imbibed by caster makes him spin rapidly 1d100 times "
+  },
+  {
+    "desc": "3280 Next potion imbibed by caster makes him sweat blood "
+  },
+  {
+    "desc": "3281 Next potion imbibed by caster makes him think he doesn't exist "
+  },
+  {
+    "desc": "3282 Next potion imbibed by caster makes him think that he's dead "
+  },
+  {
+    "desc": "3283 Next potion imbibed by caster makes him think that he's drowning "
+  },
+  {
+    "desc": "3284 Next potion imbibed by caster makes him think that he's invisible "
+  },
+  {
+    "desc": "3285 Next potion imbibed by caster makes him think that it's poison "
+  },
+  {
+    "desc": "3286 Next potion imbibed by caster makes his arms and legs invisible "
+  },
+  {
+    "desc": "3287 Next potion imbibed by caster makes his face invisible "
+  },
+  {
+    "desc": "3288 Next potion imbibed by caster makes his flesh invisible "
+  },
+  {
+    "desc": "3289 Next potion imbibed by caster makes his hands and feet invisible "
+  },
+  {
+    "desc": "3290 Next potion imbibed by caster makes immune to charm-like magic "
+  },
+  {
+    "desc": "3291 Next potion imbibed by caster makes ink invisible to him "
+  },
+  {
+    "desc": "3292 Next potion imbibed by caster makes undead invisible to him "
+  },
+  {
+    "desc": "3293 Next potion imbibed by caster paralyzes his hands until sunset "
+  },
+  {
+    "desc": "3294 Next potion imbibed by caster reduces him to one hit point "
+  },
+  {
+    "desc": "3295 Next potion imbibed by caster restores him to full hit points "
+  },
+  {
+    "desc": "3296 Next potion imbibed by caster reveals any secret doors nearby "
+  },
+  {
+    "desc": "3297 Next potion imbibed by caster rotates his feet 180° "
+  },
+  {
+    "desc": "3298 Next potion imbibed by caster sets his hair ablaze "
+  },
+  {
+    "desc": "3299 Next potion imbibed by caster shrinks his hands by 50% "
+  },
+  {
+    "desc": "3300 Next potion imbibed by caster snuffs all fires within one mile "
+  },
+  {
+    "desc": "3301 Next potion imbibed by caster solidifies in his stomach "
+  },
+  {
+    "desc": "3302 Next potion imbibed by caster strikes him bald for one year "
+  },
+  {
+    "desc": "3303 Next potion imbibed by caster tastes like lamp oil "
+  },
+  {
+    "desc": "3304 Next potion imbibed by caster teleports him to his home "
+  },
+  {
+    "desc": "3305 Next potion imbibed by caster throws him 1d4 days into the future "
+  },
+  {
+    "desc": "3306 Next potion imbibed by caster triggers a Chaos Burst "
+  },
+  {
+    "desc": "3307 Next potion imbibed by caster turns him into 1d100 frogs "
+  },
+  {
+    "desc": "3308 Next potion imbibed by caster turns him into a zombie until dawn "
+  },
+  {
+    "desc": "3309 Next potion imbibed by caster turns him to vapor for 1d10 rounds "
+  },
+  {
+    "desc": "3310 Next potion imbibed by caster turns his hands into feet "
+  },
+  {
+    "desc": "3311 Next potion imbibed by caster turns his head to a cube "
+  },
+  {
+    "desc": "3312 Next potion imbibed by caster turns his lips and tongue to steel "
+  },
+  {
+    "desc": "3313 Next potion imbibed by caster turns his skeleton to steel "
+  },
+  {
+    "desc": "3314 Next potion imbibed by caster turns his skin permanently orange "
+  },
+  {
+    "desc": "3315 Next potion imbibed by caster turns his speech to gibberish "
+  },
+  {
+    "desc": "3316 Next potion imbibed by caster works only during every other round "
+  },
+  {
+    "desc": "3317 Next puddle stepped in by caster drains 1d10 hit points "
+  },
+  {
+    "desc": "3318 Next puddle stepped in by caster freezes solid around his feet "
+  },
+  {
+    "desc": "3319 Next puddle stepped in by caster ignites like gasoline "
+  },
+  {
+    "desc": "3320 Next puddle stepped in by caster is charged with electricity "
+  },
+  {
+    "desc": "3321 Next puddle stepped in by caster is full of piranha "
+  },
+  {
+    "desc": "3322 Next puddle stepped in by caster is, to him, 10d10 feet deep "
+  },
+  {
+    "desc": "3323 Next puddle stepped in by caster makes him think he's drowning "
+  },
+  {
+    "desc": "3324 Next puddle stepped in by caster renders him briefly invulnerable "
+  },
+  {
+    "desc": "3325 Next puddle stepped in by caster restores 1d10 hit points "
+  },
+  {
+    "desc": "3326 Next puddle stepped in by caster soaks him from head to toe "
+  },
+  {
+    "desc": "3327 Next puddle stepped in by caster teleports him to a puddle nearby "
+  },
+  {
+    "desc": "3328 Next puddle stepped in by caster throws him 1d20 yards "
+  },
+  {
+    "desc": "3329 Next puddle stepped in by caster turns to blood "
+  },
+  {
+    "desc": "3330 Next spell caster casts on himself also affects someone nearby "
+  },
+  {
+    "desc": "3331 Next spell caster casts on himself flares out of control "
+  },
+  {
+    "desc": "3332 Next spell caster casts on himself has the opposite effect "
+  },
+  {
+    "desc": "3333 Next spell caster casts on himself persists for 1d4 days "
+  },
+  {
+    "desc": "3334 Next spell caster casts on himself takes effect 1d4 days later "
+  },
+  {
+    "desc": "3335 Next spell caster casts on himself works at 2X normal potency "
+  },
+  {
+    "desc": "3336 Next spell to hit the caster also renders his head invisible "
+  },
+  {
+    "desc": "3337 Next spell to hit the caster causes him to glow brightly "
+  },
+  {
+    "desc": "3338 Next spell to hit the caster leaves him hideously scarred "
+  },
+  {
+    "desc": "3339 Next spell to hit the caster likewise affects whoever cast it "
+  },
+  {
+    "desc": "3340 Next spell to hit the caster renders him blind for its duration "
+  },
+  {
+    "desc": "3341 Next spell to hit the caster takes effect 4d6 hours later "
+  },
+  {
+    "desc": "3342 Next successful attack upon caster hits a bystander instead "
+  },
+  {
+    "desc": "3343 Next successful attack upon caster knocks him unconscious "
+  },
+  {
+    "desc": "3344 Next sword that wounds caster acquires a permanent +2 bonus "
+  },
+  {
+    "desc": "3345 Next sword that wounds caster heals him for 1d10 hit points "
+  },
+  {
+    "desc": "3346 Next sword that wounds caster heats to 10d100 degrees "
+  },
+  {
+    "desc": "3347 Next sword that wounds caster is totally rusted by dawn tomorrow "
+  },
+  {
+    "desc": "3348 Next sword that wounds caster likewise wounds its wielder "
+  },
+  {
+    "desc": "3349 Next sword that wounds caster mimics his personality thereafter "
+  },
+  {
+    "desc": "3350 Next sword that wounds caster must Save or disintegrate "
+  },
+  {
+    "desc": "3351 Next sword that wounds caster then ignites and burns like paper "
+  },
+  {
+    "desc": "3352 Next sword that wounds caster turns to gold "
+  },
+  {
+    "desc": "3353 Next sword that wounds caster vanishes for 1d8 days "
+  },
+  {
+    "desc": "3354 Next sword that wounds caster was coated with deadly venom "
+  },
+  {
+    "desc": "3355 Next sword touched by caster gains a +1 ToHit bonus for 4d6 days "
+  },
+  {
+    "desc": "3356 Next sword touched by caster turns into a crescent wrench "
+  },
+  {
+    "desc": "3357 Next time caster's restored to full hit points, he shrinks by 50% "
+  },
+  {
+    "desc": "3358 Next tree touched by caster animates and attacks everyone nearby "
+  },
+  {
+    "desc": "3359 Next tree touched by caster crumbles to ash in minutes "
+  },
+  {
+    "desc": "3360 Next wound inflicted by caster can't heal without magic "
+  },
+  {
+    "desc": "3361 Next wound inflicted upon caster can't be healed magically "
+  },
+  {
+    "desc": "3362 No animal will allow the caster to ride it "
+  },
+  {
+    "desc": "3363 No matter how far the caster travels today, he winds up here "
+  },
+  {
+    "desc": "3364 No more than 60% of caster's body can become invisible at a time  31"
+  },
+  {
+    "desc": "3365 No one now within 10 yards of caster can harm him until dawn "
+  },
+  {
+    "desc": "3366 No one within 100 miles trusts caster enough to lend him money "
+  },
+  {
+    "desc": "3367 Non-humanoid mammals are invisible to caster "
+  },
+  {
+    "desc": "3368 Non-humanoid mammals react badly to the caster for 1d10 days "
+  },
+  {
+    "desc": "3369 Non-magical blades inflict bludgeoning damage upon caster "
+  },
+  {
+    "desc": "3370 Non-magical rodents are invisible to the caster "
+  },
+  {
+    "desc": "3371 Objects are more resistant to fire while caster carries them "
+  },
+  {
+    "desc": "3372 Objects handled by caster can't be made invisible for one year "
+  },
+  {
+    "desc": "3373 Objects placed in caster's pockets freeze solid in minutes "
+  },
+  {
+    "desc": "3374 On a successful attack roll, caster must Save or drop his weapon "
+  },
+  {
+    "desc": "3375 On any given day, caster's left foot is 50% likely to be ethereal "
+  },
+  {
+    "desc": "3376 On any successful attack roll, caster is still 10% likely to fail "
+  },
+  {
+    "desc": "3377 Once per day, caster can cause himself to age 1d10 years "
+  },
+  {
+    "desc": "3378 Once per day, caster can cause his shoes or boots to vanish "
+  },
+  {
+    "desc": "3379 Once per day, caster can cause his spellbook to ignite "
+  },
+  {
+    "desc": "3380 Once per day, caster can cause one flash of lightning overhead "
+  },
+  {
+    "desc": "3381 Once per day, caster can cause one person to lie to him "
+  },
+  {
+    "desc": "3382 Once per day, caster can cause ten pounds of ice to melt rapidly "
+  },
+  {
+    "desc": "3383 Once per day, caster can create one loosely-packed snowball "
+  },
+  {
+    "desc": "3384 Once per day, caster can create up to one pound of cheese "
+  },
+  {
+    "desc": "3385 Once per day, caster can discern True North with 100% accuracy "
+  },
+  {
+    "desc": "3386 Once per day, caster can dry a soaking wet, shirt-sized garment "
+  },
+  {
+    "desc": "3387 Once per day, caster can eliminate rust from one sword or helmet "
+  },
+  {
+    "desc": "3388 Once per day, caster can locate the most valuable jewel nearby "
+  },
+  {
+    "desc": "3389 Once per day, caster can locate the nearest holy symbol "
+  },
+  {
+    "desc": "3390 Once per day, caster can locate the nearest locked door "
+  },
+  {
+    "desc": "3391 Once per day, caster can locate the nearest potable alcohol "
+  },
+  {
+    "desc": "3392 Once per day, caster can locate the nearest unrefined iron ore "
+  },
+  {
+    "desc": "3393 Once per day, caster can make his clothes vanish for 1d10 rounds "
+  },
+  {
+    "desc": "3394 Once per day, caster can make someone briefly forget his name "
+  },
+  {
+    "desc": "3395 Once per day, caster can pull a big, ripe turnip from the ground "
+  },
+  {
+    "desc": "3396 Once per day, caster can purify up to one gallon of water "
+  },
+  {
+    "desc": "3397 Once per day, caster can read a new language for 1d4 rounds "
+  },
+  {
+    "desc": "3398 Once per day, caster can read any written language for 1d4 rounds "
+  },
+  {
+    "desc": "3399 Once per day, caster can render glass opaque for 1d4 hours "
+  },
+  {
+    "desc": "3400 Once per day, caster can stab himself with a dagger without harm "
+  },
+  {
+    "desc": "3401 Once per day, caster can teleport up to one foot per level "
+  },
+  {
+    "desc": "3402 Once per day, caster can totally ignore one attack against him "
+  },
+  {
+    "desc": "3403 Once per day, caster can turn his hands ethereal for 1d6 rounds "
+  },
+  {
+    "desc": "3404 Once per day, caster can turn his hands invisible for 1d10 rounds "
+  },
+  {
+    "desc": "3405 Once per day, caster can turn his head 360° at the neck, unharmed "
+  },
+  {
+    "desc": "3406 Once per day, caster can turn his teeth invisible for 10 minutes "
+  },
+  {
+    "desc": "3407 Once per day, caster can turn invisible for up to three minutes "
+  },
+  {
+    "desc": "3408 Once per week, caster can appear to be a foot taller for one hour "
+  },
+  {
+    "desc": "3409 Once per week, caster can appear to be half his age for two hours "
+  },
+  {
+    "desc": "3410 Once per week, caster can cause all nearby to forget his name "
+  },
+  {
+    "desc": "3411 Once per week, caster can cause his hair to grow 1d4 inches "
+  },
+  {
+    "desc": "3412 Once per week, caster can create 1d20 gallons of salt water "
+  },
+  {
+    "desc": "3413 Once per week, caster can disgorge an ice cube one foot on a side "
+  },
+  {
+    "desc": "3414 Once per week, caster can freeze up to one gallon of water "
+  },
+  {
+    "desc": "3415 Once per week, caster can hold his breath for a full hour "
+  },
+  {
+    "desc": "3416 Once per week, caster can ignore one fire-based spell cast at him "
+  },
+  {
+    "desc": "3417 Once per week, caster can instantly snuff one campfire "
+  },
+  {
+    "desc": "3418 Once per week, caster can join any two pieces of non-living wood "
+  },
+  {
+    "desc": "3419 Once per week, caster can kill all small insects within 10 feet "
+  },
+  {
+    "desc": "3420 Once per week, caster can levitate for 1d4 rounds "
+  },
+  {
+    "desc": "3421 Once per week, caster can locate any artifacts within one mile "
+  },
+  {
+    "desc": "3422 Once per week, caster can locate the nearest magical animal "
+  },
+  {
+    "desc": "3423 Once per week, caster can locate the nearest magical blade "
+  },
+  {
+    "desc": "3424 Once per week, caster can magically create a tasty meal for four "
+  },
+  {
+    "desc": "3425 Once per week, caster can negate magical bonuses for 1d4 rounds "
+  },
+  {
+    "desc": "3426 Once per week, caster can open any non-magical lock by touch "
+  },
+  {
+    "desc": "3427 Once per week, caster can open one locked door by sneezing at it "
+  },
+  {
+    "desc": "3428 Once per week, caster can render one cooked meal uncooked "
+  },
+  {
+    "desc": "3429 Once per week, caster can shed and regrow 1d10 fingernails "
+  },
+  {
+    "desc": "3430 Once per week, caster can speak only in rhyme for one hour "
+  },
+  {
+    "desc": "3431 Once per week, caster can speak with horses for up to 1d10 rounds "
+  },
+  {
+    "desc": "3432 Once per week, caster can strip one tree of all leaves "
+  },
+  {
+    "desc": "3433 Once per week, caster can summon 1d20 cockroaches "
+  },
+  {
+    "desc": "3434 Once per week, caster can summon 1d4 pigeons or sparrows "
+  },
+  {
+    "desc": "3435 Once per week, caster can teleport his spellbook up to 1d4 miles "
+  },
+  {
+    "desc": "3436 Once per week, caster can teleport up to 10 feet per level "
+  },
+  {
+    "desc": "3437 Once per week, caster can turn one nearby magical blade invisible "
+  },
+  {
+    "desc": "3438 Once per week, caster can untie one knot without touching it "
+  },
+  {
+    "desc": "3439 Once per week, caster can walk on water, up to 5 yards per level "
+  },
+  {
+    "desc": "3440 Once per week, caster must cast one damaging spell on himself "
+  },
+  {
+    "desc": "3441 Once per week, caster throws a tantrum lasting 1d4 rounds "
+  },
+  {
+    "desc": "3442 One of caster's arms acquires malevolent intelligence "
+  },
+  {
+    "desc": "3443 One of caster's arms adopts the color and texture of brick "
+  },
+  {
+    "desc": "3444 One of caster's arms appears to be stripped of all flesh "
+  },
+  {
+    "desc": "3445 One of caster's arms becomes as limber as a snake "
+  },
+  {
+    "desc": "3446 One of caster's arms becomes undead "
+  },
+  {
+    "desc": "3447 One of caster's arms can be removed for up to 1d4 turns per day "
+  },
+  {
+    "desc": "3448 One of caster's arms can't be cut by magical blades "
+  },
+  {
+    "desc": "3449 One of caster's arms disappears until sunset tomorrow "
+  },
+  {
+    "desc": "3450 One of caster's arms ignites "
+  },
+  {
+    "desc": "3451 One of caster's arms is as pale as an albino's "
+  },
+  {
+    "desc": "3452 One of caster's arms is encased in a tight steel sheath "
+  },
+  {
+    "desc": "3453 One of caster's arms is impervious to magical cold "
+  },
+  {
+    "desc": "3454 One of caster's arms is only an illusion "
+  },
+  {
+    "desc": "3455 One of caster's arms is scarred as though badly burned by acid "
+  },
+  {
+    "desc": "3456 One of caster's arms now juts from the center of his chest "
+  },
+  {
+    "desc": "3457 One of caster's arms oozes fetid slime "
+  },
+  {
+    "desc": "3458 One of caster's arms resembles a small, gnarled branch "
+  },
+  {
+    "desc": "3459 One of caster's arms shrivels to a dry husk "
+  },
+  {
+    "desc": "3460 One of caster's arms sprouts dozens of tiny, ugly feelers "
+  },
+  {
+    "desc": "3461 One of caster's arms turns to solid silver "
+  },
+  {
+    "desc": "3462 One of caster's eyes bulges like a fish eye "
+  },
+  {
+    "desc": "3463 One of caster's eyes doubles in size "
+  },
+  {
+    "desc": "3464 One of caster's eyes doubles in size; the other shrinks by 50% "
+  },
+  {
+    "desc": "3465 One of caster's eyes glows with infernal radiance "
+  },
+  {
+    "desc": "3466 One of caster's feet disintegrates "
+  },
+  {
+    "desc": "3467 One of caster's feet is replaced by an off-balance wheel "
+  },
+  {
+    "desc": "3468 One of caster's feet reforms into a perfect sphere "
+  },
+  {
+    "desc": "3469 One of caster's feet refuses to come anywhere near the other "
+  },
+  {
+    "desc": "3470 One of caster's hands doubles in size; the other shrinks by 50% "
+  },
+  {
+    "desc": "3471 One of caster's hands is as durable as steel "
+  },
+  {
+    "desc": "3472 One of caster's hands is green and scaly like a lizard's claw "
+  },
+  {
+    "desc": "3473 One of caster's hands is susceptible to rust "
+  },
+  {
+    "desc": "3474 One of caster's hands turns into an eagle's talon "
+  },
+  {
+    "desc": "3475 One of caster's knees locks whenever nimble footwork is required "
+  },
+  {
+    "desc": "3476 One of caster's pockets accesses a small box in his home "
+  },
+  {
+    "desc": "3477 One side of caster's body adopts a mirror-bright sheen "
+  },
+  {
+    "desc": "3478 One side of caster's body ages 2X as fast as the other "
+  },
+  {
+    "desc": "3479 One side of caster's body appears to be naked by firelight "
+  },
+  {
+    "desc": "3480 One side of caster's body changes color each hour "
+  },
+  {
+    "desc": "3481 One side of caster's body is as hairy as an ape "
+  },
+  {
+    "desc": "3482 One side of caster's body is blurred as if seen through ice "
+  },
+  {
+    "desc": "3483 One side of caster's body is immune to magic cast by him "
+  },
+  {
+    "desc": "3484 One side of caster's body is immune to normal missiles "
+  },
+  {
+    "desc": "3485 One side of caster's body is invulnerable to fire "
+  },
+  {
+    "desc": "3486 One side of caster's body is paralyzed for 1d4 rounds "
+  },
+  {
+    "desc": "3487 One side of caster's body is rendered invisible for 1d4 weeks "
+  },
+  {
+    "desc": "3488 One side of caster's body looks like a photo negative "
+  },
+  {
+    "desc": "3489 One side of caster's body shrinks by 10% "
+  },
+  {
+    "desc": "3490 People journey for miles to beseech the caster for healing "
+  },
+  {
+    "desc": "3491 People journey for miles to study magic under the caster "
+  },
+  {
+    "desc": "3492 People journey for miles to touch the hem of caster's garment "
+  },
+  {
+    "desc": "3493 People journey for miles to voice grievances against the caster "
+  },
+  {
+    "desc": "3494 People not in the caster's presence tend to forget about him  32"
+  },
+  {
+    "desc": "3495 Powerful jets of air blow from the caster's ears "
+  },
+  {
+    "desc": "3496 Predators react to the caster as if he were a small rabbit "
+  },
+  {
+    "desc": "3497 Railroad tracks run straight from here to the caster's home "
+  },
+  {
+    "desc": "3498 Rapturous shrieks fill the air when caster removes a hat "
+  },
+  {
+    "desc": "3499 Raw meat is invisible to the caster "
+  },
+  {
+    "desc": "3500 Right now, caster can teleport up to 1d10 miles one time "
+  },
+  {
+    "desc": "3501 Rocks and boulders express a vague fondness for the caster "
+  },
+  {
+    "desc": "3502 Rope breaks 2X as readily while the caster is using it "
+  },
+  {
+    "desc": "3503 Rope is 2X as strong while the caster is using it "
+  },
+  {
+    "desc": "3504 Scavengers and carrion birds react to caster as if he were dead "
+  },
+  {
+    "desc": "3505 Short, bony spikes sprout from caster's knuckles "
+  },
+  {
+    "desc": "3506 Small objects carried by caster seem 10X as heavy to him "
+  },
+  {
+    "desc": "3507 Smoke billows from the caster's head as from a coal chimney "
+  },
+  {
+    "desc": "3508 Some deity has a personal vendetta against the caster "
+  },
+  {
+    "desc": "3509 Some deity takes a personal interest in the caster's life "
+  },
+  {
+    "desc": "3510 Some subterranean race annexes caster's home "
+  },
+  {
+    "desc": "3511 Some subterranean race declares a holy war against the caster "
+  },
+  {
+    "desc": "3512 Some subterranean race declares that the caster is one of them "
+  },
+  {
+    "desc": "3513 Some subterranean race declares the caster its patron saint "
+  },
+  {
+    "desc": "3514 Some unseen entity wipes the smile off of the caster's face "
+  },
+  {
+    "desc": "3515 Someone nearby vanishes; in 2d6 rounds the caster disgorges him "
+  },
+  {
+    "desc": "3516 Someone very dear to the caster doesn't really exist "
+  },
+  {
+    "desc": "3517 Someone very dear to the caster is discovered to be undead "
+  },
+  {
+    "desc": "3518 Something about the caster makes people suspect that he's dying "
+  },
+  {
+    "desc": "3519 Something about the caster makes people unlikely to trust him "
+  },
+  {
+    "desc": "3520 Sometime in the next turn, the caster punches an ally in the nose "
+  },
+  {
+    "desc": "3521 Sometime in the next turn, the caster races into a nearby forest "
+  },
+  {
+    "desc": "3522 Spell works normally, but caster loses 1d4 spells from memory "
+  },
+  {
+    "desc": "3523 Spell works normally; next casting automatically causes a Burst "
+  },
+  {
+    "desc": "3524 The bones of caster's arms and legs can't be broken "
+  },
+  {
+    "desc": "3525 The clothes caster is wearing makes him dangerous overconfident "
+  },
+  {
+    "desc": "3526 The clothes caster is wearing makes him feel intensely cold "
+  },
+  {
+    "desc": "3527 The Fireball spell won't function within 100 yards of caster "
+  },
+  {
+    "desc": "3528 The ground beneath caster's feet flows like water for 1d4 rounds "
+  },
+  {
+    "desc": "3529 The ground beneath caster's feet is alive for 1d4 hours "
+  },
+  {
+    "desc": "3530 The ground beneath caster's feet sinks a depth 2X his height "
+  },
+  {
+    "desc": "3531 The ground beneath caster's feet swirls like a whirlpool "
+  },
+  {
+    "desc": "3532 The ground beneath caster's feet turns to living human flesh "
+  },
+  {
+    "desc": "3533 The left and right sides of caster's body hate each other "
+  },
+  {
+    "desc": "3534 The next spell used against caster automatically fails "
+  },
+  {
+    "desc": "3535 The pages of caster's spellbook are indestructible "
+  },
+  {
+    "desc": "3536 The pages of caster's spellbook are invisible; ink on them is not "
+  },
+  {
+    "desc": "3537 The pages of caster's spellbook are replaced with gold leaf "
+  },
+  {
+    "desc": "3538 The pages of caster's spellbook flap as though in a strong breeze "
+  },
+  {
+    "desc": "3539 The pages of caster's spellbook turn to thin sheets of bacon "
+  },
+  {
+    "desc": "3540 The pages of caster's spellbook turn to thin sheets of steel "
+  },
+  {
+    "desc": "3541 The presence of undead causes caster to giggle like a fool "
+  },
+  {
+    "desc": "3542 The rear half of caster's body appears to be made of glass "
+  },
+  {
+    "desc": "3543 The rear half of caster's body is invisible "
+  },
+  {
+    "desc": "3544 The spell cast most recently upon caster is retroactively undone "
+  },
+  {
+    "desc": "3545 The wreckage of a sunken warship appears in caster's home "
+  },
+  {
+    "desc": "3546 The wreckage of caster's home is strewn across the countryside "
+  },
+  {
+    "desc": "3547 Thick clouds of acrid steam issue from the ground near the caster "
+  },
+  {
+    "desc": "3548 Thick clouds of steam constantly billow from the caster's skin "
+  },
+  {
+    "desc": "3549 Thunder rumbles overhead whenever caster's blood is spilled "
+  },
+  {
+    "desc": "3550 To the caster, everyone appears to be sweating profusely "
+  },
+  {
+    "desc": "3551 To the caster, everyone looks and sounds exactly like him "
+  },
+  {
+    "desc": "3552 To the caster, everyone looks and sounds exactly like him "
+  },
+  {
+    "desc": "3553 To the caster, everyone smells like a rotting corpse "
+  },
+  {
+    "desc": "3554 To the caster, the weather always appears overcast and gloomy "
+  },
+  {
+    "desc": "3555 To the caster, the weather always appears to be the same "
+  },
+  {
+    "desc": "3556 Tomorrow, caster can speak all languages until noon "
+  },
+  {
+    "desc": "3557 Tomorrow, caster can speak only a bizarre, esoteric language "
+  },
+  {
+    "desc": "3558 Tomorrow, caster can't be injured by magical weapons until sunset "
+  },
+  {
+    "desc": "3559 Tomorrow, caster finds 1d100 statues of himself in hideous poses "
+  },
+  {
+    "desc": "3560 Tomorrow, caster finds a book detailing his complete dissection "
+  },
+  {
+    "desc": "3561 Tomorrow, caster finds a jar containing 1d20 tiny elephants "
+  },
+  {
+    "desc": "3562 Tomorrow, caster finds a key to a lock that doesn't yet exist "
+  },
+  {
+    "desc": "3563 Tomorrow, caster finds a key to that mysterious door in his home "
+  },
+  {
+    "desc": "3564 Tomorrow, caster finds a lab holding many lifeless clones of him "
+  },
+  {
+    "desc": "3565 Tomorrow, caster finds a legendary sword & loses it the next day "
+  },
+  {
+    "desc": "3566 Tomorrow, caster finds a piece of anachronistic technology "
+  },
+  {
+    "desc": "3567 Tomorrow, caster finds a ruby as large as his head "
+  },
+  {
+    "desc": "3568 Tomorrow, caster finds a secret Gate to the Astral Plane "
+  },
+  {
+    "desc": "3569 Tomorrow, caster finds a small pouch full of counterfeit rubies "
+  },
+  {
+    "desc": "3570 Tomorrow, caster finds a small pouch full of diamonds "
+  },
+  {
+    "desc": "3571 Tomorrow, caster finds a small pouch full of scorpions "
+  },
+  {
+    "desc": "3572 Tomorrow, caster finds a small pouch full of strong acid "
+  },
+  {
+    "desc": "3573 Tomorrow, caster finds a small pouch full of teeth "
+  },
+  {
+    "desc": "3574 Tomorrow, caster finds a tunnel that leads to his home "
+  },
+  {
+    "desc": "3575 Tomorrow, caster finds a vial containing a viscous salve "
+  },
+  {
+    "desc": "3576 Tomorrow, caster finds his own badly-decomposed corpse "
+  },
+  {
+    "desc": "3577 Tomorrow, caster finds what looks like his own severed head "
+  },
+  {
+    "desc": "3578 Tomorrow, caster forms an alliance with a long-hated enemy "
+  },
+  {
+    "desc": "3579 Tomorrow, caster has absolutely no desire to use magic "
+  },
+  {
+    "desc": "3580 Tomorrow, caster is unable to cast magic before noon "
+  },
+  {
+    "desc": "3581 Tomorrow, caster meets a priest who places a Geas upon him "
+  },
+  {
+    "desc": "3582 Tomorrow, caster meets an immortal desperate and unable to die "
+  },
+  {
+    "desc": "3583 Tomorrow, caster meets and insults the avatar of some deity "
+  },
+  {
+    "desc": "3584 Tomorrow, caster meets his long-lost and malevolent twin "
+  },
+  {
+    "desc": "3585 Tomorrow, caster meets his mentor, who expresses disapproval "
+  },
+  {
+    "desc": "3586 Tomorrow, caster meets someone claiming to have sold the world "
+  },
+  {
+    "desc": "3587 Tomorrow, caster meets someone claiming to own the caster's soul "
+  },
+  {
+    "desc": "3588 Tomorrow, caster meets someone convinced that he doesn't exist "
+  },
+  {
+    "desc": "3589 Tomorrow, caster meets someone desperate to be his bodyguard "
+  },
+  {
+    "desc": "3590 Tomorrow, caster meets someone desperate to become the caster "
+  },
+  {
+    "desc": "3591 Tomorrow, caster meets someone on the verge of becoming a god "
+  },
+  {
+    "desc": "3592 Tomorrow, caster meets someone who calls humans a delicacy "
+  },
+  {
+    "desc": "3593 Tomorrow, caster meets someone who can command demons "
+  },
+  {
+    "desc": "3594 Tomorrow, caster meets someone who can remove his own heart "
+  },
+  {
+    "desc": "3595 Tomorrow, caster meets someone who can remove his skin at will "
+  },
+  {
+    "desc": "3596 Tomorrow, caster meets someone who claims the caster killed him "
+  },
+  {
+    "desc": "3597 Tomorrow, caster meets someone who claims to be haunting him "
+  },
+  {
+    "desc": "3598 Tomorrow, caster meets someone who claims to be him "
+  },
+  {
+    "desc": "3599 Tomorrow, caster meets someone who claims to be his father "
+  },
+  {
+    "desc": "3600 Tomorrow, caster meets someone who claims to be his grandchild "
+  },
+  {
+    "desc": "3601 Tomorrow, caster meets someone who foretells a bleak fate for him "
+  },
+  {
+    "desc": "3602 Tomorrow, caster meets someone who has vowed to murder him "
+  },
+  {
+    "desc": "3603 Tomorrow, caster meets someone who names the caster his heir "
+  },
+  {
+    "desc": "3604 Tomorrow, caster meets someone who offers him his firstborn son "
+  },
+  {
+    "desc": "3605 Tomorrow, caster meets someone who offers to sell him an artifact "
+  },
+  {
+    "desc": "3606 Tomorrow, caster meets someone who owes him a lot of money "
+  },
+  {
+    "desc": "3607 Tomorrow, caster meets someone who tries to eat his eyes "
+  },
+  {
+    "desc": "3608 Tomorrow, caster meets someone who wants to buy his pancreas "
+  },
+  {
+    "desc": "3609 Tomorrow, caster meets someone who's 100% immune to magic "
+  },
+  {
+    "desc": "3610 Tomorrow, caster meets someone who's plotting to kill the king "
+  },
+  {
+    "desc": "3611 Tomorrow, caster meets someone whom caster knows to be dead "
+  },
+  {
+    "desc": "3612 Tomorrow, caster meets someone whom he owes a lot of money "
+  },
+  {
+    "desc": "3613 Tomorrow, caster meets someone whose existence is impossible "
+  },
+  {
+    "desc": "3614 Tomorrow, caster meets someone with the secret of immortality "
+  },
+  {
+    "desc": "3615 Tomorrow, caster meets the alchemist who created him "
+  },
+  {
+    "desc": "3616 Tomorrow, caster must Save vs Will once per hour or combust "
+  },
+  {
+    "desc": "3617 Tomorrow, caster saves the life of a notorious villain "
+  },
+  {
+    "desc": "3618 Tomorrow, caster saves the life of someone important "
+  },
+  {
+    "desc": "3619 Tomorrow, caster saves the life whom fate has decreed must die "
+  },
+  {
+    "desc": "3620 Tomorrow, caster thinks he's awakened from a centuries-long sleep "
+  },
+  {
+    "desc": "3621 Tomorrow, caster thinks that magic no longer functions "
+  },
+  {
+    "desc": "3622 Tomorrow, caster uncovers a well-funded plot against his life "
+  },
+  {
+    "desc": "3623 Tomorrow, caster unknowingly snubs a powerful spellcaster "
+  },
+  {
+    "desc": "3624 Tomorrow, caster vanishes at dawn and reappears at sunset  33"
+  },
+  {
+    "desc": "3625 Tomorrow, caster wakes 2d10 miles from where he fell asleep "
+  },
+  {
+    "desc": "3626 Tomorrow, caster wakes and gives apparently divine prophecy "
+  },
+  {
+    "desc": "3627 Tomorrow, caster wakes as if he's spent a month in the desert "
+  },
+  {
+    "desc": "3628 Tomorrow, caster wakes at this location "
+  },
+  {
+    "desc": "3629 Tomorrow, caster wakes convinced that all of his allies are dead "
+  },
+  {
+    "desc": "3630 Tomorrow, caster wakes convinced that he must return to his home "
+  },
+  {
+    "desc": "3631 Tomorrow, caster wakes convinced that he's just been created "
+  },
+  {
+    "desc": "3632 Tomorrow, caster wakes convinced that he's just been resurrected "
+  },
+  {
+    "desc": "3633 Tomorrow, caster wakes convinced that he's murdered his allies "
+  },
+  {
+    "desc": "3634 Tomorrow, caster wakes convinced that he's slept for 2d10 years "
+  },
+  {
+    "desc": "3635 Tomorrow, caster wakes convinced that his limbs are mechanical "
+  },
+  {
+    "desc": "3636 Tomorrow, caster wakes covered in pungent, glowing moss "
+  },
+  {
+    "desc": "3637 Tomorrow, caster wakes early and races back to this location "
+  },
+  {
+    "desc": "3638 Tomorrow, caster wakes embarrassingly drunk "
+  },
+  {
+    "desc": "3639 Tomorrow, caster wakes in a coil of dried and sinuous vines "
+  },
+  {
+    "desc": "3640 Tomorrow, caster wakes in a full-length body cast "
+  },
+  {
+    "desc": "3641 Tomorrow, caster wakes in the branches of a tall tree "
+  },
+  {
+    "desc": "3642 Tomorrow, caster wakes on the bank of the River Styx "
+  },
+  {
+    "desc": "3643 Tomorrow, caster wakes reeking of garlic and raw meat "
+  },
+  {
+    "desc": "3644 Tomorrow, caster wakes seated in the throne of the nearest king "
+  },
+  {
+    "desc": "3645 Tomorrow, caster wakes standing atop a tall pole "
+  },
+  {
+    "desc": "3646 Tomorrow, caster wakes standing in a barrel of chum "
+  },
+  {
+    "desc": "3647 Tomorrow, caster wakes to find that 1d4 days have passed "
+  },
+  {
+    "desc": "3648 Tomorrow, caster wakes unable to stand until he casts a spell "
+  },
+  {
+    "desc": "3649 Tomorrow, caster wakes where he awoke this morning "
+  },
+  {
+    "desc": "3650 Tomorrow, caster wakes with a mouthful of mud from a cemetery "
+  },
+  {
+    "desc": "3651 Tomorrow, caster wakes with mysterious tattoos all over his body "
+  },
+  {
+    "desc": "3652 Tomorrow, caster wakes with no memory of the previous day "
+  },
+  {
+    "desc": "3653 Tomorrow, caster wakes wrapped in disease-ridden blankets "
+  },
+  {
+    "desc": "3654 Trees and bushes express open hostility toward the caster "
+  },
+  {
+    "desc": "3655 Ugly thorns sprout from the caster's cheekbones "
+  },
+  {
+    "desc": "3656 Undead have commandeered caster's home while he's been away "
+  },
+  {
+    "desc": "3657 Undead skeletons react to caster as if he were one of them "
+  },
+  {
+    "desc": "3658 Undead tend to ignore the caster until he acts against them "
+  },
+  {
+    "desc": "3659 Undead tend to laugh in the caster's presence "
+  },
+  {
+    "desc": "3660 Vile tentacles sprout from the caster's face "
+  },
+  {
+    "desc": "3661 Viscous pus oozes from the caster's orifices until sunset "
+  },
+  {
+    "desc": "3662 Water feels like acid to the caster but doesn't actually harm him "
+  },
+  {
+    "desc": "3663 Water splashes from caster's footfalls for the next 1d12 hours "
+  },
+  {
+    "desc": "3664 Water trickles from caster's elbows for 1d4 hours "
+  },
+  {
+    "desc": "3665 Weight-affecting spells make the caster weigh 2X as much as iron "
+  },
+  {
+    "desc": "3666 Well-funded liars slander caster's conduct in a war decades past "
+  },
+  {
+    "desc": "3667 Whatever caster is wearing is a synthetic copy of the real thing "
+  },
+  {
+    "desc": "3668 When caster dies, 10d10 voles burst from his corpse "
+  },
+  {
+    "desc": "3669 When caster dies, a small religious cult starts worshipping him "
+  },
+  {
+    "desc": "3670 When caster dies, a Chaos Burst occurs: roll again at that time "
+  },
+  {
+    "desc": "3671 When caster dies, he can't be resurrected for 1d12 months "
+  },
+  {
+    "desc": "3672 When caster dies, he's discovered to have died centuries ago "
+  },
+  {
+    "desc": "3673 When caster dies, he's found to have been remotely controlled "
+  },
+  {
+    "desc": "3674 When caster dies, he's quickly impersonated by a doppelganger "
+  },
+  {
+    "desc": "3675 When caster dies, his allies deny that they ever knew him "
+  },
+  {
+    "desc": "3676 When caster dies, his corpse appears riddled by gunfire "
+  },
+  {
+    "desc": "3677 When caster dies, his corpse attacks the nearest Elf "
+  },
+  {
+    "desc": "3678 When caster dies, his corpse disgorges 10d1000 gallons of water "
+  },
+  {
+    "desc": "3679 When caster dies, his corpse giggles maniacally for 1d4 hours "
+  },
+  {
+    "desc": "3680 When caster dies, his corpse is dismembered and scattered "
+  },
+  {
+    "desc": "3681 When caster dies, his corpse is dragged away by goblins "
+  },
+  {
+    "desc": "3682 When caster dies, his corpse is elected to public office "
+  },
+  {
+    "desc": "3683 When caster dies, his corpse melts like a snowman "
+  },
+  {
+    "desc": "3684 When caster dies, his corpse runs shrieking through a nearby town "
+  },
+  {
+    "desc": "3685 When caster dies, his corpse shatters into countless fragments "
+  },
+  {
+    "desc": "3686 When caster dies, his corpse swells to 1d6 times normal size "
+  },
+  {
+    "desc": "3687 When caster dies, his corpse turns to densely packed salt "
+  },
+  {
+    "desc": "3688 When caster dies, his corpse turns to solid bronze "
+  },
+  {
+    "desc": "3689 When caster dies, his corpse weighs as much as lead "
+  },
+  {
+    "desc": "3690 When caster dies, his heart assumes a life of its own "
+  },
+  {
+    "desc": "3691 When caster dies, his killer is thrown 1d20 days into the future "
+  },
+  {
+    "desc": "3692 When caster dies, his last word is 'Rosebud' "
+  },
+  {
+    "desc": "3693 When caster dies, his name becomes synonymous with treachery "
+  },
+  {
+    "desc": "3694 When caster dies, his skeleton turns to glass "
+  },
+  {
+    "desc": "3695 When caster dies, his skull turns to wood "
+  },
+  {
+    "desc": "3696 When caster dies, his spellbook burns to cinders in 1d4 rounds "
+  },
+  {
+    "desc": "3697 When caster dies, his veins are discovered to be filled with gold "
+  },
+  {
+    "desc": "3698 When caster dies, some random person nearby dies as well "
+  },
+  {
+    "desc": "3699 When caster dies, the first person to touch his corpse also dies "
+  },
+  {
+    "desc": "3700 When caster dies, the nearest town is evacuated "
+  },
+  {
+    "desc": "3701 When caster dies, the nearest tree falls on his corpse "
+  },
+  {
+    "desc": "3702 When caster dies, the sky turns blood red for 2d4-1 days "
+  },
+  {
+    "desc": "3703 When caster dies, violent riots break out in the nearest town "
+  },
+  {
+    "desc": "3704 When caster is angry, a small snake slithers out of his ear "
+  },
+  {
+    "desc": "3705 When caster is angry, he foams at the mouth like a rabid dog "
+  },
+  {
+    "desc": "3706 When caster is angry, he turns bright green "
+  },
+  {
+    "desc": "3707 When caster is angry, his face appears scarred and deformed "
+  },
+  {
+    "desc": "3708 When caster is angry, his face appears to glisten with slime "
+  },
+  {
+    "desc": "3709 When caster is angry, his head appears to be a bare skull "
+  },
+  {
+    "desc": "3710 When caster is angry, insects appear to swarm over his face "
+  },
+  {
+    "desc": "3711 When caster is angry, steam billows from his nostrils "
+  },
+  {
+    "desc": "3712 When caster is surprised, he randomly teleports 1d4 yards "
+  },
+  {
+    "desc": "3713 When caster is surprised, his head briefly doubles in size "
+  },
+  {
+    "desc": "3714 When caster is surprised, his head spins 360° "
+  },
+  {
+    "desc": "3715 When caster next casts this spell, he becomes hopelessly lost "
+  },
+  {
+    "desc": "3716 When caster next casts this spell, he feels overwhelming deja vu "
+  },
+  {
+    "desc": "3717 When caster next casts this spell, he teleports to this spot "
+  },
+  {
+    "desc": "3718 When caster next casts this spell, he's attacked by squirrels "
+  },
+  {
+    "desc": "3719 When caster next casts this spell, he's paralyzed until sunset "
+  },
+  {
+    "desc": "3720 When caster next casts this spell, he's stricken with Confusion "
+  },
+  {
+    "desc": "3721 When caster next casts this spell, his age temporarily doubles "
+  },
+  {
+    "desc": "3722 When caster next casts this spell, his clothing attacks him "
+  },
+  {
+    "desc": "3723 When caster next casts this spell, his clothing freezes solid "
+  },
+  {
+    "desc": "3724 When caster next casts this spell, his clothing turns to cheese "
+  },
+  {
+    "desc": "3725 When caster next casts this spell, the winter solstice occurs "
+  },
+  {
+    "desc": "3726 When caster next draws blood, a large pit opens beneath him "
+  },
+  {
+    "desc": "3727 When caster next draws blood, he disgorges 1d10 gallons of blood "
+  },
+  {
+    "desc": "3728 When caster next draws blood, he laughs like a demon "
+  },
+  {
+    "desc": "3729 When caster next draws blood, he leaps 4d6 hours into the future "
+  },
+  {
+    "desc": "3730 When caster next draws blood, he loses 2d10 hit points "
+  },
+  {
+    "desc": "3731 When caster next draws blood, he must Save or fall unconscious "
+  },
+  {
+    "desc": "3732 When caster next draws blood, he regains 1d10 hit points "
+  },
+  {
+    "desc": "3733 When caster next draws blood, he suffers an equivalent wound "
+  },
+  {
+    "desc": "3734 When caster next draws blood, he teleports 1d100 yards "
+  },
+  {
+    "desc": "3735 When caster next draws blood, he's addicted to the taste of blood "
+  },
+  {
+    "desc": "3736 When caster next draws blood, he's attacked by rabid bats "
+  },
+  {
+    "desc": "3737 When caster next draws blood, he's restored to full hit points "
+  },
+  {
+    "desc": "3738 When caster next draws blood, he's stricken mute until sunrise "
+  },
+  {
+    "desc": "3739 When caster next draws blood, his eyes blaze with flame "
+  },
+  {
+    "desc": "3740 When caster next draws blood, his weapon turns to steam "
+  },
+  {
+    "desc": "3741 When caster next draws blood, rain immediately begins to fall "
+  },
+  {
+    "desc": "3742 When caster next draws blood, thunder rumbles in the distance "
+  },
+  {
+    "desc": "3743 When caster next enters a building, he teleports onto its roof "
+  },
+  {
+    "desc": "3744 When caster next enters a building, his clothes catch fire "
+  },
+  {
+    "desc": "3745 When caster next enters a lake, any boats nearby turn invisible "
+  },
+  {
+    "desc": "3746 When caster next enters a lake, he blasphemes some ocean god "
+  },
+  {
+    "desc": "3747 When caster next enters a lake, he decides to become amphibious "
+  },
+  {
+    "desc": "3748 When caster next enters a lake, he discovers a small island "
+  },
+  {
+    "desc": "3749 When caster next enters a lake, he emerges draped with seaweed "
+  },
+  {
+    "desc": "3750 When caster next enters a lake, he encounters a lady with a sword "
+  },
+  {
+    "desc": "3751 When caster next enters a lake, he encounters a tentacled monster "
+  },
+  {
+    "desc": "3752 When caster next enters a lake, he finds 1d4 valuable pearls "
+  },
+  {
+    "desc": "3753 When caster next enters a lake, he has visions of a sunken city "
+  },
+  {
+    "desc": "3754 When caster next enters a lake, he spouts water like a whale  34"
+  },
+  {
+    "desc": "3755 When caster next enters a lake, he suffers severe hypothermia "
+  },
+  {
+    "desc": "3756 When caster next enters a lake, he teleports to a different lake "
+  },
+  {
+    "desc": "3757 When caster next enters a lake, he's 30% likely to become a fish "
+  },
+  {
+    "desc": "3758 When caster next enters a lake, he's attacked by sharks "
+  },
+  {
+    "desc": "3759 When caster next enters a lake, he's attacked by turtles "
+  },
+  {
+    "desc": "3760 When caster next enters a lake, he's befriended by otters "
+  },
+  {
+    "desc": "3761 When caster next enters a lake, he's caught in a fisherman's net "
+  },
+  {
+    "desc": "3762 When caster next enters a lake, he's covered with barnacles "
+  },
+  {
+    "desc": "3763 When caster next enters a lake, he's hit by 2d8 harpoons "
+  },
+  {
+    "desc": "3764 When caster next enters a lake, he's mistaken for a sea monster "
+  },
+  {
+    "desc": "3765 When caster next enters a lake, he's sucked up into a waterspout "
+  },
+  {
+    "desc": "3766 When caster next enters a lake, he's swept toward the sea "
+  },
+  {
+    "desc": "3767 When caster next enters a lake, he's thrown to the opposite shore "
+  },
+  {
+    "desc": "3768 When caster next enters a lake, his clothing inflates "
+  },
+  {
+    "desc": "3769 When caster next enters a lake, his clothing vanishes "
+  },
+  {
+    "desc": "3770 When caster next enters a lake, his feet turn into duck's feet "
+  },
+  {
+    "desc": "3771 When caster next enters a lake, his hands and feet grow webbing "
+  },
+  {
+    "desc": "3772 When caster next enters a lake, his home is completely flooded "
+  },
+  {
+    "desc": "3773 When caster next enters a lake, his pockets fill with sodium "
+  },
+  {
+    "desc": "3774 When caster next enters a lake, it becomes 2X as deep "
+  },
+  {
+    "desc": "3775 When caster next enters a lake, it drains dry in 1d4 rounds "
+  },
+  {
+    "desc": "3776 When caster next enters a lake, it turns from fresh to salt-water "
+  },
+  {
+    "desc": "3777 When caster next enters a lake, it's covered by two inches of ice "
+  },
+  {
+    "desc": "3778 When caster next enters a lake, it's heavily stocked with trout "
+  },
+  {
+    "desc": "3779 When caster next enters a lake, night falls immediately "
+  },
+  {
+    "desc": "3780 When caster next enters a lake, someone nearby starts to drown "
+  },
+  {
+    "desc": "3781 When caster next enters a town, a huge festival takes place "
+  },
+  {
+    "desc": "3782 When caster next enters a town, he finds a magical scroll "
+  },
+  {
+    "desc": "3783 When caster next enters a town, he violates community standards "
+  },
+  {
+    "desc": "3784 When caster next enters a town, he's imprisoned for murder "
+  },
+  {
+    "desc": "3785 When caster next enters a town, he's named as its patron saint "
+  },
+  {
+    "desc": "3786 When caster next enters a town, he's quickly arrested for heresy "
+  },
+  {
+    "desc": "3787 When caster next enters a town, he's quickly elected mayor "
+  },
+  {
+    "desc": "3788 When caster next enters a town, he's recognized as a vampire "
+  },
+  {
+    "desc": "3789 When caster next enters a town, he's sold into slavery "
+  },
+  {
+    "desc": "3790 When caster next enters a town, his spellbook is confiscated "
+  },
+  {
+    "desc": "3791 When caster next enters a town, it secedes from the kingdom "
+  },
+  {
+    "desc": "3792 When caster next enters a town, it's attacked by goblins "
+  },
+  {
+    "desc": "3793 When caster next enters a town, it's besieged by orcs "
+  },
+  {
+    "desc": "3794 When caster next enters a town, it's overrun by feral dogs "
+  },
+  {
+    "desc": "3795 When caster next enters a town, it's renamed after him "
+  },
+  {
+    "desc": "3796 When caster next enters a town, its population doubles "
+  },
+  {
+    "desc": "3797 When caster next enters a town, martial law is declared "
+  },
+  {
+    "desc": "3798 When caster next enters a town, the king orders it destroyed "
+  },
+  {
+    "desc": "3799 When caster next enters a town, violent riots break out "
+  },
+  {
+    "desc": "3800 When caster next enters his home, 1d4 exterior walls vanish "
+  },
+  {
+    "desc": "3801 When caster next enters his home, 1d4 weeks pass in 1d4 rounds "
+  },
+  {
+    "desc": "3802 When caster next enters his home, a small hill rises beneath it "
+  },
+  {
+    "desc": "3803 When caster next enters his home, any curses upon him are lifted "
+  },
+  {
+    "desc": "3804 When caster next enters his home, he ages 1d10 years "
+  },
+  {
+    "desc": "3805 When caster next enters his home, he ages 1d10 years "
+  },
+  {
+    "desc": "3806 When caster next enters his home, he doubts he's ever lived there "
+  },
+  {
+    "desc": "3807 When caster next enters his home, he falls unconscious "
+  },
+  {
+    "desc": "3808 When caster next enters his home, he finds 1d100+100 gold pieces "
+  },
+  {
+    "desc": "3809 When caster next enters his home, he finds a secret trapdoor "
+  },
+  {
+    "desc": "3810 When caster next enters his home, he finds a troll in residence "
+  },
+  {
+    "desc": "3811 When caster next enters his home, he finds another spellbook "
+  },
+  {
+    "desc": "3812 When caster next enters his home, he finds his clone in residence "
+  },
+  {
+    "desc": "3813 When caster next enters his home, he finds it completely empty "
+  },
+  {
+    "desc": "3814 When caster next enters his home, he forgets how to exit again "
+  },
+  {
+    "desc": "3815 When caster next enters his home, he gains one level "
+  },
+  {
+    "desc": "3816 When caster next enters his home, he is healed of all damage "
+  },
+  {
+    "desc": "3817 When caster next enters his home, he loses a point of Wisdom "
+  },
+  {
+    "desc": "3818 When caster next enters his home, he loses any memorized spells "
+  },
+  {
+    "desc": "3819 When caster next enters his home, he must evict 2d10 squatters "
+  },
+  {
+    "desc": "3820 When caster next enters his home, he realizes it's made of coral "
+  },
+  {
+    "desc": "3821 When caster next enters his home, he recognizes nothing within it "
+  },
+  {
+    "desc": "3822 When caster next enters his home, he teleports to this location "
+  },
+  {
+    "desc": "3823 When caster next enters his home, he's attacked by kobolds "
+  },
+  {
+    "desc": "3824 When caster next enters his home, he's blinded for 4d12 hours "
+  },
+  {
+    "desc": "3825 When caster next enters his home, he's convinced it isn't his "
+  },
+  {
+    "desc": "3826 When caster next enters his home, he's drafted into the military "
+  },
+  {
+    "desc": "3827 When caster next enters his home, he's visited by solicitors "
+  },
+  {
+    "desc": "3828 When caster next enters his home, he's visited by three ghosts "
+  },
+  {
+    "desc": "3829 When caster next enters his home, his age is reduced by 3d4 years "
+  },
+  {
+    "desc": "3830 When caster next enters his home, his bed combusts violently "
+  },
+  {
+    "desc": "3831 When caster next enters his home, his clothes burst into flame "
+  },
+  {
+    "desc": "3832 When caster next enters his home, his clothes turn to stone "
+  },
+  {
+    "desc": "3833 When caster next enters his home, it becomes indestructible "
+  },
+  {
+    "desc": "3834 When caster next enters his home, it becomes steamy like a sauna "
+  },
+  {
+    "desc": "3835 When caster next enters his home, it doubles its current size "
+  },
+  {
+    "desc": "3836 When caster next enters his home, it drifts slowly out to sea "
+  },
+  {
+    "desc": "3837 When caster next enters his home, it falls into a heap of sawdust "
+  },
+  {
+    "desc": "3838 When caster next enters his home, it gains an additional level "
+  },
+  {
+    "desc": "3839 When caster next enters his home, it migrates 1d20 miles "
+  },
+  {
+    "desc": "3840 When caster next enters his home, it sinks into the ground "
+  },
+  {
+    "desc": "3841 When caster next enters his home, it turns invisible from within "
+  },
+  {
+    "desc": "3842 When caster next enters his home, it turns to glass "
+  },
+  {
+    "desc": "3843 When caster next enters his home, it's been thoroughly cleaned "
+  },
+  {
+    "desc": "3844 When caster next enters his home, it's buried by an avalanche "
+  },
+  {
+    "desc": "3845 When caster next enters his home, it's buried by volcanic ash "
+  },
+  {
+    "desc": "3846 When caster next enters his home, it's encircled by a deep moat "
+  },
+  {
+    "desc": "3847 When caster next enters his home, it's flattened by a meteor "
+  },
+  {
+    "desc": "3848 When caster next enters his home, it's infested with vermin "
+  },
+  {
+    "desc": "3849 When caster next enters his home, it's swept away by a tidal wave "
+  },
+  {
+    "desc": "3850 When caster next enters his home, it's totally refurbished "
+  },
+  {
+    "desc": "3851 When caster next enters his home, its doors and windows vanish "
+  },
+  {
+    "desc": "3852 When caster next enters his home, monsters reside under the bed "
+  },
+  {
+    "desc": "3853 When caster next enters his home, someone's eaten his porridge "
+  },
+  {
+    "desc": "3854 When caster next enters his home, the doors & windows fuse shut "
+  },
+  {
+    "desc": "3855 When caster next enters his home, the floor vanishes "
+  },
+  {
+    "desc": "3856 When caster next enters his home, the magistrate condemns it "
+  },
+  {
+    "desc": "3857 When caster next enters his home, the roof ignites "
+  },
+  {
+    "desc": "3858 When caster next kills someone, he appears in that person's home "
+  },
+  {
+    "desc": "3859 When caster next kills someone, he must Save vs Fortitude or die "
+  },
+  {
+    "desc": "3860 When caster next kills someone, that person quickly resurrects "
+  },
+  {
+    "desc": "3861 When caster next opens his spellbook, he's attacked by a shark "
+  },
+  {
+    "desc": "3862 When caster next says his name, 2d6 fish leap from his mouth "
+  },
+  {
+    "desc": "3863 When caster next says his name, a bird flies into his mouth "
+  },
+  {
+    "desc": "3864 When caster next says his name, he learns it's not his real name "
+  },
+  {
+    "desc": "3865 When caster next says his name, he promptly forgets his name "
+  },
+  {
+    "desc": "3866 When caster next says his name, his mouth is sealed shut "
+  },
+  {
+    "desc": "3867 When caster next teleports, he arrives bound and gagged "
+  },
+  {
+    "desc": "3868 When caster next teleports, he arrives fully Healed "
+  },
+  {
+    "desc": "3869 When caster next touches money, he triggers a Chaos Burst "
+  },
+  {
+    "desc": "3870 When caster next triggers a Burst, he teleports to this location "
+  },
+  {
+    "desc": "3871 When caster next triggers a Burst, its effect is irreversible "
+  },
+  {
+    "desc": "3872 When caster next uses magic, 2d4 zombies appear and attack him "
+  },
+  {
+    "desc": "3873 When caster next uses magic, all vegetation within 10 yards dies "
+  },
+  {
+    "desc": "3874 When caster next uses magic, all within one mile know about it "
+  },
+  {
+    "desc": "3875 When caster next uses magic, an ice statue of him appears nearby "
+  },
+  {
+    "desc": "3876 When caster next uses magic, any gold he's carrying vanishes "
+  },
+  {
+    "desc": "3877 When caster next uses magic, cold water sprays from his ears "
+  },
+  {
+    "desc": "3878 When caster next uses magic, he and his allies are drenched "
+  },
+  {
+    "desc": "3879 When caster next uses magic, he becomes drunk for 1d4 hours "
+  },
+  {
+    "desc": "3880 When caster next uses magic, he becomes invisible to his allies "
+  },
+  {
+    "desc": "3881 When caster next uses magic, he disgorges 2d6 large clay bricks "
+  },
+  {
+    "desc": "3882 When caster next uses magic, he loses 3d4 hit points "
+  },
+  {
+    "desc": "3883 When caster next uses magic, he must Save or fall unconscious "
+  },
+  {
+    "desc": "3884 When caster next uses magic, he reeks of sulfur for 1d10 hours  35"
+  },
+  {
+    "desc": "3885 When caster next uses magic, he teleports 10d10 yards randomly "
+  },
+  {
+    "desc": "3886 When caster next uses magic, he teleports into a nearby building "
+  },
+  {
+    "desc": "3887 When caster next uses magic, he thinks that he's at death's door "
+  },
+  {
+    "desc": "3888 When caster next uses magic, he's 5% likely to lose one level "
+  },
+  {
+    "desc": "3889 When caster next uses magic, he's 10% likely to die outright "
+  },
+  {
+    "desc": "3890 When caster next uses magic, he's shunned by other magic users "
+  },
+  {
+    "desc": "3891 When caster next uses magic, he's thrown back to this moment "
+  },
+  {
+    "desc": "3892 When caster next uses magic, his clone appears nearby "
+  },
+  {
+    "desc": "3893 When caster next uses magic, his clone teleports to his home "
+  },
+  {
+    "desc": "3894 When caster next uses magic, his clothes turn to paper "
+  },
+  {
+    "desc": "3895 When caster next uses magic, his hands double in size "
+  },
+  {
+    "desc": "3896 When caster next uses magic, his hands freeze solid "
+  },
+  {
+    "desc": "3897 When caster next uses magic, his nearest ally falls unconscious "
+  },
+  {
+    "desc": "3898 When caster next wears a hat, he's targeted for assassination "
+  },
+  {
+    "desc": "3899 When caster opens his spellbook, he's shrouded by darkness "
+  },
+  {
+    "desc": "3900 When caster opens his spellbook, thunder rumbles overhead "
+  },
+  {
+    "desc": "3901 When caster teleports, he arrives 1d4 miles from the destination "
+  },
+  {
+    "desc": "3902 When caster teleports, he arrives 2d4 hours later than expected "
+  },
+  {
+    "desc": "3903 When caster teleports, he arrives blinded for 1d6 rounds "
+  },
+  {
+    "desc": "3904 When caster teleports, he arrives in an embarrassing posture "
+  },
+  {
+    "desc": "3905 When caster teleports, he arrives invisible "
+  },
+  {
+    "desc": "3906 When caster teleports, he arrives ravenously hungry "
+  },
+  {
+    "desc": "3907 When caster teleports, he arrives upside down "
+  },
+  {
+    "desc": "3908 When caster teleports, he arrives with half of his gear missing "
+  },
+  {
+    "desc": "3909 When caster teleports, only 95% + 1d10% of his body is teleported "
+  },
+  {
+    "desc": "3910 When caster tells a falsehood, he confesses it to everyone nearby "
+  },
+  {
+    "desc": "3911 When caster uses Mirror Image, 10X the number of Images appear "
+  },
+  {
+    "desc": "3912 When caster uses Mirror Image, he can't tell which image is real "
+  },
+  {
+    "desc": "3913 When caster uses Mirror Image, the Images look like demons "
+  },
+  {
+    "desc": "3914 When caster uses Mirror Image, the Images look like infants "
+  },
+  {
+    "desc": "3915 When caster uses Mirror Image, the Images look like skeletons "
+  },
+  {
+    "desc": "3916 When caster uses Mirror Image, the Images look like the target "
+  },
+  {
+    "desc": "3917 When caster uses Mirror Image, the Images look nothing like him "
+  },
+  {
+    "desc": "3918 When caster's blood is next spilled, he ages 5d10 years "
+  },
+  {
+    "desc": "3919 When caster's blood is next spilled, he can't speak for 1d4 turns "
+  },
+  {
+    "desc": "3920 When caster's blood is next spilled, he's blinded for 1d4 rounds "
+  },
+  {
+    "desc": "3921 When next struck by magic, caster becomes spotted like a leopard "
+  },
+  {
+    "desc": "3922 When next struck by magic, caster disgorges 1d4 pounds of gravel "
+  },
+  {
+    "desc": "3923 When next struck by magic, caster falls 6d10 feet "
+  },
+  {
+    "desc": "3924 When next struck by magic, caster is carried aloft by a pigeons "
+  },
+  {
+    "desc": "3925 When next struck by magic, caster sprouts wool from his arms "
+  },
+  {
+    "desc": "3926 When next struck by magic, caster triggers a Chaos Burst "
+  },
+  {
+    "desc": "3927 When reduced to one hit point, caster ages 2d10 years "
+  },
+  {
+    "desc": "3928 When reduced to one hit point, caster can see invisible objects "
+  },
+  {
+    "desc": "3929 When reduced to one hit point, caster flees, panic-stricken "
+  },
+  {
+    "desc": "3930 When reduced to one hit point, caster flies into a berserk fury "
+  },
+  {
+    "desc": "3931 When reduced to one hit point, caster is stricken mute "
+  },
+  {
+    "desc": "3932 When reduced to one hit point, caster suffers wild hallucinations "
+  },
+  {
+    "desc": "3933 When reduced to one hit point, caster teleports 2d20 yards "
+  },
+  {
+    "desc": "3934 When reduced to one hit point, caster teleports to his home "
+  },
+  {
+    "desc": "3935 When reduced to one hit point, caster turns invisible until dawn "
+  },
+  {
+    "desc": "3936 When reduced to one hit point, caster turns to iron until sunset "
+  },
+  {
+    "desc": "3937 When seen from behind, caster appears to be bleeding profusely "
+  },
+  {
+    "desc": "3938 When seen from behind, caster appears to be on fire "
+  },
+  {
+    "desc": "3939 When seen from behind, caster's torso is riddled with large holes "
+  },
+  {
+    "desc": "3940 When struck by magic, caster briefly appears to be made of chrome "
+  },
+  {
+    "desc": "3941 When struck by magic, caster briefly appears to be made of wood "
+  },
+  {
+    "desc": "3942 When struck by magic, caster feels the urge to reveal a secret "
+  },
+  {
+    "desc": "3943 When struck by magic, caster flies into a berserker rage "
+  },
+  {
+    "desc": "3944 When struck by magic, caster is 10% likely to be caked in grime "
+  },
+  {
+    "desc": "3945 When struck by magic, caster is covered by ashes and soot "
+  },
+  {
+    "desc": "3946 When struck by magic, caster sings raucous songs for 1d4 rounds "
+  },
+  {
+    "desc": "3947 When struck by magic, caster temporarily inflates like a balloon "
+  },
+  {
+    "desc": "3948 Whenever caster casts a spell, a spotlight illuminates him "
+  },
+  {
+    "desc": "3949 Whenever caster casts a spell, an invisible bronze gong is rung "
+  },
+  {
+    "desc": "3950 Whenever caster casts a spell, electricity crackles in his hair "
+  },
+  {
+    "desc": "3951 Whenever caster casts a spell, ghostly laughter echoes in the air "
+  },
+  {
+    "desc": "3952 Whenever caster casts a spell, he appears to explode "
+  },
+  {
+    "desc": "3953 Whenever caster casts a spell, he becomes light as a feather "
+  },
+  {
+    "desc": "3954 Whenever caster casts a spell, he experiences profound remorse "
+  },
+  {
+    "desc": "3955 Whenever caster casts a spell, he feels overwhelming euphoria "
+  },
+  {
+    "desc": "3956 Whenever caster casts a spell, he hears glass breaking everywhere "
+  },
+  {
+    "desc": "3957 Whenever caster casts a spell, he hears loud, discordant music "
+  },
+  {
+    "desc": "3958 Whenever caster casts a spell, he hears the laments of the damned "
+  },
+  {
+    "desc": "3959 Whenever caster casts a spell, he must Save or be knocked down "
+  },
+  {
+    "desc": "3960 Whenever caster casts a spell, he must Save or shrink by 20% "
+  },
+  {
+    "desc": "3961 Whenever caster casts a spell, he suffers crippling stage fright "
+  },
+  {
+    "desc": "3962 Whenever caster casts a spell, he thinks that he ages 1d10 years "
+  },
+  {
+    "desc": "3963 Whenever caster casts a spell, he whistles like a teapot "
+  },
+  {
+    "desc": "3964 Whenever caster casts a spell, he's 10% likely to pass out "
+  },
+  {
+    "desc": "3965 Whenever caster casts a spell, he's haunted by cryptic warnings "
+  },
+  {
+    "desc": "3966 Whenever caster casts a spell, his bones glow visibly in his body "
+  },
+  {
+    "desc": "3967 Whenever caster casts a spell, his clothes are glazed with frost "
+  },
+  {
+    "desc": "3968 Whenever caster casts a spell, his ears shine like the sun "
+  },
+  {
+    "desc": "3969 Whenever caster casts a spell, his feet swell by 10% "
+  },
+  {
+    "desc": "3970 Whenever caster casts a spell, his spellbook must Save or combust "
+  },
+  {
+    "desc": "3971 Whenever caster casts a spell, one of his hands grows by 25% "
+  },
+  {
+    "desc": "3972 Whenever caster casts a spell, someone far away vows to kill him "
+  },
+  {
+    "desc": "3973 Wherever caster walks, he sounds like he's on a squeaky floor "
+  },
+  {
+    "desc": "3974 While caster is invisible, a faint outline can still be seen "
+  },
+  {
+    "desc": "3975 While caster sleeps, he appears to be a perfect cube "
+  },
+  {
+    "desc": "3976 While caster sleeps, he appears to melt like a wax dummy "
+  },
+  {
+    "desc": "3977 While caster sleeps, he freezes solid but thaws before waking "
+  },
+  {
+    "desc": "3978 While caster sleeps, his allies must Save or forget who he is "
+  },
+  {
+    "desc": "3979 While caster sleeps, his arms and legs retract into his torso "
+  },
+  {
+    "desc": "3980 While caster sleeps, his body is translucent "
+  },
+  {
+    "desc": "3981 While caster sleeps, his body retracts into his head "
+  },
+  {
+    "desc": "3982 While caster sleeps, his clothing and gear are invisible "
+  },
+  {
+    "desc": "3983 While caster sleeps, his head appears detached from his body "
+  },
+  {
+    "desc": "3984 While caster sleeps, his head retracts into his body "
+  },
+  {
+    "desc": "3985 While caster sleeps, his whole body contracts into a small ball "
+  },
+  {
+    "desc": "3986 While caster sleeps, luminous moths flutter over his body "
+  },
+  {
+    "desc": "3987 While caster sleeps, mysterious runes hover over his head "
+  },
+  {
+    "desc": "3988 While caster sleeps, rodents bring him sacrificial offerings "
+  },
+  {
+    "desc": "3989 While caster sleeps, thousands of insects swarm over his body "
+  },
+  {
+    "desc": "3990 While indoors, caster appears to be 5% larger "
+  },
+  {
+    "desc": "3991 While indoors, caster feels as if he's dragging heavy chains "
+  },
+  {
+    "desc": "3992 While indoors, caster feels as if he's in a blazing desert "
+  },
+  {
+    "desc": "3993 While indoors, caster feels as if he's on a ship's deck "
+  },
+  {
+    "desc": "3994 While indoors, caster feels as if he's on windswept tundra "
+  },
+  {
+    "desc": "3995 While standing on a riverbank, caster is invisible to amphibians "
+  },
+  {
+    "desc": "3996 While walking, caster sounds as if he's wearing full plate armor "
+  },
+  {
+    "desc": "3997 Woodland creatures openly mock the caster and call him a coward "
+  },
+  {
+    "desc": "3998 Woodland creatures react to the caster as if he's one of them "
+  },
+  {
+    "desc": "3999 Woodland creatures react violently to the caster's presence "
+  },
+  {
+    "desc": "4000 Zombies can't come within 10 feet of the caster for 1d4 days "
+  }
+]

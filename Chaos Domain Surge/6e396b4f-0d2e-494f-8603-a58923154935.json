@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Arcane Abjuration",
+    "desc": "As an action, you present your holy symbol, and one celestial, elemental, fey, or fiend of your choice that is within 30 feet of you must make a Wisdom saving throw, provided that the creature can see or hear you. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage. A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly end its move in a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, then the creature can use the Dodge action. After you reach 5th level, when a creature fails its saving throw against your Arcane Abjuration feature, the creature is banished for 1 minute (as in the banishment spell, no concentration required) if it isn't on its plane of origin, and its challenge rating is at or below a certain threshold. 1/2 at 5th level, 1 at 8th level, 2 at 11th level, 3 at 14th level, and 4 at 17th level",
+    "domain": "Arcana Domain (SCAG p125)"
+  },
+  {
+    "name": "Path to the Grave",
+    "desc": "As an action, you choose one creature you can see within 30 feet of you, cursing it until the end of your next turn. The next time you or an ally of yours hits the cursed creature with an attack, the creature has vulnerability to all of that attack's damage, and then the curse ends.",
+    "domain": "Grave Domain (XGE p19)"
+  },
+  {
+    "name": "Knowledge of the Ages",
+    "desc": "Starting at 2nd level, you can use your Channel Divinity to tap into a divine well of knowledge. As an action, you choose one skill or tool. For 10 minutes, you have proficiency with the chosen skill or tool.",
+    "domain": "Knowledge Domain (PHB p59)"
+  },
+  {
+    "name": "Preserve Life",
+    "desc": "As an action, you present your holy symbol and evoke healing energy that can restore a number of hit points equal to five times your cleric level. Choose any creatures within 30 feet of you, and divide those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. You can't use this feature on an undead or a construct.",
+    "domain": "Life Domain (PHB p60)"
+  },
+  {
+    "name": "Radiance of the Dawn",
+    "desc": "As an action, you present your holy symbol, and any magical darkness within 30 feet of you is dispelled. Additionally, each hostile creature within 30 feet of you must make a Constitution saving throw. A creature takes radiant damage equal to **####** + your cleric level on a failed saving throw, and half as much damage on a successful one. A creature that has total cover from you is not affected.",
+    "domain": "Light Domain (PHB p60)"
+  },
+  {
+    "name": "Charm Animals and Plants",
+    "desc": "As an action, you present your holy symbol and invoke the name of your deity. Each beast or plant creature that can see you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is charmed by you for 1 minute or until it takes damage. While it is charmed by you, it is friendly to you and other creatures you designate.",
+    "domain": "Nature Domain (PHB p61)"
+  },
+  {
+    "name": "Order's Demand",
+    "desc": "As an action, you present your holy symbol, and each creature of your choice that can see or hear you within 30 feet of you must succeed on a Wisdom saving throw or be charmed by you until the end of your next turn or until the charmed creature takes any damage. You can also cause any of the charmed creatures to drop what they are holding when they fail the saving throw.",
+    "domain": "Order Domain (TCE p31)"
+  },
+  {
+    "name": "Balm of Peace",
+    "desc": "As an action, you can move up to your speed, without provoking opportunity attacks, and when you move within 5 feet of any other creature during this action, you can restore a number of hit points to that creature equal to **%%%%** + your Wisdom modifier (minimum of 1 hit point). A creature can receive this healing only once whenever you take this action.",
+    "domain": "Peace Domain (TCE p32)"
+  },
+  {
+    "name": "Invoke Duplicity",
+    "desc": "As an action, you create a perfect illusion of yourself that lasts for 1 minute, or until you lose your concentration (as if you were concentrating on a spell). The illusion appears in an unoccupied space that you can see within 30 feet of you. As a bonus action on your turn, you can move the illusion up to 30 feet to a space you can see, but it must remain within 120 feet of you. For the duration, you can cast spells as though you were in the illusion's space, but you must use your own senses. Additionally, when both you and your illusion are within 5 feet of a creature that can see the illusion, you have advantage on attack rolls against that creature, given how distracting the illusion is to the target.",
+    "domain": "Trickery Domain (PHB p62)"
+  },
+  {
+    "name": "Twilight Sanctuary",
+    "desc": "As an action, you present your holy symbol, and a sphere of twilight emanates from you. The sphere is centered on you, has a 30-foot radius, and is filled with dim light. The sphere moves with you, and it lasts for 1 minute or until you are incapacitated or die. Whenever a creature (including you) ends its turn in the sphere, you can grant that creature temporary hit points equal to **&&&&** plus your cleric level or end one effect on it causing it to be charmed or frightened.",
+    "domain": "Twilight Domain (TCE p34)"
+  },
+  {
+    "name": "Radiant Defense",
+    "desc": "As an action, you channel blessed energy into an ally that you can see within 30 feet of you. The first time that ally is hit by an attack within the next minute, the attacker takes radiant damage equal to **####** + your cleric level.",
+    "domain": "Protection Domain (UA)"
+  },
+  {
+    "name": "Updraft",
+    "desc": "As an action, you present your holy symbol and invoke the name of your deity. Choose a Large or smaller creature within 60 feet of you. The target must succeed on a Strength saving throw or be blown upwards up to 30 feet. A target can choose to automatically fail this saving throw. If the target doesn't have a hover or fly speed, it immediately falls afterwards, taking fall damage and landing prone.",
+    "domain": "Sky Domain (HB - ATLAS p10)"
+  },
+  {
+    "name": "Midnight Gloom",
+    "desc": "As an action, you present your holy symbol and all lights within 30 feet of you, magical or non magical, are instantly put out. Additionally, each hostile creature within 30 feet of you must make a Constitution saving throw. A creature takes necrotic damage equal to **%%%%** + your cleric level on a failed saving throw, and loses any darkvision they have for 1 minute. On a successful save, they take half as much damage and suffer no other effects. A creature can repeat this saving throw at the start of each of its turns, regaining their darkvision on a success.",
+    "domain": "Night Domain (HB - Dark Arts p10)"
+  },
+  {
+    "name": "Weigh the Scales",
+    "desc": "You can use your action and your Channel Divinity feature to impose equilibrium. For one minute or until you choose to end this effect as a bonus action, you cannot gain advantage or suffer disadvantage, and you can reroll any damage dice that result in a 1, but only once per die.",
+    "domain": "Balance Domain (HB - COSM p3)"
+  },
+  {
+    "name": "Water and Wine",
+    "desc": "You can use your Channel Divinity feature to transform up to fifty gallons of water into a magical ambrosia for one hour. Creatures that drink from the font must make a Wisdom saving throw against your cleric spell save DC or be charmed for one minute. Either way, the subject gains temporary hit points equal to your cleric level. This liquid can be bottled, but fades back into water after one hour.",
+    "domain": "Celebration Domain (HB - COSM p4)"
+  },
+  {
+    "name": "Sandstorm",
+    "desc": "As an action, you can use your Channel Divinity feature to unleash a raging whirlwind of tearing sand in a 60-foot line that is 20 feet wide. The area becomes heavily obscured by a cloud of dust until the start of your next turn. Creatures of your choosing within the area must make a Constitution saving throw against your cleric spell save DC. If they fail, they are blinded until the end of your next turn and take **&&&&** slashing damage per two cleric levels you possess. If they succeed, they are not blinded and take half as much damage.",
+    "domain": "Desert Domain (HB - COSM p6)"
+  },
+  {
+    "name": "Slayer's Arrow",
+    "desc": "As an action, you can expend a use of your Channel Divinity feature to launch an ethereal arrow or spear, striking all creatures in a line up to 360 feet long and 5 feet wide that passes through walls and obstacles. Struck targets must make a Charisma saving throw. If they fail, they take magical piercing damage equal to **@@@@** plus your cleric level and are knocked prone. If they succeed, they take half as much damage and are not knocked prone.",
+    "domain": "Hunting Domain (HB - COSM p8)"
+  },
+  {
+    "name": "Detect Motion",
+    "desc": "you can use your action and the Channel Divinity feature to detect all motion within a 100-foot radius until the end of your current turn. Creatures and objects that are moving appear in perfect clarity to your mental sight, while immobile living creatures appear as pulsing heartbeats and flowing blood. You cannot detect immobile undead or other creatures that can remain perfectly still, such as mimics or sentient plants.",
+    "domain": "Kinetic Domain (HB - COSM p9)"
+  },
+  {
+    "name": "Bonds of Friendship",
+    "desc": "As an action, you can target a willing ally within 60 feet to activate your Channel Divinity feature. For the next minute or until you lose concentration on this feature as though it were a spell, the two of you share a single pool of hit points. Temporary hit points are applied individually, and should be tracked separately. When the effect ends, the remaining hit points are divided equally between you based on the percentage total of the pool. If the total reaches 0, all creatures tied to this pool of hit points are reduced to 0 hit points and must make death saving throws as normal. You do not have to perform concentration saving throws for damage dealt to your ally, only for damage dealt to you.",
+    "domain": "Love Domain (HB - COSM p10)"
+  },
+  {
+    "name": "Up to Eleven",
+    "desc": "You can present your holy symbol as an action to use your Channel Divinity feature to bolster an ally within earshot. Each successful attack requiring an attack roll that ally makes during their next turn inflicts the maximum damage per die, regardless of rolls, modifiers, damage dice, resistances, or immunities.",
+    "domain": "Metal Domain (HB - COSM p12)"
+  },
+  {
+    "name": "Deep Embrace",
+    "desc": "you can present your holy symbol and use your Channel Divinity feature as an action to summon a sphere of water around yourself or a willing ally. The sphere is Large and moves with the target as they swim within it, allowing the creature to hover in the air if they ascend. Ranged attacks against targets inside suffer disadvantage, and they gain resistance to fire and cold damage while within the sphere. The sphere can immerse other targets of Medium size or smaller when it enters their space. Creatures within the sphere are subject to the Underwater Combat rules. This sphere lasts for one minute or until the target of the sphere uses a bonus action to dismiss it.",
+    "domain": "Ocean Domain (HB - COSM p13)"
+  }
+]
