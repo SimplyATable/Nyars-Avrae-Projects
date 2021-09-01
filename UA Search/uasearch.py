@@ -1,4 +1,4 @@
-!alias uasearch embed {{q,g='\n',load_json(get_gvar('3b937704-6825-48c7-bde0-9689f2cc06c1'))}}{{n=" ".join(&ARGS&).lower() if &ARGS& else ''}}{{s=[i for i in g if i.name.lower==n or all([x in i.name.lower() for x in n.split(' ')])]}}
+!alias uasearch embed {{q,g='\n',load_json(get_gvar('3b937704-6825-48c7-bde0-9689f2cc06c1')) + load_json(get_gvar('b6f7124e-b216-4569-8562-c2998453158a')) + load_json(get_gvar('33276369-6333-4c19-b45b-570ac906ab10'))}}{{n=" ".join(&ARGS&).lower() if &ARGS& else ''}}{{s=[i for i in g if i.name.lower==n or all([x in i.name.lower() for x in n.split(' ')])]}}
 {{s=s[0] if s and (len(s)==1 or s[0].name.lower()==n) else [x.name for x in g] if not n else [x.name for x in s]}}
 {{raw=q.join(s)}}{{raw=raw[:1020]+'...' if len(raw)>1024 else raw}}
 -title "Fight Club: Allowed UA"
