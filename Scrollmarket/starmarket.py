@@ -2,28 +2,10 @@
 <drac2>
 if "&*&".lower() == "restock":
     gvar=load_json(get_gvar('e79851e7-c1dc-4dc5-b728-b89ee9cb00d0'))
-    level_0 = randchoice(gvar.get('0'))
-    level_1 = randchoice(gvar.get('1'))
-    level_2 = randchoice(gvar.get('2'))
-    level_3 = randchoice(gvar.get('3'))
-    level_4 = randchoice(gvar.get('4'))
-    level_5 = randchoice(gvar.get('5'))
-    level_6 = randchoice(gvar.get('6'))
-    level_7 = randchoice(gvar.get('7'))
-    level_8 = randchoice(gvar.get('8'))
-    level_9 = randchoice(gvar.get('9'))
-    price_0 = str(randint(10,25)) + "gp   "
-    price_1 = randint(35,60) + "gp   "
-    price_2 = randint(350,550) + "gp   "
-    price_3 = randint(400,600) + "gp   "
-    price_4 = randint(850,1100) + "gp   "
-    price_5 = randint(900,1150) + "gp   "
-    price_6 = randint(8500,10500) + "gp   "
-    price_7 = randint(9250,11000) + "gp   "
-    price_8 = randint(9750,11750) + "gp   "
-    price_9 = randint(53000,59000) + "gp   "
+    level = [randchoice(gvar.get('0')),randchoice(gvar.get('1')),randchoice(gvar.get('2')),randchoice(gvar.get('3')),randchoice(gvar.get('4')),randchoice(gvar.get('5')),randchoice(gvar.get('6')),randchoice(gvar.get('7')),randchoice(gvar.get('8')),randchoice(gvar.get('9'))]
+    price = [randint(10,25) + "gp   ",randint(35,60) + "gp   ",randint(350,550) + "gp   ",randint(400,600) + "gp   ",randint(850,1100) + "gp   ",randint(900,1150) + "gp   ",randint(8500,10500) + "gp   ",randint(9250,11000) + "gp   ",randint(9750,11750) + "gp   ",randint(53000,59000) + "gp   "]
     desc = "Restock successful!"
-    return f"""!gvar edit 5aff7bfa-a4ad-4e9d-b4e1-d969ea1c729f {{"spells":["{level_0}","{level_1}","{level_2}","{level_3}","{level_4}","{level_5}","{level_6}","{level_7}","{level_8}","{level_9}"],"prices":["{price_0[0:7]}","{price_1[0:7]}","{price_2[0:7]}","{price_3[0:7]}","{price_4[0:7]}","{price_5[0:7]}","{price_6[0:7]}","{price_7[0:7]}","{price_8[0:7]}","{price_9[0:7]}"]}}"""
+    return f"""!gvar edit 5aff7bfa-a4ad-4e9d-b4e1-d969ea1c729f {{"spells":["{level[0]}","{level[1]}","{level[2]}","{level[3]}","{level[4]}","{level[5]}","{level[6]}","{level[7]}","{level[8]}","{level[9]}"],"prices":["{price[0][0:7]}","{price[1][0:7]}","{price[2][0:7]}","{price[3][0:7]}","{price[4][0:7]}","{price[5][0:7]}","{price[6][0:7]}","{price[7][0:7]}","{price[8][0:7]}","{price[9][0:7]}"]}}"""
 elif "&*&".split(' ')[0] == "remove":
     userinput = "&*&"
     gvar=load_json(get_gvar('5aff7bfa-a4ad-4e9d-b4e1-d969ea1c729f'))
