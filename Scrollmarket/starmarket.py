@@ -2,6 +2,12 @@
 <drac2>
 if "&*&".lower() == "restock":
     gvar=load_json(get_gvar('e79851e7-c1dc-4dc5-b728-b89ee9cb00d0'))
+    gvar2=load_json(get_gvar('fd9faa5e-4aa7-4fe6-b22d-6a19601bd903'))
+    for key in gvar2.keys():
+        if key not in gvar.keys():
+            gvar[key] = []
+        for i in gvar2[key]:
+            gvar[key].append(i)
     level = [randchoice(gvar.get('0')),randchoice(gvar.get('1')),randchoice(gvar.get('2')),randchoice(gvar.get('3')),randchoice(gvar.get('4')),randchoice(gvar.get('5')),randchoice(gvar.get('6')),randchoice(gvar.get('7')),randchoice(gvar.get('8')),randchoice(gvar.get('9'))]
     price = [randint(10,25) + "gp   ",randint(35,60) + "gp   ",randint(350,550) + "gp   ",randint(400,600) + "gp   ",randint(850,1100) + "gp   ",randint(900,1150) + "gp   ",randint(8500,10500) + "gp   ",randint(9250,11000) + "gp   ",randint(9750,11750) + "gp   ",randint(53000,59000) + "gp   "]
     desc = "Restock successful!"
