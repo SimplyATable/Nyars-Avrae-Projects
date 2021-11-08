@@ -1,0 +1,3002 @@
+[
+  {
+    "desc": "1001 Caster has a cumulative 1% chance daily to be eaten by a dragon "
+  },
+  {
+    "desc": "1002 Caster has a cumulative 1% chance daily to turn to stone "
+  },
+  {
+    "desc": "1003 Caster has a flat 10% chance to know any new language he hears "
+  },
+  {
+    "desc": "1004 Caster has a habit of issuing idle but poorly-considered threats "
+  },
+  {
+    "desc": "1005 Caster has a large but harmless hole at the top of his head "
+  },
+  {
+    "desc": "1006 Caster has a parrot on his shoulder and a peg leg "
+  },
+  {
+    "desc": "1007 Caster has a powerful craving for charcoal, sulfur, and saltpeter "
+  },
+  {
+    "desc": "1008 Caster has a powerful craving for the bark of the hemlock tree "
+  },
+  {
+    "desc": "1009 Caster has a reputation, perhaps undeserved, for wild debauchery "
+  },
+  {
+    "desc": "1010 Caster has a scar as if his head were severed and reattached "
+  },
+  {
+    "desc": "1011 Caster has a small keyhole in the palm of his right hand "
+  },
+  {
+    "desc": "1012 Caster has a star-shaped dent at the back of his head "
+  },
+  {
+    "desc": "1013 Caster has a violent argument with the next soldier he meets "
+  },
+  {
+    "desc": "1014 Caster has an almost paralyzing fear of death and the dead "
+  },
+  {
+    "desc": "1015 Caster has an answer for everything "
+  },
+  {
+    "desc": "1016 Caster has an extraordinary sense of balance "
+  },
+  {
+    "desc": "1017 Caster has an identical face on the back of his head "
+  },
+  {
+    "desc": "1018 Caster has an inexplicable but overwhelming fear of sunrise "
+  },
+  {
+    "desc": "1019 Caster has an out-of-body experience and can't find his way back "
+  },
+  {
+    "desc": "1020 Caster has an overpowering hatred of artificial light sources "
+  },
+  {
+    "desc": "1021 Caster has an ugly mole just like a nose "
+  },
+  {
+    "desc": "1022 Caster has an ugly nose just like a mole "
+  },
+  {
+    "desc": "1023 Caster has been carrying a sack full of manure for 1d4 days "
+  },
+  {
+    "desc": "1024 Caster has blasphemous tattoos over most of his body  13"
+  },
+  {
+    "desc": "1025 Caster has dreadful dreams of a foul, ancient, and tentacled god "
+  },
+  {
+    "desc": "1026 Caster has faulty direction sense while carrying his spellbook "
+  },
+  {
+    "desc": "1027 Caster has misgivings about those mushrooms he ate yesterday "
+  },
+  {
+    "desc": "1028 Caster has no internal organs; he's a homogenous mush inside "
+  },
+  {
+    "desc": "1029 Caster has no scent whatsoever "
+  },
+  {
+    "desc": "1030 Caster has ram's horns growing from his hips "
+  },
+  {
+    "desc": "1031 Caster has rings on his fingers and bells on his toes "
+  },
+  {
+    "desc": "1032 Caster has scars as if his skeleton had been torn out of his body "
+  },
+  {
+    "desc": "1033 Caster has silly and pornographic tattoos over most of his body "
+  },
+  {
+    "desc": "1034 Caster has ten thumbs in his mouth "
+  },
+  {
+    "desc": "1035 Caster has ten thumbs instead of fingers "
+  },
+  {
+    "desc": "1036 Caster has ten thumbs somewhere on his body "
+  },
+  {
+    "desc": "1037 Caster has tiny mathematical formulae tattooed all over his body "
+  },
+  {
+    "desc": "1038 Caster has vivid but false memories of a past life "
+  },
+  {
+    "desc": "1039 Caster has vivid but false memories of the last 24 hours "
+  },
+  {
+    "desc": "1040 Caster has vivid dreams of his own death each night "
+  },
+  {
+    "desc": "1041 Caster hasn't eaten during the past 1d100 days "
+  },
+  {
+    "desc": "1042 Caster hatches numerous schemes for destroying the world "
+  },
+  {
+    "desc": "1043 Caster hears a heavenly choir singing his praises for 1d4 hours "
+  },
+  {
+    "desc": "1044 Caster hears crickets chirping loudly from now on "
+  },
+  {
+    "desc": "1045 Caster hears malevolent voices nearby whispering about his doom "
+  },
+  {
+    "desc": "1046 Caster hears normally except for voices, which seem subtly muted "
+  },
+  {
+    "desc": "1047 Caster hears the echo of his own voice whenever he speaks "
+  },
+  {
+    "desc": "1048 Caster hears the footfalls of a hungry predator nearby "
+  },
+  {
+    "desc": "1049 Caster hears waves crashing on a beach no matter where he is "
+  },
+  {
+    "desc": "1050 Caster henceforth casts this spell as if he's two levels higher "
+  },
+  {
+    "desc": "1051 Caster henceforth gains an additional hit point at each level "
+  },
+  {
+    "desc": "1052 Caster henceforth has a bonus 10% chance to learn new spells "
+  },
+  {
+    "desc": "1053 Caster henceforth needs only one-third the normal amount of food "
+  },
+  {
+    "desc": "1054 Caster hurls his spellbook as far as he can "
+  },
+  {
+    "desc": "1055 Caster informs people of what he judges his greatest weakness "
+  },
+  {
+    "desc": "1056 Caster insists that he's proficient in some obscure martial art "
+  },
+  {
+    "desc": "1057 Caster invokes dubiously relevant entities in times of stress "
+  },
+  {
+    "desc": "1058 Caster is 1% likely to be killed by a meteor on any given day "
+  },
+  {
+    "desc": "1059 Caster is 5% likely to become a god if he drowns himself "
+  },
+  {
+    "desc": "1060 Caster is 5% likely to become a god if he kills himself by fire "
+  },
+  {
+    "desc": "1061 Caster is 10% likely never to have existed at all "
+  },
+  {
+    "desc": "1062 Caster is 10% likely to be immune to any single dose of poison "
+  },
+  {
+    "desc": "1063 Caster is 10% likely to be invisible to any female that he meets "
+  },
+  {
+    "desc": "1064 Caster is 10% likely to be invisible to any male that he meets "
+  },
+  {
+    "desc": "1065 Caster is 10% likely to be resurrected if his corpse is set afire "
+  },
+  {
+    "desc": "1066 Caster is 10% likely to be totally immune to any single attack "
+  },
+  {
+    "desc": "1067 Caster is 10% likely to believe even the most outrageous of lies "
+  },
+  {
+    "desc": "1068 Caster is 10% likely to have been sired by a powerful demon "
+  },
+  {
+    "desc": "1069 Caster is 10% likely to sympathize with any enemy he injures "
+  },
+  {
+    "desc": "1070 Caster is 15% likely to have read any book he sees "
+  },
+  {
+    "desc": "1071 Caster is 20% likely to faint outright at the sight of blood "
+  },
+  {
+    "desc": "1072 Caster is 20% likely to sneeze and disrupt any spell he casts "
+  },
+  {
+    "desc": "1073 Caster is 20% likely to turn to stone while swimming "
+  },
+  {
+    "desc": "1074 Caster is 2X as old as the oldest person within 100 yards "
+  },
+  {
+    "desc": "1075 Caster is 50% likely to drown in any water deeper than he is tall "
+  },
+  {
+    "desc": "1076 Caster is 60% likely to misplace any money he receives "
+  },
+  {
+    "desc": "1077 Caster is able to see his own eyes "
+  },
+  {
+    "desc": "1078 Caster is absolutely convinced that he's a zombie "
+  },
+  {
+    "desc": "1079 Caster is afflicted with severe frostbite in 1d4 limbs "
+  },
+  {
+    "desc": "1080 Caster is afflicted with vampirism, but only during the day "
+  },
+  {
+    "desc": "1081 Caster is always and easily recognizable as a spellcaster "
+  },
+  {
+    "desc": "1082 Caster is an untamed youth, that's the truth, with a cloak full of eagles "
+  },
+  {
+    "desc": "1083 Caster is attacked by a shark when he next enters a river "
+  },
+  {
+    "desc": "1084 Caster is attacked by countless stinging earthworms "
+  },
+  {
+    "desc": "1085 Caster is attacked by goats the next time he crosses a bridge "
+  },
+  {
+    "desc": "1086 Caster is attacked by vengeful imps that resemble small children "
+  },
+  {
+    "desc": "1087 Caster is attended by numerous grooming birds, like a crocodile "
+  },
+  {
+    "desc": "1088 Caster is blind unless he's carrying at least 4d10 gold coins "
+  },
+  {
+    "desc": "1089 Caster is blind while he's invisible "
+  },
+  {
+    "desc": "1090 Caster is blind while his spellbook is open "
+  },
+  {
+    "desc": "1091 Caster is blind while within any artificial structure "
+  },
+  {
+    "desc": "1092 Caster is blinded for 2d8 rounds by a swirl of tiny feathers "
+  },
+  {
+    "desc": "1093 Caster is bricked up in an underground cell with a cask of wine "
+  },
+  {
+    "desc": "1094 Caster is briefly obscured by a dense cloud of sawdust "
+  },
+  {
+    "desc": "1095 Caster is briefly paralyzed at the sight of his own blood "
+  },
+  {
+    "desc": "1096 Caster is briefly stunned by a shower of hard beans "
+  },
+  {
+    "desc": "1097 Caster is brutally punched in the stomach by an unseen hand "
+  },
+  {
+    "desc": "1098 Caster is carrying 1d4+1 waterskins filled with human blood "
+  },
+  {
+    "desc": "1099 Caster is carrying a bowl full of water that he must not spill "
+  },
+  {
+    "desc": "1100 Caster is certain that a horrible monster is living inside him "
+  },
+  {
+    "desc": "1101 Caster is certain that every meal he eats contains strong poison "
+  },
+  {
+    "desc": "1102 Caster is certain that he can breathe underwater "
+  },
+  {
+    "desc": "1103 Caster is certain that he has just killed his guardian angel "
+  },
+  {
+    "desc": "1104 Caster is certain that he used to have four arms "
+  },
+  {
+    "desc": "1105 Caster is certain that he'll become immortal if he's beheaded "
+  },
+  {
+    "desc": "1106 Caster is certain that he'll die in the next 1d4 rounds "
+  },
+  {
+    "desc": "1107 Caster is certain that he's recently returned from the future "
+  },
+  {
+    "desc": "1108 Caster is certain that he's transforming into a horrible monster "
+  },
+  {
+    "desc": "1109 Caster is certain that his soul is buried under the nearest tree "
+  },
+  {
+    "desc": "1110 Caster is chained to a desk in some high-rise office building "
+  },
+  {
+    "desc": "1111 Caster is chained to an anvil "
+  },
+  {
+    "desc": "1112 Caster is clad in funerary wraps as if he's about to be interred "
+  },
+  {
+    "desc": "1113 Caster is completely invulnerable to all harm for 1d4 rounds "
+  },
+  {
+    "desc": "1114 Caster is convinced that he once ate an entire person "
+  },
+  {
+    "desc": "1115 Caster is convinced that he only exists as numbers on paper "
+  },
+  {
+    "desc": "1116 Caster is convinced that his allies plan to kill and eat him "
+  },
+  {
+    "desc": "1117 Caster is covered in a shell of frozen slime "
+  },
+  {
+    "desc": "1118 Caster is covered in barnacles "
+  },
+  {
+    "desc": "1119 Caster is covered in indelible, jet-black handprints "
+  },
+  {
+    "desc": "1120 Caster is covered in ketchup "
+  },
+  {
+    "desc": "1121 Caster is covered in peanut butter "
+  },
+  {
+    "desc": "1122 Caster is covered in sucker marks as though hugged by an octopus "
+  },
+  {
+    "desc": "1123 Caster is deaf and blind until sunrise tomorrow "
+  },
+  {
+    "desc": "1124 Caster is determined to destroy his staff or spellbook "
+  },
+  {
+    "desc": "1125 Caster is determined to rid himself of his nails, teeth, and hair "
+  },
+  {
+    "desc": "1126 Caster is distracted by something stuck between his teeth "
+  },
+  {
+    "desc": "1127 Caster is drawn forcefully toward the spell's target point "
+  },
+  {
+    "desc": "1128 Caster is dressed like a high-class burlesque performer "
+  },
+  {
+    "desc": "1129 Caster is eager to find out just how fireproof he really is "
+  },
+  {
+    "desc": "1130 Caster is eager to find out just how much blood he can lose "
+  },
+  {
+    "desc": "1131 Caster is encased from the waist down in a block of cheese "
+  },
+  {
+    "desc": "1132 Caster is encased up to his neck in a shell of concrete "
+  },
+  {
+    "desc": "1133 Caster is enclosed in a large paper bag "
+  },
+  {
+    "desc": "1134 Caster is entirely immune to magic for 1d8 rounds "
+  },
+  {
+    "desc": "1135 Caster is feared and respected by Hill Giants "
+  },
+  {
+    "desc": "1136 Caster is fiercely addicted to some astonishingly rare substance "
+  },
+  {
+    "desc": "1137 Caster is filled with Righteous Indignation "
+  },
+  {
+    "desc": "1138 Caster is forcibly barred from the next town he attempts to enter "
+  },
+  {
+    "desc": "1139 Caster is full o' the milk of human kindness "
+  },
+  {
+    "desc": "1140 Caster is half the age of the youngest person within 100 yards "
+  },
+  {
+    "desc": "1141 Caster is Healed each time he triggers a Chaos Burst "
+  },
+  {
+    "desc": "1142 Caster is held responsible for the massacre of innocent townsfolk "
+  },
+  {
+    "desc": "1143 Caster is held without counsel in a secure location for 1d4 days "
+  },
+  {
+    "desc": "1144 Caster is horribly afraid to use magic weapons in daylight "
+  },
+  {
+    "desc": "1145 Caster is horribly afraid to use metal weapons "
+  },
+  {
+    "desc": "1146 Caster is hurled from here into the nearest lake "
+  },
+  {
+    "desc": "1147 Caster is immune to all attempts at telepathy or mind-reading "
+  },
+  {
+    "desc": "1148 Caster is immune to all harm until he attacks or uses magic "
+  },
+  {
+    "desc": "1149 Caster is immune to all poisons, but normal ice is deadly to him "
+  },
+  {
+    "desc": "1150 Caster is immune to any bludgeon not forged on this world "
+  },
+  {
+    "desc": "1151 Caster is immune to any poison administered via blade or needle "
+  },
+  {
+    "desc": "1152 Caster is immune to any poison ingested with food or drink "
+  },
+  {
+    "desc": "1153 Caster is immune to beneficial clerical magic for 1d6 days "
+  },
+  {
+    "desc": "1154 Caster is immune to beneficial enchantments for 1d8 days  14"
+  },
+  {
+    "desc": "1155 Caster is immune to cold-based attacks while blindfolded "
+  },
+  {
+    "desc": "1156 Caster is immune to cold-based attacks while he's on fire "
+  },
+  {
+    "desc": "1157 Caster is immune to electrical attacks while he's barefoot "
+  },
+  {
+    "desc": "1158 Caster is immune to electrical magic at night while it's snowing "
+  },
+  {
+    "desc": "1159 Caster is immune to fear while holding a spider in his mouth "
+  },
+  {
+    "desc": "1160 Caster is immune to fire from the waist down "
+  },
+  {
+    "desc": "1161 Caster is immune to fire while holding a wren's egg in his mouth "
+  },
+  {
+    "desc": "1162 Caster is immune to gaze attacks while holding his open spellbook "
+  },
+  {
+    "desc": "1163 Caster is immune to gaze attacks while singing "
+  },
+  {
+    "desc": "1164 Caster is immune to liquid-based poisons for one year "
+  },
+  {
+    "desc": "1165 Caster is immune to magic for 1d8 days but can't use magic either "
+  },
+  {
+    "desc": "1166 Caster is immune to magic until he imbibes any liquid "
+  },
+  {
+    "desc": "1167 Caster is immune to missile-based spells while naked "
+  },
+  {
+    "desc": "1168 Caster is immune to natural cold while naked and unencumbered "
+  },
+  {
+    "desc": "1169 Caster is immune to necromantic magic while standing on his head "
+  },
+  {
+    "desc": "1170 Caster is immune to necromantic magic while wearing silk mittens "
+  },
+  {
+    "desc": "1171 Caster is immune to non-magical charm-based effects "
+  },
+  {
+    "desc": "1172 Caster is immune to non-magical disease while holding a chicken "
+  },
+  {
+    "desc": "1173 Caster is immune to non-magical missiles for 1d8 hours "
+  },
+  {
+    "desc": "1174 Caster is immune to non-magical venom "
+  },
+  {
+    "desc": "1175 Caster is immune to non-magical, non-gaseous poisons "
+  },
+  {
+    "desc": "1176 Caster is immune to oil-based fire for 1d12 months "
+  },
+  {
+    "desc": "1177 Caster is immune to poison gas while his feet are wet "
+  },
+  {
+    "desc": "1178 Caster is immune to sarcasm "
+  },
+  {
+    "desc": "1179 Caster is immune to the effects of dehydration "
+  },
+  {
+    "desc": "1180 Caster is immune to the effects of illusory sound "
+  },
+  {
+    "desc": "1181 Caster is immune to the effects of smoke inhalation "
+  },
+  {
+    "desc": "1182 Caster is immune to the effects of the Wish spell "
+  },
+  {
+    "desc": "1183 Caster is immune to the next 1d100 hit points of fire damage "
+  },
+  {
+    "desc": "1184 Caster is inappropriately frank about his bodily functions "
+  },
+  {
+    "desc": "1185 Caster is inclined to attack any who offer him magical healing "
+  },
+  {
+    "desc": "1186 Caster is inclined to attack anyone representing the crown "
+  },
+  {
+    "desc": "1187 Caster is increasingly convinced that he just might be a deity "
+  },
+  {
+    "desc": "1188 Caster is intensely curious about the limits of his own mortality "
+  },
+  {
+    "desc": "1189 Caster is intensely curious about the taste of certain poisons "
+  },
+  {
+    "desc": "1190 Caster is invisible from his hips to his sternum "
+  },
+  {
+    "desc": "1191 Caster is invisible to 1d4 people nearby "
+  },
+  {
+    "desc": "1192 Caster is invisible to dragons for one year "
+  },
+  {
+    "desc": "1193 Caster is invisible to dragons while in direct sunlight "
+  },
+  {
+    "desc": "1194 Caster is invisible to female herbivores "
+  },
+  {
+    "desc": "1195 Caster is invisible to females for 2d6 turns "
+  },
+  {
+    "desc": "1196 Caster is invisible to Hill Giants "
+  },
+  {
+    "desc": "1197 Caster is invisible to himself for 1d4 weeks "
+  },
+  {
+    "desc": "1198 Caster is invisible to himself from the waist down "
+  },
+  {
+    "desc": "1199 Caster is invisible to horses "
+  },
+  {
+    "desc": "1200 Caster is invisible to infravision "
+  },
+  {
+    "desc": "1201 Caster is invisible to inherently invisible creatures "
+  },
+  {
+    "desc": "1202 Caster is invisible to males for 2d6 turns "
+  },
+  {
+    "desc": "1203 Caster is invisible to members of his immediate family "
+  },
+  {
+    "desc": "1204 Caster is invisible to non-magical reptiles "
+  },
+  {
+    "desc": "1205 Caster is invisible to non-magical reptiles for 1d4 hours "
+  },
+  {
+    "desc": "1206 Caster is invisible to the person who most recently wounded him "
+  },
+  {
+    "desc": "1207 Caster is invisible while underwater "
+  },
+  {
+    "desc": "1208 Caster is invited to join a colony of cannibals for dinner "
+  },
+  {
+    "desc": "1209 Caster is known to have had illicit dealings with the undead "
+  },
+  {
+    "desc": "1210 Caster is known to have predicated in scandalous fertility rites "
+  },
+  {
+    "desc": "1211 Caster is naturally camouflaged for stealth in a snowy setting "
+  },
+  {
+    "desc": "1212 Caster is nearly paralyzed by fear while his spellbook is open "
+  },
+  {
+    "desc": "1213 Caster is on the verge of starvation, no matter how much he eats "
+  },
+  {
+    "desc": "1214 Caster is owed a favor by the local magistrate "
+  },
+  {
+    "desc": "1215 Caster is paralyzed from the neck up for 1d6 rounds "
+  },
+  {
+    "desc": "1216 Caster is partially immune to magical cold while holding an apple "
+  },
+  {
+    "desc": "1217 Caster is permanently disfigured by the next fire he sets "
+  },
+  {
+    "desc": "1218 Caster is permanently invisible to the next person to injure him "
+  },
+  {
+    "desc": "1219 Caster is pinned beneath a large tombstone bearing his name "
+  },
+  {
+    "desc": "1220 Caster is poisoned and has 6d6 days to find its only antidote "
+  },
+  {
+    "desc": "1221 Caster is punctured as if he'd spent the night in an iron maiden "
+  },
+  {
+    "desc": "1222 Caster is ravenously hungry after each battle "
+  },
+  {
+    "desc": "1223 Caster is reduced to first level for 4d6 hours "
+  },
+  {
+    "desc": "1224 Caster is reduced to one hit point when he next triggers a Burst "
+  },
+  {
+    "desc": "1225 Caster is related by blood to no one who has ever lived "
+  },
+  {
+    "desc": "1226 Caster is reluctant to bring his spellbook indoors "
+  },
+  {
+    "desc": "1227 Caster is reluctant to carry any weapons after sunset "
+  },
+  {
+    "desc": "1228 Caster is reluctant to cast any spell that he now has memorized "
+  },
+  {
+    "desc": "1229 Caster is reluctant to enter any building he's previously entered "
+  },
+  {
+    "desc": "1230 Caster is reluctant to get blood on any of his weapons "
+  },
+  {
+    "desc": "1231 Caster is reluctant to wield any weapon that hasn't drawn blood "
+  },
+  {
+    "desc": "1232 Caster is rumored to be an artificial, creature without a soul "
+  },
+  {
+    "desc": "1233 Caster is rumored to be plotting a political assassination "
+  },
+  {
+    "desc": "1234 Caster is rumored to be protected by a mighty dragon "
+  },
+  {
+    "desc": "1235 Caster is rumored to be the reincarnation of a despised tyrant "
+  },
+  {
+    "desc": "1236 Caster is rumored to drink orc's blood by the quart "
+  },
+  {
+    "desc": "1237 Caster is rumored to have been replaced by an infernal impostor "
+  },
+  {
+    "desc": "1238 Caster is rumored to have killed the last person to ask his name "
+  },
+  {
+    "desc": "1239 Caster is rumored to have murdered hundreds of innocent people "
+  },
+  {
+    "desc": "1240 Caster is rumored to have orc's blood flowing through his veins "
+  },
+  {
+    "desc": "1241 Caster is rumored to have paid orcs to perform unseemly services "
+  },
+  {
+    "desc": "1242 Caster is rumored to have participated in dreadful funerary rites "
+  },
+  {
+    "desc": "1243 Caster is rumored to have participated in genocide against Elves "
+  },
+  {
+    "desc": "1244 Caster is rumored to have participated in the murder of a deity "
+  },
+  {
+    "desc": "1245 Caster is rumored to have performed horrid rituals on Dwarves "
+  },
+  {
+    "desc": "1246 Caster is rumored to have placed a huge bounty on his own head "
+  },
+  {
+    "desc": "1247 Caster is rumored to have sold his family into slavery "
+  },
+  {
+    "desc": "1248 Caster is rumored to have the heart of a goblin "
+  },
+  {
+    "desc": "1249 Caster is rumored to have wronged a member of the royal family "
+  },
+  {
+    "desc": "1250 Caster is rumored to use clairvoyance for purposes of voyeurism "
+  },
+  {
+    "desc": "1251 Caster is scarred as if he'd been burned over 80% of his body "
+  },
+  {
+    "desc": "1252 Caster is scrupulously honest in all financial dealings "
+  },
+  {
+    "desc": "1253 Caster is sealed in a huge but otherwise normal chicken egg "
+  },
+  {
+    "desc": "1254 Caster is sealed in a pine coffin "
+  },
+  {
+    "desc": "1255 Caster is sealed in an oak barrel "
+  },
+  {
+    "desc": "1256 Caster is seated on a platform high atop a tall, narrow pole "
+  },
+  {
+    "desc": "1257 Caster is skilled in a new weapon but can't use it in daylight "
+  },
+  {
+    "desc": "1258 Caster is Slowed when he becomes invisible "
+  },
+  {
+    "desc": "1259 Caster is smeared from head to toe with molasses "
+  },
+  {
+    "desc": "1260 Caster is soaked each time he casts a water-based spell "
+  },
+  {
+    "desc": "1261 Caster is somewhere around Barstow, on the edge of the desert "
+  },
+  {
+    "desc": "1262 Caster is soon jailed for public lewdness and profanity "
+  },
+  {
+    "desc": "1263 Caster is soon jailed for suspicion of murder "
+  },
+  {
+    "desc": "1264 Caster is soon jailed for unlawful use of magical knowledge "
+  },
+  {
+    "desc": "1265 Caster is sought by a band of militant vivisectionists "
+  },
+  {
+    "desc": "1266 Caster is sparsely flecked with salt like a pretzel "
+  },
+  {
+    "desc": "1267 Caster is standing in an open field, west of a white house "
+  },
+  {
+    "desc": "1268 Caster is stricken mute until he's cut by a magic weapon "
+  },
+  {
+    "desc": "1269 Caster is stripped of monetary wealth except what he's carrying "
+  },
+  {
+    "desc": "1270 Caster is suddenly alone at the center of a vast field of slag "
+  },
+  {
+    "desc": "1271 Caster is suddenly carrying a twenty-pound sack full of straw "
+  },
+  {
+    "desc": "1272 Caster is suddenly in the throes of advanced labor "
+  },
+  {
+    "desc": "1273 Caster is suddenly on the other side of the nearest locked door "
+  },
+  {
+    "desc": "1274 Caster is suddenly seated on a throne formed of apple cores "
+  },
+  {
+    "desc": "1275 Caster is suddenly sitting in an elegant bathtub "
+  },
+  {
+    "desc": "1276 Caster is suddenly standing at the base of the nearest waterfall "
+  },
+  {
+    "desc": "1277 Caster is suddenly standing atop a single stilt "
+  },
+  {
+    "desc": "1278 Caster is suddenly standing atop a very tall ladder "
+  },
+  {
+    "desc": "1279 Caster is suddenly standing atop the nearest boulder "
+  },
+  {
+    "desc": "1280 Caster is suddenly standing atop the nearest horse "
+  },
+  {
+    "desc": "1281 Caster is suddenly standing in a bucket of butter "
+  },
+  {
+    "desc": "1282 Caster is suddenly standing in a canoe on a rushing river "
+  },
+  {
+    "desc": "1283 Caster is suddenly standing in the middle of a snow-covered field "
+  },
+  {
+    "desc": "1284 Caster is suddenly standing in the nearest blacksmith's smithy  15"
+  },
+  {
+    "desc": "1285 Caster is suddenly standing in the nearest brothel "
+  },
+  {
+    "desc": "1286 Caster is suddenly standing in the nearest holy water font "
+  },
+  {
+    "desc": "1287 Caster is suddenly standing in the nearest pig sty "
+  },
+  {
+    "desc": "1288 Caster is suddenly standing knee-deep in manure "
+  },
+  {
+    "desc": "1289 Caster is suddenly standing on a two-foot cube of solid aluminum "
+  },
+  {
+    "desc": "1290 Caster is suddenly surrounded by a quartet of skunks "
+  },
+  {
+    "desc": "1291 Caster is suddenly unsure that he really wants to be a magic user "
+  },
+  {
+    "desc": "1292 Caster is suddenly wearing a full suit of Elven chain armor "
+  },
+  {
+    "desc": "1293 Caster is surrounded by eight-foot-tall slabs of concrete "
+  },
+  {
+    "desc": "1294 Caster is suspected of plotting the destruction of the world "
+  },
+  {
+    "desc": "1295 Caster is terrible at estimating quantities, distance, and time "
+  },
+  {
+    "desc": "1296 Caster is terrified of hourglasses and time-keeping devices "
+  },
+  {
+    "desc": "1297 Caster is the victim of a vast, well-coordinated conspiracy "
+  },
+  {
+    "desc": "1298 Caster is the victim of a well-coordinated propaganda assault "
+  },
+  {
+    "desc": "1299 Caster is the worst liar in the history of intelligent discourse "
+  },
+  {
+    "desc": "1300 Caster is thickly shrouded in cobwebs "
+  },
+  {
+    "desc": "1301 Caster is thoroughly entangled in the tentacles of a man-of-war "
+  },
+  {
+    "desc": "1302 Caster is thoroughly smeared in bacon grease "
+  },
+  {
+    "desc": "1303 Caster is thoroughly soaked with egg whites "
+  },
+  {
+    "desc": "1304 Caster is thought to have a huge bounty on his head "
+  },
+  {
+    "desc": "1305 Caster is thrown 1d4x1000 years into the future for 1d4 rounds "
+  },
+  {
+    "desc": "1306 Caster is thrown 4d6 feet into the air "
+  },
+  {
+    "desc": "1307 Caster is thrown 4d6 hours into the future "
+  },
+  {
+    "desc": "1308 Caster is thrown violently backward from the spell's target point "
+  },
+  {
+    "desc": "1309 Caster is tightly bound in strong wire "
+  },
+  {
+    "desc": "1310 Caster is tightly wrapped in a straightjacket "
+  },
+  {
+    "desc": "1311 Caster is trampled by a boar "
+  },
+  {
+    "desc": "1312 Caster is trapped in a column of brackish water for 1d4 rounds "
+  },
+  {
+    "desc": "1313 Caster is unable to ask questions "
+  },
+  {
+    "desc": "1314 Caster is unable to cross any bridge that spans flowing water "
+  },
+  {
+    "desc": "1315 Caster is unable to enter into infernal pacts "
+  },
+  {
+    "desc": "1316 Caster is unaffected by magical wind for 1d4 months "
+  },
+  {
+    "desc": "1317 Caster is unaffected by magically-created metal "
+  },
+  {
+    "desc": "1318 Caster is unaffected by natural wind "
+  },
+  {
+    "desc": "1319 Caster is unaffected by the spell Remove Curse "
+  },
+  {
+    "desc": "1320 Caster is unharmed by extremes of sound "
+  },
+  {
+    "desc": "1321 Caster is unharmed by moldy or rotten food "
+  },
+  {
+    "desc": "1322 Caster is universally treated like a hated criminal for 1d8 days "
+  },
+  {
+    "desc": "1323 Caster is unknowingly inducted into a secret society "
+  },
+  {
+    "desc": "1324 Caster is utterly unable to assess his own injuries "
+  },
+  {
+    "desc": "1325 Caster is utterly unable to disguise himself by magic "
+  },
+  {
+    "desc": "1326 Caster is vaguely aware of any deliberate threat upon his life "
+  },
+  {
+    "desc": "1327 Caster is very susceptible to peer pressure in matters of alcohol "
+  },
+  {
+    "desc": "1328 Caster is violently ejected from the next building he enters "
+  },
+  {
+    "desc": "1329 Caster is wearing a deep-sea diving costume with copper helmet "
+  },
+  {
+    "desc": "1330 Caster is wearing a welder's mask and can't remove it until dawn "
+  },
+  {
+    "desc": "1331 Caster is wearing an ornate mask made of the most delicate glass "
+  },
+  {
+    "desc": "1332 Caster is wearing blood-soaked surgical gloves "
+  },
+  {
+    "desc": "1333 Caster is wearing boxing gloves and can't remove them until dawn "
+  },
+  {
+    "desc": "1334 Caster is wearing bunny fur "
+  },
+  {
+    "desc": "1335 Caster is wearing clothes that are 10d10 centuries out of date "
+  },
+  {
+    "desc": "1336 Caster is wearing enough clothing for 3d4 people "
+  },
+  {
+    "desc": "1337 Caster is wearing extraordinarily glamorous false eyelashes "
+  },
+  {
+    "desc": "1338 Caster is wearing golf shoes "
+  },
+  {
+    "desc": "1339 Caster is wearing his mother's wedding gown "
+  },
+  {
+    "desc": "1340 Caster is wearing horseshoes "
+  },
+  {
+    "desc": "1341 Caster is wearing ice skates "
+  },
+  {
+    "desc": "1342 Caster is wearing nothing but a thin loincloth "
+  },
+  {
+    "desc": "1343 Caster is wearing roller skates "
+  },
+  {
+    "desc": "1344 Caster is wearing snowshoes and can't remove them until it snows "
+  },
+  {
+    "desc": "1345 Caster is wearing the clothes that he'll be wearing when he dies "
+  },
+  {
+    "desc": "1346 Caster is wearing the leathered skin of a recently dead king "
+  },
+  {
+    "desc": "1347 Caster is wearing what appears to be his heart on his sleeve "
+  },
+  {
+    "desc": "1348 Caster is widely known to be a reprehensible hedonist "
+  },
+  {
+    "desc": "1349 Caster is worshipped as a god by some degenerate, isolated tribe "
+  },
+  {
+    "desc": "1350 Caster is wracked by searing pain every time he asks a question "
+  },
+  {
+    "desc": "1351 Caster is wracked by searing pain when he draws another's blood "
+  },
+  {
+    "desc": "1352 Caster is wracked by searing pain when he touches the undead "
+  },
+  {
+    "desc": "1353 Caster isn't quite certain that he's not the spawn of a demon "
+  },
+  {
+    "desc": "1354 Caster jams both thumbs deep into his nostrils for 1d6 rounds "
+  },
+  {
+    "desc": "1355 Caster just barely passes for a member of his race "
+  },
+  {
+    "desc": "1356 Caster keeps smelling burnt toast "
+  },
+  {
+    "desc": "1357 Caster keeps talking despite everyone's utter lack of interest "
+  },
+  {
+    "desc": "1358 Caster knows a method by which gold can be tempered like steel "
+  },
+  {
+    "desc": "1359 Caster knows a new language for 1d4 weeks "
+  },
+  {
+    "desc": "1360 Caster knows a spell that will slay him instantly "
+  },
+  {
+    "desc": "1361 Caster knows that he'll go mad if he says his name aloud "
+  },
+  {
+    "desc": "1362 Caster knows the location of every mammal now within one mile "
+  },
+  {
+    "desc": "1363 Caster knows the secret language of frogs and toads "
+  },
+  {
+    "desc": "1364 Caster laughs heartily when he sees his allies injured "
+  },
+  {
+    "desc": "1365 Caster leaps from the next bridge that he crosses "
+  },
+  {
+    "desc": "1366 Caster learns a damaging secret about one of his allies "
+  },
+  {
+    "desc": "1367 Caster learns that he's been assigned to some government position "
+  },
+  {
+    "desc": "1368 Caster learns that his arranged marriage is due to occur tomorrow "
+  },
+  {
+    "desc": "1369 Caster learns that his parents were undead on the day he was born "
+  },
+  {
+    "desc": "1370 Caster leaves no footprints in snow "
+  },
+  {
+    "desc": "1371 Caster likes to tell everyone that he has an eidetic memory "
+  },
+  {
+    "desc": "1372 Caster looks as if he's been submerged in a bog for six months "
+  },
+  {
+    "desc": "1373 Caster loses 10d1000 gold pieces in a wacky investment scheme "
+  },
+  {
+    "desc": "1374 Caster loses 1d10 hit points if a nearby cleric Turns Undead "
+  },
+  {
+    "desc": "1375 Caster loses 1d10 points of Strength; regains one point per day "
+  },
+  {
+    "desc": "1376 Caster loses 1d4 hit points each round that he's invisible "
+  },
+  {
+    "desc": "1377 Caster loses 1d4 hit points every time he speaks a pun "
+  },
+  {
+    "desc": "1378 Caster loses 1d4 hit points per hour until sunset tonight "
+  },
+  {
+    "desc": "1379 Caster loses 3d8 hit points any time he uses the spell Read Magic "
+  },
+  {
+    "desc": "1380 Caster loses access to a single school of magic for 1d4 weeks "
+  },
+  {
+    "desc": "1381 Caster loses access to all but one school of magic for 2d6 days "
+  },
+  {
+    "desc": "1382 Caster loses all comprehension of the concept of money "
+  },
+  {
+    "desc": "1383 Caster loses all hair on the left side of his body "
+  },
+  {
+    "desc": "1384 Caster loses one hit point each time he calls someone by name "
+  },
+  {
+    "desc": "1385 Caster loses one hit point per level of spells cast in sunlight "
+  },
+  {
+    "desc": "1386 Caster loses one point of Charisma for each hit point he loses "
+  },
+  {
+    "desc": "1387 Caster loses one point of Charisma per day for 3d6 weeks "
+  },
+  {
+    "desc": "1388 Caster loses one pound per level of spell he casts "
+  },
+  {
+    "desc": "1389 Caster loses only 1 hit point from the next 3d8 attacks upon him "
+  },
+  {
+    "desc": "1390 Caster makes outrageous bets about the most unlikely events "
+  },
+  {
+    "desc": "1391 Caster mentions a wish to join a secret society called The Tres "
+  },
+  {
+    "desc": "1392 Caster mispronounces everyone's name, offensively if possible "
+  },
+  {
+    "desc": "1393 Caster must carry at least one pound of raw meat at all times "
+  },
+  {
+    "desc": "1394 Caster must carry his spellbook in hand, not in a bag or pouch "
+  },
+  {
+    "desc": "1395 Caster must drink his weight in water by sunset "
+  },
+  {
+    "desc": "1396 Caster must drink salt water instead of fresh water "
+  },
+  {
+    "desc": "1397 Caster must eat at least one pound of salt each week "
+  },
+  {
+    "desc": "1398 Caster must include a vile expletive in every sentence he speaks "
+  },
+  {
+    "desc": "1399 Caster must insult any figure of authority at least 1d4 times "
+  },
+  {
+    "desc": "1400 Caster must Save or his arms start decomposing as if he's dead "
+  },
+  {
+    "desc": "1401 Caster must Save or turn into an anthropomorphic weasel "
+  },
+  {
+    "desc": "1402 Caster must Save vs Fortitude or food turns to iron in his mouth "
+  },
+  {
+    "desc": "1403 Caster must Save vs Fortitude or his lungs turn to gold "
+  },
+  {
+    "desc": "1404 Caster must Save vs Fortitude, or his weight doubles "
+  },
+  {
+    "desc": "1405 Caster must Save vs Will or attempt to disembowel himself "
+  },
+  {
+    "desc": "1406 Caster must Save vs Will or begin aging twenty years per round "
+  },
+  {
+    "desc": "1407 Caster must Save vs Will, or he becomes permanently illiterate "
+  },
+  {
+    "desc": "1408 Caster must state his name to anyone who asks it "
+  },
+  {
+    "desc": "1409 Caster no longer able to share with others "
+  },
+  {
+    "desc": "1410 Caster no longer believes that magic really exists "
+  },
+  {
+    "desc": "1411 Caster no longer needs to eat but can't heal injuries naturally "
+  },
+  {
+    "desc": "1412 Caster no longer perspires "
+  },
+  {
+    "desc": "1413 Caster no longer produces saliva "
+  },
+  {
+    "desc": "1414 Caster now breathes nitrogen instead of oxygen  16"
+  },
+  {
+    "desc": "1415 Caster obsessively pursues his goal of acquiring a second head "
+  },
+  {
+    "desc": "1416 Caster offers to sell his spellbook to the lowest bidder "
+  },
+  {
+    "desc": "1417 Caster only needs to eat during alternating weeks "
+  },
+  {
+    "desc": "1418 Caster owes 10d100 gold pieces to the next person he touches "
+  },
+  {
+    "desc": "1419 Caster owes 1d4 gold pieces to everyone within 100 yards "
+  },
+  {
+    "desc": "1420 Caster owes a colossal sum of money to a local lender "
+  },
+  {
+    "desc": "1421 Caster owes his life to someone who won't be born for centuries "
+  },
+  {
+    "desc": "1422 Caster perceives an assassin hiding behind every tree and rock "
+  },
+  {
+    "desc": "1423 Caster perceives marbles to be rolling around inside his skull "
+  },
+  {
+    "desc": "1424 Caster perceives mysterious ships to be flying in the air nearby "
+  },
+  {
+    "desc": "1425 Caster permanently gains 1d4-1 hit points "
+  },
+  {
+    "desc": "1426 Caster permanently gains an additional 1d4 hit points "
+  },
+  {
+    "desc": "1427 Caster permanently loses 1d4-1 hit points "
+  },
+  {
+    "desc": "1428 Caster permanently loses the sense of taste "
+  },
+  {
+    "desc": "1429 Caster prefers not to cast magic indoors "
+  },
+  {
+    "desc": "1430 Caster prefers not to cast magic unless it's raining "
+  },
+  {
+    "desc": "1431 Caster prefers not to cast magic while anyone is watching him "
+  },
+  {
+    "desc": "1432 Caster prefers not to cast magic while it's raining "
+  },
+  {
+    "desc": "1433 Caster projects an air of competence even when it's unwarranted "
+  },
+  {
+    "desc": "1434 Caster prophesies that he'll die by drowning in melted butter "
+  },
+  {
+    "desc": "1435 Caster publicly curses a member of the royal family "
+  },
+  {
+    "desc": "1436 Caster pursues a disastrous fiscal policy despite public outcry "
+  },
+  {
+    "desc": "1437 Caster quickly rusts if someone else's blood touches him "
+  },
+  {
+    "desc": "1438 Caster randomly teleports 1d100 yards when he becomes invisible "
+  },
+  {
+    "desc": "1439 Caster raves like a lunatic whenever he witnesses a spellcasting "
+  },
+  {
+    "desc": "1440 Caster reacts to hospitality with shocking boorishness "
+  },
+  {
+    "desc": "1441 Caster reacts violently to any perceived insults "
+  },
+  {
+    "desc": "1442 Caster reacts violently to anyone bearing a coat-of-arms "
+  },
+  {
+    "desc": "1443 Caster reacts violently to anyone he hears using improper grammar "
+  },
+  {
+    "desc": "1444 Caster reacts violently to anyone who asks his name "
+  },
+  {
+    "desc": "1445 Caster reacts violently to conspicuous rhymes in speech "
+  },
+  {
+    "desc": "1446 Caster reacts violently to offers of food or water "
+  },
+  {
+    "desc": "1447 Caster reacts violently to religious symbols displayed in battle "
+  },
+  {
+    "desc": "1448 Caster reacts violently to the scent of baking bread "
+  },
+  {
+    "desc": "1449 Caster realizes he's an escaped slave whose owner is tracking him "
+  },
+  {
+    "desc": "1450 Caster realizes that chickens and ducks are plotting a mutiny "
+  },
+  {
+    "desc": "1451 Caster realizes that he's his left arm isn't actually attached "
+  },
+  {
+    "desc": "1452 Caster realizes that he's lived this day repeatedly for years "
+  },
+  {
+    "desc": "1453 Caster realizes that he's skilled in the use of the bola "
+  },
+  {
+    "desc": "1454 Caster realizes that he's standing on a trapdoor over a deep pit "
+  },
+  {
+    "desc": "1455 Caster realizes that he's very close to fulfilling his destiny "
+  },
+  {
+    "desc": "1456 Caster realizes that his name is a synonym for manure "
+  },
+  {
+    "desc": "1457 Caster recalls enduring hideous torture but doesn't know when "
+  },
+  {
+    "desc": "1458 Caster recalls every insult with remarkable clarity "
+  },
+  {
+    "desc": "1459 Caster receives a divine vision of some dreadfully mundane event "
+  },
+  {
+    "desc": "1460 Caster receives no Save against the next spell cast against him "
+  },
+  {
+    "desc": "1461 Caster recently drank a poison or a potion; he can't recall which "
+  },
+  {
+    "desc": "1462 Caster recently found a powerful artifact but doesn't realize it "
+  },
+  {
+    "desc": "1463 Caster recently took an inviolable vow but can quite remember it "
+  },
+  {
+    "desc": "1464 Caster recites a long list of grievances against his allies "
+  },
+  {
+    "desc": "1465 Caster recites that bit from Macbeth whenever he holds a dagger "
+  },
+  {
+    "desc": "1466 Caster refers to his allies by cute nicknames "
+  },
+  {
+    "desc": "1467 Caster refers to his spellbook as his 'Booky-Wooky' "
+  },
+  {
+    "desc": "1468 Caster refuses to carry any gems or jewels "
+  },
+  {
+    "desc": "1469 Caster refuses to eat in the presence of Dwarves "
+  },
+  {
+    "desc": "1470 Caster refuses to enter any town that isn't encircled by a wall "
+  },
+  {
+    "desc": "1471 Caster refuses to handle any blade that hasn't drawn blood "
+  },
+  {
+    "desc": "1472 Caster refuses to rage, rage against the dying of the light "
+  },
+  {
+    "desc": "1473 Caster refuses to speak to anyone while his spellbook is open "
+  },
+  {
+    "desc": "1474 Caster refuses to speak to anyone who addresses him by name "
+  },
+  {
+    "desc": "1475 Caster refuses to speak with one particular ally "
+  },
+  {
+    "desc": "1476 Caster refuses to wield any weapon not engraved with his name "
+  },
+  {
+    "desc": "1477 Caster refuses to wield any weapon that has ever drawn blood "
+  },
+  {
+    "desc": "1478 Caster repeats the next round 1d100 times "
+  },
+  {
+    "desc": "1479 Caster requires only 1d8 hours of sleep per week "
+  },
+  {
+    "desc": "1480 Caster reveals that he enjoys the taste of roasted Dwarf "
+  },
+  {
+    "desc": "1481 Caster reveals that he's a doppelganger "
+  },
+  {
+    "desc": "1482 Caster routinely forgets magical command words "
+  },
+  {
+    "desc": "1483 Caster routinely forgets that he can't breathe underwater "
+  },
+  {
+    "desc": "1484 Caster routinely forgets that poisons are harmful when ingested "
+  },
+  {
+    "desc": "1485 Caster routinely forgets the reason he stood up, sat down, etc. "
+  },
+  {
+    "desc": "1486 Caster routinely forgets to douse campfires, cooking fires, etc. "
+  },
+  {
+    "desc": "1487 Caster routinely forgets to draw a weapon before attacking "
+  },
+  {
+    "desc": "1488 Caster routinely forgets to eat, even when he's famished "
+  },
+  {
+    "desc": "1489 Caster routinely forgets to lie down before sleeping "
+  },
+  {
+    "desc": "1490 Caster routinely forgets to put his clothes on after bathing "
+  },
+  {
+    "desc": "1491 Caster routinely forgets to remove his clothes before bathing "
+  },
+  {
+    "desc": "1492 Caster routinely forgets where he is and where he's going "
+  },
+  {
+    "desc": "1493 Caster routinely forgets where he left his spellbook "
+  },
+  {
+    "desc": "1494 Caster routinely forgets whether or not he's wearing armor "
+  },
+  {
+    "desc": "1495 Caster routinely forgets which spells he has memorized "
+  },
+  {
+    "desc": "1496 Caster routinely loses his train of thought mid-sentence "
+  },
+  {
+    "desc": "1497 Caster runs to and attempts to uproot the nearest tree "
+  },
+  {
+    "desc": "1498 Caster runs to the nearest abattoir "
+  },
+  {
+    "desc": "1499 Caster seeks sanctuary in the nearest brothel "
+  },
+  {
+    "desc": "1500 Caster sees as if everything is cloaked in perpetual twilight "
+  },
+  {
+    "desc": "1501 Caster sees as if his eyes were hovering one foot to the left "
+  },
+  {
+    "desc": "1502 Caster sees as if his eyes were in the back of his head "
+  },
+  {
+    "desc": "1503 Caster sees as if his eyes were where his ears are "
+  },
+  {
+    "desc": "1504 Caster sees colorful ribbons swirling in the air around him "
+  },
+  {
+    "desc": "1505 Caster sees cryptic messages in the patterns of plant growth "
+  },
+  {
+    "desc": "1506 Caster sees everything as if he's deep underwater "
+  },
+  {
+    "desc": "1507 Caster sees everything as through a glass, darkly "
+  },
+  {
+    "desc": "1508 Caster sees geysers of flaming pitch erupting all around him "
+  },
+  {
+    "desc": "1509 Caster sees ghostly courtesans all around him "
+  },
+  {
+    "desc": "1510 Caster sees huge bats and manta rays whirling all around him "
+  },
+  {
+    "desc": "1511 Caster sees in daylight as if it's night, and vice versa "
+  },
+  {
+    "desc": "1512 Caster sees menacing, shadowy figures everywhere he goes "
+  },
+  {
+    "desc": "1513 Caster sees the spell's target point as a place of great holiness "
+  },
+  {
+    "desc": "1514 Caster selected today's attire with insufficient forethought "
+  },
+  {
+    "desc": "1515 Caster seriously considers abandoning magic for all time "
+  },
+  {
+    "desc": "1516 Caster seriously considers entering the clergy "
+  },
+  {
+    "desc": "1517 Caster shatters like glass if he falls more than 2X his height "
+  },
+  {
+    "desc": "1518 Caster shivers uncontrollably in the presence of fire "
+  },
+  {
+    "desc": "1519 Caster shows all signs of plague but is actually quite healthy "
+  },
+  {
+    "desc": "1520 Caster shows everyone his wounds and asks if they look infected "
+  },
+  {
+    "desc": "1521 Caster shrieks like a fire alarm in the presence of fire "
+  },
+  {
+    "desc": "1522 Caster shrinks by 50% upon losing 50% of his hit points "
+  },
+  {
+    "desc": "1523 Caster shuns the company of other magic users "
+  },
+  {
+    "desc": "1524 Caster shuns the use of magic items as being 'amateurish' "
+  },
+  {
+    "desc": "1525 Caster shuns the use of weapons that contain ferrous metal "
+  },
+  {
+    "desc": "1526 Caster sinks like a stone in water but cannot drown "
+  },
+  {
+    "desc": "1527 Caster smells faintly of cabbage "
+  },
+  {
+    "desc": "1528 Caster smells strongly burnt toast "
+  },
+  {
+    "desc": "1529 Caster smells strongly of alcohol "
+  },
+  {
+    "desc": "1530 Caster smells strongly of blood while he's wet "
+  },
+  {
+    "desc": "1531 Caster smells strongly of boiling tar "
+  },
+  {
+    "desc": "1532 Caster smells strongly of exotic perfumes "
+  },
+  {
+    "desc": "1533 Caster smells strongly of fuel oil "
+  },
+  {
+    "desc": "1534 Caster smells strongly of fungus while he's near a campfire "
+  },
+  {
+    "desc": "1535 Caster smells strongly of garlic "
+  },
+  {
+    "desc": "1536 Caster smells strongly of peppermint "
+  },
+  {
+    "desc": "1537 Caster smells strongly of rose petals "
+  },
+  {
+    "desc": "1538 Caster sneezes 1d20 times in each of the next 1d20 rounds "
+  },
+  {
+    "desc": "1539 Caster sneezes repeatedly when he becomes invisible "
+  },
+  {
+    "desc": "1540 Caster sparkles as though dusted with glitter from now on "
+  },
+  {
+    "desc": "1541 Caster speaks in an obviously fake and irritating Cockney accent "
+  },
+  {
+    "desc": "1542 Caster spends 1d4 rounds attacking the nearest tree "
+  },
+  {
+    "desc": "1543 Caster spends 1d4 rounds attempting to ignite his shoes "
+  },
+  {
+    "desc": "1544 Caster spends 1d4 rounds trying to cast this same spell  17"
+  },
+  {
+    "desc": "1545 Caster spends 1d4 rounds trying to strangle himself with his hair "
+  },
+  {
+    "desc": "1546 Caster spends 2d10 rounds racing toward the nearest coastline "
+  },
+  {
+    "desc": "1547 Caster spends 2d10 rounds trying to look into his own ears "
+  },
+  {
+    "desc": "1548 Caster spends all of his money on the next thing he buys "
+  },
+  {
+    "desc": "1549 Caster spews philosophical gobbledygook about one-hand-clapping "
+  },
+  {
+    "desc": "1550 Caster spouts water like a gargoyle for 1d4 rounds "
+  },
+  {
+    "desc": "1551 Caster spreads vicious and embarrassing rumors about himself "
+  },
+  {
+    "desc": "1552 Caster sprouts a dorsal fin "
+  },
+  {
+    "desc": "1553 Caster sprouts a ghastly tentacle from the center of his chest "
+  },
+  {
+    "desc": "1554 Caster sprouts a large, spongy mass between his shoulder blades "
+  },
+  {
+    "desc": "1555 Caster sprouts a mane like a lion's "
+  },
+  {
+    "desc": "1556 Caster sprouts a new ear on the back of one hand "
+  },
+  {
+    "desc": "1557 Caster sprouts a pretty flower from his chin "
+  },
+  {
+    "desc": "1558 Caster sprouts a prominent brow ridge "
+  },
+  {
+    "desc": "1559 Caster sprouts a retractable metal antenna from his forehead "
+  },
+  {
+    "desc": "1560 Caster sprouts a small, flaming wick atop of his head "
+  },
+  {
+    "desc": "1561 Caster sprouts a tiny horn from the tip of his nose "
+  },
+  {
+    "desc": "1562 Caster sprouts a zipper along the length of his spine "
+  },
+  {
+    "desc": "1563 Caster sprouts an additional ear behind each of his normal ears "
+  },
+  {
+    "desc": "1564 Caster sprouts an eye at the exact top of his head "
+  },
+  {
+    "desc": "1565 Caster sprouts an ugly protuberance from his forearm "
+  },
+  {
+    "desc": "1566 Caster sprouts sharp blades along the edges of his forearms "
+  },
+  {
+    "desc": "1567 Caster sprouts tiny, useless wings from the bridge of his nose "
+  },
+  {
+    "desc": "1568 Caster sprouts wild-looking feathers on his cheeks "
+  },
+  {
+    "desc": "1569 Caster sprouts wires and rubber tubing from his flesh "
+  },
+  {
+    "desc": "1570 Caster stands in uffish thought for 3d4 rounds "
+  },
+  {
+    "desc": "1571 Caster stares at the spell's target point for 1d10 rounds "
+  },
+  {
+    "desc": "1572 Caster starts billing his allies for each spell he casts "
+  },
+  {
+    "desc": "1573 Caster starts dancing and can't stop until he's struck by magic "
+  },
+  {
+    "desc": "1574 Caster starts running and thinks he'll explode if he stops "
+  },
+  {
+    "desc": "1575 Caster steps into a snare and is hoisted high into a tree "
+  },
+  {
+    "desc": "1576 Caster steps onto a loose stone and tumbles down the nearest hill "
+  },
+  {
+    "desc": "1577 Caster sticks to the next metal item he touches for 1d6 turns "
+  },
+  {
+    "desc": "1578 Caster stumbles into the next campfire that he passes "
+  },
+  {
+    "desc": "1579 Caster suddenly has 2d4+2 toes jutting from his face "
+  },
+  {
+    "desc": "1580 Caster suddenly has feet like an elephant "
+  },
+  {
+    "desc": "1581 Caster suddenly has misgivings about his skill as a magic user "
+  },
+  {
+    "desc": "1582 Caster suddenly has ten toes on each foot "
+  },
+  {
+    "desc": "1583 Caster suddenly has ten toes on one foot and none on the other "
+  },
+  {
+    "desc": "1584 Caster suddenly realizes that he's been naked for 2d8 days "
+  },
+  {
+    "desc": "1585 Caster suddenly realizes that his clothing is made of human skin "
+  },
+  {
+    "desc": "1586 Caster suddenly starts hemorrhaging honey and molasses "
+  },
+  {
+    "desc": "1587 Caster suffers 10X normal damage from falls of more than 20 feet "
+  },
+  {
+    "desc": "1588 Caster suffers 2x the damage from the next 1d4 attacks on him "
+  },
+  {
+    "desc": "1589 Caster suffers acute paranoia whenever he hears his name "
+  },
+  {
+    "desc": "1590 Caster suffers an intense, debilitating fever for 1d4 days "
+  },
+  {
+    "desc": "1591 Caster suffers bouts of rampant xenophobia "
+  },
+  {
+    "desc": "1592 Caster suffers brief pain every time he closes a book "
+  },
+  {
+    "desc": "1593 Caster suffers cramps if he uses magic within an hour of eating "
+  },
+  {
+    "desc": "1594 Caster suffers crippling arthritis pain "
+  },
+  {
+    "desc": "1595 Caster suffers delusions about the efficacy of the Free Market "
+  },
+  {
+    "desc": "1596 Caster suffers fools gladly "
+  },
+  {
+    "desc": "1597 Caster suffers incredible fear the next time he crosses a bridge "
+  },
+  {
+    "desc": "1598 Caster suffers intense pain during attempts at magical healing "
+  },
+  {
+    "desc": "1599 Caster suffers intense pain in his eyes whenever he sees undead "
+  },
+  {
+    "desc": "1600 Caster suffers intense pain whenever he changes shape "
+  },
+  {
+    "desc": "1601 Caster suffers intense pain whenever he eats cooked meat "
+  },
+  {
+    "desc": "1602 Caster suffers intense pain whenever he enters a temple or church "
+  },
+  {
+    "desc": "1603 Caster suffers intense pain whenever he passes through a doorway "
+  },
+  {
+    "desc": "1604 Caster suffers intense pain whenever he treads upon grass "
+  },
+  {
+    "desc": "1605 Caster suffers intense pain whenever he tries to sing "
+  },
+  {
+    "desc": "1606 Caster suffers intense pain whenever he uses Divination magic "
+  },
+  {
+    "desc": "1607 Caster suffers intense pain whenever he wields a magical blade "
+  },
+  {
+    "desc": "1608 Caster suffers maximum damage from the next 1d4 attacks upon him "
+  },
+  {
+    "desc": "1609 Caster suffers the bends as if he surfaced too quickly "
+  },
+  {
+    "desc": "1610 Caster suffers the tortures of the damned for 1d4 hours "
+  },
+  {
+    "desc": "1611 Caster suspects that all foliage nearby is hostile to him "
+  },
+  {
+    "desc": "1612 Caster suspects that everyone nearby is trying to rob him "
+  },
+  {
+    "desc": "1613 Caster suspects that his allies have all joined a dangerous cult "
+  },
+  {
+    "desc": "1614 Caster suspects that his use of magic is entirely delusional "
+  },
+  {
+    "desc": "1615 Caster suspects that someone nearby has taken over his mind "
+  },
+  {
+    "desc": "1616 Caster suspects that someone nearby is a mechanical automaton "
+  },
+  {
+    "desc": "1617 Caster takes a big bite out of his spellbook "
+  },
+  {
+    "desc": "1618 Caster takes a big bite out of the nearest statue "
+  },
+  {
+    "desc": "1619 Caster takes a big bite out of the nearest tree "
+  },
+  {
+    "desc": "1620 Caster takes a vow of absolute pacifism for 2d4-1 days "
+  },
+  {
+    "desc": "1621 Caster teleports one mile the next time he crosses a river "
+  },
+  {
+    "desc": "1622 Caster teleports to exactly where he was standing an hour ago "
+  },
+  {
+    "desc": "1623 Caster teleports to the planet's moon for 1d4 hours "
+  },
+  {
+    "desc": "1624 Caster teleports to the site of another caster's Chaos Burst "
+  },
+  {
+    "desc": "1625 Caster teleports to the site of the most recent state execution "
+  },
+  {
+    "desc": "1626 Caster teleports to the spot where he last ate "
+  },
+  {
+    "desc": "1627 Caster tells everyone that he has an eidetic memory "
+  },
+  {
+    "desc": "1628 Caster tells everyone that his bones are made of diamond "
+  },
+  {
+    "desc": "1629 Caster tells malicious lies about his employer or benefactor "
+  },
+  {
+    "desc": "1630 Caster tells malicious lies in the presence of clergy "
+  },
+  {
+    "desc": "1631 Caster tends to be marked as the strongest member of his party "
+  },
+  {
+    "desc": "1632 Caster tends to become briefly invisible at inconvenient times "
+  },
+  {
+    "desc": "1633 Caster tends to dribble heavily when drinking from a mug or cup "
+  },
+  {
+    "desc": "1634 Caster thinks that 'high-ho, high-ho' is a proper Dwarf greeting "
+  },
+  {
+    "desc": "1635 Caster thinks that a distant mountain is made of gold "
+  },
+  {
+    "desc": "1636 Caster thinks that a huge fire is blazing all around him "
+  },
+  {
+    "desc": "1637 Caster thinks that a magic candle is burning in his stomach "
+  },
+  {
+    "desc": "1638 Caster thinks that a nearby ally is sapping his magical energies "
+  },
+  {
+    "desc": "1639 Caster thinks that a past life is intruding upon his current one "
+  },
+  {
+    "desc": "1640 Caster thinks that a snake runs the length of his digestive tract "
+  },
+  {
+    "desc": "1641 Caster thinks that a violent hailstorm is going on "
+  },
+  {
+    "desc": "1642 Caster thinks that all fire is an illusion "
+  },
+  {
+    "desc": "1643 Caster thinks that all of his suspicions are justified "
+  },
+  {
+    "desc": "1644 Caster thinks that all other magic users are out to get him "
+  },
+  {
+    "desc": "1645 Caster thinks that all royalty is hopelessly corrupt "
+  },
+  {
+    "desc": "1646 Caster thinks that an ally will kill him before sunset tomorrow "
+  },
+  {
+    "desc": "1647 Caster thinks that any wound he receives is much, much worse "
+  },
+  {
+    "desc": "1648 Caster thinks that elementals pose no threat to him "
+  },
+  {
+    "desc": "1649 Caster thinks that every herbivore in the world hates him "
+  },
+  {
+    "desc": "1650 Caster thinks that every scratch will infect him with lycanthropy "
+  },
+  {
+    "desc": "1651 Caster thinks that everyone he knows is an impostor "
+  },
+  {
+    "desc": "1652 Caster thinks that everyone is jealous of his magical prowess "
+  },
+  {
+    "desc": "1653 Caster thinks that everyone thinks that he is an impostor "
+  },
+  {
+    "desc": "1654 Caster thinks that everything he owns has been replaced by a copy "
+  },
+  {
+    "desc": "1655 Caster thinks that everything he owns is powerfully enchanted "
+  },
+  {
+    "desc": "1656 Caster thinks that evil beings will kill to possess his spellbook "
+  },
+  {
+    "desc": "1657 Caster thinks that food prepared by others is poisonous to him "
+  },
+  {
+    "desc": "1658 Caster thinks that gold will burn him if placed against his skin "
+  },
+  {
+    "desc": "1659 Caster thinks that he came into existence just 1d4 days ago "
+  },
+  {
+    "desc": "1660 Caster thinks that he can become invisible to undead at will "
+  },
+  {
+    "desc": "1661 Caster thinks that he can command dragons to do his bidding "
+  },
+  {
+    "desc": "1662 Caster thinks that he can communicate with ants "
+  },
+  {
+    "desc": "1663 Caster thinks that he can communicate with cats "
+  },
+  {
+    "desc": "1664 Caster thinks that he can fly by leaping off of tall buildings "
+  },
+  {
+    "desc": "1665 Caster thinks that he can handle red-hot metal without harm "
+  },
+  {
+    "desc": "1666 Caster thinks that he can neutralize poisons by swallowing them "
+  },
+  {
+    "desc": "1667 Caster thinks that he can restore the undead to true life "
+  },
+  {
+    "desc": "1668 Caster thinks that he can speak directly to his deity "
+  },
+  {
+    "desc": "1669 Caster thinks that he can speak with birds "
+  },
+  {
+    "desc": "1670 Caster thinks that he can survive many hammer blows to the skull "
+  },
+  {
+    "desc": "1671 Caster thinks that he died during his youth "
+  },
+  {
+    "desc": "1672 Caster thinks that he has a weakness to green rock "
+  },
+  {
+    "desc": "1673 Caster thinks that he has diplomatic immunity "
+  },
+  {
+    "desc": "1674 Caster thinks that he has the power to speak prophecy  18"
+  },
+  {
+    "desc": "1675 Caster thinks that he is attended by invisible undead retainers "
+  },
+  {
+    "desc": "1676 Caster thinks that he just died and is now a zombie "
+  },
+  {
+    "desc": "1677 Caster thinks that he knows the location of a vast horde of gold "
+  },
+  {
+    "desc": "1678 Caster thinks that he looks totally different after each sunrise "
+  },
+  {
+    "desc": "1679 Caster thinks that he must eat a pound of soil by midnight "
+  },
+  {
+    "desc": "1680 Caster thinks that he must hold an awkward item to cast magic "
+  },
+  {
+    "desc": "1681 Caster thinks that he must learn a new spell before sunset "
+  },
+  {
+    "desc": "1682 Caster thinks that he must protect the target at all costs "
+  },
+  {
+    "desc": "1683 Caster thinks that he must quickly remove and burn his clothes "
+  },
+  {
+    "desc": "1684 Caster thinks that he must undertake some bizarre quest "
+  },
+  {
+    "desc": "1685 Caster thinks that he owes thousands of gold pieces to the king "
+  },
+  {
+    "desc": "1686 Caster thinks that he owns everything now in his line of sight "
+  },
+  {
+    "desc": "1687 Caster thinks that he smells strongly of manure "
+  },
+  {
+    "desc": "1688 Caster thinks that he'll be a god if he removes all of his skin "
+  },
+  {
+    "desc": "1689 Caster thinks that he'll be canonized immediately after his death "
+  },
+  {
+    "desc": "1690 Caster thinks that he'll be eaten by zombies if he falls asleep "
+  },
+  {
+    "desc": "1691 Caster thinks that he'll be executed for treason at dawn tomorrow "
+  },
+  {
+    "desc": "1692 Caster thinks that he'll be executed for treason if he uses magic "
+  },
+  {
+    "desc": "1693 Caster thinks that he'll be immolated if he uses magical fire "
+  },
+  {
+    "desc": "1694 Caster thinks that he'll be killed in his sleep one night soon "
+  },
+  {
+    "desc": "1695 Caster thinks that he'll catch a disease if he uses magic items "
+  },
+  {
+    "desc": "1696 Caster thinks that he'll combust if he gets wet "
+  },
+  {
+    "desc": "1697 Caster thinks that he'll combust if he tells a lie "
+  },
+  {
+    "desc": "1698 Caster thinks that he'll combust unless he wears a garland of ivy "
+  },
+  {
+    "desc": "1699 Caster thinks that he'll contract every disease he encounters "
+  },
+  {
+    "desc": "1700 Caster thinks that he'll die if a particular person nearby dies "
+  },
+  {
+    "desc": "1701 Caster thinks that he'll die unless he eats a magical scroll "
+  },
+  {
+    "desc": "1702 Caster thinks that he'll drown in the next water he crosses "
+  },
+  {
+    "desc": "1703 Caster thinks that he'll excrete diamonds if he ingests coal "
+  },
+  {
+    "desc": "1704 Caster thinks that he'll melt if he gets too close to a fire "
+  },
+  {
+    "desc": "1705 Caster thinks that he's a master thief "
+  },
+  {
+    "desc": "1706 Caster thinks that he's a priest of a foul, tentacled monstrosity "
+  },
+  {
+    "desc": "1707 Caster thinks that he's actually 10X older than he appears to be "
+  },
+  {
+    "desc": "1708 Caster thinks that he's aging at a rate of one year per hour "
+  },
+  {
+    "desc": "1709 Caster thinks that he's been declared The Protector Of The Forest "
+  },
+  {
+    "desc": "1710 Caster thinks that he's been spared for some infernal purpose "
+  },
+  {
+    "desc": "1711 Caster thinks that he's being attacked by piranha "
+  },
+  {
+    "desc": "1712 Caster thinks that he's being attacked by the nearest boulder "
+  },
+  {
+    "desc": "1713 Caster thinks that he's being consumed by invisible worms "
+  },
+  {
+    "desc": "1714 Caster thinks that he's being held against his will "
+  },
+  {
+    "desc": "1715 Caster thinks that he's being savaged by rabid dogs "
+  },
+  {
+    "desc": "1716 Caster thinks that he's being squeezed by a large python "
+  },
+  {
+    "desc": "1717 Caster thinks that he's dead and hopes his allies don't find out "
+  },
+  {
+    "desc": "1718 Caster thinks that he's destined to be hanged at midnight tonight "
+  },
+  {
+    "desc": "1719 Caster thinks that he's destined to die in a comical fashion "
+  },
+  {
+    "desc": "1720 Caster thinks that he's died and gone to heaven "
+  },
+  {
+    "desc": "1721 Caster thinks that he's fireproof while he's naked "
+  },
+  {
+    "desc": "1722 Caster thinks that he's guilty of sedition and treason "
+  },
+  {
+    "desc": "1723 Caster thinks that he's highly combustible "
+  },
+  {
+    "desc": "1724 Caster thinks that he's immune to lycanthropy "
+  },
+  {
+    "desc": "1725 Caster thinks that he's immune to necromantic magic "
+  },
+  {
+    "desc": "1726 Caster thinks that he's immune to non-magical diseases "
+  },
+  {
+    "desc": "1727 Caster thinks that he's indentured to some nearby landowner "
+  },
+  {
+    "desc": "1728 Caster thinks that he's invincible while he's talking "
+  },
+  {
+    "desc": "1729 Caster thinks that he's invulnerable to magical weapons "
+  },
+  {
+    "desc": "1730 Caster thinks that he's invulnerable to missile weapons "
+  },
+  {
+    "desc": "1731 Caster thinks that he's invulnerable while he's invisible "
+  },
+  {
+    "desc": "1732 Caster thinks that he's invulnerable while wearing a hat "
+  },
+  {
+    "desc": "1733 Caster thinks that he's just escaped from rogue vivisectionists "
+  },
+  {
+    "desc": "1734 Caster thinks that he's next in line for the throne of hell "
+  },
+  {
+    "desc": "1735 Caster thinks that he's on fire and begs people to extinguish him "
+  },
+  {
+    "desc": "1736 Caster thinks that he's raised himself from the dead "
+  },
+  {
+    "desc": "1737 Caster thinks that he's seeing through someone else's eye "
+  },
+  {
+    "desc": "1738 Caster thinks that he's slowly transforming into a dragon "
+  },
+  {
+    "desc": "1739 Caster thinks that he's sold his soul to several different demons "
+  },
+  {
+    "desc": "1740 Caster thinks that he's sold his soul to that guy at the market "
+  },
+  {
+    "desc": "1741 Caster thinks that he's soon to be bronze-plated "
+  },
+  {
+    "desc": "1742 Caster thinks that he's standing at the edge of a cliff "
+  },
+  {
+    "desc": "1743 Caster thinks that he's standing in a chest-high heap of manure "
+  },
+  {
+    "desc": "1744 Caster thinks that he's standing in waist-deep water "
+  },
+  {
+    "desc": "1745 Caster thinks that he's standing on a tall, narrow staircase "
+  },
+  {
+    "desc": "1746 Caster thinks that he's stolen this body from its rightful owner "
+  },
+  {
+    "desc": "1747 Caster thinks that he's the child of some unlikely person nearby "
+  },
+  {
+    "desc": "1748 Caster thinks that he's the lizard king and can do anything "
+  },
+  {
+    "desc": "1749 Caster thinks that he's the man in the moon "
+  },
+  {
+    "desc": "1750 Caster thinks that he's the victim of an elaborate practical joke "
+  },
+  {
+    "desc": "1751 Caster thinks that he's the victim of circumstance "
+  },
+  {
+    "desc": "1752 Caster thinks that he's water soluble "
+  },
+  {
+    "desc": "1753 Caster thinks that his actions are fulfilling ancient prophecy "
+  },
+  {
+    "desc": "1754 Caster thinks that his allies will all be dead before morning "
+  },
+  {
+    "desc": "1755 Caster thinks that his allies' wounds are much more serious "
+  },
+  {
+    "desc": "1756 Caster thinks that his ancestors are speaking through his allies "
+  },
+  {
+    "desc": "1757 Caster thinks that his ancestors came from a distant world "
+  },
+  {
+    "desc": "1758 Caster thinks that his brain will pop if he learns one more spell "
+  },
+  {
+    "desc": "1759 Caster thinks that his clothing is drenched in strong acid "
+  },
+  {
+    "desc": "1760 Caster thinks that his current alignment isn't his true alignment "
+  },
+  {
+    "desc": "1761 Caster thinks that his death will bring about the apocalypse "
+  },
+  {
+    "desc": "1762 Caster thinks that his death will open the gates of heaven "
+  },
+  {
+    "desc": "1763 Caster thinks that his death will open the gates of hell "
+  },
+  {
+    "desc": "1764 Caster thinks that his deity has commanded him to kill his allies "
+  },
+  {
+    "desc": "1765 Caster thinks that his destiny awaits him in the nearest cave "
+  },
+  {
+    "desc": "1766 Caster thinks that his face is far too hideous to look at "
+  },
+  {
+    "desc": "1767 Caster thinks that his face is just a mask he wears on his skull "
+  },
+  {
+    "desc": "1768 Caster thinks that his hands will disintegrate if he touches gold "
+  },
+  {
+    "desc": "1769 Caster thinks that his head is a parasitic organism "
+  },
+  {
+    "desc": "1770 Caster thinks that his head is an extraneous, vestigial appendage "
+  },
+  {
+    "desc": "1771 Caster thinks that his head was sewn onto this body only recently "
+  },
+  {
+    "desc": "1772 Caster thinks that his head will fall off if he removes his hat "
+  },
+  {
+    "desc": "1773 Caster thinks that his head will shatter if he wears a hat "
+  },
+  {
+    "desc": "1774 Caster thinks that his magic items are about to explode "
+  },
+  {
+    "desc": "1775 Caster thinks that his magic items are plotting against him "
+  },
+  {
+    "desc": "1776 Caster thinks that his soul is controlling his body from far away "
+  },
+  {
+    "desc": "1777 Caster thinks that his soul was forced into this current body "
+  },
+  {
+    "desc": "1778 Caster thinks that his spellbook belongs to someone else "
+  },
+  {
+    "desc": "1779 Caster thinks that his spellbook is a living entity "
+  },
+  {
+    "desc": "1780 Caster thinks that his spellbook is incredibly flammable "
+  },
+  {
+    "desc": "1781 Caster thinks that his spellbook is trying to consume his soul "
+  },
+  {
+    "desc": "1782 Caster thinks that his spellbook is trying to kill him "
+  },
+  {
+    "desc": "1783 Caster thinks that his teeth will explode if chews meat "
+  },
+  {
+    "desc": "1784 Caster thinks that horses are conspiring against him "
+  },
+  {
+    "desc": "1785 Caster thinks that imps and demons harass him while he sleeps "
+  },
+  {
+    "desc": "1786 Caster thinks that it's cute when he speaks in baby-talk "
+  },
+  {
+    "desc": "1787 Caster thinks that life is a simulation and he's soaking in a vat "
+  },
+  {
+    "desc": "1788 Caster thinks that many of his memories were falsely implanted "
+  },
+  {
+    "desc": "1789 Caster thinks that mighty deities are vying for his soul "
+  },
+  {
+    "desc": "1790 Caster thinks that must hold one hand to his head at all times "
+  },
+  {
+    "desc": "1791 Caster thinks that no non-magical animal can harm him "
+  },
+  {
+    "desc": "1792 Caster thinks that no one really trusts him "
+  },
+  {
+    "desc": "1793 Caster thinks that no one really understands what he's saying "
+  },
+  {
+    "desc": "1794 Caster thinks that one his allies will kill him while he sleeps "
+  },
+  {
+    "desc": "1795 Caster thinks that people are just using him for his money "
+  },
+  {
+    "desc": "1796 Caster thinks that people think he's some kind of deity "
+  },
+  {
+    "desc": "1797 Caster thinks that rhyming words have mystical significance "
+  },
+  {
+    "desc": "1798 Caster thinks that some item he's carrying is about to explode "
+  },
+  {
+    "desc": "1799 Caster thinks that some item he's carrying will soon explode "
+  },
+  {
+    "desc": "1800 Caster thinks that some nearby person killed him yesterday "
+  },
+  {
+    "desc": "1801 Caster thinks that someone else can see through his eyes "
+  },
+  {
+    "desc": "1802 Caster thinks that something valuable's been stolen from him "
+  },
+  {
+    "desc": "1803 Caster thinks that the king owes him a big favor "
+  },
+  {
+    "desc": "1804 Caster thinks that the stars are speaking to him  19"
+  },
+  {
+    "desc": "1805 Caster thinks that the target is the only one who can save him "
+  },
+  {
+    "desc": "1806 Caster thinks that the target's death will cause the apocalypse "
+  },
+  {
+    "desc": "1807 Caster thinks that the top of his head should be flattened "
+  },
+  {
+    "desc": "1808 Caster thinks that the universe will cease to exist when he dies "
+  },
+  {
+    "desc": "1809 Caster thinks that the world's rotation will hurl him into space "
+  },
+  {
+    "desc": "1810 Caster thinks that this date will live in infamy "
+  },
+  {
+    "desc": "1811 Caster thinks that this is all just a big misunderstanding "
+  },
+  {
+    "desc": "1812 Caster thinks that Chaos Bursts are proof that he's nearly a deity "
+  },
+  {
+    "desc": "1813 Caster threatens to kill and eat anyone who insults him "
+  },
+  {
+    "desc": "1814 Caster tries to commit hara-kiri with some sort of cudgel "
+  },
+  {
+    "desc": "1815 Caster tries to pop his head by squeezing it with both hands "
+  },
+  {
+    "desc": "1816 Caster tries to swallow any writing instrument that he's carrying "
+  },
+  {
+    "desc": "1817 Caster tries very hard to peel his face from his skull "
+  },
+  {
+    "desc": "1818 Caster tries very hard to twist his nose upside down "
+  },
+  {
+    "desc": "1819 Caster turns bright blue while he's bleeding "
+  },
+  {
+    "desc": "1820 Caster turns into a clothing store mannequin for 1d6 rounds "
+  },
+  {
+    "desc": "1821 Caster turns into a small, pot-bellied pig "
+  },
+  {
+    "desc": "1822 Caster turns into an elemental of equal hit dice for 1d4 rounds "
+  },
+  {
+    "desc": "1823 Caster turns invisible to himself but not to anyone else "
+  },
+  {
+    "desc": "1824 Caster turns to stone but is fully restored at dawn tomorrow "
+  },
+  {
+    "desc": "1825 Caster unleashes a torrent of shocking profanity for 2d4 rounds "
+  },
+  {
+    "desc": "1826 Caster uses fire-based magic in preference to other magic "
+  },
+  {
+    "desc": "1827 Caster utters shocking blasphemies in the presence of clergy "
+  },
+  {
+    "desc": "1828 Caster utters shocking profanities at inappropriate times "
+  },
+  {
+    "desc": "1829 Caster vanishes; has a 1% cumulative chance per round to return "
+  },
+  {
+    "desc": "1830 Caster vanishes; in 1d8 rounds he appears at the target point "
+  },
+  {
+    "desc": "1831 Caster volunteers for the most dangerous task he can find "
+  },
+  {
+    "desc": "1832 Caster vows not to rest until he's found the real killers "
+  },
+  {
+    "desc": "1833 Caster vows to commit deicide before the end of the year "
+  },
+  {
+    "desc": "1834 Caster vows to make a little birdhouse in his soul "
+  },
+  {
+    "desc": "1835 Caster vows to slay the next person to use magic on him "
+  },
+  {
+    "desc": "1836 Caster vows to slay the next person who addresses him by name "
+  },
+  {
+    "desc": "1837 Caster wagers all of his money on an improbable contest "
+  },
+  {
+    "desc": "1838 Caster walks with a profound limp except while naked "
+  },
+  {
+    "desc": "1839 Caster wants to join the next flock of birds he sees "
+  },
+  {
+    "desc": "1840 Caster was born in the universe that existed before this one "
+  },
+  {
+    "desc": "1841 Caster wears eyeglasses and has an odd birthmark on his forehead "
+  },
+  {
+    "desc": "1842 Caster weeps powerfully adhesive tears for 1d6 rounds "
+  },
+  {
+    "desc": "1843 Caster weeps tears of blood whenever someone says his name "
+  },
+  {
+    "desc": "1844 Caster will appear to be his current age for the rest of his life "
+  },
+  {
+    "desc": "1845 Caster will combust unless he immerses himself within an hour "
+  },
+  {
+    "desc": "1846 Caster will die if struck by a wooden club in the next 1d4 rounds "
+  },
+  {
+    "desc": "1847 Caster wins a magical lamp shaped like a woman's leg "
+  },
+  {
+    "desc": "1848 Caster wishes to divest himself of all worldly goods "
+  },
+  {
+    "desc": "1849 Caster won't age for 100 years if he cuts off his thumbs "
+  },
+  {
+    "desc": "1850 Caster won't remember the next 4d6 hours "
+  },
+  {
+    "desc": "1851 Caster, his gear, and clothes are translucent for 2d4-1 days "
+  },
+  {
+    "desc": "1852 Caster's age is doubled until sunrise tomorrow "
+  },
+  {
+    "desc": "1853 Caster's allies completely ignore him for 1d6 hours "
+  },
+  {
+    "desc": "1854 Caster's allies have never quite trusted him "
+  },
+  {
+    "desc": "1855 Caster's allies suspect that he isn't quite housebroken "
+  },
+  {
+    "desc": "1856 Caster's allies suspect that he secretly eats mice and rats "
+  },
+  {
+    "desc": "1857 Caster's allies treat him like a child for 2d12 hours "
+  },
+  {
+    "desc": "1858 Caster's allies worship him as a god for 1d4 days "
+  },
+  {
+    "desc": "1859 Caster's Armor Class is improved by 1d4 until dawn "
+  },
+  {
+    "desc": "1860 Caster's Armor Class is worsened by 1d6 until sunset tomorrow "
+  },
+  {
+    "desc": "1861 Caster's arms and legs are bound in shackles of gold "
+  },
+  {
+    "desc": "1862 Caster's arms and legs look like chicken's legs "
+  },
+  {
+    "desc": "1863 Caster's arms are covered by scars from ritual burns "
+  },
+  {
+    "desc": "1864 Caster's arms are covered in hideous welts and bruises "
+  },
+  {
+    "desc": "1865 Caster's arms are tied together in a tight knot "
+  },
+  {
+    "desc": "1866 Caster's arms from shoulder to wrist are unharmed by acid "
+  },
+  {
+    "desc": "1867 Caster's arms vanish for the duration of the intended spell "
+  },
+  {
+    "desc": "1868 Caster's attacks are 20% likely to inflict no damage on undead "
+  },
+  {
+    "desc": "1869 Caster's attempts at scrying yield sanity-damaging visions "
+  },
+  {
+    "desc": "1870 Caster's attempts at scrying yield visions of a sunken city "
+  },
+  {
+    "desc": "1871 Caster's attempts at scrying yield visions of astonishing boredom "
+  },
+  {
+    "desc": "1872 Caster's attempts at scrying yield visions of his own home "
+  },
+  {
+    "desc": "1873 Caster's attempts at scrying yield visions of horrific carnage "
+  },
+  {
+    "desc": "1874 Caster's attempts at scrying yield visions of impossible events "
+  },
+  {
+    "desc": "1875 Caster's attempts at scrying yield visions of incredible beauty "
+  },
+  {
+    "desc": "1876 Caster's attempts at scrying yield visions of nonexistent places "
+  },
+  {
+    "desc": "1877 Caster's attempts at scrying yield visions of raucous debauchery "
+  },
+  {
+    "desc": "1878 Caster's attempts at scrying yield visions of sugarplums "
+  },
+  {
+    "desc": "1879 Caster's attempts at scrying yield visions of the caster himself "
+  },
+  {
+    "desc": "1880 Caster's attempts at scrying yield visions of the distant future "
+  },
+  {
+    "desc": "1881 Caster's attempts at scrying yield visions of the distant past "
+  },
+  {
+    "desc": "1882 Caster's attempts at scrying yield visions of this location "
+  },
+  {
+    "desc": "1883 Caster's attempts at scrying yield visions of utter desolation "
+  },
+  {
+    "desc": "1884 Caster's attempts at scrying yield wildly inaccurate visions "
+  },
+  {
+    "desc": "1885 Caster's attempts to change shape always fail spectacularly "
+  },
+  {
+    "desc": "1886 Caster's back is scarred in a checkerboard pattern of burns "
+  },
+  {
+    "desc": "1887 Caster's back is scarred with the imprint of a dragon's foot "
+  },
+  {
+    "desc": "1888 Caster's base Armor Class is 8 "
+  },
+  {
+    "desc": "1889 Caster's base Armor Class is 12 "
+  },
+  {
+    "desc": "1890 Caster's big toes become opposable like thumbs "
+  },
+  {
+    "desc": "1891 Caster's blood causes metal to become invisible "
+  },
+  {
+    "desc": "1892 Caster's blood combusts violently within his body "
+  },
+  {
+    "desc": "1893 Caster's blood is a sickly green and smells like manure "
+  },
+  {
+    "desc": "1894 Caster's blood is poisonous to vampires and were-beasts "
+  },
+  {
+    "desc": "1895 Caster's blood is sought as a panacea by Dwarves and Gnomes "
+  },
+  {
+    "desc": "1896 Caster's blood is strongly adhesive after it leaves his body "
+  },
+  {
+    "desc": "1897 Caster's blood is toxic to him, if ingested "
+  },
+  {
+    "desc": "1898 Caster's blood is weightless "
+  },
+  {
+    "desc": "1899 Caster's blood is worth more than gold, in the proper market "
+  },
+  {
+    "desc": "1900 Caster's blood leaves indelible stains on rock and stone "
+  },
+  {
+    "desc": "1901 Caster's blood radiates intense magic "
+  },
+  {
+    "desc": "1902 Caster's body appears to have been shredded and reassembled "
+  },
+  {
+    "desc": "1903 Caster's body can act independently if separated from his head "
+  },
+  {
+    "desc": "1904 Caster's body is 40% fireproof "
+  },
+  {
+    "desc": "1905 Caster's body is an artificial construct "
+  },
+  {
+    "desc": "1906 Caster's body is covered in festering scabs "
+  },
+  {
+    "desc": "1907 Caster's body is covered in ugly, livid bruises "
+  },
+  {
+    "desc": "1908 Caster's body is reset to a 48-hour cycle rather than 24 "
+  },
+  {
+    "desc": "1909 Caster's body is rumored to contain countless diamonds "
+  },
+  {
+    "desc": "1910 Caster's body is scarred as if he's undergone an autopsy "
+  },
+  {
+    "desc": "1911 Caster's body is scarred with innumerable cryptic runes "
+  },
+  {
+    "desc": "1912 Caster's body swivels 180° at the waist and stays that way "
+  },
+  {
+    "desc": "1913 Caster's bones are as fragile as glass for 1d4 rounds "
+  },
+  {
+    "desc": "1914 Caster's bones can't be broken but are highly combustible "
+  },
+  {
+    "desc": "1915 Caster's bones can't be broken unless he's barefoot "
+  },
+  {
+    "desc": "1916 Caster's bones will be powerfully explosive after his death "
+  },
+  {
+    "desc": "1917 Caster's boots adhere strongly to stone while he's wearing them "
+  },
+  {
+    "desc": "1918 Caster's boots are worth 10d100 gold pieces "
+  },
+  {
+    "desc": "1919 Caster's boots can never move more than ten feet from this spot "
+  },
+  {
+    "desc": "1920 Caster's boots have been kidnapped and held for a high ransom "
+  },
+  {
+    "desc": "1921 Caster's boots weigh 100 pounds when wet "
+  },
+  {
+    "desc": "1922 Caster's casting times are shortened by 50% for 2d4-1 days "
+  },
+  {
+    "desc": "1923 Caster's center of gravity changes daily "
+  },
+  {
+    "desc": "1924 Caster's center of gravity is 1d4 feet to his left "
+  },
+  {
+    "desc": "1925 Caster's center of gravity is at the level of his eyes "
+  },
+  {
+    "desc": "1926 Caster's center of gravity is at the level of his feet "
+  },
+  {
+    "desc": "1927 Caster's closest blood relative ascends to godhood "
+  },
+  {
+    "desc": "1928 Caster's closest blood relative has been abducted by a vile cult "
+  },
+  {
+    "desc": "1929 Caster's closest blood relative is slated for execution tomorrow "
+  },
+  {
+    "desc": "1930 Caster's closest blood relative vows to slay him "
+  },
+  {
+    "desc": "1931 Caster's clothes are 25% likely to be invisible to each viewer "
+  },
+  {
+    "desc": "1932 Caster's clothes are burned to cinders, but he is unharmed "
+  },
+  {
+    "desc": "1933 Caster's clothes are caked with salt "
+  },
+  {
+    "desc": "1934 Caster's clothes are drenched with goat's milk  20"
+  },
+  {
+    "desc": "1935 Caster's clothes are impervious to Alteration magic "
+  },
+  {
+    "desc": "1936 Caster's clothes are impervious to fire when it's not being worn "
+  },
+  {
+    "desc": "1937 Caster's clothes are invisible by firelight "
+  },
+  {
+    "desc": "1938 Caster's clothes are invisible in the presence of royalty "
+  },
+  {
+    "desc": "1939 Caster's clothes are soaked with lambs' blood "
+  },
+  {
+    "desc": "1940 Caster's clothes are soaked with lamp oil "
+  },
+  {
+    "desc": "1941 Caster's clothes are soaked with molasses "
+  },
+  {
+    "desc": "1942 Caster's clothes are stripped of any and all enchantments "
+  },
+  {
+    "desc": "1943 Caster's clothes are water soluble "
+  },
+  {
+    "desc": "1944 Caster's clothes clatter like metal when he moves "
+  },
+  {
+    "desc": "1945 Caster's clothes don't leave much to the imagination "
+  },
+  {
+    "desc": "1946 Caster's clothes heat by 1° per minute for the next 1d10 hours "
+  },
+  {
+    "desc": "1947 Caster's clothes maintain a constant temperature of 70° "
+  },
+  {
+    "desc": "1948 Caster's clothes radiate intense magic "
+  },
+  {
+    "desc": "1949 Caster's clothes turn to copper "
+  },
+  {
+    "desc": "1950 Caster's clothes turn to densely-woven spider's web "
+  },
+  {
+    "desc": "1951 Caster's clothes turn to living human flesh "
+  },
+  {
+    "desc": "1952 Caster's clothing inflates to the size of a house "
+  },
+  {
+    "desc": "1953 Caster's cranium enlarges by 25% "
+  },
+  {
+    "desc": "1954 Caster's cranium reforms into a tall, blunt cone "
+  },
+  {
+    "desc": "1955 Caster's death is ordered due to a Burst he triggered previously "
+  },
+  {
+    "desc": "1956 Caster's death is prophesied to precede centuries of prosperity "
+  },
+  {
+    "desc": "1957 Caster's death will inspire weeks of riots and revolution "
+  },
+  {
+    "desc": "1958 Caster's debt increases at a rate of 30% per month "
+  },
+  {
+    "desc": "1959 Caster's digestive system becomes independently sentient "
+  },
+  {
+    "desc": "1960 Caster's dominant hand becomes as clumsy as his other hand "
+  },
+  {
+    "desc": "1961 Caster's ears are burned from his head "
+  },
+  {
+    "desc": "1962 Caster's ears are on the same side of his head "
+  },
+  {
+    "desc": "1963 Caster's ears are unaffected by polymorph magic "
+  },
+  {
+    "desc": "1964 Caster's ears bleed harmlessly but copiously for 10d10 rounds "
+  },
+  {
+    "desc": "1965 Caster's ears can't be cut by any metal blade "
+  },
+  {
+    "desc": "1966 Caster's ears fall off and regrow every few days "
+  },
+  {
+    "desc": "1967 Caster's ears grow to the size of dinner plates "
+  },
+  {
+    "desc": "1968 Caster's ears resemble butterfly's wings "
+  },
+  {
+    "desc": "1969 Caster's elbows can't bend more than 90° "
+  },
+  {
+    "desc": "1970 Caster's entire head looks like a huge nose "
+  },
+  {
+    "desc": "1971 Caster's every attempt at music yields the same annoying tune "
+  },
+  {
+    "desc": "1972 Caster's eyelids look like lips "
+  },
+  {
+    "desc": "1973 Caster's eyes appear crystalline like diamonds "
+  },
+  {
+    "desc": "1974 Caster's eyes are artificial and were installed by demons "
+  },
+  {
+    "desc": "1975 Caster's eyes are invulnerable to heat and fire "
+  },
+  {
+    "desc": "1976 Caster's eyes are replaced by new ones every 1d4 days "
+  },
+  {
+    "desc": "1977 Caster's eyes can be safely removed for up to 1d4 hours "
+  },
+  {
+    "desc": "1978 Caster's eyes can't be harmed by any physical force or object "
+  },
+  {
+    "desc": "1979 Caster's eyes do not move, but he can see normally "
+  },
+  {
+    "desc": "1980 Caster's eyes glow red when he tries to make a good impression "
+  },
+  {
+    "desc": "1981 Caster's eyes merge into a single eye at the bridge of his nose "
+  },
+  {
+    "desc": "1982 Caster's eyes migrate to his cheekbones "
+  },
+  {
+    "desc": "1983 Caster's eyes migrate two inches higher on his forehead "
+  },
+  {
+    "desc": "1984 Caster's eyes sink 1d4 inches into his skull "
+  },
+  {
+    "desc": "1985 Caster's eyes swell shut for 2d12 hours "
+  },
+  {
+    "desc": "1986 Caster's eyeteeth grow into tusks like those of a walrus "
+  },
+  {
+    "desc": "1987 Caster's face and head are covered by a tight shell of fetid wax "
+  },
+  {
+    "desc": "1988 Caster's face and head resemble a snowman's "
+  },
+  {
+    "desc": "1989 Caster's face appears melted like wax "
+  },
+  {
+    "desc": "1990 Caster's face appears to age backwards at 2X the normal rate "
+  },
+  {
+    "desc": "1991 Caster's face appears to be made of chrome "
+  },
+  {
+    "desc": "1992 Caster's face appears to be made of hammered aluminum "
+  },
+  {
+    "desc": "1993 Caster's face appears to be upside-down "
+  },
+  {
+    "desc": "1994 Caster's face appears to float 1d4 inches in front of his skull "
+  },
+  {
+    "desc": "1995 Caster's face appears to have been sculpted from cold wax "
+  },
+  {
+    "desc": "1996 Caster's face doesn't move when he speaks; -2 to reaction rolls "
+  },
+  {
+    "desc": "1997 Caster's face elongates into a short snout with prominent teeth "
+  },
+  {
+    "desc": "1998 Caster's face falls off, leaving a bare skull until sunrise "
+  },
+  {
+    "desc": "1999 Caster's face is a mask "
+  },
+  {
+    "desc": "2000 Caster's face is an illusion and can be dispelled as such "
+  }
+]

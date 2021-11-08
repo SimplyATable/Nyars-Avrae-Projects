@@ -1,0 +1,3002 @@
+[
+  {
+    "desc": "9001 Anyone slain nearby issues cryptic prophecy before dying "
+  },
+  {
+    "desc": "9002 Anyone slain nearby turns instantly to stone "
+  },
+  {
+    "desc": "9003 Anyone slain nearby turns to coal over 1d4 rounds "
+  },
+  {
+    "desc": "9004 Anyone using magic nearby briefly appears to be made of wood "
+  },
+  {
+    "desc": "9005 Anyone using magic nearby gives off a pungent and offensive odor "
+  },
+  {
+    "desc": "9006 Anyone using magic nearby glows a pale green hue for 24 hours "
+  },
+  {
+    "desc": "9007 Anyone using magic nearby is intensely attractive for 1d4 rounds "
+  },
+  {
+    "desc": "9008 Anyone wielding a sword nearby is highly susceptible to poison "
+  },
+  {
+    "desc": "9009 Anyone wielding a sword nearby loses 1d4 fingers for 1d4 weeks "
+  },
+  {
+    "desc": "9010 Anyone within 50 yards who is of Elfish descent is arrested "
+  },
+  {
+    "desc": "9011 Anyone within 50 yards who is of Elfish descent is blinded "
+  },
+  {
+    "desc": "9012 Anyone within 50 yards with a tattoo loses 4d10 hit points "
+  },
+  {
+    "desc": "9013 Anyone within 50 yards with a tattoo will be skinned after death "
+  },
+  {
+    "desc": "9014 Arcane magic cast within 10 miles is heralded by horrid shrieking "
+  },
+  {
+    "desc": "9015 Arcane magic is impossible within 10 miles for 1d4 hours "
+  },
+  {
+    "desc": "9016 Blinding smoke issues from the ground when magic is cast nearby "
+  },
+  {
+    "desc": "9017 Blinding smoke swirls about the area for 1d4 hours "
+  },
+  {
+    "desc": "9018 Blood sprays from the target point like water from a hose "
+  },
+  {
+    "desc": "9019 Celestial voices resonate in the air for 1d10 turns "
+  },
+  {
+    "desc": "9020 Combustion can never occur within 10 yards of the target point "
+  },
+  {
+    "desc": "9021 Combustion is not possible within 10 miles for 3d8 hours "
+  },
+  {
+    "desc": "9022 Countless droplets of sticky black tar rain down on the area "
+  },
+  {
+    "desc": "9023 Countless sharpened stakes jut from the ground in the area "
+  },
+  {
+    "desc": "9024 Countless slugs and snails litter the ground "
+  },
+  {
+    "desc": "9025 Countless small lumps of cheese rain down on the area "
+  },
+  {
+    "desc": "9026 Countless tiny carvings of wooden ducks rain down on the area "
+  },
+  {
+    "desc": "9027 Diabolical voices issue from the target point "
+  },
+  {
+    "desc": "9028 Diaphanous jellyfish drift through the air high overhead "
+  },
+  {
+    "desc": "9029 Displays of hostile emotion are impossible nearby for 6d10 rounds "
+  },
+  {
+    "desc": "9030 Distances in this area are very difficult to judge accurately "
+  },
+  {
+    "desc": "9031 Divination magic is impossible for 1d4 days "
+  },
+  {
+    "desc": "9032 Divination magic is wildly unreliable for 1d4 days "
+  },
+  {
+    "desc": "9033 Eerie and ominous susurrations issue from the air for one week "
+  },
+  {
+    "desc": "9034 Enormous birds circle silently overhead for 1d12 hours "
+  },
+  {
+    "desc": "9035 Events now happening nearby are actually happening 500 years ago "
+  },
+  {
+    "desc": "9036 Events now happening nearby are in exact accordance with prophecy "
+  },
+  {
+    "desc": "9037 Events now happening nearby give rise to a new religion "
+  },
+  {
+    "desc": "9038 Every living creature in the world falls asleep for 6d10 minutes "
+  },
+  {
+    "desc": "9039 Every living creature in the world hears the word 'Xyzzy' "
+  },
+  {
+    "desc": "9040 Every tree within one mile has an eerie face carved in its bark "
+  },
+  {
+    "desc": "9041 Every tree within one mile has cryptic runes carved in its bark "
+  },
+  {
+    "desc": "9042 Every tree within one mile hums sonorously "
+  },
+  {
+    "desc": "9043 Everyone nearby gains a language known only to those in this area "
+  },
+  {
+    "desc": "9044 Everyone within 10 yards is chained together "
+  },
+  {
+    "desc": "9045 Everyone within 50 yards disgorges a large, hairy spider "
+  },
+  {
+    "desc": "9046 Everyone within 50 yards has 1d100 gold pieces in his pocket "
+  },
+  {
+    "desc": "9047 Everyone within 50 yards has 1d6 orc's teeth in his pocket "
+  },
+  {
+    "desc": "9048 Everyone within 50 yards has a 1% chance to become a god "
+  },
+  {
+    "desc": "9049 Everyone within 50 yards has a 2% chance to explode "
+  },
+  {
+    "desc": "9050 Everyone within 50 yards has a big snowball in his pocket "
+  },
+  {
+    "desc": "9051 Everyone within 50 yards has a hen's egg in his pocket "
+  },
+  {
+    "desc": "9052 Everyone within 50 yards has a lighted candle in his pocket "
+  },
+  {
+    "desc": "9053 Everyone within 50 yards has a live cobra in his pocket "
+  },
+  {
+    "desc": "9054 Everyone within 50 yards has a live salmon in his pocket "
+  },
+  {
+    "desc": "9055 Everyone within 50 yards has a lump of quartz in his mouth "
+  },
+  {
+    "desc": "9056 Everyone within 50 yards has a red hot coal in his pocket "
+  },
+  {
+    "desc": "9057 Everyone within 50 yards has a signet ring in his pocket "
+  },
+  {
+    "desc": "9058 Everyone within 50 yards has a small diamond in his pocket "
+  },
+  {
+    "desc": "9059 Everyone within 50 yards has an iron ring around his wrist "
+  },
+  {
+    "desc": "9060 Everyone within 50 yards has delicate glass globe in his pocket "
+  },
+  {
+    "desc": "9061 Everyone within 50 yards has someone's severed hand in his pocket "
+  },
+  {
+    "desc": "9062 Everyone within 50 yards is fined 1d100 gold pieces "
+  },
+  {
+    "desc": "9063 Everyone within 50 yards is holding a wooden cup full of wine "
+  },
+  {
+    "desc": "9064 Everyone within 50 yards is holding an ice cream cone "
+  },
+  {
+    "desc": "9065 Everyone within 50 yards is stamped with the king's royal seal "
+  },
+  {
+    "desc": "9066 Everyone within 50 yards is standing in a small bucket "
+  },
+  {
+    "desc": "9067 Everyone within 50 yards is suddenly exhausted "
+  },
+  {
+    "desc": "9068 Everyone within 50 yards is suddenly holding a block of dry ice "
+  },
+  {
+    "desc": "9069 Everyone within 50 yards is suddenly holding a bucket of chum "
+  },
+  {
+    "desc": "9070 Everyone within 50 yards is suddenly holding a chicken "
+  },
+  {
+    "desc": "9071 Everyone within 50 yards is suddenly holding a helium balloon "
+  },
+  {
+    "desc": "9072 Everyone within 50 yards is suddenly holding a small skull "
+  },
+  {
+    "desc": "9073 Everyone within 50 yards is suddenly holding an ingot of lead "
+  },
+  {
+    "desc": "9074 Everyone within 50 yards is suddenly indoors (or outdoors) "
+  },
+  {
+    "desc": "9075 Everyone within 50 yards is tattooed with a sequential number "
+  },
+  {
+    "desc": "9076 Everyone within 50 yards swaps his name with someone else nearby "
+  },
+  {
+    "desc": "9077 Everyone within one mile identifies someone nearby as a deity "
+  },
+  {
+    "desc": "9078 Everyone within one mile is stricken with intense apathy "
+  },
+  {
+    "desc": "9079 Everything with one foot of the target point ceases to exist "
+  },
+  {
+    "desc": "9080 Everything within 5 feet ceases to exist "
+  },
+  {
+    "desc": "9081 Everything within 5 feet radiates strong magic for one year "
+  },
+  {
+    "desc": "9082 Everything within 50 yards appears to be lit by blacklight "
+  },
+  {
+    "desc": "9083 Everything within 50 yards appears to radiate intense evil "
+  },
+  {
+    "desc": "9084 Everything within 50 yards is permanently drained of color  75"
+  },
+  {
+    "desc": "9085 Everything within 50 yards shakes violently for 3d10 rounds "
+  },
+  {
+    "desc": "9086 Evidence is found of a massive, systematic policy of torture "
+  },
+  {
+    "desc": "9087 Evidence is found of alien intervention in this world's history "
+  },
+  {
+    "desc": "9088 Farmland within one mile is amazingly fertile for 1d10+1 years "
+  },
+  {
+    "desc": "9089 Farmland within one mile is barren for 1d10+1 years "
+  },
+  {
+    "desc": "9090 Fast-drying concrete covers the area to a depth of 6d6 inches "
+  },
+  {
+    "desc": "9091 Fire belches forth from the target point for 10d10 hours "
+  },
+  {
+    "desc": "9092 Fires in this area are drawn toward the target point "
+  },
+  {
+    "desc": "9093 Food eaten within one mile of this spot gives no nutrition "
+  },
+  {
+    "desc": "9094 Food eaten within one mile provides twice the normal nutrition "
+  },
+  {
+    "desc": "9095 For 1d10 rounds, air within 50 yards is as opaque as steel "
+  },
+  {
+    "desc": "9096 For 1d10 rounds, all wood within 50 yards is water soluble "
+  },
+  {
+    "desc": "9097 For 1d10 rounds, any spells cast nearby turn their casters yellow "
+  },
+  {
+    "desc": "9098 For 1d10 rounds, water is highly toxic to all within 50 yards "
+  },
+  {
+    "desc": "9099 For 1d4 days, fires lit nearby are hot enough to melt steel "
+  },
+  {
+    "desc": "9100 For 1d4 days, fires lit nearby are visible through metal or stone "
+  },
+  {
+    "desc": "9101 For 1d4 days, fires lit nearby aren't warm enough to melt ice "
+  },
+  {
+    "desc": "9102 For 1d6 months, all flame in the world is blue "
+  },
+  {
+    "desc": "9103 For 2d4 rounds, the ground within 50 yards flexes like elastic "
+  },
+  {
+    "desc": "9104 For 2d4 rounds, the ground within 50 yards turns to quicksand "
+  },
+  {
+    "desc": "9105 For one month the moon appears as bright as the Sun "
+  },
+  {
+    "desc": "9106 For one month the moon appears to fill half of the night sky "
+  },
+  {
+    "desc": "9107 For one month the Sun appears only as bright as the full moon "
+  },
+  {
+    "desc": "9108 For one month the Sun is invisible though it still provides light "
+  },
+  {
+    "desc": "9109 For one round, any nearby priest has 10% chance to summon his god "
+  },
+  {
+    "desc": "9110 For one turn, the area is lit only by countless flashbulbs "
+  },
+  {
+    "desc": "9111 For one turn, the area is lit only by flickering candlelight "
+  },
+  {
+    "desc": "9112 For one year, flashing lights accompany spells cast in this area "
+  },
+  {
+    "desc": "9113 For one year, spells cast in this area last only one round "
+  },
+  {
+    "desc": "9114 From now on, all within 50 yards are left-handed "
+  },
+  {
+    "desc": "9115 From now on, all within 50 yards look as wounded as they are now "
+  },
+  {
+    "desc": "9116 Genocidal war breaks out between two or more major races "
+  },
+  {
+    "desc": "9117 Gravity is skewed by 45° in this area until sunrise tomorrow "
+  },
+  {
+    "desc": "9118 Gravity within 100 yards has no effect on wood "
+  },
+  {
+    "desc": "9119 Half a ton of iron filings sprays from the target point "
+  },
+  {
+    "desc": "9120 Half a ton of pureed carrots sprays from the target point "
+  },
+  {
+    "desc": "9121 Half of the people nearby are half-invisible to the other half "
+  },
+  {
+    "desc": "9122 Half of the people nearby are teleported 1d4 miles north "
+  },
+  {
+    "desc": "9123 Half of the planet vanishes, but the remaining half is stable "
+  },
+  {
+    "desc": "9124 Half the planet spins clockwise, the other half counter-clockwise "
+  },
+  {
+    "desc": "9125 Hallucinogenic mist billows from the target point until sunset "
+  },
+  {
+    "desc": "9126 Highly flammable gas sprays from the target point "
+  },
+  {
+    "desc": "9127 Horrific, deafening laughter echoes through the area for one week "
+  },
+  {
+    "desc": "9128 Horses tend to throw their riders while traveling in this area "
+  },
+  {
+    "desc": "9129 Huge animal-shapes are traced in the soil in a one mile radius "
+  },
+  {
+    "desc": "9130 Huge volumes of strongly emetic vapor spray from the target point "
+  },
+  {
+    "desc": "9131 Huge, cryptic symbols appear on the side of a nearby mountain "
+  },
+  {
+    "desc": "9132 Hundreds of highly venomous snakes emerge from the ground "
+  },
+  {
+    "desc": "9133 Hundreds of hungry dogs appear in the vicinity "
+  },
+  {
+    "desc": "9134 Hundreds of thousands of acorns fall from the sky "
+  },
+  {
+    "desc": "9135 Hurricane-strength winds swirl around the target point "
+  },
+  {
+    "desc": "9136 Ice cold water sprays from the ground beneath the target point "
+  },
+  {
+    "desc": "9137 Ice suddenly covers the ground nearby to a depth of 1d6 inches "
+  },
+  {
+    "desc": "9138 Icy mist issues from the target for 1d4 days "
+  },
+  {
+    "desc": "9139 If indoors, all exits are sealed; if not, roll again "
+  },
+  {
+    "desc": "9140 If indoors, the building is evacuated of air; if not, roll again "
+  },
+  {
+    "desc": "9141 If indoors, the building shrinks by 50%; if not, roll again "
+  },
+  {
+    "desc": "9142 If indoors, the building vanishes; if not, roll again "
+  },
+  {
+    "desc": "9143 If the area is wooded, all nearby become lost; if not, roll again "
+  },
+  {
+    "desc": "9144 In this area, moonlight causes sound to be stifled "
+  },
+  {
+    "desc": "9145 In this area, non-magical metal is invisible under moonlight "
+  },
+  {
+    "desc": "9146 In this area, sunlight seems 1d4 times as bright as normal "
+  },
+  {
+    "desc": "9147 In this region, arcane magic is blamed for all kinds of disasters "
+  },
+  {
+    "desc": "9148 In this region, Dwarves are considered a rare delicacy "
+  },
+  {
+    "desc": "9149 In this region, Dwarves consider clothing to be unnecessary "
+  },
+  {
+    "desc": "9150 In this region, gold is invulnerable to magic "
+  },
+  {
+    "desc": "9151 In this region, hail has been falling for 2d4 days "
+  },
+  {
+    "desc": "9152 In this region, it's been snowing for two weeks straight "
+  },
+  {
+    "desc": "9153 In this region, missile weapons are considered cowardly "
+  },
+  {
+    "desc": "9154 In this region, possession of gold is now a capital offense "
+  },
+  {
+    "desc": "9155 In this region, the use of arcane magic is punishable by death "
+  },
+  {
+    "desc": "9156 In this region, the use of magic items is heavily taxed "
+  },
+  {
+    "desc": "9157 In this region, the use of priestly magic is strictly controlled "
+  },
+  {
+    "desc": "9158 Innumerable glowing orbs emerge from the target point "
+  },
+  {
+    "desc": "9159 It's suddenly night, lasting until dawn would normally occur "
+  },
+  {
+    "desc": "9160 Jagged rocks erupt from the ground in a 100 yard radius "
+  },
+  {
+    "desc": "9161 Large poppies bloom in a 100 yard radius from the target point "
+  },
+  {
+    "desc": "9162 Lightning bolts issue from the spell's target point "
+  },
+  {
+    "desc": "9163 Loud thunder booms overhead whenever magic is used in this area "
+  },
+  {
+    "desc": "9164 Magic users are persecuted throughout this country "
+  },
+  {
+    "desc": "9165 Magical healing is not possible within 10 miles "
+  },
+  {
+    "desc": "9166 Magical healing is unreliable during daylight within 10 miles "
+  },
+  {
+    "desc": "9167 Magical illusions are impossible within 10 miles for 2d4-1 days "
+  },
+  {
+    "desc": "9168 Magical invisibility is forever impossible within 50 miles "
+  },
+  {
+    "desc": "9169 Many thousands of birds soon take up residence in this area "
+  },
+  {
+    "desc": "9170 Missile attacks are futile within 50 yards of the target point "
+  },
+  {
+    "desc": "9171 Missiles fired nearby all fly toward the same creature "
+  },
+  {
+    "desc": "9172 Missiles fired nearby are 5% likely to induce True Love "
+  },
+  {
+    "desc": "9173 Missiles fired nearby can induce paralysis on a successful hit "
+  },
+  {
+    "desc": "9174 Missiles fired nearby crash like thunder when they hit "
+  },
+  {
+    "desc": "9175 Missiles fired nearby disintegrate while in flight "
+  },
+  {
+    "desc": "9176 Missiles fired nearby explode into embers after 1d4 rounds "
+  },
+  {
+    "desc": "9177 Missiles fired nearby fly straight up into the sky and vanish "
+  },
+  {
+    "desc": "9178 Missiles fired nearby have an absolute range limit of 10 yards "
+  },
+  {
+    "desc": "9179 Missiles fired nearby hit the spell's target point "
+  },
+  {
+    "desc": "9180 Missiles fired nearby inflict damage only on a ToHit roll of 20 "
+  },
+  {
+    "desc": "9181 Missiles fired nearby invariably miss their targets "
+  },
+  {
+    "desc": "9182 Missiles fired nearby leave colorful trails of light "
+  },
+  {
+    "desc": "9183 Missiles fired nearby travel an additional 1d10 miles "
+  },
+  {
+    "desc": "9184 Moonlight in this area induces extreme covetousness "
+  },
+  {
+    "desc": "9185 Moonlight in this area induces extreme melancholy in Elves "
+  },
+  {
+    "desc": "9186 Moonlight in this area induces furious bloodlust "
+  },
+  {
+    "desc": "9187 Moonlight in this area induces pain in lycanthropes "
+  },
+  {
+    "desc": "9188 Moonlight in this area induces panic in those of INT 14 or above "
+  },
+  {
+    "desc": "9189 Moonlight in this area induces unrestrained lecherousness "
+  },
+  {
+    "desc": "9190 Moonlight in this area is blood red "
+  },
+  {
+    "desc": "9191 Natural animals in this area can readily detect magic "
+  },
+  {
+    "desc": "9192 Natural animals respond badly to anyone now within 50 yards "
+  },
+  {
+    "desc": "9193 Nearest bridge appears in the immediate area "
+  },
+  {
+    "desc": "9194 Nearest bridge appears to be a rainbow "
+  },
+  {
+    "desc": "9195 Nearest bridge appears to be made of thick fog "
+  },
+  {
+    "desc": "9196 Nearest bridge can't be crossed by anyone wearing footwear "
+  },
+  {
+    "desc": "9197 Nearest bridge collapses after the next 1d6 people cross it "
+  },
+  {
+    "desc": "9198 Nearest bridge is as pliant as rubber "
+  },
+  {
+    "desc": "9199 Nearest bridge is burned "
+  },
+  {
+    "desc": "9200 Nearest bridge is clear like glass "
+  },
+  {
+    "desc": "9201 Nearest bridge is made of teeth "
+  },
+  {
+    "desc": "9202 Nearest bridge is suddenly over troubled waters "
+  },
+  {
+    "desc": "9203 Nearest bridge is takes 2d4 hours to cross "
+  },
+  {
+    "desc": "9204 Nearest bridge opens like a drawbridge "
+  },
+  {
+    "desc": "9205 Nearest bridge turns permanently invisible "
+  },
+  {
+    "desc": "9206 Nearest building can only be entered by walking backwards "
+  },
+  {
+    "desc": "9207 Nearest building is exactly duplicated at the target point "
+  },
+  {
+    "desc": "9208 Nearest door appears at the target point "
+  },
+  {
+    "desc": "9209 Nearest door is a jar "
+  },
+  {
+    "desc": "9210 Nearest door is a portal to an ancient temple of a powerful deity "
+  },
+  {
+    "desc": "9211 Nearest door opens to a point 1d10 days in the future "
+  },
+  {
+    "desc": "9212 Nearest door opens to a point 1d10 miles in the air "
+  },
+  {
+    "desc": "9213 Nearest door opens to the target point "
+  },
+  {
+    "desc": "9214 Nearest doorway can't be traversed by anyone at full hit points  76"
+  },
+  {
+    "desc": "9215 Nearest doorway can't be traversed by anyone wearing armor "
+  },
+  {
+    "desc": "9216 Nearest doorway causes all who pass through it to age 1d4 years "
+  },
+  {
+    "desc": "9217 Nearest forest acquires malevolent sentience and intelligence "
+  },
+  {
+    "desc": "9218 Nearest forest is set ablaze "
+  },
+  {
+    "desc": "9219 Nearest government collapses amid rumors of infernal pacts "
+  },
+  {
+    "desc": "9220 Nearest government switches to a manure-based economic system "
+  },
+  {
+    "desc": "9221 Nearest horse becomes bipedal "
+  },
+  {
+    "desc": "9222 Nearest horse sprouts two additional pairs of functional legs "
+  },
+  {
+    "desc": "9223 Nearest lake becomes crystal clear but is highly toxic to humans "
+  },
+  {
+    "desc": "9224 Nearest lake can't be safely traversed by any sort of watercraft "
+  },
+  {
+    "desc": "9225 Nearest lake completely drains in a slow, clockwise spiral "
+  },
+  {
+    "desc": "9226 Nearest lake completely evaporates over the next 1d4 rounds "
+  },
+  {
+    "desc": "9227 Nearest lake conceals a sunken city containing incredible riches "
+  },
+  {
+    "desc": "9228 Nearest lake contains a sunken armada from some long-lost navy "
+  },
+  {
+    "desc": "9229 Nearest lake contains an ice berg "
+  },
+  {
+    "desc": "9230 Nearest lake doubles its volume during each of the next 1d4 days "
+  },
+  {
+    "desc": "9231 Nearest lake drains to reveal the corpse of a long-dead deity "
+  },
+  {
+    "desc": "9232 Nearest lake freezes completely solid over the next 1d4 rounds "
+  },
+  {
+    "desc": "9233 Nearest lake heats to 200° over the next 1d4 rounds "
+  },
+  {
+    "desc": "9234 Nearest lake is covered by a tarp "
+  },
+  {
+    "desc": "9235 Nearest lake is encircled by a moat of flaming pitch "
+  },
+  {
+    "desc": "9236 Nearest lake is home to a colony of unaging amphibious humanoids "
+  },
+  {
+    "desc": "9237 Nearest lake is perpetually fog-shrouded "
+  },
+  {
+    "desc": "9238 Nearest lake rises as a huge water elemental and walks to the sea "
+  },
+  {
+    "desc": "9239 Nearest lake suddenly appears at the center of the nearest town "
+  },
+  {
+    "desc": "9240 Nearest lake suppresses magic within one mile of its shores "
+  },
+  {
+    "desc": "9241 Nearest lake undergoes massive tidal surges for one week "
+  },
+  {
+    "desc": "9242 Nearest monastery conceals a gate to hell "
+  },
+  {
+    "desc": "9243 Nearest monastery holds the only copies of many priceless books "
+  },
+  {
+    "desc": "9244 Nearest monastery often engages in dangerous and abhorrent rites "
+  },
+  {
+    "desc": "9245 Nearest mountain slides 1d10 miles north "
+  },
+  {
+    "desc": "9246 Nearest oak tree grows to 20X its current size "
+  },
+  {
+    "desc": "9247 Nearest oak tree is older than the entire world "
+  },
+  {
+    "desc": "9248 Nearest oak tree periodically shoots poisonous thorns "
+  },
+  {
+    "desc": "9249 Nearest oak tree turns to bronze "
+  },
+  {
+    "desc": "9250 Nearest oak tree turns to solid gold "
+  },
+  {
+    "desc": "9251 Nearest oak tree uproots and goes on a rampage "
+  },
+  {
+    "desc": "9252 Nearest priest becomes fearless in the face of death "
+  },
+  {
+    "desc": "9253 Nearest priest believes he's been excommunicated "
+  },
+  {
+    "desc": "9254 Nearest priest believes that cannibalism is a sacrament "
+  },
+  {
+    "desc": "9255 Nearest priest believes that clothing is an abomination "
+  },
+  {
+    "desc": "9256 Nearest priest believes that he's recently slain his deity "
+  },
+  {
+    "desc": "9257 Nearest priest believes that his deity has abandoned him "
+  },
+  {
+    "desc": "9258 Nearest priest believes that his deity has made him immortal "
+  },
+  {
+    "desc": "9259 Nearest priest believes that his deity is at his beck and call "
+  },
+  {
+    "desc": "9260 Nearest priest believes that his deity is standing nearby "
+  },
+  {
+    "desc": "9261 Nearest priest believes that someone nearby is his deity "
+  },
+  {
+    "desc": "9262 Nearest priest falls badly out of favor with his deity "
+  },
+  {
+    "desc": "9263 Nearest priest finds a book of nice and accurate prophecies "
+  },
+  {
+    "desc": "9264 Nearest priest has been stealing from the church's coffers "
+  },
+  {
+    "desc": "9265 Nearest priest has secretly engaged in commendable charity work "
+  },
+  {
+    "desc": "9266 Nearest priest is implicated in a scandal involving livestock "
+  },
+  {
+    "desc": "9267 Nearest priest is summoned by his deity "
+  },
+  {
+    "desc": "9268 Nearest priest is wholly immune to arcane magic for 4d6 hours "
+  },
+  {
+    "desc": "9269 Nearest priest realizes that he's worshipping the wrong deity "
+  },
+  {
+    "desc": "9270 Nearest priest thinks he's being persecuted for his beliefs "
+  },
+  {
+    "desc": "9271 Nearest river conceals the entrance to a great underground empire "
+  },
+  {
+    "desc": "9272 Nearest river freezes solid over the next 1d10 rounds "
+  },
+  {
+    "desc": "9273 Nearest river is dammed "
+  },
+  {
+    "desc": "9274 Nearest river is damned "
+  },
+  {
+    "desc": "9275 Nearest river is discovered to be artificial "
+  },
+  {
+    "desc": "9276 Nearest river is now 1d4X as deep as it was this morning "
+  },
+  {
+    "desc": "9277 Nearest river is permanently blood red but is otherwise unchanged "
+  },
+  {
+    "desc": "9278 Nearest river now runs directly through the nearest town "
+  },
+  {
+    "desc": "9279 Nearest river now runs directly through this area "
+  },
+  {
+    "desc": "9280 Nearest stone structure undergoes explosive decompression "
+  },
+  {
+    "desc": "9281 Nearest town breaks loose from the mainland and drifts out to sea "
+  },
+  {
+    "desc": "9282 Nearest town descends into weeks of mindless debauchery "
+  },
+  {
+    "desc": "9283 Nearest town erupts into riots and turf wars "
+  },
+  {
+    "desc": "9284 Nearest town is actually hidden within a modern wildlife preserve "
+  },
+  {
+    "desc": "9285 Nearest town is annexed by a warring neighbor nation "
+  },
+  {
+    "desc": "9286 Nearest town is completely deserted "
+  },
+  {
+    "desc": "9287 Nearest town is completely overrun by marauding orcs "
+  },
+  {
+    "desc": "9288 Nearest town is inaccessible by land "
+  },
+  {
+    "desc": "9289 Nearest town is populated entirely by a brutal and dangerous cult "
+  },
+  {
+    "desc": "9290 Nearest town is populated entirely by anthropomorphic pigs "
+  },
+  {
+    "desc": "9291 Nearest town is populated entirely by illusions "
+  },
+  {
+    "desc": "9292 Nearest town is populated entirely by undead "
+  },
+  {
+    "desc": "9293 Nearest town is razed "
+  },
+  {
+    "desc": "9294 Nearest town is the site of an ancient magical battle "
+  },
+  {
+    "desc": "9295 Nearest town is totally forgotten by the outside world "
+  },
+  {
+    "desc": "9296 Nearest town secedes from the kingdom "
+  },
+  {
+    "desc": "9297 Nearest town signs a secret pact with an invading horde of orcs "
+  },
+  {
+    "desc": "9298 Nearest wizard breaks his staff and throws his books into the sea "
+  },
+  {
+    "desc": "9299 Nearest wizard can only use magic in full daylight "
+  },
+  {
+    "desc": "9300 Nearest wizard is beseeched by a girl, her dog, and three friends "
+  },
+  {
+    "desc": "9301 Nearest wizard is challenged to a magical duel by a dragon "
+  },
+  {
+    "desc": "9302 Nearest wizard is equally affected by magic he casts on others "
+  },
+  {
+    "desc": "9303 Nearest wizard is exposed as a fraud and a charlatan "
+  },
+  {
+    "desc": "9304 Nearest wizard is unable to cast magic upon himself "
+  },
+  {
+    "desc": "9305 Nearest wizard suspects that he's a fraud and a charlatan "
+  },
+  {
+    "desc": "9306 Next 1d4 people to draw weapons nearby fall unconscious "
+  },
+  {
+    "desc": "9307 Next 1d4 people to draw weapons nearby forget how to use them "
+  },
+  {
+    "desc": "9308 Next 1d4+1 spells cast in this area also trigger Chaos Bursts "
+  },
+  {
+    "desc": "9309 Next area-effect magic used nearby affects only a single target "
+  },
+  {
+    "desc": "9310 Next area-effect magic used nearby affects only males "
+  },
+  {
+    "desc": "9311 Next area-effect magic used nearby centers on a point miles away "
+  },
+  {
+    "desc": "9312 Next area-effect magic used nearby centers on its caster "
+  },
+  {
+    "desc": "9313 Next fire-based magic used nearby causes panic in all who see it "
+  },
+  {
+    "desc": "9314 Next fire-based magic used nearby detonates on its caster "
+  },
+  {
+    "desc": "9315 Next fire-based magic used nearby produces cold instead of heat "
+  },
+  {
+    "desc": "9316 Next fire-based magic used nearby produces impenetrable darkness "
+  },
+  {
+    "desc": "9317 Next fire-based magic used nearby produces smoke but no fire "
+  },
+  {
+    "desc": "9318 Next fire-based magic used nearby produces water instead of fire "
+  },
+  {
+    "desc": "9319 Next person nearby to draw blood also loses that many hit points "
+  },
+  {
+    "desc": "9320 Next person nearby to draw blood appears in the nearest prison "
+  },
+  {
+    "desc": "9321 Next person nearby to draw blood becomes water soluble "
+  },
+  {
+    "desc": "9322 Next person nearby to draw blood can use no weapon for 2d12 hours "
+  },
+  {
+    "desc": "9323 Next person nearby to draw blood can't be blinded by smoke "
+  },
+  {
+    "desc": "9324 Next person nearby to draw blood dies if he's wounded before dawn "
+  },
+  {
+    "desc": "9325 Next person nearby to draw blood disgorges a large steel bowl "
+  },
+  {
+    "desc": "9326 Next person nearby to draw blood gains that many hit points "
+  },
+  {
+    "desc": "9327 Next person nearby to draw blood has a +4 ToHit bonus until dawn "
+  },
+  {
+    "desc": "9328 Next person nearby to draw blood howls like a wolf under the moon "
+  },
+  {
+    "desc": "9329 Next person nearby to draw blood is 10% likely to crumble to dust "
+  },
+  {
+    "desc": "9330 Next person nearby to draw blood is 10% likely to explode "
+  },
+  {
+    "desc": "9331 Next person nearby to draw blood is himself sprayed with blood "
+  },
+  {
+    "desc": "9332 Next person nearby to draw blood is sought by the authorities "
+  },
+  {
+    "desc": "9333 Next person nearby to draw blood is swarmed by innumerable bats "
+  },
+  {
+    "desc": "9334 Next person nearby to draw blood is whisked away into the sky "
+  },
+  {
+    "desc": "9335 Next person nearby to draw blood never needs to sleep again "
+  },
+  {
+    "desc": "9336 Next person nearby to draw blood shrinks by 8d10% "
+  },
+  {
+    "desc": "9337 Next person nearby to draw blood suffers extensive amnesia "
+  },
+  {
+    "desc": "9338 Next person nearby to draw blood then tries to destroy his weapon "
+  },
+  {
+    "desc": "9339 Next person nearby to draw blood thereafter thinks he's a vampire "
+  },
+  {
+    "desc": "9340 Next person nearby to draw blood thinks that on fire "
+  },
+  {
+    "desc": "9341 Next person nearby to draw blood vanishes for 1d4 days "
+  },
+  {
+    "desc": "9342 Next person nearby to draw blood wakes tomorrow as a chimpanzee "
+  },
+  {
+    "desc": "9343 Next person nearby to draw blood wakes tomorrow soaked in blood "
+  },
+  {
+    "desc": "9344 Next person nearby to miss an attack can't attack for 4d6 hours  77"
+  },
+  {
+    "desc": "9345 Next person nearby to miss an attack collapses into a deep coma "
+  },
+  {
+    "desc": "9346 Next person nearby to miss an attack cries like a baby until dawn "
+  },
+  {
+    "desc": "9347 Next person nearby to miss an attack shrieks wildly for 4d6 hours "
+  },
+  {
+    "desc": "9348 Next person nearby to say his name can't use magic for 1d10 days "
+  },
+  {
+    "desc": "9349 Next person nearby to say his name goes berserk "
+  },
+  {
+    "desc": "9350 Next person nearby to say his name is attacked by rabbits "
+  },
+  {
+    "desc": "9351 Next person nearby to say his name is attacked by rodents "
+  },
+  {
+    "desc": "9352 Next person nearby to say his name is healed for 2d6 hit points "
+  },
+  {
+    "desc": "9353 Next person nearby to say his name is targeted for assassination "
+  },
+  {
+    "desc": "9354 Next person nearby to say his name permanently forgets his name "
+  },
+  {
+    "desc": "9355 Next person nearby to say his name teleports into a nearby cave "
+  },
+  {
+    "desc": "9356 Next person nearby to say his name then runs away at top speed "
+  },
+  {
+    "desc": "9357 Next person nearby to say his name wakes 5d10 miles away tomorrow "
+  },
+  {
+    "desc": "9358 Next person nearby to speak finds that his mouth has vanished "
+  },
+  {
+    "desc": "9359 Next person nearby to speak is bound in coils of steel wire "
+  },
+  {
+    "desc": "9360 Next person nearby to speak is hurled 10d10 feet in the air "
+  },
+  {
+    "desc": "9361 Next person nearby to speak is thrown into a deep well "
+  },
+  {
+    "desc": "9362 Next person nearby to use magic becomes two dimensional "
+  },
+  {
+    "desc": "9363 Next person nearby to use magic is 5% likely to be disemboweled "
+  },
+  {
+    "desc": "9364 Next person nearby to use magic is enslaved to someone nearby "
+  },
+  {
+    "desc": "9365 Next person nearby to use magic is restored to full hit points "
+  },
+  {
+    "desc": "9366 Next person nearby to use magic is turned to wood "
+  },
+  {
+    "desc": "9367 Next person nearby to use magic is wrapped in a cocoon "
+  },
+  {
+    "desc": "9368 Next person nearby to use magic loses the ability to feel pain "
+  },
+  {
+    "desc": "9369 Next person nearby to use magic rises one level "
+  },
+  {
+    "desc": "9370 Next person nearby to use magic sees illusory giraffes everywhere "
+  },
+  {
+    "desc": "9371 Next person nearby to use magic then shuns all magic for 1d4 weeks "
+  },
+  {
+    "desc": "9372 Next person nearby to use magic turns bright pink for 1d4 weeks "
+  },
+  {
+    "desc": "9373 Next person nearby to use magic turns into a frog or a dove "
+  },
+  {
+    "desc": "9374 Next person nearby to use magic turns into a zombie for 1d8 days "
+  },
+  {
+    "desc": "9375 Next person nearby to use magic turns invisible above his nose "
+  },
+  {
+    "desc": "9376 Next person nearby to use profanity is fined 500,000 gold pieces "
+  },
+  {
+    "desc": "9377 Next person nearby to use profanity is stricken mute for one week "
+  },
+  {
+    "desc": "9378 Next person slain nearby crumbles into a heap of toxic ash "
+  },
+  {
+    "desc": "9379 Next person slain nearby disappears without a trace "
+  },
+  {
+    "desc": "9380 Next person slain nearby explodes messily "
+  },
+  {
+    "desc": "9381 Next person slain nearby flies into the air and vanishes "
+  },
+  {
+    "desc": "9382 Next person slain nearby has his skull and spine torn out "
+  },
+  {
+    "desc": "9383 Next person slain nearby haunts the area for hundreds of years "
+  },
+  {
+    "desc": "9384 Next person slain nearby is borne away by wonder-working dolphins "
+  },
+  {
+    "desc": "9385 Next person slain nearby is found to contain hundreds of mice "
+  },
+  {
+    "desc": "9386 Next person slain nearby is immediately breaded and deep-fried "
+  },
+  {
+    "desc": "9387 Next person slain nearby is immediately butchered like a deer "
+  },
+  {
+    "desc": "9388 Next person slain nearby is immediately plated in chrome "
+  },
+  {
+    "desc": "9389 Next person slain nearby is resurrected with full hit points "
+  },
+  {
+    "desc": "9390 Next person slain nearby is soon thereafter worshipped as a god "
+  },
+  {
+    "desc": "9391 Next person slain nearby is welcomed into his deity's pantheon "
+  },
+  {
+    "desc": "9392 Next person slain nearby never really existed "
+  },
+  {
+    "desc": "9393 Next person slain nearby slowly transforms into solid gold "
+  },
+  {
+    "desc": "9394 Next person slain nearby sputters about like a deflating balloon "
+  },
+  {
+    "desc": "9395 Next person slain nearby turns into a large swine as he dies "
+  },
+  {
+    "desc": "9396 Next person slain nearby was the offspring of a god "
+  },
+  {
+    "desc": "9397 Next person struck by magic nearby thinks he's a toddler "
+  },
+  {
+    "desc": "9398 Next person to be injured nearby is permanently crippled "
+  },
+  {
+    "desc": "9399 Next person to be injured nearby is restored to full hit points "
+  },
+  {
+    "desc": "9400 Next person to cross the nearest bridge turns into a troll "
+  },
+  {
+    "desc": "9401 Next plant-based magic used nearby turns its user to a scarecrow "
+  },
+  {
+    "desc": "9402 Next plant-based magic uses nearby turns its user to a vegetarian "
+  },
+  {
+    "desc": "9403 Next polymorph magic used nearby affects 1d4 other targets nearby "
+  },
+  {
+    "desc": "9404 Next polymorph magic used nearby affects a random target nearby "
+  },
+  {
+    "desc": "9405 Next polymorph magic used nearby can't be undone "
+  },
+  {
+    "desc": "9406 Next polymorph magic used nearby completely heals its caster "
+  },
+  {
+    "desc": "9407 Next polymorph magic used nearby doubles its caster's height "
+  },
+  {
+    "desc": "9408 Next polymorph magic used nearby is only 50% effective "
+  },
+  {
+    "desc": "9409 Next polymorph magic used nearby knocks its caster unconscious "
+  },
+  {
+    "desc": "9410 Next polymorph magic used nearby lapses after one round "
+  },
+  {
+    "desc": "9411 Next polymorph magic used nearby lasts for 1d100 days "
+  },
+  {
+    "desc": "9412 Next polymorph magic used nearby leaves its caster badly deformed "
+  },
+  {
+    "desc": "9413 Next polymorph magic used nearby makes its caster a quadruped "
+  },
+  {
+    "desc": "9414 Next polymorph magic used nearby splits its target in two "
+  },
+  {
+    "desc": "9415 Next polymorph magic used nearby turns its caster into a rooster "
+  },
+  {
+    "desc": "9416 Next polymorph magic used nearby turns its caster into its target "
+  },
+  {
+    "desc": "9417 Next polymorph magic used nearby turns its target into a whale "
+  },
+  {
+    "desc": "9418 Next polymorph magic used nearby turns its target to living metal "
+  },
+  {
+    "desc": "9419 Next polymorph magic used nearby turns its target to stone "
+  },
+  {
+    "desc": "9420 Next polymorph magic used nearby yields a random result "
+  },
+  {
+    "desc": "9421 Next spell cast in this area equally affects all within 50 yards "
+  },
+  {
+    "desc": "9422 Next spell cast in this area has a permanent duration "
+  },
+  {
+    "desc": "9423 Next weapon drawn nearby attacks its wielder "
+  },
+  {
+    "desc": "9424 Next weapon drawn nearby becomes twice as heavy as its wielder "
+  },
+  {
+    "desc": "9425 Next weapon drawn nearby can't cross running water "
+  },
+  {
+    "desc": "9426 Next weapon drawn nearby can't kill anyone while its owner lives "
+  },
+  {
+    "desc": "9427 Next weapon drawn nearby causes its wielder to distrust magic "
+  },
+  {
+    "desc": "9428 Next weapon drawn nearby chills to -200° "
+  },
+  {
+    "desc": "9429 Next weapon drawn nearby damages the sanity of its wielder "
+  },
+  {
+    "desc": "9430 Next weapon drawn nearby disintegrates if used to kill someone "
+  },
+  {
+    "desc": "9431 Next weapon drawn nearby fills its wielder with crippling fear "
+  },
+  {
+    "desc": "9432 Next weapon drawn nearby forces its wielder to attack his allies "
+  },
+  {
+    "desc": "9433 Next weapon drawn nearby hurls itself into the sky "
+  },
+  {
+    "desc": "9434 Next weapon drawn nearby ignites and burns like magnesium "
+  },
+  {
+    "desc": "9435 Next weapon drawn nearby inflicts only illusory damage "
+  },
+  {
+    "desc": "9436 Next weapon drawn nearby inflicts only minimum possible damage "
+  },
+  {
+    "desc": "9437 Next weapon drawn nearby instantly quadruples in size "
+  },
+  {
+    "desc": "9438 Next weapon drawn nearby is as soft as silk until sunset tomorrow "
+  },
+  {
+    "desc": "9439 Next weapon drawn nearby is attracted to the spell's target point "
+  },
+  {
+    "desc": "9440 Next weapon drawn nearby is instantly struck by lightning "
+  },
+  {
+    "desc": "9441 Next weapon drawn nearby makes its user's foes invisible to him "
+  },
+  {
+    "desc": "9442 Next weapon drawn nearby makes its wielder seem far more powerful "
+  },
+  {
+    "desc": "9443 Next weapon drawn nearby makes its wielder think he's immortal "
+  },
+  {
+    "desc": "9444 Next weapon drawn nearby makes its wielder think he's invisible "
+  },
+  {
+    "desc": "9445 Next weapon drawn nearby mimics its wielder's personality "
+  },
+  {
+    "desc": "9446 Next weapon drawn nearby pulses with strange lights and music "
+  },
+  {
+    "desc": "9447 Next weapon drawn nearby quickly becomes as hot as the Sun "
+  },
+  {
+    "desc": "9448 Next weapon drawn nearby seizes control of its wielder's body "
+  },
+  {
+    "desc": "9449 Next weapon drawn nearby vanishes until the melee is over "
+  },
+  {
+    "desc": "9450 Next weapon drawn nearby was stolen from the royal armory "
+  },
+  {
+    "desc": "9451 Next weapon nearby to draw blood appears to be horribly evil "
+  },
+  {
+    "desc": "9452 Next weapon nearby to draw blood attracts a demon's attention "
+  },
+  {
+    "desc": "9453 Next weapon nearby to draw blood becomes invisible to its wielder "
+  },
+  {
+    "desc": "9454 Next weapon nearby to draw blood becomes legendary "
+  },
+  {
+    "desc": "9455 Next weapon nearby to draw blood can thereafter cut through steel "
+  },
+  {
+    "desc": "9456 Next weapon nearby to draw blood can't draw blood for 1d4 weeks "
+  },
+  {
+    "desc": "9457 Next weapon nearby to draw blood ceases to exist "
+  },
+  {
+    "desc": "9458 Next weapon nearby to draw blood doubles in length until sunrise "
+  },
+  {
+    "desc": "9459 Next weapon nearby to draw blood glows in the presence of humans "
+  },
+  {
+    "desc": "9460 Next weapon nearby to draw blood has been used to murder a king "
+  },
+  {
+    "desc": "9461 Next weapon nearby to draw blood heats to 800° "
+  },
+  {
+    "desc": "9462 Next weapon nearby to draw blood imparts visions of perdition "
+  },
+  {
+    "desc": "9463 Next weapon nearby to draw blood induces bloodlust in its wielder "
+  },
+  {
+    "desc": "9464 Next weapon nearby to draw blood induces envy in its wielder "
+  },
+  {
+    "desc": "9465 Next weapon nearby to draw blood induces lethargy in its wielder "
+  },
+  {
+    "desc": "9466 Next weapon nearby to draw blood induces mad panic in its wielder "
+  },
+  {
+    "desc": "9467 Next weapon nearby to draw blood induces pacifism in its wielder "
+  },
+  {
+    "desc": "9468 Next weapon nearby to draw blood infects its wielder with leprosy "
+  },
+  {
+    "desc": "9469 Next weapon nearby to draw blood is +1 ToHit for one week "
+  },
+  {
+    "desc": "9470 Next weapon nearby to draw blood is 10% likely to disintegrate "
+  },
+  {
+    "desc": "9471 Next weapon nearby to draw blood is 10% likely to explode "
+  },
+  {
+    "desc": "9472 Next weapon nearby to draw blood is -2 ToHit for one month "
+  },
+  {
+    "desc": "9473 Next weapon nearby to draw blood is 25% likely to turn to ice "
+  },
+  {
+    "desc": "9474 Next weapon nearby to draw blood is coveted by dragons  78"
+  },
+  {
+    "desc": "9475 Next weapon nearby to draw blood is discovered to be a cheap copy "
+  },
+  {
+    "desc": "9476 Next weapon nearby to draw blood is discovered to be an illusion "
+  },
+  {
+    "desc": "9477 Next weapon nearby to draw blood is encased in a plaster cast "
+  },
+  {
+    "desc": "9478 Next weapon nearby to draw blood is forever indestructible "
+  },
+  {
+    "desc": "9479 Next weapon nearby to draw blood is found to be a mighty artifact "
+  },
+  {
+    "desc": "9480 Next weapon nearby to draw blood is fused to its wielder's hand "
+  },
+  {
+    "desc": "9481 Next weapon nearby to draw blood is replaced by an imperfect copy "
+  },
+  {
+    "desc": "9482 Next weapon nearby to draw blood is slicked with butter "
+  },
+  {
+    "desc": "9483 Next weapon nearby to draw blood is struck by lightning 1d6 times "
+  },
+  {
+    "desc": "9484 Next weapon nearby to draw blood is suddenly as light as hydrogen "
+  },
+  {
+    "desc": "9485 Next weapon nearby to draw blood is thereafter highly flammable "
+  },
+  {
+    "desc": "9486 Next weapon nearby to draw blood is thereafter stolen by goblins "
+  },
+  {
+    "desc": "9487 Next weapon nearby to draw blood is worth 100X its normal value "
+  },
+  {
+    "desc": "9488 Next weapon nearby to draw blood knocks its wielder unconscious "
+  },
+  {
+    "desc": "9489 Next weapon nearby to draw blood laughs malevolently until sunset "
+  },
+  {
+    "desc": "9490 Next weapon nearby to draw blood leaps 1d4 months into the future "
+  },
+  {
+    "desc": "9491 Next weapon nearby to draw blood makes its wielder smell horrible "
+  },
+  {
+    "desc": "9492 Next weapon nearby to draw blood quickly ages 1d10000 years "
+  },
+  {
+    "desc": "9493 Next weapon nearby to draw blood returns to its original owner "
+  },
+  {
+    "desc": "9494 Next weapon nearby to draw blood returns to this spot in 6d6 days "
+  },
+  {
+    "desc": "9495 Next weapon nearby to draw blood sinks 1d10 feet into the ground "
+  },
+  {
+    "desc": "9496 Next weapon nearby to draw blood soaks its wielder in blood "
+  },
+  {
+    "desc": "9497 Next weapon nearby to draw blood sprouts thorny projections "
+  },
+  {
+    "desc": "9498 Next weapon nearby to draw blood suddenly weighs 1d4 tons "
+  },
+  {
+    "desc": "9499 Next weapon nearby to draw blood suffers an inconvenient curse "
+  },
+  {
+    "desc": "9500 Next weapon nearby to draw blood teleports to some dragon's horde "
+  },
+  {
+    "desc": "9501 Next weapon nearby to draw blood thereafter craves blood "
+  },
+  {
+    "desc": "9502 Next weapon nearby to draw blood thereby fulfills a prophecy "
+  },
+  {
+    "desc": "9503 Next weapon nearby to draw blood vanishes if that victim dies "
+  },
+  {
+    "desc": "9504 Next weapon nearby to draw blood was forged on another planet "
+  },
+  {
+    "desc": "9505 Next weapon nearby to draw blood will vanish if it's cleaned "
+  },
+  {
+    "desc": "9506 Next weapon nearby to draw blood winds up at the bottom of a well "
+  },
+  {
+    "desc": "9507 Night falls in 1d4 rounds and lasts 2d4-1 days "
+  },
+  {
+    "desc": "9508 No bipedal creatures can come within 10 yards of the target point "
+  },
+  {
+    "desc": "9509 No bipedal creatures can speak within 100 yards of this place "
+  },
+  {
+    "desc": "9510 No blade within one mile can be sharpened for 1d4 weeks "
+  },
+  {
+    "desc": "9511 No blade within one mile can cut live flesh until noon tomorrow "
+  },
+  {
+    "desc": "9512 No females within 50 yards can be injured by males for 6d8 hours "
+  },
+  {
+    "desc": "9513 No females within one mile can speak until sunset tomorrow "
+  },
+  {
+    "desc": "9514 No males within one mile can be injured for 1d4 rounds "
+  },
+  {
+    "desc": "9515 No males within one mile can speak until sunset tomorrow "
+  },
+  {
+    "desc": "9516 No memory, record, or evidence exists about the last 1d10 turns "
+  },
+  {
+    "desc": "9517 No one currently wearing shoes nearby can speak until dawn "
+  },
+  {
+    "desc": "9518 No one currently wearing shoes nearby can use magic for one week "
+  },
+  {
+    "desc": "9519 No one in the world can die or be slain for 3d8 hours "
+  },
+  {
+    "desc": "9520 No one in the world can sleep for 1d6 days "
+  },
+  {
+    "desc": "9521 No one in the world can speak for 10d10 rounds "
+  },
+  {
+    "desc": "9522 No one in the world can tell a lie for the next 24 hours "
+  },
+  {
+    "desc": "9523 No one nearby can eat food for 1d8 days "
+  },
+  {
+    "desc": "9524 No one nearby can teleport or be teleported for 1d4 years "
+  },
+  {
+    "desc": "9525 No one nearby can use any form of scrying magic for one year "
+  },
+  {
+    "desc": "9526 No one within 1,000 miles can successfully cast Dispel Magic "
+  },
+  {
+    "desc": "9527 No one within 1,000 miles knows the spell Remove Curse "
+  },
+  {
+    "desc": "9528 No one within 50 yards benefits from healing magic for 1d10 weeks "
+  },
+  {
+    "desc": "9529 No one within 50 yards can cross running water for 1d4 days "
+  },
+  {
+    "desc": "9530 No one within 50 yards can draw a weapon for 1d10 rounds "
+  },
+  {
+    "desc": "9531 No one within 50 yards can leave the area for 4d6 hours "
+  },
+  {
+    "desc": "9532 No one within 50 yards can see artificial light sources "
+  },
+  {
+    "desc": "9533 No one within 50 yards can speak until dawn "
+  },
+  {
+    "desc": "9534 No one within 50 yards can use rope or the like for 2d4 days "
+  },
+  {
+    "desc": "9535 No one within 50 yards can wear armor for 1d6 days "
+  },
+  {
+    "desc": "9536 No one within 50 yards ever again feels hunger "
+  },
+  {
+    "desc": "9537 No one within 50 yards has eaten in 3d4 days "
+  },
+  {
+    "desc": "9538 No one within 50 yards has slept in 4d6 days "
+  },
+  {
+    "desc": "9539 No one within 50 yards is welcome in any city within 100 miles "
+  },
+  {
+    "desc": "9540 No one within 50 yards needs to breathe until dawn tomorrow "
+  },
+  {
+    "desc": "9541 No one within 50 yards needs to eat for the next month "
+  },
+  {
+    "desc": "9542 No one within 50 yards trusts anyone else for 1d6 hours "
+  },
+  {
+    "desc": "9543 No plants can ever grow again within 50 yards of the target point "
+  },
+  {
+    "desc": "9544 No precipitation falls within 10 miles for 4d6 months "
+  },
+  {
+    "desc": "9545 Non-magical gold is toxic to all within 50 yards "
+  },
+  {
+    "desc": "9546 Non-sentient animals shun this area forever "
+  },
+  {
+    "desc": "9547 Numerous fires erupt in the nearest town "
+  },
+  {
+    "desc": "9548 One magic potion nearby is instantly lethal "
+  },
+  {
+    "desc": "9549 One magic potion nearby will trigger a Chaos Burst when consumed "
+  },
+  {
+    "desc": "9550 One random sword nearby is 40% likely to heal instead of wound "
+  },
+  {
+    "desc": "9551 One random sword nearby is bent like a horseshoe "
+  },
+  {
+    "desc": "9552 One random sword nearby is duplicated under every full moon "
+  },
+  {
+    "desc": "9553 One random sword nearby is permanently blunted "
+  },
+  {
+    "desc": "9554 One random sword nearby is razor-sharp and indestructible "
+  },
+  {
+    "desc": "9555 One random sword nearby leaves faint rainbow streaks in the air "
+  },
+  {
+    "desc": "9556 One random sword nearby opens like an umbrella "
+  },
+  {
+    "desc": "9557 One random sword nearby protects its owner against natural acid "
+  },
+  {
+    "desc": "9558 One random sword nearby protects its owner against natural cold "
+  },
+  {
+    "desc": "9559 One random sword nearby protests loudly when wielded in combat "
+  },
+  {
+    "desc": "9560 One random sword nearby turns into a flock of doves "
+  },
+  {
+    "desc": "9561 One random sword nearby was forged in the fires of hell by demons "
+  },
+  {
+    "desc": "9562 One random sword nearby will explode on contact with blood "
+  },
+  {
+    "desc": "9563 One suit of armor nearby becomes free-willed and belligerent "
+  },
+  {
+    "desc": "9564 One suit of armor nearby fuses into a single piece "
+  },
+  {
+    "desc": "9565 One suit of armor nearby heats to 600° the next time it's struck "
+  },
+  {
+    "desc": "9566 One suit of armor nearby is burned to slag "
+  },
+  {
+    "desc": "9567 Plans for a perpetual motion device appear at the target point "
+  },
+  {
+    "desc": "9568 Popular opinion nearby is sharply opposed to the use of magic "
+  },
+  {
+    "desc": "9569 Poverty is rampant because employers hire cheap kobold laborers "
+  },
+  {
+    "desc": "9570 Priestly magic is impossible within 10 miles for 1d4 hours "
+  },
+  {
+    "desc": "9571 Racial bigotry flares up within a 100 mile radius for 1d4 weeks "
+  },
+  {
+    "desc": "9572 Rats and similar vermin are drawn to this area in great numbers "
+  },
+  {
+    "desc": "9573 Ruins discovered nearby hint at an ancient, advanced civilization "
+  },
+  {
+    "desc": "9574 Scalding steam sprays violently from the spell's target point "
+  },
+  {
+    "desc": "9575 Seawater is highly toxic to all within 50 yards "
+  },
+  {
+    "desc": "9576 Several large saw blades whirl through the area for 2d6 rounds "
+  },
+  {
+    "desc": "9577 Shadows in this area seem to conceal malicious, mischievous imps "
+  },
+  {
+    "desc": "9578 Small pebbles pelt all within 50 yards who aren't wearing armor "
+  },
+  {
+    "desc": "9579 Snow falls heavily in the area for 2d4-1 days and nights "
+  },
+  {
+    "desc": "9580 Some dangerous anachronistic beast appears at the target point "
+  },
+  {
+    "desc": "9581 Some magic item nearby absorbs its owner and becomes an artifact "
+  },
+  {
+    "desc": "9582 Some magic item nearby gives off highly toxic light "
+  },
+  {
+    "desc": "9583 Some major race dies out in the next 2d4 years "
+  },
+  {
+    "desc": "9584 Some major race splits into two incompatible sub-species "
+  },
+  {
+    "desc": "9585 Some non-magical animal nearby becomes immortal "
+  },
+  {
+    "desc": "9586 Some non-magical animal nearby suddenly has 25 Intelligence "
+  },
+  {
+    "desc": "9587 Someone nearby acquires 10% magic resistance "
+  },
+  {
+    "desc": "9588 Someone nearby adopts a new mentor each day "
+  },
+  {
+    "desc": "9589 Someone nearby always thinks that it's raining "
+  },
+  {
+    "desc": "9590 Someone nearby attacks nobles on sight "
+  },
+  {
+    "desc": "9591 Someone nearby attracts 2d10 followers who think he's a prophet "
+  },
+  {
+    "desc": "9592 Someone nearby awakens tomorrow in a stone sepulcher "
+  },
+  {
+    "desc": "9593 Someone nearby babbles about cone-shaped beings who took his mind "
+  },
+  {
+    "desc": "9594 Someone nearby becomes intensely covetous of others' magic items "
+  },
+  {
+    "desc": "9595 Someone nearby briefly turns into a rooster at every sunrise "
+  },
+  {
+    "desc": "9596 Someone nearby can become a zombie for 1d6 hours per week "
+  },
+  {
+    "desc": "9597 Someone nearby can breathe only underwater for 4d6 hours "
+  },
+  {
+    "desc": "9598 Someone nearby can leap across streams or rivers with ease "
+  },
+  {
+    "desc": "9599 Someone nearby can never sit or lie down again "
+  },
+  {
+    "desc": "9600 Someone nearby can now only be wounded by magic or silver weapons "
+  },
+  {
+    "desc": "9601 Someone nearby can prove that all within 50 yards died years ago "
+  },
+  {
+    "desc": "9602 Someone nearby can regenerate 1 hit point per hour for 1d4 weeks "
+  },
+  {
+    "desc": "9603 Someone nearby can shrink to half his height at will "
+  },
+  {
+    "desc": "9604 Someone nearby can speak only in a whisper  79"
+  },
+  {
+    "desc": "9605 Someone nearby can subsist on twigs and grasses "
+  },
+  {
+    "desc": "9606 Someone nearby can survive 1d4 beheadings "
+  },
+  {
+    "desc": "9607 Someone nearby can turn invisible by holding a toad in his mouth "
+  },
+  {
+    "desc": "9608 Someone nearby can't approach within 10 yards of an open door "
+  },
+  {
+    "desc": "9609 Someone nearby can't be harmed by any nonferrous metal "
+  },
+  {
+    "desc": "9610 Someone nearby can't be harmed by smoke "
+  },
+  {
+    "desc": "9611 Someone nearby can't be physically harmed by demons "
+  },
+  {
+    "desc": "9612 Someone nearby can't be strangled by non-magical rope or cord "
+  },
+  {
+    "desc": "9613 Someone nearby can't move his arms in daylight "
+  },
+  {
+    "desc": "9614 Someone nearby claims to speak for the creator of the universe "
+  },
+  {
+    "desc": "9615 Someone nearby dances like a marionette for 1d10 rounds "
+  },
+  {
+    "desc": "9616 Someone nearby develops a radical new philosophy of magic "
+  },
+  {
+    "desc": "9617 Someone nearby discovers solid proof that he doesn't really exist "
+  },
+  {
+    "desc": "9618 Someone nearby discovers solid proof that no deities really exist "
+  },
+  {
+    "desc": "9619 Someone nearby disgorges 1d6 large housecats "
+  },
+  {
+    "desc": "9620 Someone nearby disgorges 1d6 severed hands "
+  },
+  {
+    "desc": "9621 Someone nearby disgorges a tin bucket of hot coals "
+  },
+  {
+    "desc": "9622 Someone nearby disgorges himself "
+  },
+  {
+    "desc": "9623 Someone nearby doubles in weight in each of the next 1d8 rounds "
+  },
+  {
+    "desc": "9624 Someone nearby engages in frenetic calisthenics for 1d12 hours "
+  },
+  {
+    "desc": "9625 Someone nearby feels crushing humiliation while in sunlight "
+  },
+  {
+    "desc": "9626 Someone nearby feels intensely cold in the presence of horses "
+  },
+  {
+    "desc": "9627 Someone nearby finds a book detailing horrific summoning rites "
+  },
+  {
+    "desc": "9628 Someone nearby finds a complete map of his own nervous system "
+  },
+  {
+    "desc": "9629 Someone nearby finds a large cloth bearing a bearded man's image "
+  },
+  {
+    "desc": "9630 Someone nearby finds a potion that causes its drinker to explode "
+  },
+  {
+    "desc": "9631 Someone nearby finds a potion that changes its drinker's sex "
+  },
+  {
+    "desc": "9632 Someone nearby finds a potion that cures any non-magical disease "
+  },
+  {
+    "desc": "9633 Someone nearby finds a potion that doubles its drinker's age "
+  },
+  {
+    "desc": "9634 Someone nearby finds a potion that halves its drinker's age "
+  },
+  {
+    "desc": "9635 Someone nearby finds a potion that turns its drinker into a gnome "
+  },
+  {
+    "desc": "9636 Someone nearby finds a potion that turns its drinker into a tree "
+  },
+  {
+    "desc": "9637 Someone nearby finds a potion that turns its drinker to sand "
+  },
+  {
+    "desc": "9638 Someone nearby finds a tunnel running straight through the planet "
+  },
+  {
+    "desc": "9639 Someone nearby finds an apparently simple wooden cup "
+  },
+  {
+    "desc": "9640 Someone nearby finds his own severed head from some future time "
+  },
+  {
+    "desc": "9641 Someone nearby flies into a terrible rage when he sees magic used "
+  },
+  {
+    "desc": "9642 Someone nearby forever refuses to believe that magic truly exists "
+  },
+  {
+    "desc": "9643 Someone nearby fosters rumors that he's a demigod "
+  },
+  {
+    "desc": "9644 Someone nearby gains 10d100 experience points "
+  },
+  {
+    "desc": "9645 Someone nearby glows from within as though he's swallowed a torch "
+  },
+  {
+    "desc": "9646 Someone nearby goes berserk and is invulnerable for 1d10 rounds "
+  },
+  {
+    "desc": "9647 Someone nearby habitually makes utterly improbable boasts "
+  },
+  {
+    "desc": "9648 Someone nearby has a legitimate claim to the throne "
+  },
+  {
+    "desc": "9649 Someone nearby has a potion that turns half of his body invisible "
+  },
+  {
+    "desc": "9650 Someone nearby has a transcendent religious experience "
+  },
+  {
+    "desc": "9651 Someone nearby has a treasure map carved into his back "
+  },
+  {
+    "desc": "9652 Someone nearby has deeply offended the ruling family "
+  },
+  {
+    "desc": "9653 Someone nearby has produced a child with a powerful demon "
+  },
+  {
+    "desc": "9654 Someone nearby has two extra thumbs jutting from his forehead "
+  },
+  {
+    "desc": "9655 Someone nearby hoots like an owl when he hears his name "
+  },
+  {
+    "desc": "9656 Someone nearby inflates like a puffer fish whenever he's angry "
+  },
+  {
+    "desc": "9657 Someone nearby inherits wealth equal to a small nation's treasury "
+  },
+  {
+    "desc": "9658 Someone nearby is 3% likely to explode whenever he draws a weapon "
+  },
+  {
+    "desc": "9659 Someone nearby is about to go totally insane "
+  },
+  {
+    "desc": "9660 Someone nearby is accused of assassinating the king "
+  },
+  {
+    "desc": "9661 Someone nearby is attended by 1d4 skeletal servants "
+  },
+  {
+    "desc": "9662 Someone nearby is blamed for looting the nearest magical library "
+  },
+  {
+    "desc": "9663 Someone nearby is blamed for some recent magical disaster "
+  },
+  {
+    "desc": "9664 Someone nearby is blown all out of proportion "
+  },
+  {
+    "desc": "9665 Someone nearby is bound in red-hot iron chains "
+  },
+  {
+    "desc": "9666 Someone nearby is bound to this area and can never leave it "
+  },
+  {
+    "desc": "9667 Someone nearby is carried away by a flock of vultures "
+  },
+  {
+    "desc": "9668 Someone nearby is carrying a long-lost and forbidden manuscript "
+  },
+  {
+    "desc": "9669 Someone nearby is carrying an artifact sacred to 1d4 races "
+  },
+  {
+    "desc": "9670 Someone nearby is carrying an incredibly virulent plague "
+  },
+  {
+    "desc": "9671 Someone nearby is certain that he's immune to poison "
+  },
+  {
+    "desc": "9672 Someone nearby is chained high in the branches of a nearby tree "
+  },
+  {
+    "desc": "9673 Someone nearby is completely fireproof for one year "
+  },
+  {
+    "desc": "9674 Someone nearby is completely immune to non-magical poisons "
+  },
+  {
+    "desc": "9675 Someone nearby is convinced that he'll be eternally damned "
+  },
+  {
+    "desc": "9676 Someone nearby is covered with countless hideous and fetid scabs "
+  },
+  {
+    "desc": "9677 Someone nearby is crushed as though at the bottom of the ocean "
+  },
+  {
+    "desc": "9678 Someone nearby is discovered to be a spy "
+  },
+  {
+    "desc": "9679 Someone nearby is discovered to be dangerously sociopathic "
+  },
+  {
+    "desc": "9680 Someone nearby is doomed to die in a horribly embarrassing manner "
+  },
+  {
+    "desc": "9681 Someone nearby is dragged bodily to hell "
+  },
+  {
+    "desc": "9682 Someone nearby is dragged into the sea by hideous fish-people "
+  },
+  {
+    "desc": "9683 Someone nearby is drawn and quartered "
+  },
+  {
+    "desc": "9684 Someone nearby is encased up to his chin in a large glass cube "
+  },
+  {
+    "desc": "9685 Someone nearby is entangled in a massive snarl of ribbons "
+  },
+  {
+    "desc": "9686 Someone nearby is exempt from all laws concerning public decency "
+  },
+  {
+    "desc": "9687 Someone nearby is fatally compressed into a small cube "
+  },
+  {
+    "desc": "9688 Someone nearby is hit by lightning in each of the next 1d4 rounds "
+  },
+  {
+    "desc": "9689 Someone nearby is immobilized at the spell's target point "
+  },
+  {
+    "desc": "9690 Someone nearby is immune to all priestly magic for 1d12 months "
+  },
+  {
+    "desc": "9691 Someone nearby is immune to bludgeoning weapons for 1d8 hours "
+  },
+  {
+    "desc": "9692 Someone nearby is immune to most poison, but meat is toxic to him "
+  },
+  {
+    "desc": "9693 Someone nearby is immune to stabbing weapons for 1d4 days "
+  },
+  {
+    "desc": "9694 Someone nearby is immune to the spell that triggered this Burst "
+  },
+  {
+    "desc": "9695 Someone nearby is implicated in a scandal involving livestock "
+  },
+  {
+    "desc": "9696 Someone nearby is infected with a malign, intelligent parasite "
+  },
+  {
+    "desc": "9697 Someone nearby is known to have destroyed one hundred dragon eggs "
+  },
+  {
+    "desc": "9698 Someone nearby is peeled like a banana "
+  },
+  {
+    "desc": "9699 Someone nearby is possessed by 1d8 demons "
+  },
+  {
+    "desc": "9700 Someone nearby is revealed to be a colony of intelligent insects "
+  },
+  {
+    "desc": "9701 Someone nearby is revealed to be many centuries old "
+  },
+  {
+    "desc": "9702 Someone nearby is revealed to be of demonic heritage "
+  },
+  {
+    "desc": "9703 Someone nearby is said to be the last prophet of a dying religion "
+  },
+  {
+    "desc": "9704 Someone nearby is savaged by vicious, invisible dogs "
+  },
+  {
+    "desc": "9705 Someone nearby is sentenced to be executed for heresy "
+  },
+  {
+    "desc": "9706 Someone nearby is sheathed in candle wax "
+  },
+  {
+    "desc": "9707 Someone nearby is stung by 1d1000 bees "
+  },
+  {
+    "desc": "9708 Someone nearby is suddenly dressed in provocative leather attire "
+  },
+  {
+    "desc": "9709 Someone nearby is suddenly hideously deformed "
+  },
+  {
+    "desc": "9710 Someone nearby is tattooed head to toe with graphic, lurid scenes "
+  },
+  {
+    "desc": "9711 Someone nearby is the illegitimate child of some local ruler "
+  },
+  {
+    "desc": "9712 Someone nearby is the subject of a vivisectionist's experiments "
+  },
+  {
+    "desc": "9713 Someone nearby is torn asunder by dozens of feral children "
+  },
+  {
+    "desc": "9714 Someone nearby is unable to bend his legs until sunrise "
+  },
+  {
+    "desc": "9715 Someone nearby is unable to move from this area until sunrise "
+  },
+  {
+    "desc": "9716 Someone nearby is wearing a suit of solid gold plate armor "
+  },
+  {
+    "desc": "9717 Someone nearby is wearing a suit of the finest sheer silk "
+  },
+  {
+    "desc": "9718 Someone nearby leaves footprints that smolder harmlessly "
+  },
+  {
+    "desc": "9719 Someone nearby must be killed before he destroys us all! "
+  },
+  {
+    "desc": "9720 Someone nearby must be restrained or he'll cut off his own hands "
+  },
+  {
+    "desc": "9721 Someone nearby must eat 2X as much food as normal to survive "
+  },
+  {
+    "desc": "9722 Someone nearby must Save each day or grow slightly more frog-like "
+  },
+  {
+    "desc": "9723 Someone nearby must Save each day or lose 5d100 experience points "
+  },
+  {
+    "desc": "9724 Someone nearby must Save each day or permanently lose a hit point "
+  },
+  {
+    "desc": "9725 Someone nearby must Save vs Death or air becomes poisonous to him "
+  },
+  {
+    "desc": "9726 Someone nearby must Save vs Death or become a paper mache statue "
+  },
+  {
+    "desc": "9727 Someone nearby must Save vs Death or freeze solid "
+  },
+  {
+    "desc": "9728 Someone nearby must Save vs Death or grow supernaturally ugly "
+  },
+  {
+    "desc": "9729 Someone nearby must Save vs Death or grow terrifyingly beautiful "
+  },
+  {
+    "desc": "9730 Someone nearby must Save vs Death or his age doubles 2d6 times "
+  },
+  {
+    "desc": "9731 Someone nearby must Save vs Death or his bones explode "
+  },
+  {
+    "desc": "9732 Someone nearby must Save vs Death or his bones turn to soap "
+  },
+  {
+    "desc": "9733 Someone nearby must Save vs Death or his clothing attacks him "
+  },
+  {
+    "desc": "9734 Someone nearby must Save vs Death or his clothing turns to gold  80"
+  },
+  {
+    "desc": "9735 Someone nearby must Save vs Death or his head doubles in size "
+  },
+  {
+    "desc": "9736 Someone nearby must Save vs Death or his skin burns from his body "
+  },
+  {
+    "desc": "9737 Someone nearby must Save vs Death or his teeth turn to glass "
+  },
+  {
+    "desc": "9738 Someone nearby no longer heals naturally "
+  },
+  {
+    "desc": "9739 Someone nearby no longer needs to breathe "
+  },
+  {
+    "desc": "9740 Someone nearby no longer needs to eat "
+  },
+  {
+    "desc": "9741 Someone nearby now has a blowhole but no nose "
+  },
+  {
+    "desc": "9742 Someone nearby now has baleen instead of conventional teeth "
+  },
+  {
+    "desc": "9743 Someone nearby now has three legs spaced evenly around his pelvis "
+  },
+  {
+    "desc": "9744 Someone nearby now has two feet jutting from each ankle "
+  },
+  {
+    "desc": "9745 Someone nearby owns the deed to the soul of someone else nearby "
+  },
+  {
+    "desc": "9746 Someone nearby pitches a wacky investment scheme to the king "
+  },
+  {
+    "desc": "9747 Someone nearby realizes that he's a dragon in humanoid form "
+  },
+  {
+    "desc": "9748 Someone nearby realizes that he's been dead for centuries "
+  },
+  {
+    "desc": "9749 Someone nearby realizes that he's carrying a dangerous artifact "
+  },
+  {
+    "desc": "9750 Someone nearby realizes that he's just a fictional character "
+  },
+  {
+    "desc": "9751 Someone nearby realizes that he's the avatar of a deity "
+  },
+  {
+    "desc": "9752 Someone nearby realizes that his hands are someone else's hands "
+  },
+  {
+    "desc": "9753 Someone nearby realizes that his skin is slowly dissolving "
+  },
+  {
+    "desc": "9754 Someone nearby recalls being tortured by someone else nearby "
+  },
+  {
+    "desc": "9755 Someone nearby refers to some noble as 'Lord Manure of Excrement' "
+  },
+  {
+    "desc": "9756 Someone nearby remembers 1d4 fictitious past lives "
+  },
+  {
+    "desc": "9757 Someone nearby renounces all possessions and becomes an ascetic "
+  },
+  {
+    "desc": "9758 Someone nearby rings like a bell whenever he sees magic used "
+  },
+  {
+    "desc": "9759 Someone nearby sees the figure of Death standing beside him "
+  },
+  {
+    "desc": "9760 Someone nearby sets fire to a tree and climbs into its branches "
+  },
+  {
+    "desc": "9761 Someone nearby shows all the signs of late-term pregnancy "
+  },
+  {
+    "desc": "9762 Someone nearby shrieks in horror until sunrise tomorrow "
+  },
+  {
+    "desc": "9763 Someone nearby shrinks by 1d100% "
+  },
+  {
+    "desc": "9764 Someone nearby shrinks by 50% from the waist up "
+  },
+  {
+    "desc": "9765 Someone nearby smells like a corpse in the presence of magic "
+  },
+  {
+    "desc": "9766 Someone nearby speculates about the virtues of dwarf-skin leather "
+  },
+  {
+    "desc": "9767 Someone nearby spins and spits water like a garden sprinkler "
+  },
+  {
+    "desc": "9768 Someone nearby sprays blood-red foam from his nose for 1d6 rounds "
+  },
+  {
+    "desc": "9769 Someone nearby sprouts a troll's arm from the center of his chest "
+  },
+  {
+    "desc": "9770 Someone nearby sprouts a turtle's shell atop his head "
+  },
+  {
+    "desc": "9771 Someone nearby sprouts hideous, non-functional bat wings "
+  },
+  {
+    "desc": "9772 Someone nearby sprouts inflatable sacs from his shoulder blades "
+  },
+  {
+    "desc": "9773 Someone nearby sprouts ornate feathers from his tongue "
+  },
+  {
+    "desc": "9774 Someone nearby sprouts plates from his back like a stegosaurus "
+  },
+  {
+    "desc": "9775 Someone nearby suddenly has a neck like a giraffe "
+  },
+  {
+    "desc": "9776 Someone nearby suddenly has eight eyes like a spider "
+  },
+  {
+    "desc": "9777 Someone nearby suddenly has eight legs "
+  },
+  {
+    "desc": "9778 Someone nearby suddenly has feet like a chicken "
+  },
+  {
+    "desc": "9779 Someone nearby suffers cannibalistic mania while his allies sleep "
+  },
+  {
+    "desc": "9780 Someone nearby suspects that he's trying to kill himself "
+  },
+  {
+    "desc": "9781 Someone nearby swallowed a small explosive device this morning "
+  },
+  {
+    "desc": "9782 Someone nearby teleports 1d10 yards in each of 1d10 rounds "
+  },
+  {
+    "desc": "9783 Someone nearby thinks he can snuff fires by sitting in them "
+  },
+  {
+    "desc": "9784 Someone nearby thinks he'll die if he says his name in moonlight "
+  },
+  {
+    "desc": "9785 Someone nearby thinks he's invisible in the presence of royalty "
+  },
+  {
+    "desc": "9786 Someone nearby thinks he's the last survivor of an extinct race "
+  },
+  {
+    "desc": "9787 Someone nearby thinks that he smells like a corpse "
+  },
+  {
+    "desc": "9788 Someone nearby tries suicide with the next silver weapon he sees "
+  },
+  {
+    "desc": "9789 Someone nearby tries to cut himself in half lengthwise "
+  },
+  {
+    "desc": "9790 Someone nearby tries to eat his own hands "
+  },
+  {
+    "desc": "9791 Someone nearby tries to kill every cow he sees "
+  },
+  {
+    "desc": "9792 Someone nearby tries to scalp himself "
+  },
+  {
+    "desc": "9793 Someone nearby tries to swallow his own arm, elbow first "
+  },
+  {
+    "desc": "9794 Someone nearby triggers a Burst when he next crosses a bridge "
+  },
+  {
+    "desc": "9795 Someone nearby triggers a Burst when he next traverses a doorway "
+  },
+  {
+    "desc": "9796 Someone nearby truly believes that he's a prophesized redeemer "
+  },
+  {
+    "desc": "9797 Someone nearby turns to a heap of gold dust "
+  },
+  {
+    "desc": "9798 Someone nearby turns to a heap of moist sand "
+  },
+  {
+    "desc": "9799 Someone nearby turns to salt over the next 1d8 days "
+  },
+  {
+    "desc": "9800 Someone nearby turns to stone over the next 5d6 days "
+  },
+  {
+    "desc": "9801 Someone nearby turns to water "
+  },
+  {
+    "desc": "9802 Someone nearby turns to wood when he drops to one hit point "
+  },
+  {
+    "desc": "9803 Someone nearby vanishes and is replaced by a handsome wax replica "
+  },
+  {
+    "desc": "9804 Someone nearby wakes tomorrow in a roc's nest "
+  },
+  {
+    "desc": "9805 Someone nearby wakes tomorrow in the king's torture chamber "
+  },
+  {
+    "desc": "9806 Someone nearby weeps tears of honey when he feels pain "
+  },
+  {
+    "desc": "9807 Someone nearby who can read is rendered illiterate for 1d4 weeks "
+  },
+  {
+    "desc": "9808 Someone nearby who can't read can suddenly read 1d6 languages "
+  },
+  {
+    "desc": "9809 Someone nearby who has never before used magic finds an artifact "
+  },
+  {
+    "desc": "9810 Someone nearby who is carrying a magic item tries to eat it "
+  },
+  {
+    "desc": "9811 Someone nearby will be vital to a major truce between two races "
+  },
+  {
+    "desc": "9812 Someone nearby will combust if he lights a fire by dawn tomorrow "
+  },
+  {
+    "desc": "9813 Someone nearby will combust when he next crosses moving water "
+  },
+  {
+    "desc": "9814 Someone nearby will die if he says his name backwards "
+  },
+  {
+    "desc": "9815 Someone nearby will die if he travels more than a mile in one day "
+  },
+  {
+    "desc": "9816 Someone nearby will explode if he draws blood by sunset today "
+  },
+  {
+    "desc": "9817 Someone nearby will fall into a vat of molten cheese before dawn "
+  },
+  {
+    "desc": "9818 Someone nearby will soon incite a war between two major races "
+  },
+  {
+    "desc": "9819 Sparks dance along any blades that strike one another nearby "
+  },
+  {
+    "desc": "9820 Suddenly it's raining harder than anyone has ever experienced "
+  },
+  {
+    "desc": "9821 Suddenly the area is snowbound as from a year-long blizzard "
+  },
+  {
+    "desc": "9822 Summonings are impossible within one mile of the target point "
+  },
+  {
+    "desc": "9823 Temperature within 100 yards drops 1° per minute for 1d4 hours "
+  },
+  {
+    "desc": "9824 Temperature within 100 yards rises 1° per minute for 1d4 hours "
+  },
+  {
+    "desc": "9825 The arms of someone nearby turn into wings like those of a duck "
+  },
+  {
+    "desc": "9826 The complete skeleton of a huge red dragon tumbles from the sky "
+  },
+  {
+    "desc": "9827 The corpse of a forgotten deity is discovered in a nearby cave "
+  },
+  {
+    "desc": "9828 The entire area begins sinking at a rate of one foot per week "
+  },
+  {
+    "desc": "9829 The entire area enjoys full daylight for 1d10 years "
+  },
+  {
+    "desc": "9830 The entire area gives an impression of peace and tranquility "
+  },
+  {
+    "desc": "9831 The entire area gives off a powerful impression of evil "
+  },
+  {
+    "desc": "9832 The entire area has been surrounded by an invading horde "
+  },
+  {
+    "desc": "9833 The entire area hums as if vast machinery is buried in the ground "
+  },
+  {
+    "desc": "9834 The entire area induces fear in those of four or fewer hit dice "
+  },
+  {
+    "desc": "9835 The entire area induces sloth and lethargy in humans "
+  },
+  {
+    "desc": "9836 The entire area is a dumping ground for dangerous magical waste "
+  },
+  {
+    "desc": "9837 The entire area is a haven for zombies "
+  },
+  {
+    "desc": "9838 The entire area is a massive shrine to an abominable god "
+  },
+  {
+    "desc": "9839 The entire area is an illusion; it's actually barren and rocky "
+  },
+  {
+    "desc": "9840 The entire area is as hot and steamy as a sauna for 2d12 hours "
+  },
+  {
+    "desc": "9841 The entire area is blasted as if a huge conflagration has passed "
+  },
+  {
+    "desc": "9842 The entire area is circled by a salt-water moat full of sharks "
+  },
+  {
+    "desc": "9843 The entire area is claimed as a sacred goblin burial ground "
+  },
+  {
+    "desc": "9844 The entire area is dark as midnight for 1d4 weeks "
+  },
+  {
+    "desc": "9845 The entire area is directly over a gigantic vein of gold "
+  },
+  {
+    "desc": "9846 The entire area is encircled by tall Corinthian columns of marble "
+  },
+  {
+    "desc": "9847 The entire area is inimical to life for 4d12 months "
+  },
+  {
+    "desc": "9848 The entire area is littered with hideously mutilated corpses "
+  },
+  {
+    "desc": "9849 The entire area is located over a gargantuan termite colony "
+  },
+  {
+    "desc": "9850 The entire area is located over the lair of an enormous dragon "
+  },
+  {
+    "desc": "9851 The entire area is mirror-reversed "
+  },
+  {
+    "desc": "9852 The entire area is shrouded in a thick and pungent fog "
+  },
+  {
+    "desc": "9853 The entire area is strewn with jellyfish like a shore at low tide "
+  },
+  {
+    "desc": "9854 The entire area is thickly shrouded by dust and cobwebs "
+  },
+  {
+    "desc": "9855 The entire area is transported to a small island far out to sea "
+  },
+  {
+    "desc": "9856 The entire area looks as if a huge battle took place yesterday "
+  },
+  {
+    "desc": "9857 The entire area looks exactly as it did 1d10 centuries ago "
+  },
+  {
+    "desc": "9858 The entire area looks exactly as it will 1d10 centuries from now "
+  },
+  {
+    "desc": "9859 The entire area suffers an intense blizzard for 2d6 rounds "
+  },
+  {
+    "desc": "9860 The entire area swirls with fine white powder "
+  },
+  {
+    "desc": "9861 The entire area was at the bottom of the sea 1d4 weeks ago "
+  },
+  {
+    "desc": "9862 The entire area will be the site of a monumental battle tomorrow "
+  },
+  {
+    "desc": "9863 The entire planet experiences full daylight for 5d10+24 hours "
+  },
+  {
+    "desc": "9864 The gates of hell open for 4d6 hours  81"
+  },
+  {
+    "desc": "9865 The ground beneath the target point collapses into a vast cavern "
+  },
+  {
+    "desc": "9866 The ground beneath the target point heats to its combustion point "
+  },
+  {
+    "desc": "9867 The ground beneath the target point is charged with electricity "
+  },
+  {
+    "desc": "9868 The ground beneath the target point looks like the portal to hell "
+  },
+  {
+    "desc": "9869 The ground is totally flat from here to the horizon for 4d6 hours "
+  },
+  {
+    "desc": "9870 The ground nearby harbors enormous, carnivorous earthworms "
+  },
+  {
+    "desc": "9871 The ground nearby is highly susceptible to erosion "
+  },
+  {
+    "desc": "9872 The ground nearby splits open to a depth of 1d10 miles "
+  },
+  {
+    "desc": "9873 The ground within 50 yards has never been trod by a human foot "
+  },
+  {
+    "desc": "9874 The ground within 50 yards heaves like a bubble on a pond "
+  },
+  {
+    "desc": "9875 The ground within 50 yards is carpeted "
+  },
+  {
+    "desc": "9876 The ground within 50 yards is covered by terra cotta tile "
+  },
+  {
+    "desc": "9877 The ground within 50 yards is found to be completely artificial "
+  },
+  {
+    "desc": "9878 The ground within 50 yards is incredibly sticky "
+  },
+  {
+    "desc": "9879 The ground within 50 yards is now perfectly smooth steel "
+  },
+  {
+    "desc": "9880 The ground within 50 yards is permanently swampy and waterlogged "
+  },
+  {
+    "desc": "9881 The ground within 50 yards is tangled with invisible vines "
+  },
+  {
+    "desc": "9882 The ground within 50 yards is the sanctum of a temperamental god "
+  },
+  {
+    "desc": "9883 The ground within 50 yards shows signs of a recent meteor strike "
+  },
+  {
+    "desc": "9884 The ground within 50 yards sinks to a point like a funnel or cone "
+  },
+  {
+    "desc": "9885 The ground within 50 yards slowly turns into a deep, calm lake "
+  },
+  {
+    "desc": "9886 The ground within 50 yards swarms with biting insects "
+  },
+  {
+    "desc": "9887 The ground within 50 yards yields only poisonous vegetation "
+  },
+  {
+    "desc": "9888 The high priest of some deity appears at the target point "
+  },
+  {
+    "desc": "9889 The largest creature nearby doubles in size "
+  },
+  {
+    "desc": "9890 The largest creature nearby turns invisible for 4d6 hours "
+  },
+  {
+    "desc": "9891 The moon appears to blaze with cool blue fire for 1d12 months "
+  },
+  {
+    "desc": "9892 The moon came into existence only 1d4 days ago "
+  },
+  {
+    "desc": "9893 The moon doubles in size "
+  },
+  {
+    "desc": "9894 The moon explodes "
+  },
+  {
+    "desc": "9895 The moon has a huge bite taken out of it "
+  },
+  {
+    "desc": "9896 The moon has a large hole all the way through it "
+  },
+  {
+    "desc": "9897 The moon is full every night for the next year "
+  },
+  {
+    "desc": "9898 The moon is no moon; it's a space station "
+  },
+  {
+    "desc": "9899 The moon is now a cube "
+  },
+  {
+    "desc": "9900 The moon is now geostationary "
+  },
+  {
+    "desc": "9901 The moon is now solid gold except for a thin cover of dust "
+  },
+  {
+    "desc": "9902 The moon moves 50% closer to the Earth "
+  },
+  {
+    "desc": "9903 The moon resembles the face of someone nearby "
+  },
+  {
+    "desc": "9904 The moon revolves around the planet at 1d4X its current rate "
+  },
+  {
+    "desc": "9905 The moon suddenly holds untold riches and unimaginable dangers "
+  },
+  {
+    "desc": "9906 The moon vanishes for 1d12 months "
+  },
+  {
+    "desc": "9907 The moon whirls wildly through the sky for 7d4 days "
+  },
+  {
+    "desc": "9908 The most powerful wizard nearby vanishes for 3d8 hours "
+  },
+  {
+    "desc": "9909 The most powerful wizard within 10 miles changes sex "
+  },
+  {
+    "desc": "9910 The most powerful wizard within 10 miles goes on a rampage "
+  },
+  {
+    "desc": "9911 The most powerful wizard within 10 miles is actually a demon "
+  },
+  {
+    "desc": "9912 The most valuable item within 50 yards turns out to be a fake "
+  },
+  {
+    "desc": "9913 The most valuable sword within 50 yards turns to mercury "
+  },
+  {
+    "desc": "9914 The nearest town's entire population appears nearby "
+  },
+  {
+    "desc": "9915 The nearest town's entire population is linked into a hive-mind "
+  },
+  {
+    "desc": "9916 The past 1d10 rounds were only an illusion "
+  },
+  {
+    "desc": "9917 The Philosopher's Stone appears at the target point "
+  },
+  {
+    "desc": "9918 The planet breaks loose from the Sun's gravity "
+  },
+  {
+    "desc": "9919 The planet no longer rotates "
+  },
+  {
+    "desc": "9920 The planet now has a ring around it "
+  },
+  {
+    "desc": "9921 The planet now rotates half as fast "
+  },
+  {
+    "desc": "9922 The planet now rotates in the opposite direction "
+  },
+  {
+    "desc": "9923 The planet now rotates north-to-south "
+  },
+  {
+    "desc": "9924 The planet now rotates twice as fast "
+  },
+  {
+    "desc": "9925 The planet splits into two stable hemispheres 10 yards apart "
+  },
+  {
+    "desc": "9926 The planet tumbles into another ice age "
+  },
+  {
+    "desc": "9927 The planet's atmosphere leaks into space over the next 1d6 months "
+  },
+  {
+    "desc": "9928 The planet's average temperature rises 1° per week for 4d6 weeks "
+  },
+  {
+    "desc": "9929 The planet's hemispheres rotate at slightly different rates "
+  },
+  {
+    "desc": "9930 The planet's oceans are becalmed "
+  },
+  {
+    "desc": "9931 The planet's orbital radius shrinks by 1d8 x 10,000 miles "
+  },
+  {
+    "desc": "9932 The royal family appears in the vicinity "
+  },
+  {
+    "desc": "9933 The scent of honey and roses permeates everything within 50 yards "
+  },
+  {
+    "desc": "9934 The scent of rotten eggs permeates everything within 50 yards "
+  },
+  {
+    "desc": "9935 The sky appears to be ablaze as far as the eye can see "
+  },
+  {
+    "desc": "9936 The sky appears to teem with a vast host of angels "
+  },
+  {
+    "desc": "9937 The sky overhead swirls with dark colors for 1d4 turns "
+  },
+  {
+    "desc": "9938 The sky whirls with dazzling colors until sunset tomorrow "
+  },
+  {
+    "desc": "9939 The sound of hundreds of barking dogs fills the air "
+  },
+  {
+    "desc": "9940 The sound of mighty winds fills the air, but the air is calm "
+  },
+  {
+    "desc": "9941 The spell discharges randomly in each of the next 4d4 rounds "
+  },
+  {
+    "desc": "9942 The spell discharges upon the next person nearby to draw blood "
+  },
+  {
+    "desc": "9943 The sun appears pale blue from now on "
+  },
+  {
+    "desc": "9944 The sun splits into a stable binary pair "
+  },
+  {
+    "desc": "9945 The Burst is delayed until blood is drawn nearby; roll for effect "
+  },
+  {
+    "desc": "9946 The Burst only affects females; roll for the underlying effect "
+  },
+  {
+    "desc": "9947 The Burst only affects males; roll for the underlying effect "
+  },
+  {
+    "desc": "9948 The Burst only appears to occur; roll again for apparent effect "
+  },
+  {
+    "desc": "9949 The tallest person in the area develops an acute fear of heights "
+  },
+  {
+    "desc": "9950 The tallest person in the area grows by 50% "
+  },
+  {
+    "desc": "9951 The tallest person in the area is attacked by beavers "
+  },
+  {
+    "desc": "9952 The tallest person in the area shrinks by 50% "
+  },
+  {
+    "desc": "9953 The tallest tree nearby burns to the ground in 1d4 rounds "
+  },
+  {
+    "desc": "9954 The target point acquires intelligence and free will "
+  },
+  {
+    "desc": "9955 The target point becomes a window for seeing into other worlds "
+  },
+  {
+    "desc": "9956 The target point becomes an open gateway to hell "
+  },
+  {
+    "desc": "9957 The target point is a conduit to interstellar space "
+  },
+  {
+    "desc": "9958 The target point is a tiny gateway to some distant world "
+  },
+  {
+    "desc": "9959 The target point is direct conduit to Elemental Air "
+  },
+  {
+    "desc": "9960 The target point is encircled by bright red plastic cones "
+  },
+  {
+    "desc": "9961 The target point is intensely magnetic for 4d6 hours "
+  },
+  {
+    "desc": "9962 The target point is rumored to be a site of healing "
+  },
+  {
+    "desc": "9963 The target point is sealed in a 10 foot globe of force "
+  },
+  {
+    "desc": "9964 The target point is the center of a zone of anti-magic "
+  },
+  {
+    "desc": "9965 The target point is the site of some powerful deity's murder "
+  },
+  {
+    "desc": "9966 The target point makes a noise like an air raid siren "
+  },
+  {
+    "desc": "9967 The target point radiates intense cold for 4d6 hours "
+  },
+  {
+    "desc": "9968 The target point radiates intense heat for 4d6 hours "
+  },
+  {
+    "desc": "9969 The target point scrambles any effort to teleport near it "
+  },
+  {
+    "desc": "9970 The temperature within 50 yards drops 10d10 degrees for one hour "
+  },
+  {
+    "desc": "9971 The temperature within 50 yards rises 10d10 degrees for one hour "
+  },
+  {
+    "desc": "9972 This day hasn't happened; time is reset to midnight last night "
+  },
+  {
+    "desc": "9973 Thousands of carpenter's nails fall from the sky "
+  },
+  {
+    "desc": "9974 Thousands of teeth rain down from the sky "
+  },
+  {
+    "desc": "9975 Thousands of tiny glass ovoids fall from the sky "
+  },
+  {
+    "desc": "9976 Time no longer passes within 1d4 yards of the target point "
+  },
+  {
+    "desc": "9977 Time passes 10X as fast within 1d4 yards of the target point "
+  },
+  {
+    "desc": "9978 Tomorrow's high tide crests at the spell's target point "
+  },
+  {
+    "desc": "9979 Townspeople nearby are easily cowed by a charismatic speaker "
+  },
+  {
+    "desc": "9980 Triumphant fanfare fills the air for 1d6 turns "
+  },
+  {
+    "desc": "9981 Undead lobby the local ruler for legislative representation "
+  },
+  {
+    "desc": "9982 Very salty rain falls for 1d4 hours "
+  },
+  {
+    "desc": "9983 Viscous pus oozes from all wounds suffered within 50 yards "
+  },
+  {
+    "desc": "9984 Viscous yellow goo seeps from any bladed weapons nearby "
+  },
+  {
+    "desc": "9985 Volcanic ash blankets the area to a depth of 1d4 inches "
+  },
+  {
+    "desc": "9986 Walking in this area is as arduous as trudging through deep snow "
+  },
+  {
+    "desc": "9987 Water consumed in this area induces delusions of amphibiousness "
+  },
+  {
+    "desc": "9988 Water consumed in this area tastes like the finest wine "
+  },
+  {
+    "desc": "9989 Water consumed in this area tastes strongly of manure "
+  },
+  {
+    "desc": "9990 Water flows from the target point to fill a 100-yard hemisphere "
+  },
+  {
+    "desc": "9991 Water in this area boils at 70° Fahrenheit "
+  },
+  {
+    "desc": "9992 Water in this area freezes at 70° Fahrenheit "
+  },
+  {
+    "desc": "9993 Weather in this area changes drastically each hour for one week "
+  },
+  {
+    "desc": "9994 Weather in this area is supernaturally intense for 1d4 months  82"
+  },
+  {
+    "desc": "9995 While in this area, males are invisible to females, and vice versa "
+  },
+  {
+    "desc": "9996 While in this area, no one can include nouns in their speech "
+  },
+  {
+    "desc": "9997 While in this area, no one can inflict or suffer any injury "
+  },
+  {
+    "desc": "9998 While in this area, no one can speak of anything outside the area "
+  },
+  {
+    "desc": "9999 While in this area, no one can speak to anyone else in the area "
+  },
+  {
+    "desc": "0000 The Stars Are Right! "
+  }
+]
