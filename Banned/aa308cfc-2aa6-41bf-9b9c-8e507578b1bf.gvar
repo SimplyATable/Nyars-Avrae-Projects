@@ -1,6 +1,6 @@
 {
 "dh": "Banned Material",
-"df1": "Items:|--- All Dragon Masks\n--- Any belt of Strength above the lowest\n--- Any Wish item\n--- All versions of Horn of Valhalla\n--- Items of Ultimate Evil/Pure Good\n--- Bag of Beans option 81-90\n--- Blackrazor\n--- Gurt's Greataxe\n--- Flensing Claws\n--- Shatterstick\n--- The Incantations of Iriolarthas\n--- Wave\n--- Tomes/Books\n----- (Won in Tournaments and Quests only)\n--- Blackstaff\n--- Chronolometer\n--- Snicker-Snack\n--- Rakdos Riteknife\n--- Nether Scroll of Azumar",
+"df1": "Items:|--- All Dragon Masks\n--- Any belt of Strength above the lowest\n--- Any Wish item\n--- All versions of Horn of Valhalla\n--- Items of Ultimate Evil/Pure Good\n--- Bag of Beans option 81-90\n--- Blackrazor\n--- Gurt's Greataxe\n--- Flensing Claws\n--- Shatterstick\n--- The Incantations of Iriolarthas\n--- Wave\n--- Tomes/Books\n----- (Won in Tournaments and Quests only)\n--- Blackstaff\n--- Chronolometer\n--- Snicker-Snack\n--- Rakdos Riteknife\n--- Nether Scroll of Azumar\n--- Tattoos",
 "df2": "Classes:|--- COSM: Lunar Domain\n--- COSM: Scorn Domain\n--- COSM: Peace Domain",
 "df3": "Spells:|--- Astral Projection, Banishment, Banishing Smite, Demiplane, Gate, Mirage Arcane, Plane Shift\n----- (Banned in Evershade location only)\n--- Wish\n\" -f \"Other:|--- Onyx (Monster)",
 "df4": "Source:| General ban list. Use `!banned help` for help on how to use this command",
@@ -22,7 +22,7 @@
 "ch": "Banned Material - COFSA",
 "cf1": "Subclasses:|--- Ashen Wolf (Warlock)\n--- Blackthorn Lineage (Sorcerer)\n--- Forbidden Graveyard (Warlock)\n--- Grave Robber (Rogue)\n--- Relic Domain (Cleric)\n---The Banished Gunsmith (Warlock)\n--- Way of the Black Star (Monk)",
 "cf2": "Items:|--- Ancient Heart (Item)\n--- Arcfire Chain (Item)\n--- Armor of Inferno (Item)\n--- Armor of the Heartless Knight (Item)\n---Blade of the Salesman\n--- Bloodstained Brush (Item)\n--- Celestial’s Spiteful Armor (Item)\n--- Clockwork Heart (Item)\n--- Qanun of Order (Item)\n--- The Regretful Thorn (Item)\n\" -f \"Invocations:|---Limitless Weapon\n--- The Archivist’s Journal (Invocation)\n--- Two of a Kind (Invocation)\n\" -f \"Feats:|---Mark of the Serpent Empress\n---Mark of the Forbidden Graveyard\n---Mark of the Ashen Wolf\n--- Mark of the Currency Conspiracy (Only the casting of sinister threat)\n\" -f \"Other:|--- Optional rules (Except feats)\n--- Spells (Except approved)\n--- Alfallen Races",
-"cf3": "Other:|--- Optional rules\n----- (Except feats)\n--- Spells\n----- (Except approved spells)\n----- (Accessed by the `!homebrew cofsa` command)",
+"cf3": "Other:|--- Optional rules\n----- (Except feats)\n--- Spells\n----- (Except approved spells)\n----- (Accessed by the `!homebrew cofsa` command)\n--- Race: The Statuesque\n--- Race: Gnome Origin",
 "cf4": "Source:| [COFSA](https://bit.ly/3kunnCT)",
 "lh": "Banned Material - Lore Keeper approval only",
 "lf1": "Occssionally content will clash with RP. In this case, the <@&807417720261705729> will require that players ask for permission to use those items. The following items require Lore Keeper permission.\nItems marked as **Banned in Evershade** are banned from use in the RP world entirely",
