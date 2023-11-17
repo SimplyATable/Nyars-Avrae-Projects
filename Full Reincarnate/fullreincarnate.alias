@@ -1,0 +1,4 @@
+!alias fullreincarnate embed
+{{x=load_json(get_gvar("2b8178aa-c1e4-4faa-b705-436e596d1d0c"))}}
+-title "Reincarnated!"
+-desc "Your chosen race is: {{randchoice(x.get('Races'))}}"
