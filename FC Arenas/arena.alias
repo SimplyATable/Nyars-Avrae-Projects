@@ -1,0 +1,23 @@
+!alias arena embed -title "Supernatural Weather Arena"
+{{x=load_json(get_gvar("4d950e38-04c7-4cc7-9f1b-39cdd550ac9a"))}} 
+-f "Time of Day:{{x.time[randint(len(x.time))]}}"
+-f "Wind Conditions:{{x.wind[randint(len(x.wind))]}}"
+-f "Climate Conditions {{x.climate[randint(len(x.climate))].replace("$temp",x.ctemp[randint(len(x.ctemp))]).replace("$dtemp",x.dtemp[randint(len(x.dtemp))]).replace("$cold",x.ccold[randint(len(x.ccold))]).replace("$hot",x.chot[randint(len(x.chot))]).replace("$rnd",x.rounds[randint(len(x.rounds))])}}"
+-f "Supernatural Conditions:{{x.super[randint(len(x.super))].replace("$fling",x.fling[randint(len(x.fling))]).replace("$rnd",x.rounds[randint(len(x.rounds))]).replace("$diff",x.diff[randint(len(x.diff))])}}"
+
+!alias arena embed
+<drac2>
+x=load_json(get_gvar("w"))
+I = '&*&'
+if I == "2":
+	T = "Random Weather Arena"
+	D = f"Time of Day: {x.time[randint(len(x.time))]}\" -f \"Wind Conditions:{x.wind[randint(len(x.wind))]}\" -f \"Climate Conditions: {x.climate[randint(len(x.climate))].replace('$temp',x.ctemp[randint(len(x.ctemp))]).replace('$dtemp',x.dtemp[randint(len(x.dtemp))]).replace('$cold',x.ccold[randint(len(x.ccold))]).replace('$hot',x.chot[randint(len(x.chot))]).replace('$rnd',x.rounds[randint(len(x.rounds))])}"
+elif I == "3":
+	T = "Random Supernatural Arena"
+	D = f"Time of Day: {x.time[randint(len(x.time))]}\" -f \"Wind Conditions:{x.wind[randint(len(x.wind))]}\" -f \"Climate Conditions: {x.climate[randint(len(x.climate))].replace('$temp',x.ctemp[randint(len(x.ctemp))]).replace('$dtemp',x.dtemp[randint(len(x.dtemp))]).replace('$cold',x.ccold[randint(len(x.ccold))]).replace('$hot',x.chot[randint(len(x.chot))]).replace('$rnd',x.rounds[randint(len(x.rounds))])}\" -f \"Supernatural Conditions: {x.super[randint(len(x.super))].replace('$fling',x.fling[randint(len(x.fling))]).replace('$rnd',x.rounds[randint(len(x.rounds))]).replace('$diff',x.diff[randint(len(x.diff))])}"
+else:
+	T = "Random Arena"
+	D = f"Time of Day: {x.time[randint(len(x.time))]}"
+</drac2>
+-title "{{T}}"
+-f "{{D}}"

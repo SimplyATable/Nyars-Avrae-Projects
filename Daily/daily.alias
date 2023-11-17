@@ -13,9 +13,9 @@ else:
     set_uvar('lastUsed', curTime)
     DailyUsed = False
 if DailyUsed:
-    D = f"Your daily bonus has been used, it will reset <t:{86_400 + lastUsed}:R>"
+    D = f"You have already used your daily bonus, which will reset <t:{86_400 + lastUsed}:R>"
 elif not DailyUsed:
-    D = "Your daily bonus is available, you may redeem your next bonus in 24 hours"
+    D = "You gain xp equal to 50 x your level, you may redeem your next bonus in 24 hours"
 else:
     err("Your daily is neither used nor unused. What?")
 </drac2>
