@@ -1,7 +1,7 @@
 {
 "dh": "Banned Material",
 "df1": "Items:|--- Blackrazor\n--- Gurt's Greataxe\n--- Flensing Claws\n--- Shatterstick\n--- The Incantations of Iriolarthas\n--- Wave\n--- Tomes/Books\n----- (Won in Tournaments and Quests only)\n--- Blackstaff\n--- Chronolometer\n--- Snicker-Snack\n--- Rakdos Riteknife\n--- Nether Scroll of Azumar",
-"df2": "Classes:|--- COSM: Lunar Domain",
+"df2": "Classes:|--- Twilight Domain Cleric\n--- COSM: Lunar Domain",
 "df3": "Other:|--- Onyx (Monster)\n--- Feats or spell lists obtained from backgrounds\n--- Cartomancer Feat\n--- Tal'Dorei Campaign Setting Reborn\n--- Planeshift\n----- (Except on `!banned other`)",
 "df4": "Source:| General ban list. Use `!banned help` for help on how to use this command",
 "hh": "Banned Material - Help",
