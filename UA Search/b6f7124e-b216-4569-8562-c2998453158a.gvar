@@ -102,7 +102,7 @@
   {
     "name": "Protection from Ballistics",
     "type": "Spell",
-    "desc": "*3rd-level abjuration (Artificer, Sorcerer, Warlock, Wizard)*\n\" -f \"**Meta**|- **Casting Time:** 1 action\n- **Range:** Touch\n- **Components:** V, S, M (a shell casing)\n- **Duration:** Concentration, up to 10 minutes\n\" -f \"**Description**This spell enchants the flesh of the target against the impact of bullets. Until the spell ends, the target has resistance to Bludgeoning, Piercing, and Slashing damage from firearms."
+    "desc": "*3rd-level abjuration (Artificer, Sorcerer, Warlock, Wizard)*\n\" -f \"**Meta**|- **Casting Time:** 1 action\n- **Range:** Touch\n- **Components:** V, S, M (a shell casing)\n- **Duration:** Concentration, up to 10 minutes\n\" -f \"**Description**|This spell enchants the flesh of the target against the impact of bullets. Until the spell ends, the target has resistance to Bludgeoning, Piercing, and Slashing damage from firearms."
   },
   {
     "name": "Psionic Blast",
