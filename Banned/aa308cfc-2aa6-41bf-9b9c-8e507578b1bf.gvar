@@ -1,6 +1,6 @@
 {
 "dh": "Banned Material",
-"df1": "Items:|--- Blackrazor\n--- Gurt's Greataxe\n--- Shatterstick\n--- The Incantations of Iriolarthas\n--- Wave\n--- Blackstaff\n--- Chronolometer\n--- Snicker-Snack\n--- Rakdos Riteknife\n--- Nether Scroll of Azumar\n--- Deck of Wonder",
+"df1": "Items:|--- Belt of Giant Strength\n----- (Any except Hill)\n--- Blackrazor\n--- Dragon's Wrath Weapon\n--- Gurt's Greataxe\n--- Shatterstick\n--- The Incantations of Iriolarthas\n--- Wave\n--- Blackstaff\n--- Chronolometer\n--- Snicker-Snack\n--- Rakdos Riteknife\n--- Nether Scroll of Azumar\n--- Deck of Wonder",
 "df2": "Classes:|--- Twilight Domain Cleric\n--- COSM: Lunar Domain",
 "df3": "Other:|--- Onyx (Monster)\n--- Feats or spell lists obtained from backgrounds\n--- Cartomancer Feat\n--- Silvery Barbs Spell\n--- Tal'Dorei Campaign Setting Reborn\n--- Planeshift\n----- (Except on `!banned other`)",
 "df4": "Source:| General ban list. Use `!banned help` for help on how to use this command",
