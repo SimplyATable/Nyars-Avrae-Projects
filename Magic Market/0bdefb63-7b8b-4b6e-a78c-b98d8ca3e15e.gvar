@@ -1,0 +1,210 @@
+{
+    "index":[
+        "Alcohol and Refreshment",
+        "Books and Maps",
+        "Flowers and Seeds",
+        "Furniture and Interior Decor",
+        "High Fashion",
+        "Jewelry and Gems",
+        "Knick-Knacks",
+        "Leatherworking",
+        "Mechanical Contraptions",
+        "Medium and Heavy Armor",
+        "Potions, Poisons, and Herbs",
+        "Religious Idols and Blessing",
+        "Songs and Instruments",
+        "Spell Scrolls and Tomes",
+        "Tattoos",
+        "Tools",
+        "Weapons",
+        "Witchcraft",
+        "Legendary"
+    ],
+    "Alcohol and Refreshment":[
+        "Alcohol and Refreshment (Medium)",
+        "Alcohol and Refreshment (Medium)",
+        "Alcohol and Refreshment (Good)",
+        "Alcohol and Refreshment (Good)",
+        "Alcohol and Refreshment (Excellent)"
+    ],
+    "Books and Maps":[
+        "Books and Maps (Medium)",
+        "Books and Maps (Medium)",
+        "Books and Maps (Good)",
+        "Books and Maps (Good)",
+        "Books and Maps (Excellent)"
+    ],
+    "Flowers and Seeds":[
+        "Flowers and Seeds (Medium)",
+        "Flowers and Seeds (Medium)",
+        "Flowers and Seeds (Good)",
+        "Flowers and Seeds (Good)",
+        "Flowers and Seeds (Excellent)"
+    ],
+    "Furniture and Interior Decor":[
+        "Furniture and Interior Decor (Medium)",
+        "Furniture and Interior Decor (Medium)",
+        "Furniture and Interior Decor (Good)",
+        "Furniture and Interior Decor (Good)",
+        "Furniture and Interior Decor (Excellent)"
+    ],
+    "High Fashion":[
+        "High Fashion (Medium)",
+        "High Fashion (Medium)",
+        "High Fashion (Good)",
+        "High Fashion (Good)",
+        "High Fashion (Excellent)"
+    ],
+    "Jewelry and Gems":[
+        "Jewelry and Gems (Medium)",   
+        "Jewelry and Gems (Medium)",   
+        "Jewelry and Gems (Good)",     
+        "Jewelry and Gems (Good)",     
+        "Jewelry and Gems (Excellent)"
+    ],
+    "Knick-Knacks":[
+        "Knick-Knacks (Medium)",
+        "Knick-Knacks (Medium)",
+        "Knick-Knacks (Good)",
+        "Knick-Knacks (Good)",
+        "Knick-Knacks (Excellent)"
+    ],
+    "Leatherworking":[
+        "Leatherworking (Medium)",
+        "Leatherworking (Medium)",
+        "Leatherworking (Good)",
+        "Leatherworking (Good)",
+        "Leatherworking (Excellent)"
+    ],
+    "Mechanical Contraptions":[
+        "Mechanical Contraptions (Medium)",
+        "Mechanical Contraptions (Medium)",
+        "Mechanical Contraptions (Good)",
+        "Mechanical Contraptions (Good)",
+        "Mechanical Contraptions (Excellent)"
+    ],
+    "Medium and Heavy Armor":[
+        "Medium and Heavy Armor (Medium)",
+        "Medium and Heavy Armor (Medium)",
+        "Medium and Heavy Armor (Good)",
+        "Medium and Heavy Armor (Good)",
+        "Medium and Heavy Armor (Excellent)"
+    ],
+    "Potions, Poisons, and Herbs":[
+        "Potions, Poisons, and Herbs (Medium)",
+        "Potions, Poisons, and Herbs (Medium)",
+        "Potions, Poisons, and Herbs (Good)",
+        "Potions, Poisons, and Herbs (Good)",
+        "Potions, Poisons, and Herbs (Excellent)"
+    ],
+    "Religious Idols and Blessing":[
+        "Religious Idols and Blessing (Medium)",
+        "Religious Idols and Blessing (Medium)",
+        "Religious Idols and Blessing (Good)",
+        "Religious Idols and Blessing (Good)",
+        "Religious Idols and Blessing (Excellent)"
+    ],
+    "Songs and Instruments":[
+        "Songs and Instruments (Medium)",
+        "Songs and Instruments (Medium)",
+        "Songs and Instruments (Good)",
+        "Songs and Instruments (Good)",
+        "Songs and Instruments (Excellent)"
+    ],
+    "Spell Scrolls and Tomes":[
+        "Spell Scrolls and Tomes (Medium)",
+        "Spell Scrolls and Tomes (Medium)",
+        "Spell Scrolls and Tomes (Good)",
+        "Spell Scrolls and Tomes (Good)",
+        "Spell Scrolls and Tomes (Excellent)"
+    ],
+    "Tattoos":[
+        "Tattoos (Medium)",
+        "Tattoos (Medium)",
+        "Tattoos (Good)",
+        "Tattoos (Good)",
+        "Tattoos (Excellent)"
+    ],
+    "Tools":[
+        "Tools (Medium)",
+        "Tools (Medium)",
+        "Tools (Good)",
+        "Tools (Good)",
+        "Tools (Excellent)"
+    ],
+    "Weapons":[
+        "Weapons (Medium)",
+        "Weapons (Medium)",
+        "Weapons (Good)",
+        "Weapons (Good)",
+        "Weapons (Excellent)"
+    ],
+    "Witchcraft":[
+        "Witchcraft (Medium)",
+        "Witchcraft (Medium)",
+        "Witchcraft (Good)",
+        "Witchcraft (Good)",
+        "Witchcraft (Excellent)"
+    ],
+    "Legendary":[
+        "Astral Traveler (Medium)",   
+        "Astral Traveler (Medium)",   
+        "Astral Traveler (Good)",     
+        "Astral Traveler (Good)",     
+        "Astral Traveler (Excellent)",
+        "Enchantments (Medium)",      
+        "Enchantments (Medium)",      
+        "Enchantments (Good)",        
+        "Enchantments (Good)",        
+        "Enchantments (Excellent)",   
+        "Fey Bargains (Medium)",      
+        "Fey Bargains (Medium)",
+        "Fey Bargains (Good)",
+        "Fey Bargains (Good)",
+        "Fey Bargains (Excellent)",
+        "Magic Items (Medium)",
+        "Magic Items (Medium)",
+        "Magic Items (Good)",
+        "Magic Items (Good)",
+        "Magic Items (Excellent)",
+        "Magical Creatures (Medium)",
+        "Magical Creatures (Medium)",
+        "Magical Creatures (Good)",
+        "Magical Creatures (Good)",
+        "Magical Creatures (Excellent)",
+        "Necromancy (Medium)",
+        "Necromancy (Medium)",
+        "Necromancy (Good)",
+        "Necromancy (Good)",
+        "Necromancy (Excellent)",
+        "Needful Things (Medium)",
+        "Needful Things (Medium)",
+        "Needful Things (Good)",
+        "Needful Things (Good)",
+        "Needful Things (Excellent)",
+        "Time-Lost (Medium)",
+        "Time-Lost (Medium)",
+        "Time-Lost (Good)",
+        "Time-Lost (Good)",
+        "Time-Lost (Excellent)"
+    ],
+    "Alcohol and Refreshment (Medium)":[
+        "Earth Dragon's Eye Tea (HB: Magic Market)",
+        "Jethur Tea (HB: Magic Market)",
+        "Longjing Tea (HB: Magic Market)"
+    ],
+    "Alcohol and Refreshment (Good)":[
+        "Bead of refreshment"
+        "Dwarven Kaeth Tea (HB: Magic Market)"
+        "Elven Wine (HB: Magic Market)"
+        "Tankard of Sobriety"
+        "Thane's Choice Ale (HB: Magic Market)"
+    ],
+    "Alcohol and Refreshment (Good)":[
+        "Decanter of Endless Water"
+        "Green Copper Ewer"
+        "Tankard of Plenty"
+    ]
+
+    
+}
